@@ -1,0 +1,12 @@
+# NAME: Zhihu
+# AUTHOR: blackmatrix7
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2020-12-17 23:22:00
+# HOST: 0
+# HOST-KEYWORD: 1
+# IP-CIDR: 1
+# USER-AGENT: 1
+# TOTAL: 3
+HOST-KEYWORD,118.89.204.198,Zhihu
+USER-AGENT,avos*,Zhihu
+IP-CIDR,118.89.204.198/32,Zhihu
