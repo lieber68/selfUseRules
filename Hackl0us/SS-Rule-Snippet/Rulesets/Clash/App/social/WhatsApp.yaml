@@ -1,6 +1,0 @@
-payload:
-  - DOMAIN-SUFFIX,whatsapp.com
-  - DOMAIN-SUFFIX,whatsapp.net
-  - DOMAIN-SUFFIX,whatsapp.biz
-  - DOMAIN,graph.facebook.com
-  - DOMAIN-SUFFIX,bintray.com
