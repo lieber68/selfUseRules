@@ -1,0 +1,5 @@
+[URL Rewrite]
+^(http|https):\/\/raw\.githubusercontent\.com\/(.+) https://cdn.staticaly.com/gh/$2 302
+
+[MITM]
+hostname = raw.githubusercontent.com

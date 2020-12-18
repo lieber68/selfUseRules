@@ -1,0 +1,9 @@
+#!name= Github
+#!desc=raw.githubusercontent走jsdelivr cdn 
+#!system=ios
+
+[URL Rewrite]
+^(http|https):\/\/raw\.githubusercontent\.com\/(.+?)\/(.+?)\/(.+?)\/(.+) https://cdn.jsdelivr.net/gh/$2/$3@$4/$5 302
+
+[MITM]
+hostname = %APPEND% raw.githubusercontent.com

@@ -1,0 +1,57 @@
+PROCESS-NAME,v2ray
+PROCESS-NAME,ss-local
+PROCESS-NAME,UUBooster
+# > Download
+PROCESS-NAME,aria2c
+PROCESS-NAME,fdm
+PROCESS-NAME,Folx
+PROCESS-NAME,NetTransport
+PROCESS-NAME,Thunder
+PROCESS-NAME,Transmission
+PROCESS-NAME,uTorrent
+PROCESS-NAME,WebTorrent
+PROCESS-NAME,WebTorrent Helper
+DOMAIN-SUFFIX,download.maxmind.com
+DOMAIN-SUFFIX,coding-pages.com
+DOMAIN, cdn.jsdelivr.net
+DOMAIN-SUFFIX, coding-pages.com
+DOMAIN, cdn.staticaly.com
+DOMAIN, cdn.statically.io
+DOMAIN, pv.sohu.com
+DOMAIN-SUFFIX, gitee.io
+DOMAIN-SUFFIX, gitlab.io
+DOMAIN, activation.crossutility.com
+DOMAIN, iqiyia.xyz
+DOMAIN, boxjs.com
+USER-AGENT,WeLink*
+USER-AGENT,WorkPlace*
+USER-AGENT,Sktcam*
+USER-AGENT,曲奇截屏*
+USER-AGENT,RandomNumber*
+USER-AGENT,哔哩哔哩*
+USER-AGENT,*bili*
+USER-AGENT,Aweme*
+USER-AGENT,CoolMarket*
+USER-AGENT,QQ音乐*
+USER-AGENT,Reader*
+USER-AGENT,ICBCiPhoneCSNew*
+USER-AGENT,中国工商银行*
+USER-AGENT,BankABCPro*
+USER-AGENT,易校园*
+USER-AGENT,石头阅读*
+USER-AGENT,12123*
+USER-AGENT,itis*
+USER-AGENT,小天才*
+USER-AGENT,CallWatch*
+USER-AGENT,米家*
+USER-AGENT,Seeyou*
+USER-AGENT,AMapiPhone*
+USER-AGENT,网易云音乐*
+USER-AGENT,NeteaseMusic*
+USER-AGENT,neteasemusic*
+USER-AGENT,qqlive4iphone*
+USER-AGENT,live4iphoneRel*
+USER-AGENT,smoba*
+USER-AGENT,TencentMidasConnect*
+USER-AGENT,discover*
+USER-AGENT,支付宝*
