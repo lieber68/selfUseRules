@@ -20,7 +20,7 @@ jobs:
       with:
         src: github/lieber68
         dst: gitee/lieber68
-        static_list: ${{ secrets.GIT_STATIC_LIST }}
+        static_list: "selfUseRules"
         dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
         dst_token: ${{ secrets.GITEE_TOKEN }}
         force_update: true
