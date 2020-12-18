@@ -24,7 +24,7 @@
 
 * 任何以任何方式查看此项目的人或直接或间接使用该Script项目的任何脚本的使用者都应仔细阅读此声明。lieber68保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关脚本或Script项目的规则，则视为您已接受此免责声明.
 
-### 特别感谢：
+### 特别感谢,排名不分先后：
 * [@Hackl0us](https://github.com/Hackl0us)
 
 * [@NobyDa](https://github.com/NobyDa)
@@ -38,6 +38,16 @@
 * [@Tartarus2014](https://github.com/Tartarus2014)
 
 * [@blackmatrix7](https://github.com/blackmatrix7)
+
+* [@Orz-3](https://github.com/Orz-3?tab=repositories)
+
+* [@Peng-YM](https://github.com/Peng-YM?tab=repositories)
+
+* [@zZPiglet](https://github.com/zZPiglet?tab=repositories)
+
+* [@KOP-XIAO](https://github.com/KOP-XIAO?tab=repositories)
+
+* [@Choler](https://github.com/Choler?tab=repositories)
 
 ## License
 
