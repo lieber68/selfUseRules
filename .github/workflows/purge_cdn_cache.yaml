@@ -18,9 +18,9 @@ jobs:
     - name: Organization mirror
       uses: Yikun/hub-mirror-action@master
       with:
-        src: ${{ secrets.GITHUB_SRC_REPONAME }}
-        dst: ${{ secrets.GITEE_SRC_REPONAME }}
-        static_list: ${{ secrets.GITHUB_STATIC_LIST }}
+        src: github/lieber68
+        dst: gitee/lieber68
+        static_list: ${{ secrets.GIT_STATIC_LIST }}
         dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
         dst_token: ${{ secrets.GITEE_TOKEN }}
         force_update: true
