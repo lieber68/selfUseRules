@@ -1,0 +1,20 @@
+# 抖音 去广告
+# 作者GitHub：https://github.com/NobyDa
+
+[Rule]
+DOMAIN-SUFFIX, amemv.com, DIRECT
+DOMAIN-SUFFIX, byteimg.com, DIRECT
+DOMAIN-SUFFIX, dig.bdurl.net, DIRECT
+DOMAIN-SUFFIX, ibytedtos.com, REJECT
+DOMAIN-SUFFIX, ipstatp.com, REJECT
+
+[URL Rewrite]
+^https?:\/\/(.*)\.amemv\.com\/aweme\/v2\/(follow\/)?feed\/ https://$1.amemv.com/aweme/v1/$2feed/ header
+
+[Script]
+http-request ^https?:\/\/.+?\.amemv\.com\/aweme\/v\d\/(feed|aweme\/post|follow\/feed|nearby\/feed|search\/item|general\/search\/single|hot\/search\/video\/list)\/,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/NobyDa/Script/Surge/JS/Aweme.js, tag=抖音去广告&水印req
+
+http-response ^https?:\/\/.+?\.amemv\.com\/aweme\/v\d\/(feed|aweme\/post|follow\/feed|nearby\/feed|search\/item|general\/search\/single|hot\/search\/video\/list)\/,requires-body=1,max-size=0,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/NobyDa/Script/Surge/JS/Aweme.js, tag=抖音去广告&水印res
+
+[MITM]
+hostname = *.amemv.com
