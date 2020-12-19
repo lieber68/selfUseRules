@@ -49,6 +49,8 @@
 
 * [@Choler](https://github.com/Choler?tab=repositories)
 
+* [@Koolson](https://github.com/Koolson?tab=repositories)
+
 ## License
 
 [GPLv3](LICENSE)
