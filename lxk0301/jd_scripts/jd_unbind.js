@@ -1,16 +1,19 @@
 /*
 注销京东会员卡
-
+是注销京东已开的店铺会员,不是京东plus会员
+查看已开店铺会员入口:我的=>我的钱包=>卡包
 脚本兼容: Quantumult X, Surge, Loon, JSBox, Node.js
-// Quantumult X
+==========Quantumult X==========
 [task_local]
 #注销京东会员卡
 55 23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unbind.js, tag=注销京东会员卡, enabled=true
-// Loon
+=======Loon========
 [Script]
 cron "55 23 * * *" script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unbind.js,tag=注销京东会员卡
-// Surge
-注销京东会员卡 = type=cron,cronexp="55 23 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unbind.js
+========Surge==========
+注销京东会员卡 = type=cron,cronexp="55 23 * * *",wake-system=1,timeout=620,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unbind.js
+=======小火箭=====
+注销京东会员卡 = type=cron,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unbind.js, cronexpr="10 23 * * *", timeout=200, enable=true
  */
 const $ = new Env('注销京东会员卡');
 //Node.js用户请在jdCookie.js处填写京东ck;
@@ -91,8 +94,10 @@ async function unsubscribeCards() {
     console.log(`去注销会员卡【${item.brandName}】`)
     let res = await unsubscribeCard(item.brandId);
     if (res['success']) {
-      count++;
-      $.unsubscribeCount ++
+      if (res['busiCode'] === '200') {
+        count++;
+        $.unsubscribeCount ++
+      }
     }
     await $.wait(1000)
   }
@@ -122,8 +127,8 @@ function getCards() {
     $.post(option, (err, resp, data) => {
       try {
         data = JSON.parse(data);
-        $.cardsTotalNum = data.result.cardList.length;
-        $.cardList = data.result.cardList
+        $.cardsTotalNum = data.result.cardList ? data.result.cardList.length : 0;
+        $.cardList = data.result.cardList || []
       } catch (e) {
         $.logErr(e, resp);
       } finally {
