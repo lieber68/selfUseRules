@@ -10,7 +10,7 @@
 
 
 
-最后检查时间：2020-12-29 23:58:17。
+最后检查时间：2020-12-30 10:04:55。
 
 ## 规则统计
 
@@ -24,13 +24,6 @@
 | HOST-KEYWORD | 1 |
 | IP-CIDR | 1 |
 | USER-AGENT | 1 |
-## 重复统计
-
-
-知乎广告拦截分流规则，与本项目其他分流规则没有重复。
-### 特别说明
-程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
-
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -45,6 +38,13 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 稳定版：
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Zhihu/Zhihu.list
+
+## 重复统计
+
+
+知乎广告拦截分流规则，与本项目其他分流规则没有重复。
+### 特别说明
+程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 
 ## 数据来源
 

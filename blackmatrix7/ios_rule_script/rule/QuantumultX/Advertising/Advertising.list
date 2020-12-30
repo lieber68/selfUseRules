@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-29 23:58:09
-# HOST-SUFFIX: 42261
+# UPDATED: 2020-12-30 10:04:48
+# HOST-SUFFIX: 42260
 # HOST: 2626
 # HOST-KEYWORD: 56
 # IP-CIDR: 237
-# TOTAL: 45180
+# TOTAL: 45179
 HOST,007angels.com,Advertising
 HOST,00webcams.com,Advertising
 HOST,01.imap.nyc2.appnexus.com,Advertising
@@ -16933,7 +16933,6 @@ HOST-SUFFIX,ewseriencern.fun,Advertising
 HOST-SUFFIX,ewvugujfhi.com,Advertising
 HOST-SUFFIX,ex.mobmore.com,Advertising
 HOST-SUFFIX,ex.puata.info,Advertising
-HOST-SUFFIX,ex.qq.com,Advertising
 HOST-SUFFIX,exactag.com,Advertising
 HOST-SUFFIX,exactdrive.com,Advertising
 HOST-SUFFIX,exacttarget.com,Advertising

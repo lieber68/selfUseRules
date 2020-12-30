@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-29 23:58:09
+# UPDATED: 2020-12-30 10:04:48
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 42261
+# DOMAIN-SUFFIX: 42260
 # DOMAIN: 2626
 # DOMAIN-KEYWORD: 56
 # IP-CIDR: 237
 # URL-REGEX: 307
-# TOTAL: 45487
+# TOTAL: 45486
 DOMAIN-KEYWORD,adashx
 DOMAIN-KEYWORD,admarvel
 DOMAIN-KEYWORD,admaster

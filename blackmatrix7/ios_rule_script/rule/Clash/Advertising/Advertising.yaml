@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-29 23:58:10
-# DOMAIN-SUFFIX: 42261
+# UPDATED: 2020-12-30 10:04:49
+# DOMAIN-SUFFIX: 42260
 # DOMAIN: 2626
 # DOMAIN-KEYWORD: 56
 # IP-CIDR: 237
-# TOTAL: 45180
+# TOTAL: 45179
 payload:
   - DOMAIN,007angels.com
   - DOMAIN,00webcams.com
@@ -16934,7 +16934,6 @@ payload:
   - DOMAIN-SUFFIX,ewvugujfhi.com
   - DOMAIN-SUFFIX,ex.mobmore.com
   - DOMAIN-SUFFIX,ex.puata.info
-  - DOMAIN-SUFFIX,ex.qq.com
   - DOMAIN-SUFFIX,exactag.com
   - DOMAIN-SUFFIX,exactdrive.com
   - DOMAIN-SUFFIX,exacttarget.com

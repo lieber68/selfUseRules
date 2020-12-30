@@ -9,7 +9,7 @@
 
 下载分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需要MITM使用才能生效。程序已默认根据正则推导一份MITM的模块/复写/插件在当前分流规则的目录中，便于参考搭配使用。
 
-最后检查时间：2020-12-29 23:58:14。
+最后检查时间：2020-12-30 10:04:53。
 
 ## 规则统计
 
@@ -23,13 +23,6 @@
 | DOMAIN-KEYWORD | 5 |
 | DOMAIN-SUFFIX | 1 |
 | URL-REGEX | 4 |
-## 重复统计
-
-
-下载分流规则，与本项目其他分流规则没有重复。
-### 特别说明
-程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
-
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -44,6 +37,13 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge
 稳定版：
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Download/Download.list
+
+## 重复统计
+
+
+下载分流规则，与本项目其他分流规则没有重复。
+### 特别说明
+程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 
 ## 数据来源
 
