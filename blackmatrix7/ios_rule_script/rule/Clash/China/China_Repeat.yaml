@@ -1,7 +1,7 @@
 # NAME: China 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-30 10:45:02
+# UPDATED: 2020-12-30 20:09:03
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 # China 与 Adobe 共 2 条规则重复
@@ -69,7 +69,8 @@ payload:
   - DOMAIN-SUFFIX,teamviewer.com
   - DOMAIN-SUFFIX,trello.com
   - DOMAIN-SUFFIX,unity3d.com
-# China 与 Blizzard 共 2 条规则重复
+# China 与 Blizzard 共 3 条规则重复
+  - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,blizzard.com
 # China 与 ByteDance 共 6 条规则重复
@@ -79,12 +80,14 @@ payload:
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,toutiao.com
-# China 与 ChinaTest 共 586 条规则重复
+# China 与 ChinaTest 共 592 条规则重复
   - DOMAIN,analytics.strava.com
+  - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN,client.amplifi.com
   - DOMAIN,download.jetbrains.com
   - DOMAIN,file-igamecj.akamaized.net
   - DOMAIN,ip.istatmenus.app
+  - DOMAIN,mtalk.google.com
   - DOMAIN,officecdn-microsoft-com.akamaized.net
   - DOMAIN,sms.imagetasks.com
   - DOMAIN,speedtest.macpaw.com
@@ -666,6 +669,10 @@ payload:
   - IP-CIDR,119.28.28.28/32
   - IP-CIDR,182.254.116.0/24
   - IP-CIDR,185.188.32.0/22
+  - IP-CIDR6,2a0b:b580::/48
+  - IP-CIDR6,2a0b:b581::/48
+  - IP-CIDR6,2a0b:b582::/48
+  - IP-CIDR6,2a0b:b583::/48
 # China 与 ChinaMedia 共 19 条规则重复
   - DOMAIN-SUFFIX,71.am.com
   - DOMAIN-SUFFIX,acgvideo.com
@@ -711,7 +718,8 @@ payload:
   - DOMAIN-SUFFIX,steamstat.us
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamusercontent.com
-# China 与 Game 共 10 条规则重复
+# China 与 Game 共 11 条规则重复
+  - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN,steamcommunity-a.akamaihd.net
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,blizzard.com
@@ -860,6 +868,8 @@ payload:
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-SUFFIX,worldbank.org
   - DOMAIN-SUFFIX,worldscientific.com
+# China 与 Privacy 共 1 条规则重复
+  - DOMAIN,safebrowsing.googleapis.com
 # China 与 Weibo 共 3 条规则重复
   - DOMAIN-SUFFIX,weibo.cn
   - DOMAIN-SUFFIX,weibo.com
@@ -918,8 +928,12 @@ payload:
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,tenpay.com
   - DOMAIN-SUFFIX,wechat.com
-# China 与 TeamViewer 共 1 条规则重复
+# China 与 TeamViewer 共 5 条规则重复
   - DOMAIN-SUFFIX,teamviewer.com
+  - IP-CIDR6,2a0b:b580::/48
+  - IP-CIDR6,2a0b:b581::/48
+  - IP-CIDR6,2a0b:b582::/48
+  - IP-CIDR6,2a0b:b583::/48
 # China 与 XiaoMi 共 7 条规则重复
   - DOMAIN-SUFFIX,duokan.com
   - DOMAIN-SUFFIX,mi-img.com

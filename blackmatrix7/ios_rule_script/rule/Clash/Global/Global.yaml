@@ -1,13 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-30 10:45:00
+# UPDATED: 2020-12-30 20:09:01
 # DOMAIN-SUFFIX: 687
 # DOMAIN-KEYWORD: 19
 # IP-CIDR: 27
-# DOMAIN: 42
+# IP-CIDR6: 3
+# DOMAIN: 45
 # PROCESS-NAME: 1
-# TOTAL: 776
+# TOTAL: 782
 payload:
   - DOMAIN,a248.e.akamai.net
   - DOMAIN,a771.dscq.akamai.net
@@ -26,6 +27,8 @@ payload:
   - DOMAIN,ds-linear-abematv.akamaized.net
   - DOMAIN,ds-vod-abematv.akamaized.net
   - DOMAIN,edge.api.brightcove.com
+  - DOMAIN,gamer-cds.cdn.hinet.net
+  - DOMAIN,gamer2-cds.cdn.hinet.net
   - DOMAIN,hamifans.emome.net
   - DOMAIN,hboasia1-i.akamaihd.net
   - DOMAIN,hboasia2-i.akamaihd.net
@@ -51,6 +54,7 @@ payload:
   - DOMAIN,store.steampowered.com
   - DOMAIN,testflight.apple.com
   - DOMAIN,us.weibo.com
+  - DOMAIN,youtubei.googleapis.com
   - DOMAIN-SUFFIX,0rz.tw
   - DOMAIN-SUFFIX,1drv.com
   - DOMAIN-SUFFIX,1drv.ms
@@ -784,4 +788,7 @@ payload:
   - IP-CIDR,91.108.4.0/22
   - IP-CIDR,91.108.56.0/22
   - IP-CIDR,91.108.8.0/21
+  - IP-CIDR6,2001:67c:4e8::/48
+  - IP-CIDR6,2001:b28:f23d::/48
+  - IP-CIDR6,2001:b28:f23f::/48
   - PROCESS-NAME,lookupviewservice
