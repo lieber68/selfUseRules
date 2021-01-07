@@ -1,25 +1,28 @@
 # NAME: Microsoft 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:59:57
+# UPDATED: 2021-01-07 23:38:05
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 # Microsoft 与 Adobe 共 1 条规则重复
   - DOMAIN-SUFFIX,omniroot.com
-# Microsoft 与 Advertising 共 1 条规则重复
+# Microsoft 与 Advertising 共 2 条规则重复
+  - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,uservoice.com
-# Microsoft 与 AdvertisingTest 共 2 条规则重复
+# Microsoft 与 AdvertisingTest 共 3 条规则重复
+  - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,fabric.io
   - DOMAIN-SUFFIX,uservoice.com
 # Microsoft 与 AdvertisingLite 共 1 条规则重复
   - DOMAIN-SUFFIX,uservoice.com
 # Microsoft 与 Apple 共 1 条规则重复
   - DOMAIN-SUFFIX,akadns.net
-# Microsoft 与 BlackList 共 12 条规则重复
+# Microsoft 与 BlackList 共 13 条规则重复
   - DOMAIN-SUFFIX,aspnetcdn.com
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,edgesuite.net
   - DOMAIN-SUFFIX,fabric.io
   - DOMAIN-SUFFIX,gfx.ms
@@ -28,8 +31,39 @@ payload:
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,onenote.com
   - DOMAIN-SUFFIX,sfx.ms
-# Microsoft 与 China 共 15 条规则重复
+# Microsoft 与 China 共 29 条规则重复
+  - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,akadns.net
+  - DOMAIN-SUFFIX,azure.cn
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,hotmail.com
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,live.net
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,microsoftonline.com
+  - DOMAIN-SUFFIX,msauth.net
+  - DOMAIN-SUFFIX,msecnd.net
+  - DOMAIN-SUFFIX,msedge.net
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,msocdn.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,onenote.net
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,s-microsoft.com
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,xboxlive.com
+# Microsoft 与 ChinaTest 共 16 条规则重复
+  - DOMAIN-SUFFIX,akadns.net
+  - DOMAIN-SUFFIX,azure.cn
   - DOMAIN-SUFFIX,hotmail.com
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoftonline.com
@@ -44,23 +78,7 @@ payload:
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,windowsupdate.com
-# Microsoft 与 ChinaTest 共 15 条规则重复
-  - DOMAIN-SUFFIX,akadns.net
-  - DOMAIN-SUFFIX,hotmail.com
-  - DOMAIN-SUFFIX,microsoft.com
-  - DOMAIN-SUFFIX,microsoftonline.com
-  - DOMAIN-SUFFIX,msecnd.net
-  - DOMAIN-SUFFIX,msn.com
-  - DOMAIN-SUFFIX,office.com
-  - DOMAIN-SUFFIX,office365.com
-  - DOMAIN-SUFFIX,outlook.com
-  - DOMAIN-SUFFIX,s-microsoft.com
-  - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,visualstudio.com
-  - DOMAIN-SUFFIX,windows.com
-  - DOMAIN-SUFFIX,windows.net
-  - DOMAIN-SUFFIX,windowsupdate.com
-# Microsoft 与 OneDriver 共 11 条规则重复
+# Microsoft 与 OneDrive 共 11 条规则重复
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,skydrive
@@ -72,13 +90,29 @@ payload:
   - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
   - PROCESS-NAME,onedrive
   - PROCESS-NAME,onedriveupdater
-# Microsoft 与 Global 共 5 条规则重复
+# Microsoft 与 Global 共 21 条规则重复
   - DOMAIN-SUFFIX,1drv.com
   - DOMAIN-SUFFIX,aka.ms
+  - DOMAIN-SUFFIX,aspnetcdn.com
+  - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,edgesuite.net
+  - DOMAIN-SUFFIX,fabric.io
+  - DOMAIN-SUFFIX,gfx.ms
+  - DOMAIN-SUFFIX,hotmail.com
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,live.net
   - DOMAIN-SUFFIX,livefilestore.com
+  - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,onedrive.com
-# Microsoft 与 Proxy 共 56 条规则重复
+  - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,sfx.ms
+  - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,xboxlive.com
+# Microsoft 与 Proxy 共 60 条规则重复
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,skydrive
@@ -89,8 +123,10 @@ payload:
   - DOMAIN-SUFFIX,azure.net
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,cloudapp.net
   - DOMAIN-SUFFIX,cloudappsecurity.com
+  - DOMAIN-SUFFIX,docs.com
   - DOMAIN-SUFFIX,edgesuite.net
   - DOMAIN-SUFFIX,fabric.io
   - DOMAIN-SUFFIX,gfx.ms
@@ -134,4 +170,6 @@ payload:
   - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,windowsazure.com
   - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,yammer.com

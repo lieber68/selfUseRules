@@ -1,15 +1,14 @@
 # NAME: Privacy 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:59:57
+# UPDATED: 2021-01-07 23:38:05
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
-# Privacy 与 Advertising 共 2629 条规则重复
+# Privacy 与 Advertising 共 2631 条规则重复
   - DOMAIN,log-hl-ipv6.snssdk.com
   - DOMAIN,log-lq.snssdk.com
   - DOMAIN,log-va.tiktokv.com
   - DOMAIN,log.byteoversea.com
-  - DOMAIN,log.tiktokv.com
   - DOMAIN-KEYWORD,log.umeng.com
   - DOMAIN-KEYWORD,logs.umeng.com
   - DOMAIN-KEYWORD,logs.umengcloud.com
@@ -25,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,6pal.consobaby.com
   - DOMAIN-SUFFIX,7lbd4.armandthiery.fr
   - DOMAIN-SUFFIX,7mx.eider.com
+  - DOMAIN-SUFFIX,7q1z79gxsi.global.ssl.fastly.net
   - DOMAIN-SUFFIX,913nd.dieti-natura.es
   - DOMAIN-SUFFIX,a.20minutes.fr
   - DOMAIN-SUFFIX,a.mobify.com
@@ -682,6 +682,7 @@ payload:
   - DOMAIN-SUFFIX,dc.banggood.com
   - DOMAIN-SUFFIX,dc.letv.com
   - DOMAIN-SUFFIX,dccss.banggood.com
+  - DOMAIN-SUFFIX,dcf.espn.com
   - DOMAIN-SUFFIX,dd.nytimes.com
   - DOMAIN-SUFFIX,de-mi-nis-ner.info
   - DOMAIN-SUFFIX,de-mi-nis-ner2.info
@@ -854,6 +855,7 @@ payload:
   - DOMAIN-SUFFIX,event.dkb.de
   - DOMAIN-SUFFIX,event.getblue.io
   - DOMAIN-SUFFIX,event.syndigo.cloud
+  - DOMAIN-SUFFIX,event.webcollage.net
   - DOMAIN-SUFFIX,eventapi.libring.com
   - DOMAIN-SUFFIX,eventgateway.soundcloud.com
   - DOMAIN-SUFFIX,eventlog.inspsearchapi.com
@@ -938,7 +940,6 @@ payload:
   - DOMAIN-SUFFIX,g2575096355.co
   - DOMAIN-SUFFIX,g2773180690.co
   - DOMAIN-SUFFIX,g2971265025.co
-  - DOMAIN-SUFFIX,g2insights-cdn.azureedge.net
   - DOMAIN-SUFFIX,g3169349360.co
   - DOMAIN-SUFFIX,g3367433695.co
   - DOMAIN-SUFFIX,g3565518030.co
@@ -1093,6 +1094,7 @@ payload:
   - DOMAIN-SUFFIX,ingest.sentry.io
   - DOMAIN-SUFFIX,inquiries.redhat.com
   - DOMAIN-SUFFIX,insight.fonecta.fi
+  - DOMAIN-SUFFIX,insights.algolia.io
   - DOMAIN-SUFFIX,insights.cdt.ch
   - DOMAIN-SUFFIX,insights.sitesearch360.com
   - DOMAIN-SUFFIX,insitez.blob.core.windows.net
@@ -1624,7 +1626,6 @@ payload:
   - DOMAIN-SUFFIX,rta2.metro.co.uk
   - DOMAIN-SUFFIX,rtn.thestar.com
   - DOMAIN-SUFFIX,rum.azion.com
-  - DOMAIN-SUFFIX,rum.azioncdn.net
   - DOMAIN-SUFFIX,rum.conde.io
   - DOMAIN-SUFFIX,rum.kobo.com
   - DOMAIN-SUFFIX,rum.marquardmedia.hu
@@ -2147,6 +2148,7 @@ payload:
   - DOMAIN-SUFFIX,te.mytoys.de
   - DOMAIN-SUFFIX,te.supportfreecontent.com
   - DOMAIN-SUFFIX,ted.metro.co.uk
+  - DOMAIN-SUFFIX,telemetrics.klaviyo.com
   - DOMAIN-SUFFIX,telemetry.api.wmcdp.io
   - DOMAIN-SUFFIX,telemetry.art19.com
   - DOMAIN-SUFFIX,telemetry.jivosite.com
@@ -2634,12 +2636,11 @@ payload:
   - DOMAIN-SUFFIX,zsi7.destinia.do
   - DOMAIN-SUFFIX,zyq2.destinia.sk
   - DOMAIN-SUFFIX,zz.bdstatic.com
-# Privacy 与 AdvertisingTest 共 2570 条规则重复
+# Privacy 与 AdvertisingTest 共 2567 条规则重复
   - DOMAIN,log-hl-ipv6.snssdk.com
   - DOMAIN,log-lq.snssdk.com
   - DOMAIN,log-va.tiktokv.com
   - DOMAIN,log.byteoversea.com
-  - DOMAIN,log.tiktokv.com
   - DOMAIN-KEYWORD,log.umeng.com
   - DOMAIN-KEYWORD,logs.umeng.com
   - DOMAIN-KEYWORD,logs.umengcloud.com
@@ -3290,6 +3291,7 @@ payload:
   - DOMAIN-SUFFIX,dc.banggood.com
   - DOMAIN-SUFFIX,dc.letv.com
   - DOMAIN-SUFFIX,dccss.banggood.com
+  - DOMAIN-SUFFIX,dcf.espn.com
   - DOMAIN-SUFFIX,dd.nytimes.com
   - DOMAIN-SUFFIX,de-mi-nis-ner.info
   - DOMAIN-SUFFIX,de-mi-nis-ner2.info
@@ -3544,7 +3546,6 @@ payload:
   - DOMAIN-SUFFIX,g2575096355.co
   - DOMAIN-SUFFIX,g2773180690.co
   - DOMAIN-SUFFIX,g2971265025.co
-  - DOMAIN-SUFFIX,g2insights-cdn.azureedge.net
   - DOMAIN-SUFFIX,g3169349360.co
   - DOMAIN-SUFFIX,g3367433695.co
   - DOMAIN-SUFFIX,g3565518030.co
@@ -4220,7 +4221,6 @@ payload:
   - DOMAIN-SUFFIX,rta2.metro.co.uk
   - DOMAIN-SUFFIX,rtn.thestar.com
   - DOMAIN-SUFFIX,rum.azion.com
-  - DOMAIN-SUFFIX,rum.azioncdn.net
   - DOMAIN-SUFFIX,rum.conde.io
   - DOMAIN-SUFFIX,rum.kobo.com
   - DOMAIN-SUFFIX,rum.marquardmedia.hu
@@ -4732,7 +4732,6 @@ payload:
   - DOMAIN-SUFFIX,te.mytoys.de
   - DOMAIN-SUFFIX,te.supportfreecontent.com
   - DOMAIN-SUFFIX,ted.metro.co.uk
-  - DOMAIN-SUFFIX,telemetrics.klaviyo.com
   - DOMAIN-SUFFIX,telemetry.api.wmcdp.io
   - DOMAIN-SUFFIX,telemetry.art19.com
   - DOMAIN-SUFFIX,telemetry.jivosite.com
@@ -7559,12 +7558,9 @@ payload:
 # Privacy 与 ChinaTest 共 2 条规则重复
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,googletagmanager.com
-# Privacy 与 Google 共 3 条规则重复
-  - DOMAIN-SUFFIX,csi.gstatic.com
+# Privacy 与 Google 共 2 条规则重复
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,googletagmanager.com
-# Privacy 与 GlobalMedia 共 1 条规则重复
-  - DOMAIN-SUFFIX,cws.conviva.com
 # Privacy 与 Proxy 共 2 条规则重复
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,googletagmanager.com

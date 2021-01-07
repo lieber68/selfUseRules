@@ -1,10 +1,10 @@
 # NAME: Bilibili
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:59:53
+# UPDATED: 2021-01-07 23:38:00
 # USER-AGENT: 1
-# HOST-SUFFIX: 12
-# TOTAL: 13
+# HOST-SUFFIX: 13
+# TOTAL: 14
 HOST-SUFFIX,acg.tv,Bilibili
 HOST-SUFFIX,acgvideo.com,Bilibili
 HOST-SUFFIX,b23.tv,Bilibili
@@ -17,4 +17,5 @@ HOST-SUFFIX,biligame.net,Bilibili
 HOST-SUFFIX,bilivideo.com,Bilibili
 HOST-SUFFIX,hdslb.com,Bilibili
 HOST-SUFFIX,im9.com,Bilibili
+HOST-SUFFIX,smtcdns.net,Bilibili
 USER-AGENT,*bili*,Bilibili

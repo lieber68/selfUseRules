@@ -1,22 +1,24 @@
 # NAME: Game
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:59:53
-# HOST-SUFFIX: 24
+# UPDATED: 2021-01-07 23:38:01
+# HOST-SUFFIX: 31
 # HOST: 10
 # IP-CIDR: 22
-# TOTAL: 56
+# HOST-KEYWORD: 1
+# TOTAL: 64
 HOST,blizzard.nefficient.co.kr,Game
 HOST,blzddist1-a.akamaihd.net,Game
 HOST,blzddistkr1-a.akamaihd.net,Game
 HOST,bnetproduct-a.akamaihd.net,Game
+HOST,cdp.cloud.unity3d.com,Game
 HOST,steambroadcast.akamaized.net,Game
-HOST,steamcdn-a.akamaihd.net,Game
 HOST,steamcommunity-a.akamaihd.net,Game
 HOST,steamstore-a.akamaihd.net,Game
 HOST,steamusercontent-a.akamaihd.net,Game
 HOST,steamuserimages-a.akamaihd.net,Game
 HOST-SUFFIX,battle.net,Game
+HOST-SUFFIX,battlenet.com,Game
 HOST-SUFFIX,blizzard.com,Game
 HOST-SUFFIX,brawlstars.com,Game
 HOST-SUFFIX,brawlstarsgame.com,Game
@@ -27,12 +29,18 @@ HOST-SUFFIX,discord.media,Game
 HOST-SUFFIX,discordapp.com,Game
 HOST-SUFFIX,discordapp.net,Game
 HOST-SUFFIX,fanatical.com,Game
+HOST-SUFFIX,helpshift.com,Game
 HOST-SUFFIX,humblebundle.com,Game
+HOST-SUFFIX,playstation.com,Game
+HOST-SUFFIX,playstation.net,Game
+HOST-SUFFIX,playstationnetwork.com,Game
 HOST-SUFFIX,pvp.net,Game
 HOST-SUFFIX,riotcdn.net,Game
 HOST-SUFFIX,riotgames.com,Game
 HOST-SUFFIX,rockstargames.com,Game
+HOST-SUFFIX,sonyentertainmentnetwork.com,Game
 HOST-SUFFIX,steam-chat.com,Game
+HOST-SUFFIX,steamcdn-a.akamaihd.net,Game
 HOST-SUFFIX,steamcommunity.com,Game
 HOST-SUFFIX,steamcontent.com,Game
 HOST-SUFFIX,steamgames.com,Game
@@ -40,6 +48,7 @@ HOST-SUFFIX,steampowered.com,Game
 HOST-SUFFIX,steamstat.us,Game
 HOST-SUFFIX,steamstatic.com,Game
 HOST-SUFFIX,steamusercontent.com,Game
+HOST-KEYWORD,epicgames,Game
 IP-CIDR,13.210.25.233/32,Game
 IP-CIDR,13.212.170.102/32,Game
 IP-CIDR,13.212.171.212/32,Game

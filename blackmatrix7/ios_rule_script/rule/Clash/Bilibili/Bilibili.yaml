@@ -1,9 +1,9 @@
 # NAME: Bilibili
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:59:54
-# DOMAIN-SUFFIX: 12
-# TOTAL: 12
+# UPDATED: 2021-01-07 23:38:02
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
 payload:
   - DOMAIN-SUFFIX,acg.tv
   - DOMAIN-SUFFIX,acgvideo.com
@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,bilivideo.com
   - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,im9.com
+  - DOMAIN-SUFFIX,smtcdns.net

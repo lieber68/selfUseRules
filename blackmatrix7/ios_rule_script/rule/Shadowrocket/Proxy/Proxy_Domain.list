@@ -1,15 +1,21 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:59:55
-# DOMAIN-SUFFIX: 27894
-# USER-AGENT: 4
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 30
-# IP-CIDR: 94
+# UPDATED: 2021-01-07 23:38:03
+# DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
+# DOMAIN-SUFFIX: 27951
+# USER-AGENT: 49
+# DOMAIN: 4
+# DOMAIN-KEYWORD: 42
+# IP-CIDR: 110
 # IP-CIDR6: 3
-# TOTAL: 28026
+# PROCESS-NAME: 1
+# URL-REGEX: 1
+# TOTAL: 28161
 assets-priconne-redive-us.akamaized.net
+ds-linear-abematv.akamaized.net
+ds-vod-abematv.akamaized.net
+hamifans.emome.net
 .000234.com
 .0006999.com
 .000aa.com
@@ -911,6 +917,7 @@ assets-priconne-redive-us.akamaized.net
 .52040h.com
 .5208bb.com
 .520aa.tv
+.520cc.cc
 .520ccc.cc
 .523.ddnsking.com
 .523838.com
@@ -1005,6 +1012,7 @@ assets-priconne-redive-us.akamaized.net
 .5i01.com
 .5idd.us
 .5isotoi5.org
+.5itv.tv
 .5kk.am
 .5kli.r5.cr.rs
 .5lml.com
@@ -1885,6 +1893,7 @@ assets-priconne-redive-us.akamaized.net
 .advanscene.com
 .adventuresbydisney.com
 .advertfan.com
+.advertisercommunity.com
 .advertserve.com
 .adx.promo
 .adxpansion.com
@@ -2033,6 +2042,7 @@ assets-priconne-redive-us.akamaized.net
 .aituzi.com
 .aiuuo.com
 .aiv-cdn.net
+.aiv-delivery.net
 .aiweiwei.com
 .aiweiweiblog.com
 .aizhaofuli.com
@@ -2545,7 +2555,6 @@ assets-priconne-redive-us.akamaized.net
 .api.api861861.com
 .api.arcadia.pncle8.com
 .api.citizenvpn.com
-.api.dmc.nico
 .api.feedbin.com
 .api.finchvpn.org
 .api.identitynow.com
@@ -3997,6 +4006,7 @@ assets-priconne-redive-us.akamaized.net
 .big.one
 .big2wt.com
 .big5sex.com
+.bigbigshop.com
 .bigbird18.com
 .bigbozz.org
 .bigbreastarchive.com
@@ -4802,6 +4812,7 @@ assets-priconne-redive-us.akamaized.net
 .brizzly.com
 .brkmd.com
 .broadbook.com
+.broadcast.co.nz
 .broadpressinc.com
 .brocaproject.com
 .brockbbs.com
@@ -5085,6 +5096,7 @@ assets-priconne-redive-us.akamaized.net
 .c3344.com
 .c3j.fun
 .c4288.com
+.c4assets.com
 .c4story.com
 .c4v6d7v3.stackpathcdn.com
 .c5007.com
@@ -5334,6 +5346,7 @@ assets-priconne-redive-us.akamaized.net
 .cap.org.hk
 .capacitaciones.cl
 .capezio.com
+.capitalg.com
 .capitalgames.com
 .capitalone
 .capsule.cl
@@ -5616,6 +5629,8 @@ assets-priconne-redive-us.akamaized.net
 .changken.idv.tw
 .changp.com
 .changsa.net
+.channel4.com
+.channel5.com
 .channel8news.sg
 .channelfourteen.com
 .channelnewsasia.com
@@ -5863,6 +5878,7 @@ assets-priconne-redive-us.akamaized.net
 .chocalanwines.com
 .chocolatey.org
 .chocolatkey.com
+.chocotv.com.tw
 .choicehotels.com
 .chomp.com
 .chordboard.com
@@ -7231,6 +7247,7 @@ assets-priconne-redive-us.akamaized.net
 .dlsite.jp
 .dlyoutube.com
 .dm530.net
+.dmc.nico
 .dmcdn.net
 .dmhy.org
 .dmm-extension.com
@@ -7578,6 +7595,7 @@ assets-priconne-redive-us.akamaized.net
 .dunlop
 .duns
 .dunyabulteni.net
+.duolingo.cn
 .duosuccess.com
 .duoweitimes.com
 .duping.net
@@ -7683,6 +7701,7 @@ assets-priconne-redive-us.akamaized.net
 .dzb086.com
 .dzb234.com
 .dzbapp.cc
+.dzcdn.net
 .dzze.com
 .e-bay.com
 .e-bay.it
@@ -7927,12 +7946,15 @@ assets-priconne-redive-us.akamaized.net
 .econ.st
 .economicsandpeace.org
 .economist.com
+.economistgroup.com
+.economistgroupcareers.com
 .ecosys.eu
 .ecped.tk
 .ecrans.fr
 .ecstart.com
 .ecv.ebacc777.com
 .edah.us
+.edditstatic.com
 .edeka
 .edenrules.com
 .edgecastcdn.net
@@ -7943,6 +7965,7 @@ assets-priconne-redive-us.akamaized.net
 .edicypages.com
 .edilly.com
 .edisebay.com
+.editorx.com
 .edmontonchina.cn
 .edmontonservice.com
 .edninfo.com
@@ -8014,6 +8037,7 @@ assets-priconne-redive-us.akamaized.net
 .eireinikotaerukai.com
 .eiresol.com
 .eisbb.com
+.eiu.com
 .ekh3.way-to-win.com
 .ekhindi.com
 .ekiry.com
@@ -11011,6 +11035,7 @@ assets-priconne-redive-us.akamaized.net
 .happy-vpn.com
 .happy131.com
 .happy6666.com
+.happyon.jp
 .happysocks.com
 .haproxy.org
 .haptic.al
@@ -11049,6 +11074,7 @@ assets-priconne-redive-us.akamaized.net
 .hboasia.com
 .hbogo.com
 .hbogoasia.com
+.hbogoasia.hk
 .hbomax.com
 .hbonow.com
 .hbxnets.com
@@ -11479,6 +11505,7 @@ assets-priconne-redive-us.akamaized.net
 .hornytrip.com
 .hostcgsky.com
 .hostessbrands.com
+.hosting.co.uk
 .hostingbulk.com
 .hostloc.com
 .hosyusokuhou.jp
@@ -11738,6 +11765,7 @@ assets-priconne-redive-us.akamaized.net
 .huloo.cc
 .huloo.tv
 .hulu.com
+.hulu.jp
 .hulu.tv
 .huluaction.com
 .huluad.com
@@ -11796,6 +11824,7 @@ assets-priconne-redive-us.akamaized.net
 .huyandex.com
 .hwadzan.tw
 .hwayue.org.tw
+.hwcdn.net
 .hwcp33.com
 .hwgo.com
 .hwinfo.com
@@ -12651,6 +12680,8 @@ assets-priconne-redive-us.akamaized.net
 .itunesu.com
 .itunesu.net
 .itv
+.itv.com
+.itvstatic.com
 .itweet.net
 .itxtech.org
 .iu45.com
@@ -13328,6 +13359,7 @@ assets-priconne-redive-us.akamaized.net
 .kk2267.com
 .kk711.net
 .kkbox.com
+.kkbox.com.tw
 .kkkcp3.com
 .kkkcp5.com
 .kkkcp8.com
@@ -13338,6 +13370,7 @@ assets-priconne-redive-us.akamaized.net
 .kkswami.com
 .kktix.com
 .kktv-theater.kk.stream
+.kktv.com.tw
 .kktv.me
 .kl8888.com
 .klienux.org
@@ -13823,6 +13856,7 @@ assets-priconne-redive-us.akamaized.net
 .linear-abematv.akamaized.net
 .linearcollider.org
 .linepost.hk
+.linetv.tw
 .linglingfa.com
 .lingq.com
 .linguee.com
@@ -15463,6 +15497,7 @@ assets-priconne-redive-us.akamaized.net
 .my29tv.com
 .my3xxx.com
 .my45.com
+.my5.tv
 .my63305.com
 .my7878.com
 .my888.app
@@ -15836,6 +15871,16 @@ assets-priconne-redive-us.akamaized.net
 .netflix
 .netflix.com
 .netflix.net
+.netflixdnstest0.com
+.netflixdnstest1.com
+.netflixdnstest2.com
+.netflixdnstest3.com
+.netflixdnstest4.com
+.netflixdnstest5.com
+.netflixdnstest6.com
+.netflixdnstest7.com
+.netflixdnstest8.com
+.netflixdnstest9.com
 .netflixinvestor.com
 .netflixtechblog.com
 .netlify.com
@@ -16876,6 +16921,7 @@ assets-priconne-redive-us.akamaized.net
 .ozxw.com
 .ozyoyo.com
 .ozzu.com
+.p-cdn.us
 .p.inkcat.net
 .p.w3cx.us
 .p0084.com
@@ -17013,6 +17059,7 @@ assets-priconne-redive-us.akamaized.net
 .paramitadirect.com
 .paramount.com
 .parapentemanquehue.cl
+.parastorage.com
 .pardot.com
 .park-now.com
 .parkansky.com
@@ -19328,6 +19375,7 @@ assets-priconne-redive-us.akamaized.net
 .shoestop2.com
 .shooshtime.com
 .shop-headphones.net
+.shop.app
 .shop.tm
 .shop2000.com.tw
 .shopbeatsdre.com
@@ -19348,6 +19396,7 @@ assets-priconne-redive-us.akamaized.net
 .shopify.com
 .shopify.dev
 .shopifycdn.com
+.shopifycloud.com
 .shopifystatus.com
 .shopifysvc.com
 .shoping.com
@@ -19634,6 +19683,7 @@ assets-priconne-redive-us.akamaized.net
 .socaltibet.org
 .soccer18.com
 .soccermatchpass.com
+.socdm.com
 .social.com
 .socialblade.com
 .socialeel.com
@@ -19720,6 +19770,7 @@ assets-priconne-redive-us.akamaized.net
 .sony.com
 .sony.com.co
 .sony.com.do
+.sony.com.hk
 .sony.ee
 .sony.hr
 .sony.it
@@ -19801,6 +19852,7 @@ assets-priconne-redive-us.akamaized.net
 .spankingtube.com
 .spankwire.com
 .sparham.org.uk
+.sparknotes.com
 .spb.com
 .spccaa-bc.org
 .speakerdeck.com
@@ -19860,6 +19912,7 @@ assets-priconne-redive-us.akamaized.net
 .sportsfacebook.com
 .sportstream.com
 .spotflux.com
+.spoti.fi
 .spotify-everywhere.com
 .spotify.com
 .spotify.design
@@ -20598,6 +20651,7 @@ assets-priconne-redive-us.akamaized.net
 .telegramdownload.com
 .telegraph.co.uk
 .telekom.com
+.telephony.goog
 .teleplus.in
 .telesco.pe
 .telesell.com
@@ -20991,6 +21045,7 @@ assets-priconne-redive-us.akamaized.net
 .ticketmonster.co.kr
 .tickling-videos.com
 .tictoc.video
+.tidal.com
 .tidebit.com
 .tidelift.com
 .tidex.com
@@ -21474,11 +21529,14 @@ assets-priconne-redive-us.akamaized.net
 .tvants.com
 .tvappstore.net
 .tvb.com
+.tvbanywhere.com
 .tvbccc.com
 .tvbddd.com
 .tvboxnow.com
 .tvbppp.com
 .tvbs.com.tw
+.tvbusa.com
+.tvbweekly.com
 .tvider.com
 .tvmost.com.hk
 .tvplayvideos.com
@@ -21894,6 +21952,7 @@ assets-priconne-redive-us.akamaized.net
 .upxtv.com
 .ur7s.com
 .uraban.me
+.urbanairship.com
 .urbandictionary.com
 .urbandove.org
 .urbansurvival.com
@@ -23093,6 +23152,7 @@ assets-priconne-redive-us.akamaized.net
 .wheretowatch.com
 .whippedass.com
 .whisolutions.com
+.whispersystems.org
 .whispertalks.com
 .white-plus.net
 .whitepages.com.au
@@ -23257,7 +23317,10 @@ assets-priconne-redive-us.akamaized.net
 .witopia.com
 .witopia.net
 .wiwiwiki.kfd.me
+.wix-code.com
 .wix.com
+.wixanswers.com
+.wixapps.net
 .wixmp.com
 .wixsite.com
 .wixstatic.com
@@ -23312,6 +23375,7 @@ assets-priconne-redive-us.akamaized.net
 .wolfatbestbuy.net
 .wolfax.com
 .wolfgang.site40.net
+.wolframalpha.com
 .wolterskluwer
 .womensnikeshox.com
 .womenwill.com
@@ -25276,7 +25340,6 @@ assets-priconne-redive-us.akamaized.net
 .www.kinokuniya.co.jp
 .www.kissanime.com
 .www.kiwisouvenirs.com
-.www.kkbox.com.tw
 .www.kkkapk.com
 .www.kkkcp1.com
 .www.kkkcp2.com

@@ -1,14 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:59:52
-# DOMAIN-SUFFIX: 72457
-# USER-AGENT: 11
+# UPDATED: 2021-01-07 23:38:00
+# DOMAIN-SUFFIX: 72467
+# USER-AGENT: 30
 # DOMAIN: 11
 # IP-CIDR: 4
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 72497
+# GEOIP: 1
+# TOTAL: 72527
 analytics.strava.com
 blzddist1-a.akamaihd.net
 client.amplifi.com
@@ -1329,7 +1330,6 @@ steamcommunity-a.akamaihd.net
 .12225.com
 .12226.com
 .12227.com
-.12248.net
 .122park.com
 .122wz.com
 .123-789.com
@@ -3329,6 +3329,7 @@ steamcommunity-a.akamaihd.net
 .35667.com
 .356688.com
 .3566t.com
+.356884.com
 .357.com
 .357global.com
 .357my.com
@@ -7330,7 +7331,6 @@ steamcommunity-a.akamaihd.net
 .8825.com
 .8828dl.com
 .8828xljcw.com
-.882yishenghuo.com
 .88303887.com
 .88360.com
 .884109.com
@@ -10330,6 +10330,7 @@ steamcommunity-a.akamaihd.net
 .ap88.com
 .apa.me
 .apabi.com
+.apache.org
 .apachecn.org
 .apad.pro
 .apcdianyuan.com
@@ -10356,6 +10357,7 @@ steamcommunity-a.akamaihd.net
 .api-zdj.com
 .api.bz
 .api.crisp.chat
+.api.termius.com
 .apiadmin.org
 .apiairasia.com
 .apicase.io
@@ -12871,6 +12873,7 @@ steamcommunity-a.akamaihd.net
 .bjepn.com
 .bjewaytek.com
 .bjexmail.com
+.bjexx.com
 .bjfengguang.com
 .bjffdz.com
 .bjffkj.com
@@ -15295,7 +15298,6 @@ steamcommunity-a.akamaihd.net
 .cfxydefsyy.com
 .cfxyfsyy.com
 .cfxyjy.com
-.cfycf.com
 .cfyjzb.com
 .cfzb.org
 .cfzjxxw.com
@@ -18440,7 +18442,6 @@ steamcommunity-a.akamaihd.net
 .com-youku.net
 .com.fi
 .com.tv
-.com01.org
 .com126.com
 .com21.com
 .com4loves.com
@@ -18503,6 +18504,7 @@ steamcommunity-a.akamaihd.net
 .congzao.com
 .congzhi.com
 .connector-systems.com
+.conoha.jp
 .conoha.vip
 .conohavps.com
 .conpak.com.hk
@@ -19308,6 +19310,7 @@ steamcommunity-a.akamaihd.net
 .cul-studies.com
 .culaiwan.com
 .cultofslavery.com
+.culturedcode.com
 .cumtenn.com
 .cumulon.com
 .cun58.com
@@ -20643,7 +20646,6 @@ steamcommunity-a.akamaihd.net
 .dfbgv.com
 .dfcfw.com
 .dfcx-bj.com
-.dfd88.com
 .dfdaily.com
 .dfdjy.net
 .dfedu.com
@@ -27295,6 +27297,7 @@ steamcommunity-a.akamaihd.net
 .goodtp.com
 .goofish.com
 .google-analytics.com
+.google.cn
 .googleadservices.com
 .googleadsl.com
 .googleanalytics.com
@@ -46053,7 +46056,6 @@ steamcommunity-a.akamaihd.net
 .objcer.com
 .objcoding.com
 .objectyan.me
-.objweb.com
 .obkoro1.com
 .obkprint.com
 .obolee.com
@@ -46767,6 +46769,7 @@ steamcommunity-a.akamaihd.net
 .ovcstf.com
 .ovdream.com
 .ovear.info
+.overcast.fm
 .overtrue.me
 .overturechina.com
 .ovid.com
@@ -47634,6 +47637,7 @@ steamcommunity-a.akamaihd.net
 .pilifx.com
 .pillow2.com
 .pimei.com
+.pimg.tw
 .pin-ad.com
 .pin-color.net
 .pin-guan.com
@@ -47768,11 +47772,16 @@ steamcommunity-a.akamaihd.net
 .pisx.com
 .piworker.com
 .pix2code.net
+.pixanalytics.com
 .pixelauth.com
+.pixfs.net
 .pixhey.com
 .pixivacg.com
 .pixivic.com
 .pixivic.net
+.pixnet.cc
+.pixnet.in
+.pixplug.in
 .piyingke.com
 .piyipiba.com
 .pj.com
@@ -54000,7 +54009,6 @@ steamcommunity-a.akamaihd.net
 .sketchchina.net
 .sketchcn.com
 .sketchui.net
-.sketchup10.com
 .sketchupbar.com
 .sketchupbbs.com
 .skg.com
@@ -56512,6 +56520,7 @@ steamcommunity-a.akamaihd.net
 .taotieren.com
 .taotiwang.com
 .taotu8.net
+.taotumowang.com
 .taotuwu.com
 .taou.com
 .taowenxue.com
@@ -56906,6 +56915,7 @@ steamcommunity-a.akamaihd.net
 .tesolsh.com
 .tesoon.com
 .test-edu.net
+.test-ipv4.com
 .test-ipv6.com
 .test404.com
 .testbird.com
@@ -62733,6 +62743,7 @@ steamcommunity-a.akamaihd.net
 .workec.com
 .workehr.com
 .workerman.net
+.workflowy.com
 .workpcb.com
 .worksgz.com
 .worktile.com

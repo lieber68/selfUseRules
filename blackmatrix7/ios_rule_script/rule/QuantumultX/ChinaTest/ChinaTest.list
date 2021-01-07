@@ -1,14 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:59:53
-# HOST-SUFFIX: 72457
-# USER-AGENT: 11
+# UPDATED: 2021-01-07 23:38:00
+# HOST-SUFFIX: 72467
+# USER-AGENT: 30
 # HOST: 11
 # IP-CIDR: 4
 # HOST-KEYWORD: 10
 # IP6-CIDR: 4
-# TOTAL: 72497
+# GEOIP: 1
+# TOTAL: 72527
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,client.amplifi.com,ChinaTest
@@ -1329,7 +1330,6 @@ HOST-SUFFIX,122119.com,ChinaTest
 HOST-SUFFIX,12225.com,ChinaTest
 HOST-SUFFIX,12226.com,ChinaTest
 HOST-SUFFIX,12227.com,ChinaTest
-HOST-SUFFIX,12248.net,ChinaTest
 HOST-SUFFIX,122park.com,ChinaTest
 HOST-SUFFIX,122wz.com,ChinaTest
 HOST-SUFFIX,123-789.com,ChinaTest
@@ -3329,6 +3329,7 @@ HOST-SUFFIX,35666c.com,ChinaTest
 HOST-SUFFIX,35667.com,ChinaTest
 HOST-SUFFIX,356688.com,ChinaTest
 HOST-SUFFIX,3566t.com,ChinaTest
+HOST-SUFFIX,356884.com,ChinaTest
 HOST-SUFFIX,357.com,ChinaTest
 HOST-SUFFIX,357global.com,ChinaTest
 HOST-SUFFIX,357my.com,ChinaTest
@@ -7330,7 +7331,6 @@ HOST-SUFFIX,88175.com,ChinaTest
 HOST-SUFFIX,8825.com,ChinaTest
 HOST-SUFFIX,8828dl.com,ChinaTest
 HOST-SUFFIX,8828xljcw.com,ChinaTest
-HOST-SUFFIX,882yishenghuo.com,ChinaTest
 HOST-SUFFIX,88303887.com,ChinaTest
 HOST-SUFFIX,88360.com,ChinaTest
 HOST-SUFFIX,884109.com,ChinaTest
@@ -10330,6 +10330,7 @@ HOST-SUFFIX,aozsw.com,ChinaTest
 HOST-SUFFIX,ap88.com,ChinaTest
 HOST-SUFFIX,apa.me,ChinaTest
 HOST-SUFFIX,apabi.com,ChinaTest
+HOST-SUFFIX,apache.org,ChinaTest
 HOST-SUFFIX,apachecn.org,ChinaTest
 HOST-SUFFIX,apad.pro,ChinaTest
 HOST-SUFFIX,apcdianyuan.com,ChinaTest
@@ -10356,6 +10357,7 @@ HOST-SUFFIX,aphidic.com,ChinaTest
 HOST-SUFFIX,api-zdj.com,ChinaTest
 HOST-SUFFIX,api.bz,ChinaTest
 HOST-SUFFIX,api.crisp.chat,ChinaTest
+HOST-SUFFIX,api.termius.com,ChinaTest
 HOST-SUFFIX,apiadmin.org,ChinaTest
 HOST-SUFFIX,apiairasia.com,ChinaTest
 HOST-SUFFIX,apicase.io,ChinaTest
@@ -12871,6 +12873,7 @@ HOST-SUFFIX,bjeasycom.com,ChinaTest
 HOST-SUFFIX,bjepn.com,ChinaTest
 HOST-SUFFIX,bjewaytek.com,ChinaTest
 HOST-SUFFIX,bjexmail.com,ChinaTest
+HOST-SUFFIX,bjexx.com,ChinaTest
 HOST-SUFFIX,bjfengguang.com,ChinaTest
 HOST-SUFFIX,bjffdz.com,ChinaTest
 HOST-SUFFIX,bjffkj.com,ChinaTest
@@ -15295,7 +15298,6 @@ HOST-SUFFIX,cfwaf.com,ChinaTest
 HOST-SUFFIX,cfxydefsyy.com,ChinaTest
 HOST-SUFFIX,cfxyfsyy.com,ChinaTest
 HOST-SUFFIX,cfxyjy.com,ChinaTest
-HOST-SUFFIX,cfycf.com,ChinaTest
 HOST-SUFFIX,cfyjzb.com,ChinaTest
 HOST-SUFFIX,cfzb.org,ChinaTest
 HOST-SUFFIX,cfzjxxw.com,ChinaTest
@@ -18440,7 +18442,6 @@ HOST-SUFFIX,com-youku.com,ChinaTest
 HOST-SUFFIX,com-youku.net,ChinaTest
 HOST-SUFFIX,com.fi,ChinaTest
 HOST-SUFFIX,com.tv,ChinaTest
-HOST-SUFFIX,com01.org,ChinaTest
 HOST-SUFFIX,com126.com,ChinaTest
 HOST-SUFFIX,com21.com,ChinaTest
 HOST-SUFFIX,com4loves.com,ChinaTest
@@ -18503,6 +18504,7 @@ HOST-SUFFIX,congyicn.com,ChinaTest
 HOST-SUFFIX,congzao.com,ChinaTest
 HOST-SUFFIX,congzhi.com,ChinaTest
 HOST-SUFFIX,connector-systems.com,ChinaTest
+HOST-SUFFIX,conoha.jp,ChinaTest
 HOST-SUFFIX,conoha.vip,ChinaTest
 HOST-SUFFIX,conohavps.com,ChinaTest
 HOST-SUFFIX,conpak.com.hk,ChinaTest
@@ -19308,6 +19310,7 @@ HOST-SUFFIX,cuketest.com,ChinaTest
 HOST-SUFFIX,cul-studies.com,ChinaTest
 HOST-SUFFIX,culaiwan.com,ChinaTest
 HOST-SUFFIX,cultofslavery.com,ChinaTest
+HOST-SUFFIX,culturedcode.com,ChinaTest
 HOST-SUFFIX,cumtenn.com,ChinaTest
 HOST-SUFFIX,cumulon.com,ChinaTest
 HOST-SUFFIX,cun58.com,ChinaTest
@@ -20643,7 +20646,6 @@ HOST-SUFFIX,dfafei.com,ChinaTest
 HOST-SUFFIX,dfbgv.com,ChinaTest
 HOST-SUFFIX,dfcfw.com,ChinaTest
 HOST-SUFFIX,dfcx-bj.com,ChinaTest
-HOST-SUFFIX,dfd88.com,ChinaTest
 HOST-SUFFIX,dfdaily.com,ChinaTest
 HOST-SUFFIX,dfdjy.net,ChinaTest
 HOST-SUFFIX,dfedu.com,ChinaTest
@@ -27295,6 +27297,7 @@ HOST-SUFFIX,goodstudydayup.com,ChinaTest
 HOST-SUFFIX,goodtp.com,ChinaTest
 HOST-SUFFIX,goofish.com,ChinaTest
 HOST-SUFFIX,google-analytics.com,ChinaTest
+HOST-SUFFIX,google.cn,ChinaTest
 HOST-SUFFIX,googleadservices.com,ChinaTest
 HOST-SUFFIX,googleadsl.com,ChinaTest
 HOST-SUFFIX,googleanalytics.com,ChinaTest
@@ -46053,7 +46056,6 @@ HOST-SUFFIX,objccn.io,ChinaTest
 HOST-SUFFIX,objcer.com,ChinaTest
 HOST-SUFFIX,objcoding.com,ChinaTest
 HOST-SUFFIX,objectyan.me,ChinaTest
-HOST-SUFFIX,objweb.com,ChinaTest
 HOST-SUFFIX,obkoro1.com,ChinaTest
 HOST-SUFFIX,obkprint.com,ChinaTest
 HOST-SUFFIX,obolee.com,ChinaTest
@@ -46767,6 +46769,7 @@ HOST-SUFFIX,ovcreative.com,ChinaTest
 HOST-SUFFIX,ovcstf.com,ChinaTest
 HOST-SUFFIX,ovdream.com,ChinaTest
 HOST-SUFFIX,ovear.info,ChinaTest
+HOST-SUFFIX,overcast.fm,ChinaTest
 HOST-SUFFIX,overtrue.me,ChinaTest
 HOST-SUFFIX,overturechina.com,ChinaTest
 HOST-SUFFIX,ovid.com,ChinaTest
@@ -47634,6 +47637,7 @@ HOST-SUFFIX,pilifu.com,ChinaTest
 HOST-SUFFIX,pilifx.com,ChinaTest
 HOST-SUFFIX,pillow2.com,ChinaTest
 HOST-SUFFIX,pimei.com,ChinaTest
+HOST-SUFFIX,pimg.tw,ChinaTest
 HOST-SUFFIX,pin-ad.com,ChinaTest
 HOST-SUFFIX,pin-color.net,ChinaTest
 HOST-SUFFIX,pin-guan.com,ChinaTest
@@ -47768,11 +47772,16 @@ HOST-SUFFIX,piqs.com,ChinaTest
 HOST-SUFFIX,pisx.com,ChinaTest
 HOST-SUFFIX,piworker.com,ChinaTest
 HOST-SUFFIX,pix2code.net,ChinaTest
+HOST-SUFFIX,pixanalytics.com,ChinaTest
 HOST-SUFFIX,pixelauth.com,ChinaTest
+HOST-SUFFIX,pixfs.net,ChinaTest
 HOST-SUFFIX,pixhey.com,ChinaTest
 HOST-SUFFIX,pixivacg.com,ChinaTest
 HOST-SUFFIX,pixivic.com,ChinaTest
 HOST-SUFFIX,pixivic.net,ChinaTest
+HOST-SUFFIX,pixnet.cc,ChinaTest
+HOST-SUFFIX,pixnet.in,ChinaTest
+HOST-SUFFIX,pixplug.in,ChinaTest
 HOST-SUFFIX,piyingke.com,ChinaTest
 HOST-SUFFIX,piyipiba.com,ChinaTest
 HOST-SUFFIX,pj.com,ChinaTest
@@ -54000,7 +54009,6 @@ HOST-SUFFIX,sketchchina.com,ChinaTest
 HOST-SUFFIX,sketchchina.net,ChinaTest
 HOST-SUFFIX,sketchcn.com,ChinaTest
 HOST-SUFFIX,sketchui.net,ChinaTest
-HOST-SUFFIX,sketchup10.com,ChinaTest
 HOST-SUFFIX,sketchupbar.com,ChinaTest
 HOST-SUFFIX,sketchupbbs.com,ChinaTest
 HOST-SUFFIX,skg.com,ChinaTest
@@ -56512,6 +56520,7 @@ HOST-SUFFIX,taotaosou.com,ChinaTest
 HOST-SUFFIX,taotieren.com,ChinaTest
 HOST-SUFFIX,taotiwang.com,ChinaTest
 HOST-SUFFIX,taotu8.net,ChinaTest
+HOST-SUFFIX,taotumowang.com,ChinaTest
 HOST-SUFFIX,taotuwu.com,ChinaTest
 HOST-SUFFIX,taou.com,ChinaTest
 HOST-SUFFIX,taowenxue.com,ChinaTest
@@ -56906,6 +56915,7 @@ HOST-SUFFIX,teslachezhu.com,ChinaTest
 HOST-SUFFIX,tesolsh.com,ChinaTest
 HOST-SUFFIX,tesoon.com,ChinaTest
 HOST-SUFFIX,test-edu.net,ChinaTest
+HOST-SUFFIX,test-ipv4.com,ChinaTest
 HOST-SUFFIX,test-ipv6.com,ChinaTest
 HOST-SUFFIX,test404.com,ChinaTest
 HOST-SUFFIX,testbird.com,ChinaTest
@@ -62733,6 +62743,7 @@ HOST-SUFFIX,workchat.com,ChinaTest
 HOST-SUFFIX,workec.com,ChinaTest
 HOST-SUFFIX,workehr.com,ChinaTest
 HOST-SUFFIX,workerman.net,ChinaTest
+HOST-SUFFIX,workflowy.com,ChinaTest
 HOST-SUFFIX,workpcb.com,ChinaTest
 HOST-SUFFIX,worksgz.com,ChinaTest
 HOST-SUFFIX,worktile.com,ChinaTest
@@ -72487,15 +72498,34 @@ HOST-KEYWORD,beplay,ChinaTest
 HOST-KEYWORD,officecdn,ChinaTest
 HOST-KEYWORD,speedtest,ChinaTest
 HOST-KEYWORD,taobao,ChinaTest
+USER-AGENT,%e4%ba%ac%e4%b8%9c%e5%88%b0%e5%ae%b6*,ChinaTest
 USER-AGENT,%e4%bc%81%e4%b8%9a%e5%be%ae%e4%bf%a1*,ChinaTest
 USER-AGENT,%e4%bc%98%e9%85%b7*,ChinaTest
+USER-AGENT,%e5%8d%b3%e5%88%bb*,ChinaTest
 USER-AGENT,%e7%bd%91%e6%98%93%e4%ba%91%e9%9f%b3%e4%b9%90*,ChinaTest
+USER-AGENT,*vainglory*,ChinaTest
+USER-AGENT,adblock*,ChinaTest
+USER-AGENT,arrowio*,ChinaTest
+USER-AGENT,balls*,ChinaTest
+USER-AGENT,best%20trace*,ChinaTest
+USER-AGENT,cmblife*,ChinaTest
+USER-AGENT,eusoft_ting_en_iphone,ChinaTest
 USER-AGENT,hearthstone*,ChinaTest
+USER-AGENT,hide*,ChinaTest
+USER-AGENT,megawerewolf*,ChinaTest
 USER-AGENT,micromessenger%20client,ChinaTest
+USER-AGENT,micromessenger*,ChinaTest
 USER-AGENT,micromessengerclient*,ChinaTest
+USER-AGENT,moke*,ChinaTest
 USER-AGENT,neteasemusic*,ChinaTest
+USER-AGENT,osee2unifiedrelease*,ChinaTest
 USER-AGENT,paypal*,ChinaTest
+USER-AGENT,qq*,ChinaTest
 USER-AGENT,remoteplay*,ChinaTest
+USER-AGENT,teamviewer*,ChinaTest
+USER-AGENT,tim*,ChinaTest
+USER-AGENT,ting_en,ChinaTest
+USER-AGENT,webtorrent*,ChinaTest
 USER-AGENT,wechat*,ChinaTest
 USER-AGENT,yyets*,ChinaTest
 IP-CIDR,1.255.62.0/24,ChinaTest
@@ -72506,3 +72536,4 @@ IP6-CIDR,2a0b:b580::/48,ChinaTest
 IP6-CIDR,2a0b:b581::/48,ChinaTest
 IP6-CIDR,2a0b:b582::/48,ChinaTest
 IP6-CIDR,2a0b:b583::/48,ChinaTest
+GEOIP,cn,ChinaTest

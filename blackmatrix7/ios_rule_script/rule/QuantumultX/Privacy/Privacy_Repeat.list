@@ -1,14 +1,13 @@
 # NAME: Privacy 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:59:56
+# UPDATED: 2021-01-07 23:38:04
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-# Privacy 与 Advertising 共 2629 条规则重复
+# Privacy 与 Advertising 共 2631 条规则重复
 HOST,log-hl-ipv6.snssdk.com
 HOST,log-lq.snssdk.com
 HOST,log-va.tiktokv.com
 HOST,log.byteoversea.com
-HOST,log.tiktokv.com
 HOST-KEYWORD,log.umeng.com
 HOST-KEYWORD,logs.umeng.com
 HOST-KEYWORD,logs.umengcloud.com
@@ -24,6 +23,7 @@ HOST-SUFFIX,6ddc.tartine-et-chocolat.com
 HOST-SUFFIX,6pal.consobaby.com
 HOST-SUFFIX,7lbd4.armandthiery.fr
 HOST-SUFFIX,7mx.eider.com
+HOST-SUFFIX,7q1z79gxsi.global.ssl.fastly.net
 HOST-SUFFIX,913nd.dieti-natura.es
 HOST-SUFFIX,a.20minutes.fr
 HOST-SUFFIX,a.mobify.com
@@ -681,6 +681,7 @@ HOST-SUFFIX,dbex-tracker-v2.driveback.ru
 HOST-SUFFIX,dc.banggood.com
 HOST-SUFFIX,dc.letv.com
 HOST-SUFFIX,dccss.banggood.com
+HOST-SUFFIX,dcf.espn.com
 HOST-SUFFIX,dd.nytimes.com
 HOST-SUFFIX,de-mi-nis-ner.info
 HOST-SUFFIX,de-mi-nis-ner2.info
@@ -853,6 +854,7 @@ HOST-SUFFIX,event.api.drift.com
 HOST-SUFFIX,event.dkb.de
 HOST-SUFFIX,event.getblue.io
 HOST-SUFFIX,event.syndigo.cloud
+HOST-SUFFIX,event.webcollage.net
 HOST-SUFFIX,eventapi.libring.com
 HOST-SUFFIX,eventgateway.soundcloud.com
 HOST-SUFFIX,eventlog.inspsearchapi.com
@@ -937,7 +939,6 @@ HOST-SUFFIX,g2377012020.co
 HOST-SUFFIX,g2575096355.co
 HOST-SUFFIX,g2773180690.co
 HOST-SUFFIX,g2971265025.co
-HOST-SUFFIX,g2insights-cdn.azureedge.net
 HOST-SUFFIX,g3169349360.co
 HOST-SUFFIX,g3367433695.co
 HOST-SUFFIX,g3565518030.co
@@ -1092,6 +1093,7 @@ HOST-SUFFIX,informers.sinoptik.ua
 HOST-SUFFIX,ingest.sentry.io
 HOST-SUFFIX,inquiries.redhat.com
 HOST-SUFFIX,insight.fonecta.fi
+HOST-SUFFIX,insights.algolia.io
 HOST-SUFFIX,insights.cdt.ch
 HOST-SUFFIX,insights.sitesearch360.com
 HOST-SUFFIX,insitez.blob.core.windows.net
@@ -1623,7 +1625,6 @@ HOST-SUFFIX,rt.prnewswire.com
 HOST-SUFFIX,rta2.metro.co.uk
 HOST-SUFFIX,rtn.thestar.com
 HOST-SUFFIX,rum.azion.com
-HOST-SUFFIX,rum.azioncdn.net
 HOST-SUFFIX,rum.conde.io
 HOST-SUFFIX,rum.kobo.com
 HOST-SUFFIX,rum.marquardmedia.hu
@@ -2146,6 +2147,7 @@ HOST-SUFFIX,tdf1.vente-unique.pt
 HOST-SUFFIX,te.mytoys.de
 HOST-SUFFIX,te.supportfreecontent.com
 HOST-SUFFIX,ted.metro.co.uk
+HOST-SUFFIX,telemetrics.klaviyo.com
 HOST-SUFFIX,telemetry.api.wmcdp.io
 HOST-SUFFIX,telemetry.art19.com
 HOST-SUFFIX,telemetry.jivosite.com
@@ -2633,12 +2635,11 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-# Privacy 与 AdvertisingTest 共 2570 条规则重复
+# Privacy 与 AdvertisingTest 共 2567 条规则重复
 HOST,log-hl-ipv6.snssdk.com
 HOST,log-lq.snssdk.com
 HOST,log-va.tiktokv.com
 HOST,log.byteoversea.com
-HOST,log.tiktokv.com
 HOST-KEYWORD,log.umeng.com
 HOST-KEYWORD,logs.umeng.com
 HOST-KEYWORD,logs.umengcloud.com
@@ -3289,6 +3290,7 @@ HOST-SUFFIX,dbex-tracker-v2.driveback.ru
 HOST-SUFFIX,dc.banggood.com
 HOST-SUFFIX,dc.letv.com
 HOST-SUFFIX,dccss.banggood.com
+HOST-SUFFIX,dcf.espn.com
 HOST-SUFFIX,dd.nytimes.com
 HOST-SUFFIX,de-mi-nis-ner.info
 HOST-SUFFIX,de-mi-nis-ner2.info
@@ -3543,7 +3545,6 @@ HOST-SUFFIX,g2377012020.co
 HOST-SUFFIX,g2575096355.co
 HOST-SUFFIX,g2773180690.co
 HOST-SUFFIX,g2971265025.co
-HOST-SUFFIX,g2insights-cdn.azureedge.net
 HOST-SUFFIX,g3169349360.co
 HOST-SUFFIX,g3367433695.co
 HOST-SUFFIX,g3565518030.co
@@ -4219,7 +4220,6 @@ HOST-SUFFIX,rt.prnewswire.com
 HOST-SUFFIX,rta2.metro.co.uk
 HOST-SUFFIX,rtn.thestar.com
 HOST-SUFFIX,rum.azion.com
-HOST-SUFFIX,rum.azioncdn.net
 HOST-SUFFIX,rum.conde.io
 HOST-SUFFIX,rum.kobo.com
 HOST-SUFFIX,rum.marquardmedia.hu
@@ -4731,7 +4731,6 @@ HOST-SUFFIX,tdf1.vente-unique.pt
 HOST-SUFFIX,te.mytoys.de
 HOST-SUFFIX,te.supportfreecontent.com
 HOST-SUFFIX,ted.metro.co.uk
-HOST-SUFFIX,telemetrics.klaviyo.com
 HOST-SUFFIX,telemetry.api.wmcdp.io
 HOST-SUFFIX,telemetry.art19.com
 HOST-SUFFIX,telemetry.jivosite.com
@@ -7558,12 +7557,9 @@ HOST,safebrowsing.googleapis.com
 # Privacy 与 ChinaTest 共 2 条规则重复
 HOST-SUFFIX,google-analytics.com
 HOST-SUFFIX,googletagmanager.com
-# Privacy 与 Google 共 3 条规则重复
-HOST-SUFFIX,csi.gstatic.com
+# Privacy 与 Google 共 2 条规则重复
 HOST-SUFFIX,google-analytics.com
 HOST-SUFFIX,googletagmanager.com
-# Privacy 与 GlobalMedia 共 1 条规则重复
-HOST-SUFFIX,cws.conviva.com
 # Privacy 与 Proxy 共 2 条规则重复
 HOST-SUFFIX,google-analytics.com
 HOST-SUFFIX,googletagmanager.com

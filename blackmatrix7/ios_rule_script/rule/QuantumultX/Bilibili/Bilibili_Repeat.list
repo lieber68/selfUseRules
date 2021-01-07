@@ -1,7 +1,7 @@
 # NAME: Bilibili 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:59:56
+# UPDATED: 2021-01-07 23:38:04
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Bilibili 与 AsianMedia 共 13 条规则重复
 HOST-SUFFIX,acg.tv
@@ -25,7 +25,7 @@ HOST-SUFFIX,bilibili.com
 HOST-SUFFIX,bilibili.tv
 HOST-SUFFIX,bilivideo.com
 HOST-SUFFIX,hdslb.com
-# Bilibili 与 ChinaTest 共 12 条规则重复
+# Bilibili 与 ChinaTest 共 13 条规则重复
 HOST-SUFFIX,acg.tv
 HOST-SUFFIX,acgvideo.com
 HOST-SUFFIX,b23.tv
@@ -38,7 +38,8 @@ HOST-SUFFIX,biligame.net
 HOST-SUFFIX,bilivideo.com
 HOST-SUFFIX,hdslb.com
 HOST-SUFFIX,im9.com
-# Bilibili 与 ChinaMedia 共 13 条规则重复
+HOST-SUFFIX,smtcdns.net
+# Bilibili 与 ChinaMedia 共 14 条规则重复
 HOST-SUFFIX,acg.tv
 HOST-SUFFIX,acgvideo.com
 HOST-SUFFIX,b23.tv
@@ -51,4 +52,7 @@ HOST-SUFFIX,biligame.net
 HOST-SUFFIX,bilivideo.com
 HOST-SUFFIX,hdslb.com
 HOST-SUFFIX,im9.com
+HOST-SUFFIX,smtcdns.net
 USER-AGENT,*bili*
+# Bilibili 与 Tencent 共 1 条规则重复
+HOST-SUFFIX,smtcdns.net
