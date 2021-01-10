@@ -3,8 +3,8 @@
 #!system=ios
 
 [URL Rewrite]
-^(http|https):\/\/raw\.githubusercontent\.com https://cdn.staticaly.com/gh 307
-^(http|https):\/\/gist\.githubusercontent\.com https://cdn.staticaly.com/gist 307
+^(http|https):\/\/raw\.githubusercontent\.com\/(.+) https://cdn.staticaly.com/gh/$2 302
+^(http|https):\/\/gist\.githubusercontent\.com\/(.+) https://cdn.staticaly.com/gist/$2 302
 
 [MITM]
 hostname = %APPEND% raw.githubusercontent.com, gist.githubusercontent.com
