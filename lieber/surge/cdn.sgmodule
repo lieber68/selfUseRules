@@ -1,0 +1,10 @@
+#!name= Github
+#!desc=raw.githubusercontent走staticaly cdn 
+#!system=ios
+
+[URL Rewrite]
+^(http|https):\/\/raw\.githubusercontent\.com\/(.+) https://cdn.staticaly.com/gh 307
+^(http|https):\/\/gist\.githubusercontent\.com\/(.+) https://cdn.staticaly.com/gist 307
+
+[MITM]
+hostname = %APPEND% raw.githubusercontent.com, gist.githubusercontent.com
