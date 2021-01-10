@@ -53,6 +53,8 @@
 
 * [@HotKids](https://github.com/HotKids?tab=repositories)
 
+* [@58xinian](https://github.com/58xinian?tab=repositories)
+
 ## License
 
 [GPLv3](LICENSE)
