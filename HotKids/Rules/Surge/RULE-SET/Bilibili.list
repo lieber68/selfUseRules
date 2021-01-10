@@ -1,0 +1,17 @@
+# > Bilibili
+USER-AGENT,*bili*
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,acg.tv
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN-KEYWORD,bilibili
+// 港台版 Bilibili App
+USER-AGENT,bili-inter*
+DOMAIN,apiintl.biliapi.net
+# > Surfboard Android
+PROCESS-NAME,tv.danmaku.bili
+PROCESS-NAME,com.bilibili.app.in

@@ -1,6 +1,7 @@
 [Rule]
 DOMAIN, cdn.jsdelivr.net, DIRECT
 DOMAIN-SUFFIX, coding-pages.com, DIRECT
+DOMAIN-SUFFIX, workers.dev, DIRECT
 DOMAIN, cdn.staticaly.com, DIRECT
 DOMAIN, cdn.statically.io, DIRECT
 DOMAIN, pv.sohu.com, DIRECT

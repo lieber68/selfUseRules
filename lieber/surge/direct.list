@@ -13,6 +13,7 @@ PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
 DOMAIN-SUFFIX,download.maxmind.com
 DOMAIN-SUFFIX,coding-pages.com
+DOMAIN-SUFFIX,workers.dev
 DOMAIN, cdn.jsdelivr.net
 DOMAIN-SUFFIX, coding-pages.com
 DOMAIN, cdn.staticaly.com

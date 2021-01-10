@@ -51,6 +51,8 @@
 
 * [@Koolson](https://github.com/Koolson?tab=repositories)
 
+* [@HotKids](https://github.com/HotKids?tab=repositories)
+
 ## License
 
 [GPLv3](LICENSE)

@@ -1,5 +1,6 @@
 host, cdn.jsdelivr.net, direct
 host-suffix, coding-pages.com, direct
+host-suffix, workers.dev, direct
 host, cdn.staticaly.com, direct
 host, cdn.statically.io, direct
 host, pv.sohu.com, direct
