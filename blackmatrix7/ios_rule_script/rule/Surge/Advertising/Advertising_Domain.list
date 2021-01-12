@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-12 21:04:41
+# UPDATED: 2021-01-13 00:37:16
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 42388
+# DOMAIN-SUFFIX: 42417
 # DOMAIN: 6683
 # DOMAIN-KEYWORD: 61
 # IP-CIDR: 240
 # URL-REGEX: 310
-# TOTAL: 49682
+# TOTAL: 49711
 000lkub.rcomhost.com
 000lp59.wcomhost.com
 007angels.com
@@ -7541,6 +7541,9 @@ zzcw.uuzham.com
 .33.pcpop.com
 .330ca589.space
 .3324.cn
+.3337735.com
+.3337736.com
+.3337780.com
 .333bj.cloud
 .333dm.com
 .333wan.com
@@ -10054,6 +10057,7 @@ zzcw.uuzham.com
 .adi2007.cnool.net
 .adicate.com
 .adidaschile62tracksuit.com
+.adieusyaktop.com
 .adifficiente.top
 .adigniter.org
 .adikteev.com
@@ -11579,6 +11583,7 @@ zzcw.uuzham.com
 .alimama.com
 .alimb.top
 .alimc1.top
+.alime-pic.oss-cn-hangzhou.aliyuncs.com
 .alinxc.com
 .alipay.dajiadou6.com
 .alipaylog.com
@@ -13483,6 +13488,7 @@ zzcw.uuzham.com
 .bb1acb0ea5ddb1fed8.com
 .bb2.ifeng.com
 .bb475d71fa0b1b2.com
+.bbaahc.com
 .bbba8.com
 .bbbr8.com
 .bbbx.xyz
@@ -13701,6 +13707,7 @@ zzcw.uuzham.com
 .beacon.toyota.co.jp
 .beacon.viewlift.com
 .beacon.walmart.com
+.beacon.watch.impress.co.jp
 .beacon.wikia-services.com
 .beacon.www.theguardian.com
 .beaconacceptable.com
@@ -16309,6 +16316,7 @@ zzcw.uuzham.com
 .club-img.douyucdn.cn
 .clubcollector.com
 .clubpenguinclub.com
+.cluethydash.com
 .cluodlfare.com
 .clvk.viki.io
 .clxgmlpfkoj.com
@@ -18503,6 +18511,7 @@ zzcw.uuzham.com
 .dehua.ixinfan.com
 .dehuaguanyin.com
 .dehydratedpredestinationplenty.com
+.deicemaptwin.com
 .deiligejenter.com
 .deiqehvcdnntg.com
 .dejavu.mercadolivre.com.br
@@ -18529,6 +18538,7 @@ zzcw.uuzham.com
 .delivery.dmkt-sp.jp
 .delivery.playallvideos.com
 .delivery.porn.com
+.delivery.satr.jp
 .delivery.smashing.services
 .delivery.thebloggernetwork.com
 .delivery.wasu.cn
@@ -19140,6 +19150,7 @@ zzcw.uuzham.com
 .dnaxddnc.com
 .dnbizcdn.com
 .dneglectionsinter.info
+.dnemkhkbsdbl.com
 .dnfeu.com
 .dnhfi5nn2dt67.cloudfront.net
 .dnjj.mobi
@@ -20681,6 +20692,7 @@ zzcw.uuzham.com
 .erihj.com
 .eringassumpt.club
 .eriniquep.club
+.erkesi.cn
 .erkhxw.com
 .erlpbwy.cn
 .ermao.sikabeila.com
@@ -23391,6 +23403,7 @@ zzcw.uuzham.com
 .goneviral.com
 .gongeeta.net
 .gongfanglong.cn
+.gongxifacai21.top
 .gontent.steamplay.me
 .goo2anywhere.com
 .gooblesdd.com
@@ -23480,6 +23493,7 @@ zzcw.uuzham.com
 .gouweida.cn
 .gouwubang.com
 .gouzhibao.cn
+.govbeijing.cn
 .govbusi.info
 .govdelivery.com
 .govercomeb.club
@@ -26797,6 +26811,7 @@ zzcw.uuzham.com
 .jellyclick.com
 .jellyfish.pandora.xiaomi.com
 .jemmgroup.com
+.jen.jiji.com
 .jepmdqcn.com
 .jeqixokniyny.com
 .jermr.com
@@ -27657,6 +27672,7 @@ zzcw.uuzham.com
 .kakappp.com
 .kakayy.com
 .kakyomloctqiu.com
+.kalespurhoes.com
 .kalipasindra.online
 .kalmloda.com
 .kalstats.kaltura.com
@@ -34171,6 +34187,7 @@ zzcw.uuzham.com
 .padstm.com
 .paegcsvchsdlbj.com
 .paerst.cn
+.pafovocg.bid
 .pagaynrbee.com
 .page-events-ustats.udemy.com
 .page-hit.de
@@ -35444,6 +35461,7 @@ zzcw.uuzham.com
 .pr-static.empflix.com
 .pr-static.tnaflix.com
 .pr-sunshine.de
+.pr.ameba.jp
 .pr.blogflux.com
 .pr00001.com
 .pr0gram.org
@@ -36788,6 +36806,7 @@ zzcw.uuzham.com
 .qyqbslpprlph.com
 .qyqc4s.com
 .qyqvfjvbzosz.com
+.qysyyg.com
 .qyttl.cn
 .qytyf.com
 .qyxwfe.com
@@ -37624,6 +37643,7 @@ zzcw.uuzham.com
 .rinedcountilconsiden.info
 .ringassum.club
 .ringplayground.com
+.ringsnutdaze.com
 .ringtonepartner.com
 .rinsouxy.com
 .rintellsfundrew.info
@@ -38572,6 +38592,7 @@ zzcw.uuzham.com
 .scrutchother.club
 .scswlgxttvekd.com
 .scswuliu.com
+.scudspulsedrail.com
 .sculifinanthools.site
 .scund.com
 .scupio.com
@@ -39942,6 +39963,7 @@ zzcw.uuzham.com
 .sourcepoint-mms.aetv.com
 .sourcepoint-mms.history.com
 .sourcepoint-mms.mylifetime.com
+.sourcepoint.dexerto.com
 .sourcepoint.vice.com
 .sousaira.com
 .sousuo.xm.sjzhushou.com
@@ -40114,6 +40136,7 @@ zzcw.uuzham.com
 .spectato.com
 .spectram.pro
 .specularpro.site
+.spedhowusing.com
 .speeb.com
 .speechmomentarily.com
 .speed-trap.com
@@ -41552,6 +41575,7 @@ zzcw.uuzham.com
 .tagsrvcs.com
 .tagtic.cn
 .tagtool.de
+.tagtracking.vibescm.com
 .tagx.nytimes.com
 .tahbmbqhvvi.com
 .tahkezux.com
@@ -41843,6 +41867,7 @@ zzcw.uuzham.com
 .tek-tek-trek.com
 .tel-tel-fie.com
 .telecommand.telemetry.microsoft.com.nsatc.net
+.telegramspun.com
 .telegraph.api.hbo.com
 .telemetric.dk
 .telemetrics.klaviyo.com
@@ -42417,6 +42442,7 @@ zzcw.uuzham.com
 .tns.simba.taobao.com
 .tnxiuvjtplhhdy.com
 .to-yes.com
+.to.getnitropack.com
 .to8to.com
 .toagluji.com
 .toalhjpw.com
@@ -42964,6 +42990,7 @@ zzcw.uuzham.com
 .tracking.s24.com
 .tracking.searchmarketing.com
 .tracking.sembox.it
+.tracking.sezzle.com
 .tracking.shopstyle.com
 .tracking.shoptogether.buy.com
 .tracking.skyword.com
@@ -46444,6 +46471,7 @@ zzcw.uuzham.com
 .wvcdn.cn
 .wvesvozyuoxg.com
 .wvfgiio.cn
+.wvgrpwdaol.bid
 .wvhsouzoan.com
 .wvlveodsvygn.com
 .wvoahyehtvj.com
@@ -47375,6 +47403,7 @@ zzcw.uuzham.com
 .xyadyzpsb.com
 .xycnz.com
 .xycnzz.com
+.xygediwe.xyz
 .xyimg.net
 .xylmdm.top
 .xyly2016.com

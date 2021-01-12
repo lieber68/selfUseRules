@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-12 21:04:44
+# UPDATED: 2021-01-13 00:37:19
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 63745
+# DOMAIN-SUFFIX: 63754
 # DOMAIN-KEYWORD: 61
 # IP-CIDR: 240
 # DOMAIN: 4669
 # URL-REGEX: 310
-# TOTAL: 69025
+# TOTAL: 69034
 000lkub.rcomhost.com
 000lp59.wcomhost.com
 007angels.com
@@ -8412,7 +8412,6 @@ zzcw.uuzham.com
 .ad.player.baidu.com
 .ad.plus-a.net
 .ad.pornimg.xyz
-.ad.pr.ameba.jp
 .ad.pravda.ru
 .ad.preferances.com
 .ad.preferences.com
@@ -16581,6 +16580,7 @@ zzcw.uuzham.com
 .beacon.viewlift.com
 .beacon.walmart.ca
 .beacon.walmart.com
+.beacon.watch.impress.co.jp
 .beacon.wikia-services.com
 .beacon.www.theguardian.com
 .beaconacceptable.com
@@ -30624,6 +30624,7 @@ zzcw.uuzham.com
 .goneviral.com
 .gongeeta.net
 .gongfanglong.cn
+.gongxifacai21.top
 .gonosz-majom.com
 .gontent.steamplay.me
 .goo2anywhere.com
@@ -30757,6 +30758,7 @@ zzcw.uuzham.com
 .gouwubang.com
 .gouzhibao.cn
 .govahoyuge.itup.pw
+.govbeijing.cn
 .govbusi.info
 .govdelivery.com
 .govercomeb.club
@@ -35304,6 +35306,7 @@ zzcw.uuzham.com
 .jellyclick.com
 .jellyfish.pandora.xiaomi.com
 .jemmgroup.com
+.jen.jiji.com
 .jenno.adsb4all.com
 .jeoldkhy.com
 .jepmdqcn.com
@@ -46107,6 +46110,7 @@ zzcw.uuzham.com
 .padstm.com
 .paegcsvchsdlbj.com
 .paerst.cn
+.pafovocg.bid
 .pagaynrbee.com
 .page-events-ustats.udemy.com
 .page-hit.de
@@ -48055,6 +48059,7 @@ zzcw.uuzham.com
 .pr-textlink.de
 .pr-update.biz
 .pr.5.p2l.info
+.pr.ameba.jp
 .pr.blogflux.com
 .pr.ikovrov.ru
 .pr.rusmed.ru
@@ -54672,6 +54677,7 @@ zzcw.uuzham.com
 .sourcepoint-mms.aetv.com
 .sourcepoint-mms.history.com
 .sourcepoint-mms.mylifetime.com
+.sourcepoint.dexerto.com
 .sourcepoint.vice.com
 .sourcetobin.com
 .sourmath.com
@@ -57104,6 +57110,7 @@ zzcw.uuzham.com
 .tagsrvcs.com
 .tagtic.cn
 .tagtool.de
+.tagtracking.vibescm.com
 .tagtray.com
 .tagular.com
 .tagvideo.eu
@@ -59565,6 +59572,7 @@ zzcw.uuzham.com
 .tracking.s24.com
 .tracking.salkmarketing.com
 .tracking.sembox.it
+.tracking.sezzle.com
 .tracking.shopback.com
 .tracking.shopstyle.com
 .tracking.shoptogether.buy.com
@@ -64583,6 +64591,7 @@ zzcw.uuzham.com
 .wvesvozyuoxg.com
 .wvfgiio.cn
 .wvghl.com
+.wvgrpwdaol.bid
 .wvhsouzoan.com
 .wvlveodsvygn.com
 .wvoahyehtvj.com

@@ -1,7 +1,7 @@
 # NAME: China 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-12 21:04:47
+# UPDATED: 2021-01-13 00:37:23
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # China 与 WhiteList 共 1 条规则重复
 DOMAIN,analytics.strava.com
@@ -54,11 +54,12 @@ DOMAIN-SUFFIX,qhimg.com
 DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qihucdn.com
 DOMAIN-SUFFIX,so.com
-# China 与 XiaoMi 共 7 条规则重复
+# China 与 XiaoMi 共 8 条规则重复
 DOMAIN-SUFFIX,duokan.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaomicp.com
@@ -837,7 +838,7 @@ USER-AGENT,%e4%bc%98%e9%85%b7*
 USER-AGENT,%e7%bd%91%e6%98%93%e4%ba%91%e9%9f%b3%e4%b9%90*
 USER-AGENT,neteasemusic*
 USER-AGENT,yyets*
-# China 与 NetEase 共 9 条规则重复
+# China 与 NetEase 共 11 条规则重复
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,127.net
@@ -847,6 +848,12 @@ DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,youdao.com
+USER-AGENT,%e7%bd%91%e6%98%93%e4%ba%91%e9%9f%b3%e4%b9%90*
+USER-AGENT,neteasemusic*
+# China 与 NetEaseMusic 共 3 条规则重复
+DOMAIN-SUFFIX,163yun.com
+USER-AGENT,%e7%bd%91%e6%98%93%e4%ba%91%e9%9f%b3%e4%b9%90*
+USER-AGENT,neteasemusic*
 # China 与 iQIYI 共 7 条规则重复
 DOMAIN-SUFFIX,71.am
 DOMAIN-SUFFIX,71.am.com
@@ -955,19 +962,6 @@ DOMAIN-SUFFIX,ele.me
 # China 与 FengHuangWang 共 2 条规则重复
 DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,ifengimg.com
-# China 与 BaiDu 共 8 条规则重复
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,baidupcs.com
-DOMAIN-SUFFIX,bdimg.com
-DOMAIN-SUFFIX,bdstatic.com
-DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,jomodns.com
-DOMAIN-SUFFIX,nuomi.com
-DOMAIN-SUFFIX,yunjiasu-cdn.net
-# China 与 DouYu 共 3 条规则重复
-DOMAIN-SUFFIX,douyu.com
-DOMAIN-SUFFIX,douyu.tv
-DOMAIN-SUFFIX,douyutv.com
 # China 与 GaoDe 共 2 条规则重复
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,autonavi.com
@@ -1025,20 +1019,6 @@ DOMAIN-SUFFIX,sankuai.com
 DOMAIN-SUFFIX,meizu.com
 # China 与 Mojitianqi 共 1 条规则重复
 DOMAIN-SUFFIX,moji.com
-# China 与 Netease 共 9 条规则重复
-DOMAIN-SUFFIX,126.com
-DOMAIN-SUFFIX,126.net
-DOMAIN-SUFFIX,127.net
-DOMAIN-SUFFIX,163.com
-DOMAIN-SUFFIX,163yun.com
-DOMAIN-SUFFIX,lofter.com
-DOMAIN-SUFFIX,netease.com
-DOMAIN-SUFFIX,ydstatic.com
-DOMAIN-SUFFIX,youdao.com
-# China 与 NeteaseMusic 共 3 条规则重复
-DOMAIN-SUFFIX,163yun.com
-USER-AGENT,%e7%bd%91%e6%98%93%e4%ba%91%e9%9f%b3%e4%b9%90*
-USER-AGENT,neteasemusic*
 # China 与 PingAn 共 2 条规则重复
 DOMAIN-SUFFIX,pingan.com
 DOMAIN-SUFFIX,pingan.com.cn
@@ -1089,15 +1069,6 @@ DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiami.net
 # China 与 XianYu 共 1 条规则重复
 DOMAIN-SUFFIX,ewqcxz.com
-# China 与 Xiaomi 共 8 条规则重复
-DOMAIN-SUFFIX,duokan.com
-DOMAIN-SUFFIX,mi-img.com
-DOMAIN-SUFFIX,mi.com
-DOMAIN-SUFFIX,miui.com
-DOMAIN-SUFFIX,miwifi.com
-DOMAIN-SUFFIX,xiaomi.com
-DOMAIN-SUFFIX,xiaomi.net
-DOMAIN-SUFFIX,xiaomicp.com
 # China 与 XieCheng 共 1 条规则重复
 DOMAIN-SUFFIX,ctrip.com
 # China 与 YYeTs 共 9 条规则重复

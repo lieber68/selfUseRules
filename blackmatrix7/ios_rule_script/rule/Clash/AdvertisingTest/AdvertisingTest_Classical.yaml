@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-12 21:04:45
-# DOMAIN-SUFFIX: 63745
+# UPDATED: 2021-01-13 00:37:21
+# DOMAIN-SUFFIX: 63754
 # DOMAIN-KEYWORD: 61
 # IP-CIDR: 240
 # DOMAIN: 4669
-# TOTAL: 68715
+# TOTAL: 68724
 payload:
   - DOMAIN,000lkub.rcomhost.com
   - DOMAIN,000lp59.wcomhost.com
@@ -8411,7 +8411,6 @@ payload:
   - DOMAIN-SUFFIX,ad.player.baidu.com
   - DOMAIN-SUFFIX,ad.plus-a.net
   - DOMAIN-SUFFIX,ad.pornimg.xyz
-  - DOMAIN-SUFFIX,ad.pr.ameba.jp
   - DOMAIN-SUFFIX,ad.pravda.ru
   - DOMAIN-SUFFIX,ad.preferances.com
   - DOMAIN-SUFFIX,ad.preferences.com
@@ -16580,6 +16579,7 @@ payload:
   - DOMAIN-SUFFIX,beacon.viewlift.com
   - DOMAIN-SUFFIX,beacon.walmart.ca
   - DOMAIN-SUFFIX,beacon.walmart.com
+  - DOMAIN-SUFFIX,beacon.watch.impress.co.jp
   - DOMAIN-SUFFIX,beacon.wikia-services.com
   - DOMAIN-SUFFIX,beacon.www.theguardian.com
   - DOMAIN-SUFFIX,beaconacceptable.com
@@ -30623,6 +30623,7 @@ payload:
   - DOMAIN-SUFFIX,goneviral.com
   - DOMAIN-SUFFIX,gongeeta.net
   - DOMAIN-SUFFIX,gongfanglong.cn
+  - DOMAIN-SUFFIX,gongxifacai21.top
   - DOMAIN-SUFFIX,gonosz-majom.com
   - DOMAIN-SUFFIX,gontent.steamplay.me
   - DOMAIN-SUFFIX,goo2anywhere.com
@@ -30756,6 +30757,7 @@ payload:
   - DOMAIN-SUFFIX,gouwubang.com
   - DOMAIN-SUFFIX,gouzhibao.cn
   - DOMAIN-SUFFIX,govahoyuge.itup.pw
+  - DOMAIN-SUFFIX,govbeijing.cn
   - DOMAIN-SUFFIX,govbusi.info
   - DOMAIN-SUFFIX,govdelivery.com
   - DOMAIN-SUFFIX,govercomeb.club
@@ -35303,6 +35305,7 @@ payload:
   - DOMAIN-SUFFIX,jellyclick.com
   - DOMAIN-SUFFIX,jellyfish.pandora.xiaomi.com
   - DOMAIN-SUFFIX,jemmgroup.com
+  - DOMAIN-SUFFIX,jen.jiji.com
   - DOMAIN-SUFFIX,jenno.adsb4all.com
   - DOMAIN-SUFFIX,jeoldkhy.com
   - DOMAIN-SUFFIX,jepmdqcn.com
@@ -46106,6 +46109,7 @@ payload:
   - DOMAIN-SUFFIX,padstm.com
   - DOMAIN-SUFFIX,paegcsvchsdlbj.com
   - DOMAIN-SUFFIX,paerst.cn
+  - DOMAIN-SUFFIX,pafovocg.bid
   - DOMAIN-SUFFIX,pagaynrbee.com
   - DOMAIN-SUFFIX,page-events-ustats.udemy.com
   - DOMAIN-SUFFIX,page-hit.de
@@ -48054,6 +48058,7 @@ payload:
   - DOMAIN-SUFFIX,pr-textlink.de
   - DOMAIN-SUFFIX,pr-update.biz
   - DOMAIN-SUFFIX,pr.5.p2l.info
+  - DOMAIN-SUFFIX,pr.ameba.jp
   - DOMAIN-SUFFIX,pr.blogflux.com
   - DOMAIN-SUFFIX,pr.ikovrov.ru
   - DOMAIN-SUFFIX,pr.rusmed.ru
@@ -54671,6 +54676,7 @@ payload:
   - DOMAIN-SUFFIX,sourcepoint-mms.aetv.com
   - DOMAIN-SUFFIX,sourcepoint-mms.history.com
   - DOMAIN-SUFFIX,sourcepoint-mms.mylifetime.com
+  - DOMAIN-SUFFIX,sourcepoint.dexerto.com
   - DOMAIN-SUFFIX,sourcepoint.vice.com
   - DOMAIN-SUFFIX,sourcetobin.com
   - DOMAIN-SUFFIX,sourmath.com
@@ -57103,6 +57109,7 @@ payload:
   - DOMAIN-SUFFIX,tagsrvcs.com
   - DOMAIN-SUFFIX,tagtic.cn
   - DOMAIN-SUFFIX,tagtool.de
+  - DOMAIN-SUFFIX,tagtracking.vibescm.com
   - DOMAIN-SUFFIX,tagtray.com
   - DOMAIN-SUFFIX,tagular.com
   - DOMAIN-SUFFIX,tagvideo.eu
@@ -59564,6 +59571,7 @@ payload:
   - DOMAIN-SUFFIX,tracking.s24.com
   - DOMAIN-SUFFIX,tracking.salkmarketing.com
   - DOMAIN-SUFFIX,tracking.sembox.it
+  - DOMAIN-SUFFIX,tracking.sezzle.com
   - DOMAIN-SUFFIX,tracking.shopback.com
   - DOMAIN-SUFFIX,tracking.shopstyle.com
   - DOMAIN-SUFFIX,tracking.shoptogether.buy.com
@@ -64582,6 +64590,7 @@ payload:
   - DOMAIN-SUFFIX,wvesvozyuoxg.com
   - DOMAIN-SUFFIX,wvfgiio.cn
   - DOMAIN-SUFFIX,wvghl.com
+  - DOMAIN-SUFFIX,wvgrpwdaol.bid
   - DOMAIN-SUFFIX,wvhsouzoan.com
   - DOMAIN-SUFFIX,wvlveodsvygn.com
   - DOMAIN-SUFFIX,wvoahyehtvj.com

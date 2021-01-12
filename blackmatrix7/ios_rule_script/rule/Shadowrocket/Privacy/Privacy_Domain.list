@@ -1,21 +1,28 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-12 21:04:47
-# DOMAIN: 12
-# DOMAIN-SUFFIX: 2796
+# UPDATED: 2021-01-13 00:37:23
+# DOMAIN: 19
+# DOMAIN-SUFFIX: 2812
 # DOMAIN-KEYWORD: 3
-# TOTAL: 2811
+# TOTAL: 2834
 data.mistat.xiaomi.com
 hm.baidu.com
 hmma.baidu.com
 js.users.51.la
+log-hl-ipv6.snssdk.com
+log-lq.snssdk.com
+log-va.tiktokv.com
+log.byteoversea.com
+log.tiktokv.com
 mc.51.la
+mtrace.qq.com
 safebrowsing.googleapis.com
 safebrowsing.urlsec.qq.com
 track.58.com
 tracking.intl.miui.com
 tracklog.58.com
+wc.51.la
 xlog.snssdk.com
 zgsdk.zhugeio.com
 .0sbm.consobaby.co.uk
@@ -373,6 +380,7 @@ zgsdk.zhugeio.com
 .beacon.tingyun.com
 .beacon.toyota.co.jp
 .beacon.viewlift.com
+.beacon.watch.impress.co.jp
 .beacon.wikia-services.com
 .beacon.www.theguardian.com
 .beacon2.indieclick.com
@@ -431,6 +439,8 @@ zgsdk.zhugeio.com
 .bulb.76.my
 .burnhamandhighbridgeweeklynews-gb.burnhamandhighbridgeweeklynews.co.uk
 .burytimes-gb.burytimes.co.uk
+.bvr.ast.snva.jp
+.bvr.snva.jp
 .bzclk.baidu.com
 .c.bigmir.net
 .c.gazetevatan.com
@@ -606,6 +616,7 @@ zgsdk.zhugeio.com
 .contadores.miarroba.es
 .contents-tracking.beop.io
 .conversions.genieventures.co.uk
+.cookie.sync.usonar.jp
 .cookies.livepartners.com
 .cookies.reedbusiness.nl
 .cookietracker.cloudapp.net
@@ -741,6 +752,7 @@ zgsdk.zhugeio.com
 .dejavu.mercadolivre.com.br
 .deliver.oztam.com.au
 .deliver.ptgncdn.com
+.delivery.satr.jp
 .desa.fkapi.net
 .desb.fkapi.net
 .desr.fkapi.net
@@ -1184,6 +1196,7 @@ zgsdk.zhugeio.com
 .jac.yahoosandbox.com
 .javascriptcounter.appspot.com
 .jelly.mdhv.io
+.jen.jiji.com
 .jppolid-track.trackprod.integration.jppol.dk
 .k.kolplay.com
 .k.rueducommerce.fr
@@ -1617,6 +1630,7 @@ zgsdk.zhugeio.com
 .postpixel.vindicosuite.com
 .powercount.jswelt.de
 .powersearch.us.com
+.pr.ameba.jp
 .pr.blogflux.com
 .prd-collector-anon.ex.co
 .prd-collector-anon.playbuzz.com
@@ -1669,6 +1683,7 @@ zgsdk.zhugeio.com
 .radar.imgsmail.ru
 .ramp.purch.com
 .rand.com.ru
+.ranking.apis.sankei-digital.co.jp
 .rat.rakuten.co.jp
 .rbc.magna.ru
 .rc.rlcdn.com
@@ -1730,6 +1745,7 @@ zgsdk.zhugeio.com
 .rt.flix360.com
 .rt.prnewswire.com
 .rta2.metro.co.uk
+.rtg-endpoint.global.ssl.fastly.net
 .rtn.thestar.com
 .rtt.campanja.com
 .rum.azion.com
@@ -1819,6 +1835,7 @@ zgsdk.zhugeio.com
 .sourcepoint-mms.aetv.com
 .sourcepoint-mms.history.com
 .sourcepoint-mms.mylifetime.com
+.sourcepoint.dexerto.com
 .sourcepoint.vice.com
 .southendstandard-gb.southendstandard.co.uk
 .southwalesargus-gb.southwalesargus.co.uk
@@ -2234,6 +2251,7 @@ zgsdk.zhugeio.com
 .tag.aumago.com
 .tag.boulanger.fr
 .tag.brandcdn.com
+.tag.cribnotes.jp
 .tag.goldenbees.fr
 .tag.leadplace.fr
 .tag.myplay.com
@@ -2252,6 +2270,7 @@ zgsdk.zhugeio.com
 .tags.newscgp.com
 .tags.op-palvelut.fi
 .tags.refinery89.com
+.tagtracking.vibescm.com
 .tagx.nytimes.com
 .tantrumall.club
 .target.mirtesen.ru
@@ -2325,6 +2344,7 @@ zgsdk.zhugeio.com
 .tms.eharmony.co.uk
 .tnla.thenewslens.com
 .tns.simba.taobao.com
+.to.getnitropack.com
 .tongji.mafengwo.cn
 .tongji.meizu.com
 .tools.ranker.com
@@ -2345,6 +2365,7 @@ zgsdk.zhugeio.com
 .tr.marsflag.com
 .tr.n2.hk
 .tr.price.com.hk
+.tr.reco.combz.jp
 .tr.snapchat.com
 .tr.webantenna.info
 .tr.werkenntwen.de
@@ -2562,6 +2583,7 @@ zgsdk.zhugeio.com
 .tracking.s24.com
 .tracking.scenepass.com
 .tracking.searchmarketing.com
+.tracking.sezzle.com
 .tracking.shopstyle.com
 .tracking.shoptogether.buy.com
 .tracking.smartmeapp.com
@@ -2624,6 +2646,7 @@ zgsdk.zhugeio.com
 .trowel.twitch.tv
 .tru.webelapp.com
 .trueffect.underarmour.com
+.trusted-web-seal.cybertrust.ne.jp
 .trx.smdatalabs.com
 .trx3.famousfix.com
 .ts.faz.net

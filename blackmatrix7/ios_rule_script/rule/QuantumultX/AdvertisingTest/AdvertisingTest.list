@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-12 21:04:43
-# HOST-SUFFIX: 63745
+# UPDATED: 2021-01-13 00:37:18
+# HOST-SUFFIX: 63754
 # HOST-KEYWORD: 61
 # IP-CIDR: 240
 # HOST: 4669
-# TOTAL: 68715
+# TOTAL: 68724
 HOST,000lkub.rcomhost.com,AdvertisingTest
 HOST,000lp59.wcomhost.com,AdvertisingTest
 HOST,007angels.com,AdvertisingTest
@@ -8410,7 +8410,6 @@ HOST-SUFFIX,ad.pixnet.net,AdvertisingTest
 HOST-SUFFIX,ad.player.baidu.com,AdvertisingTest
 HOST-SUFFIX,ad.plus-a.net,AdvertisingTest
 HOST-SUFFIX,ad.pornimg.xyz,AdvertisingTest
-HOST-SUFFIX,ad.pr.ameba.jp,AdvertisingTest
 HOST-SUFFIX,ad.pravda.ru,AdvertisingTest
 HOST-SUFFIX,ad.preferances.com,AdvertisingTest
 HOST-SUFFIX,ad.preferences.com,AdvertisingTest
@@ -16579,6 +16578,7 @@ HOST-SUFFIX,beacon.us-west-2.prodaa.netflix.com,AdvertisingTest
 HOST-SUFFIX,beacon.viewlift.com,AdvertisingTest
 HOST-SUFFIX,beacon.walmart.ca,AdvertisingTest
 HOST-SUFFIX,beacon.walmart.com,AdvertisingTest
+HOST-SUFFIX,beacon.watch.impress.co.jp,AdvertisingTest
 HOST-SUFFIX,beacon.wikia-services.com,AdvertisingTest
 HOST-SUFFIX,beacon.www.theguardian.com,AdvertisingTest
 HOST-SUFFIX,beaconacceptable.com,AdvertisingTest
@@ -30622,6 +30622,7 @@ HOST-SUFFIX,gondzizo.com,AdvertisingTest
 HOST-SUFFIX,goneviral.com,AdvertisingTest
 HOST-SUFFIX,gongeeta.net,AdvertisingTest
 HOST-SUFFIX,gongfanglong.cn,AdvertisingTest
+HOST-SUFFIX,gongxifacai21.top,AdvertisingTest
 HOST-SUFFIX,gonosz-majom.com,AdvertisingTest
 HOST-SUFFIX,gontent.steamplay.me,AdvertisingTest
 HOST-SUFFIX,goo2anywhere.com,AdvertisingTest
@@ -30755,6 +30756,7 @@ HOST-SUFFIX,gouweida.cn,AdvertisingTest
 HOST-SUFFIX,gouwubang.com,AdvertisingTest
 HOST-SUFFIX,gouzhibao.cn,AdvertisingTest
 HOST-SUFFIX,govahoyuge.itup.pw,AdvertisingTest
+HOST-SUFFIX,govbeijing.cn,AdvertisingTest
 HOST-SUFFIX,govbusi.info,AdvertisingTest
 HOST-SUFFIX,govdelivery.com,AdvertisingTest
 HOST-SUFFIX,govercomeb.club,AdvertisingTest
@@ -35302,6 +35304,7 @@ HOST-SUFFIX,jelly.mdhv.io,AdvertisingTest
 HOST-SUFFIX,jellyclick.com,AdvertisingTest
 HOST-SUFFIX,jellyfish.pandora.xiaomi.com,AdvertisingTest
 HOST-SUFFIX,jemmgroup.com,AdvertisingTest
+HOST-SUFFIX,jen.jiji.com,AdvertisingTest
 HOST-SUFFIX,jenno.adsb4all.com,AdvertisingTest
 HOST-SUFFIX,jeoldkhy.com,AdvertisingTest
 HOST-SUFFIX,jepmdqcn.com,AdvertisingTest
@@ -46105,6 +46108,7 @@ HOST-SUFFIX,padssup.com,AdvertisingTest
 HOST-SUFFIX,padstm.com,AdvertisingTest
 HOST-SUFFIX,paegcsvchsdlbj.com,AdvertisingTest
 HOST-SUFFIX,paerst.cn,AdvertisingTest
+HOST-SUFFIX,pafovocg.bid,AdvertisingTest
 HOST-SUFFIX,pagaynrbee.com,AdvertisingTest
 HOST-SUFFIX,page-events-ustats.udemy.com,AdvertisingTest
 HOST-SUFFIX,page-hit.de,AdvertisingTest
@@ -48053,6 +48057,7 @@ HOST-SUFFIX,pr-sunshine.de,AdvertisingTest
 HOST-SUFFIX,pr-textlink.de,AdvertisingTest
 HOST-SUFFIX,pr-update.biz,AdvertisingTest
 HOST-SUFFIX,pr.5.p2l.info,AdvertisingTest
+HOST-SUFFIX,pr.ameba.jp,AdvertisingTest
 HOST-SUFFIX,pr.blogflux.com,AdvertisingTest
 HOST-SUFFIX,pr.ikovrov.ru,AdvertisingTest
 HOST-SUFFIX,pr.rusmed.ru,AdvertisingTest
@@ -54670,6 +54675,7 @@ HOST-SUFFIX,sourcengo.com,AdvertisingTest
 HOST-SUFFIX,sourcepoint-mms.aetv.com,AdvertisingTest
 HOST-SUFFIX,sourcepoint-mms.history.com,AdvertisingTest
 HOST-SUFFIX,sourcepoint-mms.mylifetime.com,AdvertisingTest
+HOST-SUFFIX,sourcepoint.dexerto.com,AdvertisingTest
 HOST-SUFFIX,sourcepoint.vice.com,AdvertisingTest
 HOST-SUFFIX,sourcetobin.com,AdvertisingTest
 HOST-SUFFIX,sourmath.com,AdvertisingTest
@@ -57102,6 +57108,7 @@ HOST-SUFFIX,tagsd.com,AdvertisingTest
 HOST-SUFFIX,tagsrvcs.com,AdvertisingTest
 HOST-SUFFIX,tagtic.cn,AdvertisingTest
 HOST-SUFFIX,tagtool.de,AdvertisingTest
+HOST-SUFFIX,tagtracking.vibescm.com,AdvertisingTest
 HOST-SUFFIX,tagtray.com,AdvertisingTest
 HOST-SUFFIX,tagular.com,AdvertisingTest
 HOST-SUFFIX,tagvideo.eu,AdvertisingTest
@@ -59563,6 +59570,7 @@ HOST-SUFFIX,tracking.rtl.de,AdvertisingTest
 HOST-SUFFIX,tracking.s24.com,AdvertisingTest
 HOST-SUFFIX,tracking.salkmarketing.com,AdvertisingTest
 HOST-SUFFIX,tracking.sembox.it,AdvertisingTest
+HOST-SUFFIX,tracking.sezzle.com,AdvertisingTest
 HOST-SUFFIX,tracking.shopback.com,AdvertisingTest
 HOST-SUFFIX,tracking.shopstyle.com,AdvertisingTest
 HOST-SUFFIX,tracking.shoptogether.buy.com,AdvertisingTest
@@ -64581,6 +64589,7 @@ HOST-SUFFIX,wvcdn.cn,AdvertisingTest
 HOST-SUFFIX,wvesvozyuoxg.com,AdvertisingTest
 HOST-SUFFIX,wvfgiio.cn,AdvertisingTest
 HOST-SUFFIX,wvghl.com,AdvertisingTest
+HOST-SUFFIX,wvgrpwdaol.bid,AdvertisingTest
 HOST-SUFFIX,wvhsouzoan.com,AdvertisingTest
 HOST-SUFFIX,wvlveodsvygn.com,AdvertisingTest
 HOST-SUFFIX,wvoahyehtvj.com,AdvertisingTest

@@ -1,7 +1,7 @@
 # NAME: Privacy 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-12 21:04:49
+# UPDATED: 2021-01-13 00:37:25
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Privacy 与 China 共 1 条规则重复
 HOST,safebrowsing.googleapis.com
@@ -2359,7 +2359,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-# Privacy 与 Advertising 共 2632 条规则重复
+# Privacy 与 Advertising 共 2648 条规则重复
 HOST-KEYWORD,log.umeng.com
 HOST-KEYWORD,logs.umeng.com
 HOST-KEYWORD,logs.umengcloud.com
@@ -2696,6 +2696,7 @@ HOST-SUFFIX,beacon.statful.com
 HOST-SUFFIX,beacon.thred.woven.com
 HOST-SUFFIX,beacon.toyota.co.jp
 HOST-SUFFIX,beacon.viewlift.com
+HOST-SUFFIX,beacon.watch.impress.co.jp
 HOST-SUFFIX,beacon.wikia-services.com
 HOST-SUFFIX,beacon.www.theguardian.com
 HOST-SUFFIX,beacons.mediamelon.com
@@ -2751,6 +2752,8 @@ HOST-SUFFIX,buf.lemonde.fr
 HOST-SUFFIX,bulb.76.my
 HOST-SUFFIX,burnhamandhighbridgeweeklynews-gb.burnhamandhighbridgeweeklynews.co.uk
 HOST-SUFFIX,burytimes-gb.burytimes.co.uk
+HOST-SUFFIX,bvr.ast.snva.jp
+HOST-SUFFIX,bvr.snva.jp
 HOST-SUFFIX,bzclk.baidu.com
 HOST-SUFFIX,c.gazetevatan.com
 HOST-SUFFIX,c.holmesmind.com
@@ -2917,6 +2920,7 @@ HOST-SUFFIX,contadores.miarroba.com
 HOST-SUFFIX,contadores.miarroba.es
 HOST-SUFFIX,contents-tracking.beop.io
 HOST-SUFFIX,conversions.genieventures.co.uk
+HOST-SUFFIX,cookie.sync.usonar.jp
 HOST-SUFFIX,cookies.livepartners.com
 HOST-SUFFIX,cookies.reedbusiness.nl
 HOST-SUFFIX,cookietracker.cloudapp.net
@@ -3046,6 +3050,7 @@ HOST-SUFFIX,deepknow.egoid.me
 HOST-SUFFIX,dejavu.mercadolivre.com.br
 HOST-SUFFIX,deliver.oztam.com.au
 HOST-SUFFIX,deliver.ptgncdn.com
+HOST-SUFFIX,delivery.satr.jp
 HOST-SUFFIX,desa.fkapi.net
 HOST-SUFFIX,desb.fkapi.net
 HOST-SUFFIX,desr.fkapi.net
@@ -3469,6 +3474,7 @@ HOST-SUFFIX,itracking.fccinteractive.com
 HOST-SUFFIX,jac.yahoosandbox.com
 HOST-SUFFIX,javascriptcounter.appspot.com
 HOST-SUFFIX,jelly.mdhv.io
+HOST-SUFFIX,jen.jiji.com
 HOST-SUFFIX,jppolid-track.trackprod.integration.jppol.dk
 HOST-SUFFIX,k.kolplay.com
 HOST-SUFFIX,k.rueducommerce.fr
@@ -3874,6 +3880,7 @@ HOST-SUFFIX,polobook.club
 HOST-SUFFIX,pos.baidu.com
 HOST-SUFFIX,powercount.jswelt.de
 HOST-SUFFIX,powersearch.us.com
+HOST-SUFFIX,pr.ameba.jp
 HOST-SUFFIX,pr.blogflux.com
 HOST-SUFFIX,prd-collector-anon.ex.co
 HOST-SUFFIX,prd-collector-anon.playbuzz.com
@@ -3923,6 +3930,7 @@ HOST-SUFFIX,r.my.com
 HOST-SUFFIX,radar.imgsmail.ru
 HOST-SUFFIX,ramp.purch.com
 HOST-SUFFIX,rand.com.ru
+HOST-SUFFIX,ranking.apis.sankei-digital.co.jp
 HOST-SUFFIX,rat.rakuten.co.jp
 HOST-SUFFIX,rbc.magna.ru
 HOST-SUFFIX,rc.vtex.com.br
@@ -3979,6 +3987,7 @@ HOST-SUFFIX,rss.tmgrup.com.tr
 HOST-SUFFIX,rt.flix360.com
 HOST-SUFFIX,rt.prnewswire.com
 HOST-SUFFIX,rta2.metro.co.uk
+HOST-SUFFIX,rtg-endpoint.global.ssl.fastly.net
 HOST-SUFFIX,rtn.thestar.com
 HOST-SUFFIX,rum.azion.com
 HOST-SUFFIX,rum.azioncdn.net
@@ -4062,6 +4071,7 @@ HOST-SUFFIX,soodatmish.com
 HOST-SUFFIX,sourcepoint-mms.aetv.com
 HOST-SUFFIX,sourcepoint-mms.history.com
 HOST-SUFFIX,sourcepoint-mms.mylifetime.com
+HOST-SUFFIX,sourcepoint.dexerto.com
 HOST-SUFFIX,sourcepoint.vice.com
 HOST-SUFFIX,southendstandard-gb.southendstandard.co.uk
 HOST-SUFFIX,southwalesargus-gb.southwalesargus.co.uk
@@ -4461,6 +4471,7 @@ HOST-SUFFIX,tag.aticdn.net
 HOST-SUFFIX,tag.aumago.com
 HOST-SUFFIX,tag.boulanger.fr
 HOST-SUFFIX,tag.brandcdn.com
+HOST-SUFFIX,tag.cribnotes.jp
 HOST-SUFFIX,tag.goldenbees.fr
 HOST-SUFFIX,tag.leadplace.fr
 HOST-SUFFIX,tag.myplay.com
@@ -4478,6 +4489,7 @@ HOST-SUFFIX,tags.msnbc.com
 HOST-SUFFIX,tags.newscgp.com
 HOST-SUFFIX,tags.op-palvelut.fi
 HOST-SUFFIX,tags.refinery89.com
+HOST-SUFFIX,tagtracking.vibescm.com
 HOST-SUFFIX,tagx.nytimes.com
 HOST-SUFFIX,tantrumall.club
 HOST-SUFFIX,target.nejm.org
@@ -4543,6 +4555,7 @@ HOST-SUFFIX,tms.eharmony.ca
 HOST-SUFFIX,tms.eharmony.co.uk
 HOST-SUFFIX,tnla.thenewslens.com
 HOST-SUFFIX,tns.simba.taobao.com
+HOST-SUFFIX,to.getnitropack.com
 HOST-SUFFIX,tongji.mafengwo.cn
 HOST-SUFFIX,tongji.meizu.com
 HOST-SUFFIX,tools.ranker.com
@@ -4562,6 +4575,7 @@ HOST-SUFFIX,tr.interlake.net
 HOST-SUFFIX,tr.marsflag.com
 HOST-SUFFIX,tr.n2.hk
 HOST-SUFFIX,tr.price.com.hk
+HOST-SUFFIX,tr.reco.combz.jp
 HOST-SUFFIX,tr.snapchat.com
 HOST-SUFFIX,tr.webantenna.info
 HOST-SUFFIX,tr.werkenntwen.de
@@ -4756,6 +4770,7 @@ HOST-SUFFIX,tracking.retailrocket.net
 HOST-SUFFIX,tracking.rtl.de
 HOST-SUFFIX,tracking.s24.com
 HOST-SUFFIX,tracking.searchmarketing.com
+HOST-SUFFIX,tracking.sezzle.com
 HOST-SUFFIX,tracking.shopstyle.com
 HOST-SUFFIX,tracking.shoptogether.buy.com
 HOST-SUFFIX,tracking.smartmeapp.com
@@ -4810,6 +4825,7 @@ HOST-SUFFIX,trk.techtarget.com
 HOST-SUFFIX,trowel.twitch.tv
 HOST-SUFFIX,tru.webelapp.com
 HOST-SUFFIX,trueffect.underarmour.com
+HOST-SUFFIX,trusted-web-seal.cybertrust.ne.jp
 HOST-SUFFIX,trx.smdatalabs.com
 HOST-SUFFIX,trx3.famousfix.com
 HOST-SUFFIX,ts.faz.net
@@ -4992,7 +5008,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-# Privacy 与 AdvertisingTest 共 2566 条规则重复
+# Privacy 与 AdvertisingTest 共 2582 条规则重复
 HOST-KEYWORD,log.umeng.com
 HOST-KEYWORD,logs.umeng.com
 HOST-KEYWORD,logs.umengcloud.com
@@ -5320,6 +5336,7 @@ HOST-SUFFIX,beacon.statful.com
 HOST-SUFFIX,beacon.thred.woven.com
 HOST-SUFFIX,beacon.toyota.co.jp
 HOST-SUFFIX,beacon.viewlift.com
+HOST-SUFFIX,beacon.watch.impress.co.jp
 HOST-SUFFIX,beacon.wikia-services.com
 HOST-SUFFIX,beacon.www.theguardian.com
 HOST-SUFFIX,beacons.mediamelon.com
@@ -5370,6 +5387,8 @@ HOST-SUFFIX,buf.lemonde.fr
 HOST-SUFFIX,bulb.76.my
 HOST-SUFFIX,burnhamandhighbridgeweeklynews-gb.burnhamandhighbridgeweeklynews.co.uk
 HOST-SUFFIX,burytimes-gb.burytimes.co.uk
+HOST-SUFFIX,bvr.ast.snva.jp
+HOST-SUFFIX,bvr.snva.jp
 HOST-SUFFIX,bzclk.baidu.com
 HOST-SUFFIX,c.gazetevatan.com
 HOST-SUFFIX,c.holmesmind.com
@@ -5534,6 +5553,7 @@ HOST-SUFFIX,contadores.miarroba.com
 HOST-SUFFIX,contadores.miarroba.es
 HOST-SUFFIX,contents-tracking.beop.io
 HOST-SUFFIX,conversions.genieventures.co.uk
+HOST-SUFFIX,cookie.sync.usonar.jp
 HOST-SUFFIX,cookies.livepartners.com
 HOST-SUFFIX,cookies.reedbusiness.nl
 HOST-SUFFIX,cookietracker.cloudapp.net
@@ -5655,6 +5675,7 @@ HOST-SUFFIX,deepknow.egoid.me
 HOST-SUFFIX,dejavu.mercadolivre.com.br
 HOST-SUFFIX,deliver.oztam.com.au
 HOST-SUFFIX,deliver.ptgncdn.com
+HOST-SUFFIX,delivery.satr.jp
 HOST-SUFFIX,desa.fkapi.net
 HOST-SUFFIX,desb.fkapi.net
 HOST-SUFFIX,desr.fkapi.net
@@ -6072,6 +6093,7 @@ HOST-SUFFIX,itracking.fccinteractive.com
 HOST-SUFFIX,jac.yahoosandbox.com
 HOST-SUFFIX,javascriptcounter.appspot.com
 HOST-SUFFIX,jelly.mdhv.io
+HOST-SUFFIX,jen.jiji.com
 HOST-SUFFIX,jppolid-track.trackprod.integration.jppol.dk
 HOST-SUFFIX,k.kolplay.com
 HOST-SUFFIX,k.rueducommerce.fr
@@ -6470,6 +6492,7 @@ HOST-SUFFIX,polobook.club
 HOST-SUFFIX,pos.baidu.com
 HOST-SUFFIX,powercount.jswelt.de
 HOST-SUFFIX,powersearch.us.com
+HOST-SUFFIX,pr.ameba.jp
 HOST-SUFFIX,pr.blogflux.com
 HOST-SUFFIX,prd-collector-anon.ex.co
 HOST-SUFFIX,prd-collector-anon.playbuzz.com
@@ -6519,6 +6542,7 @@ HOST-SUFFIX,r.my.com
 HOST-SUFFIX,radar.imgsmail.ru
 HOST-SUFFIX,ramp.purch.com
 HOST-SUFFIX,rand.com.ru
+HOST-SUFFIX,ranking.apis.sankei-digital.co.jp
 HOST-SUFFIX,rat.rakuten.co.jp
 HOST-SUFFIX,rc.vtex.com.br
 HOST-SUFFIX,rcgi.video.qq.com
@@ -6573,6 +6597,7 @@ HOST-SUFFIX,rss.tmgrup.com.tr
 HOST-SUFFIX,rt.flix360.com
 HOST-SUFFIX,rt.prnewswire.com
 HOST-SUFFIX,rta2.metro.co.uk
+HOST-SUFFIX,rtg-endpoint.global.ssl.fastly.net
 HOST-SUFFIX,rtn.thestar.com
 HOST-SUFFIX,rum.azion.com
 HOST-SUFFIX,rum.azioncdn.net
@@ -6655,6 +6680,7 @@ HOST-SUFFIX,soodatmish.com
 HOST-SUFFIX,sourcepoint-mms.aetv.com
 HOST-SUFFIX,sourcepoint-mms.history.com
 HOST-SUFFIX,sourcepoint-mms.mylifetime.com
+HOST-SUFFIX,sourcepoint.dexerto.com
 HOST-SUFFIX,sourcepoint.vice.com
 HOST-SUFFIX,southendstandard-gb.southendstandard.co.uk
 HOST-SUFFIX,southwalesargus-gb.southwalesargus.co.uk
@@ -7045,6 +7071,7 @@ HOST-SUFFIX,tag.aticdn.net
 HOST-SUFFIX,tag.aumago.com
 HOST-SUFFIX,tag.boulanger.fr
 HOST-SUFFIX,tag.brandcdn.com
+HOST-SUFFIX,tag.cribnotes.jp
 HOST-SUFFIX,tag.goldenbees.fr
 HOST-SUFFIX,tag.myplay.com
 HOST-SUFFIX,tag.rmp.rakuten.com
@@ -7061,6 +7088,7 @@ HOST-SUFFIX,tags.msnbc.com
 HOST-SUFFIX,tags.newscgp.com
 HOST-SUFFIX,tags.op-palvelut.fi
 HOST-SUFFIX,tags.refinery89.com
+HOST-SUFFIX,tagtracking.vibescm.com
 HOST-SUFFIX,tagx.nytimes.com
 HOST-SUFFIX,tantrumall.club
 HOST-SUFFIX,target.nejm.org
@@ -7124,6 +7152,7 @@ HOST-SUFFIX,tms.eharmony.ca
 HOST-SUFFIX,tms.eharmony.co.uk
 HOST-SUFFIX,tnla.thenewslens.com
 HOST-SUFFIX,tns.simba.taobao.com
+HOST-SUFFIX,to.getnitropack.com
 HOST-SUFFIX,tongji.mafengwo.cn
 HOST-SUFFIX,tongji.meizu.com
 HOST-SUFFIX,tools.ranker.com
@@ -7143,6 +7172,7 @@ HOST-SUFFIX,tr.interlake.net
 HOST-SUFFIX,tr.marsflag.com
 HOST-SUFFIX,tr.n2.hk
 HOST-SUFFIX,tr.price.com.hk
+HOST-SUFFIX,tr.reco.combz.jp
 HOST-SUFFIX,tr.snapchat.com
 HOST-SUFFIX,tr.werkenntwen.de
 HOST-SUFFIX,tr1.mailperformance.com
@@ -7325,6 +7355,7 @@ HOST-SUFFIX,tracking.resumecompanion.com
 HOST-SUFFIX,tracking.retailrocket.net
 HOST-SUFFIX,tracking.rtl.de
 HOST-SUFFIX,tracking.s24.com
+HOST-SUFFIX,tracking.sezzle.com
 HOST-SUFFIX,tracking.shopstyle.com
 HOST-SUFFIX,tracking.shoptogether.buy.com
 HOST-SUFFIX,tracking.smartmeapp.com
@@ -7378,6 +7409,7 @@ HOST-SUFFIX,trk.techtarget.com
 HOST-SUFFIX,trowel.twitch.tv
 HOST-SUFFIX,tru.webelapp.com
 HOST-SUFFIX,trueffect.underarmour.com
+HOST-SUFFIX,trusted-web-seal.cybertrust.ne.jp
 HOST-SUFFIX,trx.smdatalabs.com
 HOST-SUFFIX,trx3.famousfix.com
 HOST-SUFFIX,ts.faz.net

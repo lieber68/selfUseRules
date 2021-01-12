@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-12 21:04:45
-# DOMAIN-SUFFIX: 63745
+# UPDATED: 2021-01-13 00:37:21
+# DOMAIN-SUFFIX: 63754
 # DOMAIN-KEYWORD: 61
 # IP-CIDR: 240
 # DOMAIN: 4669
-# TOTAL: 68715
+# TOTAL: 68724
 payload:
   - '000lkub.rcomhost.com'
   - '000lp59.wcomhost.com'
@@ -8411,7 +8411,6 @@ payload:
   - '.ad.player.baidu.com'
   - '.ad.plus-a.net'
   - '.ad.pornimg.xyz'
-  - '.ad.pr.ameba.jp'
   - '.ad.pravda.ru'
   - '.ad.preferances.com'
   - '.ad.preferences.com'
@@ -16580,6 +16579,7 @@ payload:
   - '.beacon.viewlift.com'
   - '.beacon.walmart.ca'
   - '.beacon.walmart.com'
+  - '.beacon.watch.impress.co.jp'
   - '.beacon.wikia-services.com'
   - '.beacon.www.theguardian.com'
   - '.beaconacceptable.com'
@@ -30623,6 +30623,7 @@ payload:
   - '.goneviral.com'
   - '.gongeeta.net'
   - '.gongfanglong.cn'
+  - '.gongxifacai21.top'
   - '.gonosz-majom.com'
   - '.gontent.steamplay.me'
   - '.goo2anywhere.com'
@@ -30756,6 +30757,7 @@ payload:
   - '.gouwubang.com'
   - '.gouzhibao.cn'
   - '.govahoyuge.itup.pw'
+  - '.govbeijing.cn'
   - '.govbusi.info'
   - '.govdelivery.com'
   - '.govercomeb.club'
@@ -35303,6 +35305,7 @@ payload:
   - '.jellyclick.com'
   - '.jellyfish.pandora.xiaomi.com'
   - '.jemmgroup.com'
+  - '.jen.jiji.com'
   - '.jenno.adsb4all.com'
   - '.jeoldkhy.com'
   - '.jepmdqcn.com'
@@ -46106,6 +46109,7 @@ payload:
   - '.padstm.com'
   - '.paegcsvchsdlbj.com'
   - '.paerst.cn'
+  - '.pafovocg.bid'
   - '.pagaynrbee.com'
   - '.page-events-ustats.udemy.com'
   - '.page-hit.de'
@@ -48054,6 +48058,7 @@ payload:
   - '.pr-textlink.de'
   - '.pr-update.biz'
   - '.pr.5.p2l.info'
+  - '.pr.ameba.jp'
   - '.pr.blogflux.com'
   - '.pr.ikovrov.ru'
   - '.pr.rusmed.ru'
@@ -54671,6 +54676,7 @@ payload:
   - '.sourcepoint-mms.aetv.com'
   - '.sourcepoint-mms.history.com'
   - '.sourcepoint-mms.mylifetime.com'
+  - '.sourcepoint.dexerto.com'
   - '.sourcepoint.vice.com'
   - '.sourcetobin.com'
   - '.sourmath.com'
@@ -57103,6 +57109,7 @@ payload:
   - '.tagsrvcs.com'
   - '.tagtic.cn'
   - '.tagtool.de'
+  - '.tagtracking.vibescm.com'
   - '.tagtray.com'
   - '.tagular.com'
   - '.tagvideo.eu'
@@ -59564,6 +59571,7 @@ payload:
   - '.tracking.s24.com'
   - '.tracking.salkmarketing.com'
   - '.tracking.sembox.it'
+  - '.tracking.sezzle.com'
   - '.tracking.shopback.com'
   - '.tracking.shopstyle.com'
   - '.tracking.shoptogether.buy.com'
@@ -64582,6 +64590,7 @@ payload:
   - '.wvesvozyuoxg.com'
   - '.wvfgiio.cn'
   - '.wvghl.com'
+  - '.wvgrpwdaol.bid'
   - '.wvhsouzoan.com'
   - '.wvlveodsvygn.com'
   - '.wvoahyehtvj.com'

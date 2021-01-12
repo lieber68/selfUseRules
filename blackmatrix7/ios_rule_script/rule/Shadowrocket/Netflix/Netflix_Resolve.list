@@ -1,11 +1,14 @@
 # NAME: Netflix
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-12 21:04:47
+# UPDATED: 2021-01-13 00:37:23
 # USER-AGENT: 1
 # DOMAIN-SUFFIX: 18
 # IP-CIDR: 20
-# TOTAL: 39
+# DOMAIN-KEYWORD: 2
+# DOMAIN: 1
+# TOTAL: 42
+DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
@@ -24,6 +27,8 @@ DOMAIN-SUFFIX,nflximg.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-KEYWORD,dualstack.apiproxy-device-prod-nlb-
+DOMAIN-KEYWORD,dualstack.ichnaea-web-
 IP-CIDR,103.87.204.0/22
 IP-CIDR,108.175.32.0/20
 IP-CIDR,185.2.220.0/22

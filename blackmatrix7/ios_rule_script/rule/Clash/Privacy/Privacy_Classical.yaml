@@ -1,22 +1,29 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-12 21:04:45
-# DOMAIN: 12
-# DOMAIN-SUFFIX: 2796
+# UPDATED: 2021-01-13 00:37:21
+# DOMAIN: 19
+# DOMAIN-SUFFIX: 2812
 # DOMAIN-KEYWORD: 3
-# TOTAL: 2811
+# TOTAL: 2834
 payload:
   - DOMAIN,data.mistat.xiaomi.com
   - DOMAIN,hm.baidu.com
   - DOMAIN,hmma.baidu.com
   - DOMAIN,js.users.51.la
+  - DOMAIN,log-hl-ipv6.snssdk.com
+  - DOMAIN,log-lq.snssdk.com
+  - DOMAIN,log-va.tiktokv.com
+  - DOMAIN,log.byteoversea.com
+  - DOMAIN,log.tiktokv.com
   - DOMAIN,mc.51.la
+  - DOMAIN,mtrace.qq.com
   - DOMAIN,safebrowsing.googleapis.com
   - DOMAIN,safebrowsing.urlsec.qq.com
   - DOMAIN,track.58.com
   - DOMAIN,tracking.intl.miui.com
   - DOMAIN,tracklog.58.com
+  - DOMAIN,wc.51.la
   - DOMAIN,xlog.snssdk.com
   - DOMAIN,zgsdk.zhugeio.com
   - DOMAIN-SUFFIX,0sbm.consobaby.co.uk
@@ -374,6 +381,7 @@ payload:
   - DOMAIN-SUFFIX,beacon.tingyun.com
   - DOMAIN-SUFFIX,beacon.toyota.co.jp
   - DOMAIN-SUFFIX,beacon.viewlift.com
+  - DOMAIN-SUFFIX,beacon.watch.impress.co.jp
   - DOMAIN-SUFFIX,beacon.wikia-services.com
   - DOMAIN-SUFFIX,beacon.www.theguardian.com
   - DOMAIN-SUFFIX,beacon2.indieclick.com
@@ -432,6 +440,8 @@ payload:
   - DOMAIN-SUFFIX,bulb.76.my
   - DOMAIN-SUFFIX,burnhamandhighbridgeweeklynews-gb.burnhamandhighbridgeweeklynews.co.uk
   - DOMAIN-SUFFIX,burytimes-gb.burytimes.co.uk
+  - DOMAIN-SUFFIX,bvr.ast.snva.jp
+  - DOMAIN-SUFFIX,bvr.snva.jp
   - DOMAIN-SUFFIX,bzclk.baidu.com
   - DOMAIN-SUFFIX,c.bigmir.net
   - DOMAIN-SUFFIX,c.gazetevatan.com
@@ -607,6 +617,7 @@ payload:
   - DOMAIN-SUFFIX,contadores.miarroba.es
   - DOMAIN-SUFFIX,contents-tracking.beop.io
   - DOMAIN-SUFFIX,conversions.genieventures.co.uk
+  - DOMAIN-SUFFIX,cookie.sync.usonar.jp
   - DOMAIN-SUFFIX,cookies.livepartners.com
   - DOMAIN-SUFFIX,cookies.reedbusiness.nl
   - DOMAIN-SUFFIX,cookietracker.cloudapp.net
@@ -742,6 +753,7 @@ payload:
   - DOMAIN-SUFFIX,dejavu.mercadolivre.com.br
   - DOMAIN-SUFFIX,deliver.oztam.com.au
   - DOMAIN-SUFFIX,deliver.ptgncdn.com
+  - DOMAIN-SUFFIX,delivery.satr.jp
   - DOMAIN-SUFFIX,desa.fkapi.net
   - DOMAIN-SUFFIX,desb.fkapi.net
   - DOMAIN-SUFFIX,desr.fkapi.net
@@ -1185,6 +1197,7 @@ payload:
   - DOMAIN-SUFFIX,jac.yahoosandbox.com
   - DOMAIN-SUFFIX,javascriptcounter.appspot.com
   - DOMAIN-SUFFIX,jelly.mdhv.io
+  - DOMAIN-SUFFIX,jen.jiji.com
   - DOMAIN-SUFFIX,jppolid-track.trackprod.integration.jppol.dk
   - DOMAIN-SUFFIX,k.kolplay.com
   - DOMAIN-SUFFIX,k.rueducommerce.fr
@@ -1618,6 +1631,7 @@ payload:
   - DOMAIN-SUFFIX,postpixel.vindicosuite.com
   - DOMAIN-SUFFIX,powercount.jswelt.de
   - DOMAIN-SUFFIX,powersearch.us.com
+  - DOMAIN-SUFFIX,pr.ameba.jp
   - DOMAIN-SUFFIX,pr.blogflux.com
   - DOMAIN-SUFFIX,prd-collector-anon.ex.co
   - DOMAIN-SUFFIX,prd-collector-anon.playbuzz.com
@@ -1670,6 +1684,7 @@ payload:
   - DOMAIN-SUFFIX,radar.imgsmail.ru
   - DOMAIN-SUFFIX,ramp.purch.com
   - DOMAIN-SUFFIX,rand.com.ru
+  - DOMAIN-SUFFIX,ranking.apis.sankei-digital.co.jp
   - DOMAIN-SUFFIX,rat.rakuten.co.jp
   - DOMAIN-SUFFIX,rbc.magna.ru
   - DOMAIN-SUFFIX,rc.rlcdn.com
@@ -1731,6 +1746,7 @@ payload:
   - DOMAIN-SUFFIX,rt.flix360.com
   - DOMAIN-SUFFIX,rt.prnewswire.com
   - DOMAIN-SUFFIX,rta2.metro.co.uk
+  - DOMAIN-SUFFIX,rtg-endpoint.global.ssl.fastly.net
   - DOMAIN-SUFFIX,rtn.thestar.com
   - DOMAIN-SUFFIX,rtt.campanja.com
   - DOMAIN-SUFFIX,rum.azion.com
@@ -1820,6 +1836,7 @@ payload:
   - DOMAIN-SUFFIX,sourcepoint-mms.aetv.com
   - DOMAIN-SUFFIX,sourcepoint-mms.history.com
   - DOMAIN-SUFFIX,sourcepoint-mms.mylifetime.com
+  - DOMAIN-SUFFIX,sourcepoint.dexerto.com
   - DOMAIN-SUFFIX,sourcepoint.vice.com
   - DOMAIN-SUFFIX,southendstandard-gb.southendstandard.co.uk
   - DOMAIN-SUFFIX,southwalesargus-gb.southwalesargus.co.uk
@@ -2235,6 +2252,7 @@ payload:
   - DOMAIN-SUFFIX,tag.aumago.com
   - DOMAIN-SUFFIX,tag.boulanger.fr
   - DOMAIN-SUFFIX,tag.brandcdn.com
+  - DOMAIN-SUFFIX,tag.cribnotes.jp
   - DOMAIN-SUFFIX,tag.goldenbees.fr
   - DOMAIN-SUFFIX,tag.leadplace.fr
   - DOMAIN-SUFFIX,tag.myplay.com
@@ -2253,6 +2271,7 @@ payload:
   - DOMAIN-SUFFIX,tags.newscgp.com
   - DOMAIN-SUFFIX,tags.op-palvelut.fi
   - DOMAIN-SUFFIX,tags.refinery89.com
+  - DOMAIN-SUFFIX,tagtracking.vibescm.com
   - DOMAIN-SUFFIX,tagx.nytimes.com
   - DOMAIN-SUFFIX,tantrumall.club
   - DOMAIN-SUFFIX,target.mirtesen.ru
@@ -2326,6 +2345,7 @@ payload:
   - DOMAIN-SUFFIX,tms.eharmony.co.uk
   - DOMAIN-SUFFIX,tnla.thenewslens.com
   - DOMAIN-SUFFIX,tns.simba.taobao.com
+  - DOMAIN-SUFFIX,to.getnitropack.com
   - DOMAIN-SUFFIX,tongji.mafengwo.cn
   - DOMAIN-SUFFIX,tongji.meizu.com
   - DOMAIN-SUFFIX,tools.ranker.com
@@ -2346,6 +2366,7 @@ payload:
   - DOMAIN-SUFFIX,tr.marsflag.com
   - DOMAIN-SUFFIX,tr.n2.hk
   - DOMAIN-SUFFIX,tr.price.com.hk
+  - DOMAIN-SUFFIX,tr.reco.combz.jp
   - DOMAIN-SUFFIX,tr.snapchat.com
   - DOMAIN-SUFFIX,tr.webantenna.info
   - DOMAIN-SUFFIX,tr.werkenntwen.de
@@ -2563,6 +2584,7 @@ payload:
   - DOMAIN-SUFFIX,tracking.s24.com
   - DOMAIN-SUFFIX,tracking.scenepass.com
   - DOMAIN-SUFFIX,tracking.searchmarketing.com
+  - DOMAIN-SUFFIX,tracking.sezzle.com
   - DOMAIN-SUFFIX,tracking.shopstyle.com
   - DOMAIN-SUFFIX,tracking.shoptogether.buy.com
   - DOMAIN-SUFFIX,tracking.smartmeapp.com
@@ -2625,6 +2647,7 @@ payload:
   - DOMAIN-SUFFIX,trowel.twitch.tv
   - DOMAIN-SUFFIX,tru.webelapp.com
   - DOMAIN-SUFFIX,trueffect.underarmour.com
+  - DOMAIN-SUFFIX,trusted-web-seal.cybertrust.ne.jp
   - DOMAIN-SUFFIX,trx.smdatalabs.com
   - DOMAIN-SUFFIX,trx3.famousfix.com
   - DOMAIN-SUFFIX,ts.faz.net
