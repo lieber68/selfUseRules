@@ -1,0 +1,9 @@
+# NAME: LiTV
+# AUTHOR: blackmatrix7
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-01-12 21:04:43
+# HOST-SUFFIX: 1
+# HOST: 1
+# TOTAL: 2
+HOST,litvfreemobile-hichannel.cdn.hinet.net,LiTV
+HOST-SUFFIX,litv.tv,LiTV

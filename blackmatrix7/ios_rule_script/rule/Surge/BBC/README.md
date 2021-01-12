@@ -8,18 +8,20 @@
 
 
 
-最后检查时间：2021-01-12 03:02:32。
+最后检查时间：2021-01-12 21:04:57。
 
 ## 规则统计
 
-总计规则：3 条。
+总计规则：17 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-KEYWORD | 1 |
-| DOMAIN-SUFFIX | 2 |
+| DOMAIN-KEYWORD | 2 |
+| DOMAIN-SUFFIX | 8 |
+| USER-AGENT | 1 |
+| DOMAIN | 6 |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -47,9 +49,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 27942   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BBC/BBC_Repeat.list)   |   0.01% |
-|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 1292   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BBC/BBC_Repeat.list)   |   0.15% |
-|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia)    | 1145   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BBC/BBC_Repeat.list)   |   0.26% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 27943   | [10](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BBC/BBC_Repeat.list)   |   0.04% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 1292   | [6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BBC/BBC_Repeat.list)   |   0.46% |
+|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia)    | 1145   | [8](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BBC/BBC_Repeat.list)   |   0.7% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 
@@ -58,6 +60,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 本项目的BBC分流规则的数据来自以下链接，通常已涵盖所有数据来源的分流规则。如果你正在使用这些分流规则，建议不要与本项目的BBC分流规则混合使用，以免造成规则重复。
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/BBC.list
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/BBC.list
 
 
 感谢以上分流规则作者的辛勤付出（排名不分先后）。

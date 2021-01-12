@@ -1,7 +1,7 @@
 # NAME: BlackList 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-12 03:02:28
+# UPDATED: 2021-01-12 21:04:49
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # BlackList 与 China 共 22 条规则重复
 HOST-SUFFIX,apache.org
@@ -84,7 +84,8 @@ HOST-SUFFIX,msedge.net
 HOST-SUFFIX,office365.com
 HOST-SUFFIX,onenote.com
 HOST-SUFFIX,sfx.ms
-# BlackList 与 YouTube 共 2 条规则重复
+# BlackList 与 YouTube 共 3 条规则重复
+HOST-SUFFIX,ggpht.com
 HOST-SUFFIX,youtu.be
 HOST-SUFFIX,ytimg.com
 # BlackList 与 Google 共 41 条规则重复
@@ -197,6 +198,16 @@ HOST-SUFFIX,riotgames.com
 # BlackList 与 Epic 共 1 条规则重复
 HOST-SUFFIX,helpshift.com
 # BlackList 与 WildRift 共 2 条规则重复
+HOST-SUFFIX,riotcdn.net
+HOST-SUFFIX,riotgames.com
+# BlackList 与 Garena 共 1 条规则重复
+HOST-SUFFIX,garena.com
+# BlackList 与 Nintendo 共 4 条规则重复
+HOST-SUFFIX,nintendo.com
+HOST-SUFFIX,nintendo.net
+HOST-SUFFIX,pokemon.com
+HOST-SUFFIX,supermariorun.com
+# BlackList 与 Riot 共 2 条规则重复
 HOST-SUFFIX,riotcdn.net
 HOST-SUFFIX,riotgames.com
 # BlackList 与 Proxy 共 758 条规则重复
@@ -1688,6 +1699,9 @@ IP-CIDR,203.104.103.0/24
 IP-CIDR,203.104.128.0/20
 IP-CIDR,203.174.66.64/26
 IP-CIDR,203.174.77.0/24
+# BlackList 与 Disney 共 2 条规则重复
+HOST-SUFFIX,adobedtm.com
+HOST-SUFFIX,go.com
 # BlackList 与 Twitter 共 7 条规则重复
 HOST-KEYWORD,twitter
 HOST-SUFFIX,periscope.tv
@@ -1777,3 +1791,49 @@ HOST-SUFFIX,macromedia.com
 HOST-SUFFIX,symcb.com
 HOST-SUFFIX,symcd.com
 HOST-SUFFIX,typekit.net
+# BlackList 与 AmazonPrimeVideo 共 1 条规则重复
+HOST-SUFFIX,llnwd.net
+# BlackList 与 AppleDaily 共 1 条规则重复
+HOST-SUFFIX,nextmedia.com
+# BlackList 与 BoXun 共 1 条规则重复
+HOST-SUFFIX,boxun.com
+# BlackList 与 CNN 共 1 条规则重复
+HOST-SUFFIX,cnn.com
+# BlackList 与 CableTV 共 1 条规则重复
+HOST-SUFFIX,i-cable.com
+# BlackList 与 Fox 共 1 条规则重复
+HOST-SUFFIX,fxnetworks.com
+# BlackList 与 Kakao 共 9 条规则重复
+HOST-SUFFIX,kakao.co.kr
+HOST-SUFFIX,kakao.com
+HOST-SUFFIX,kakaocdn.net
+IP-CIDR,1.201.0.0/24
+IP-CIDR,103.246.56.0/22
+IP-CIDR,103.27.148.0/22
+IP-CIDR,110.76.140.0/22
+IP-CIDR,113.61.104.0/22
+IP-CIDR,27.0.236.0/22
+# BlackList 与 LineTV 共 2 条规则重复
+HOST-SUFFIX,line-cdn.net
+HOST-SUFFIX,line-scdn.net
+# BlackList 与 NYTimes 共 4 条规则重复
+HOST-SUFFIX,nyt.com
+HOST-SUFFIX,nytimes.com
+HOST-SUFFIX,nytimg.com
+HOST-SUFFIX,nytstyle.com
+# BlackList 与 RTHK 共 1 条规则重复
+HOST-SUFFIX,rthk.hk
+# BlackList 与 SoundCloud 共 2 条规则重复
+HOST-SUFFIX,sndcdn.com
+HOST-SUFFIX,soundcloud.com
+# BlackList 与 VOA 共 1 条规则重复
+HOST-SUFFIX,voachinese.com
+# BlackList 与 Vimeo 共 2 条规则重复
+HOST-SUFFIX,vimeo.com
+HOST-SUFFIX,vimeocdn.com
+# BlackList 与 ViuTV 共 2 条规则重复
+HOST-SUFFIX,viu.com
+HOST-SUFFIX,viu.tv
+# BlackList 与 Voxmedia 共 2 条规则重复
+HOST-SUFFIX,theverge.com
+HOST-SUFFIX,vox-cdn.com

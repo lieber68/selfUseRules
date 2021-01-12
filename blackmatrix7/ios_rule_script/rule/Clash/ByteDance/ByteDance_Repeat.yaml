@@ -1,7 +1,7 @@
 # NAME: ByteDance 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-12 03:02:28
+# UPDATED: 2021-01-12 21:04:50
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 # ByteDance 与 Baidu 共 1 条规则重复
@@ -14,7 +14,7 @@ payload:
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,toutiao.com
-# ByteDance 与 ChinaTest 共 61 条规则重复
+# ByteDance 与 ChinaTest 共 62 条规则重复
   - DOMAIN-SUFFIX,amemv.com
   - DOMAIN-SUFFIX,baike.com
   - DOMAIN-SUFFIX,bdgslb.com
@@ -46,6 +46,7 @@ payload:
   - DOMAIN-SUFFIX,neihanshequ.com
   - DOMAIN-SUFFIX,oceanengine.com
   - DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
   - DOMAIN-SUFFIX,pglstatp-toutiao.com
   - DOMAIN-SUFFIX,pstatp.com
@@ -76,6 +77,20 @@ payload:
   - DOMAIN-SUFFIX,zjbyte.com
   - DOMAIN-SUFFIX,zjcdn.com
   - DOMAIN-SUFFIX,zjgslb.com
+# ByteDance 与 JueJin 共 10 条规则重复
+  - DOMAIN-SUFFIX,juejin.im
+  - DOMAIN-SUFFIX,p1-juejin.byteimg.com
+  - DOMAIN-SUFFIX,p2-juejin.byteimg.com
+  - DOMAIN-SUFFIX,p3-juejin.byteimg.com
+  - DOMAIN-SUFFIX,p4-juejin.byteimg.com
+  - DOMAIN-SUFFIX,p5-juejin.byteimg.com
+  - DOMAIN-SUFFIX,p6-juejin.byteimg.com
+  - DOMAIN-SUFFIX,p7-juejin.byteimg.com
+  - DOMAIN-SUFFIX,p8-juejin.byteimg.com
+  - DOMAIN-SUFFIX,p9-juejin.byteimg.com
+# ByteDance 与 KuaiShou 共 2 条规则重复
+  - DOMAIN-SUFFIX,gifshow.com
+  - DOMAIN-SUFFIX,kspkg.com
 # ByteDance 与 AdvertisingLite 共 1 条规则重复
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 # ByteDance 与 Advertising 共 2 条规则重复
@@ -86,3 +101,6 @@ payload:
   - DOMAIN-SUFFIX,toutiaopage.com
 # ByteDance 与 Proxy 共 1 条规则重复
   - DOMAIN-SUFFIX,amemv.com
+# ByteDance 与 TikTok 共 2 条规则重复
+  - DOMAIN-SUFFIX,amemv.com
+  - DOMAIN-SUFFIX,snssdk.com

@@ -1,11 +1,11 @@
 # NAME: ChinaTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-12 03:02:28
+# UPDATED: 2021-01-12 21:04:48
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # ChinaTest 与 WhiteList 共 1 条规则重复
 HOST,analytics.strava.com
-# ChinaTest 与 Bilibili 共 20 条规则重复
+# ChinaTest 与 BiliBili 共 20 条规则重复
 HOST-SUFFIX,acg.tv
 HOST-SUFFIX,acgvideo.com
 HOST-SUFFIX,b23.tv
@@ -26,10 +26,20 @@ HOST-SUFFIX,mcbbs.net
 HOST-SUFFIX,mincdn.com
 HOST-SUFFIX,smtcdns.net
 HOST-SUFFIX,upos-hz-mirrorakam.akamaized.net
-# ChinaTest 与 DiDi 共 3 条规则重复
+# ChinaTest 与 DiDi 共 13 条规则重复
+HOST-SUFFIX,didi-food.com
 HOST-SUFFIX,didialift.com
+HOST-SUFFIX,didiaustralia.blog
+HOST-SUFFIX,didichuxing.com
 HOST-SUFFIX,didiglobal.com
+HOST-SUFFIX,didimobility.co.jp
+HOST-SUFFIX,didiqiche.com
+HOST-SUFFIX,didistatic.com
+HOST-SUFFIX,didiwuxian.com
+HOST-SUFFIX,didiyun.com
+HOST-SUFFIX,didiyunapi.com
 HOST-SUFFIX,udache.com
+HOST-SUFFIX,xiaojukeji.com
 # ChinaTest 与 Meitu 共 4 条规则重复
 HOST-SUFFIX,meipai.com
 HOST-SUFFIX,meitu.com
@@ -38,12 +48,35 @@ HOST-SUFFIX,meitustat.com
 # ChinaTest 与 Pinduoduo 共 2 条规则重复
 HOST-SUFFIX,pinduoduo.com
 HOST-SUFFIX,yangkeduo.com
-# ChinaTest 与 Sina 共 9 条规则重复
+# ChinaTest 与 Sina 共 32 条规则重复
+HOST-SUFFIX,1kapp.com
+HOST-SUFFIX,51xiancheng.com
+HOST-SUFFIX,appchizi.com
+HOST-SUFFIX,applinzi.com
+HOST-SUFFIX,appsina.com
+HOST-SUFFIX,dnssina.com
+HOST-SUFFIX,kandian.com
+HOST-SUFFIX,kandian.net
 HOST-SUFFIX,leju.com
 HOST-SUFFIX,miaopai.com
+HOST-SUFFIX,saebbs.com
+HOST-SUFFIX,sc2yun.com
 HOST-SUFFIX,sina.com
+HOST-SUFFIX,sina.net
 HOST-SUFFIX,sinaapp.com
+HOST-SUFFIX,sinacdn.com
+HOST-SUFFIX,sinacloud.com
+HOST-SUFFIX,sinacloud.net
+HOST-SUFFIX,sinaedge.com
+HOST-SUFFIX,sinaimg.cn
 HOST-SUFFIX,sinaimg.com
+HOST-SUFFIX,sinanet.com
+HOST-SUFFIX,sinastorage.com
+HOST-SUFFIX,sinasws.com
+HOST-SUFFIX,sinauda.com
+HOST-SUFFIX,vipsinaapp.com
+HOST-SUFFIX,wan68.com
+HOST-SUFFIX,wbimg.com
 HOST-SUFFIX,weibo.cn
 HOST-SUFFIX,weibo.com
 HOST-SUFFIX,weibocdn.com
@@ -214,7 +247,7 @@ HOST-SUFFIX,xiaomicp.com
 HOST-SUFFIX,weibo.cn
 HOST-SUFFIX,weibo.com
 HOST-SUFFIX,weibocdn.com
-# ChinaTest 与 ByteDance 共 61 条规则重复
+# ChinaTest 与 ByteDance 共 62 条规则重复
 HOST-SUFFIX,amemv.com
 HOST-SUFFIX,baike.com
 HOST-SUFFIX,bdgslb.com
@@ -246,6 +279,7 @@ HOST-SUFFIX,kspkg.com
 HOST-SUFFIX,neihanshequ.com
 HOST-SUFFIX,oceanengine.com
 HOST-SUFFIX,pangolin-dsp-toutiao.com
+HOST-SUFFIX,pangolin-sdk-toutiao-b.com
 HOST-SUFFIX,pangolin-sdk-toutiao.com
 HOST-SUFFIX,pglstatp-toutiao.com
 HOST-SUFFIX,pstatp.com
@@ -993,26 +1027,157 @@ HOST-SUFFIX,huawei.com
 HOST-SUFFIX,hwccpc.com
 HOST-SUFFIX,vmall.com
 HOST-SUFFIX,vmallres.com
-# ChinaTest 与 Tencent 共 19 条规则重复
+# ChinaTest 与 Tencent 共 150 条规则重复
+HOST-SUFFIX,accessibilityunion.org
+HOST-SUFFIX,agcloudcs.com
+HOST-SUFFIX,apcdns.net
+HOST-SUFFIX,apdcdn.com
+HOST-SUFFIX,ating.info
+HOST-SUFFIX,cdntip.com
+HOST-SUFFIX,cdntips.com
+HOST-SUFFIX,cdntips.net
+HOST-SUFFIX,cmfu.com
+HOST-SUFFIX,comsenz.com
+HOST-SUFFIX,dayugslb.com
+HOST-SUFFIX,dcloudlive.com
+HOST-SUFFIX,dcloudstc.com
+HOST-SUFFIX,discuz.com
+HOST-SUFFIX,discuz.net
+HOST-SUFFIX,discuz.org
+HOST-SUFFIX,dns.pub
+HOST-SUFFIX,dnspod.com
+HOST-SUFFIX,dnspod.net
+HOST-SUFFIX,dnspod.org
+HOST-SUFFIX,dnsv1.com
+HOST-SUFFIX,dnsv2.com
+HOST-SUFFIX,dnsv3.com
+HOST-SUFFIX,dnsv4.com
+HOST-SUFFIX,dnsv5.com
+HOST-SUFFIX,doh.pub
+HOST-SUFFIX,douyu.com
+HOST-SUFFIX,douyu.tv
+HOST-SUFFIX,douyuscdn.com
+HOST-SUFFIX,douyutv.com
+HOST-SUFFIX,ettdnsv.com
+HOST-SUFFIX,flzhan.com
 HOST-SUFFIX,foxmail.com
+HOST-SUFFIX,fsllq.com
+HOST-SUFFIX,fyeds0.com
+HOST-SUFFIX,fyeds1.com
+HOST-SUFFIX,fyeds2.com
+HOST-SUFFIX,fyeds3.com
+HOST-SUFFIX,fyeds4.com
+HOST-SUFFIX,fyeds5.com
+HOST-SUFFIX,fyeds6.com
+HOST-SUFFIX,fyeds7.com
+HOST-SUFFIX,fyeds8.com
+HOST-SUFFIX,fyeds9.com
+HOST-SUFFIX,gaapqcloud.com
+HOST-SUFFIX,gcloudcs.com
+HOST-SUFFIX,gdtimg.com
+HOST-SUFFIX,gsadds.com
+HOST-SUFFIX,gtgres.com
 HOST-SUFFIX,gtimg.com
+HOST-SUFFIX,haina.com
+HOST-SUFFIX,hongxiu.com
+HOST-SUFFIX,huya.com
 HOST-SUFFIX,idqqimg.com
 HOST-SUFFIX,igamecj.com
+HOST-SUFFIX,imqq.com
+HOST-SUFFIX,kting.info
+HOST-SUFFIX,lexiangla.com
+HOST-SUFFIX,lightalk.com
+HOST-SUFFIX,lrts.me
+HOST-SUFFIX,miloli.info
+HOST-SUFFIX,mting.info
 HOST-SUFFIX,myapp.com
 HOST-SUFFIX,myqcloud.com
+HOST-SUFFIX,myqcloud.net
+HOST-SUFFIX,nagcloudcs.com
+HOST-SUFFIX,onexmail.com
+HOST-SUFFIX,ovscdns.com
+HOST-SUFFIX,ovscdns.net
+HOST-SUFFIX,pcmgr-global.com
+HOST-SUFFIX,pengyou.com
+HOST-SUFFIX,qbview.com
+HOST-SUFFIX,qcloud.com
+HOST-SUFFIX,qcloud.la
+HOST-SUFFIX,qcloudcdn.com
+HOST-SUFFIX,qcloudcjgj.com
+HOST-SUFFIX,qcloudimg.com
+HOST-SUFFIX,qcloudwzgj.com
+HOST-SUFFIX,qcloudzygj.com
+HOST-SUFFIX,qdmm.com
+HOST-SUFFIX,qdwenxue.com
+HOST-SUFFIX,qidian.com
+HOST-SUFFIX,qlogo.cn
+HOST-SUFFIX,qmail.com
+HOST-SUFFIX,qpic.cn
+HOST-SUFFIX,qplus.com
 HOST-SUFFIX,qq.com
 HOST-SUFFIX,qqmail.com
+HOST-SUFFIX,qqopenapp.com
 HOST-SUFFIX,qqurl.com
+HOST-SUFFIX,qstatic.com
+HOST-SUFFIX,qzone.com
+HOST-SUFFIX,qzoneapp.com
+HOST-SUFFIX,rdgz.org
+HOST-SUFFIX,readnovel.com
+HOST-SUFFIX,romzj.com
+HOST-SUFFIX,rootjl.com
+HOST-SUFFIX,rtxapp.com
+HOST-SUFFIX,safejmp.com
+HOST-SUFFIX,servicewechat.com
+HOST-SUFFIX,shuame.com
 HOST-SUFFIX,smtcdns.com
 HOST-SUFFIX,smtcdns.net
 HOST-SUFFIX,soso.com
+HOST-SUFFIX,spcdntip.com
+HOST-SUFFIX,taotao.com
+HOST-SUFFIX,tcdnlive.com
+HOST-SUFFIX,tcdnos.com
+HOST-SUFFIX,tcdnvod.com
+HOST-SUFFIX,tcloudbase.com
+HOST-SUFFIX,tcloudscdn.com
+HOST-SUFFIX,tcloudscdn.net
+HOST-SUFFIX,tdnsv1.com
+HOST-SUFFIX,tdnsv5.com
+HOST-SUFFIX,tdnsv6.com
+HOST-SUFFIX,tencdns.net
+HOST-SUFFIX,tencent-cloud.com
 HOST-SUFFIX,tencent-cloud.net
 HOST-SUFFIX,tencent.com
+HOST-SUFFIX,tencent.com.hk
+HOST-SUFFIX,tencentads.com
+HOST-SUFFIX,tencentclb.com
+HOST-SUFFIX,tencentcloudapi.com
+HOST-SUFFIX,tencentcs.com
+HOST-SUFFIX,tencentipv6.com
+HOST-SUFFIX,tencentlog.com
 HOST-SUFFIX,tencentmind.com
+HOST-SUFFIX,tencentmusic.com
+HOST-SUFFIX,tencentyun.com
 HOST-SUFFIX,tenpay.com
+HOST-SUFFIX,tgovcloud.com
+HOST-SUFFIX,tingbook.com
+HOST-SUFFIX,twsapp.com
+HOST-SUFFIX,ugdtimg.com
+HOST-SUFFIX,upqzfile.com
+HOST-SUFFIX,upqzfilebk.com
+HOST-SUFFIX,voovlive.com
+HOST-SUFFIX,webnovel.com
 HOST-SUFFIX,wechat.com
+HOST-SUFFIX,wechatpay.com.hk
+HOST-SUFFIX,wegame.com
+HOST-SUFFIX,weishi.com
 HOST-SUFFIX,weixin.com
+HOST-SUFFIX,weixinbridge.com
+HOST-SUFFIX,weixinsxy.com
 HOST-SUFFIX,weiyun.com
+HOST-SUFFIX,wnsqzonebk.com
+HOST-SUFFIX,wting.info
+HOST-SUFFIX,xxsy.net
+HOST-SUFFIX,yuewen.com
 # ChinaTest 与 ChinaMedia 共 49 条规则重复
 HOST-SUFFIX,56.com
 HOST-SUFFIX,71.am
@@ -1073,7 +1238,19 @@ HOST-SUFFIX,lofter.com
 HOST-SUFFIX,netease.com
 HOST-SUFFIX,ydstatic.com
 HOST-SUFFIX,youdao.com
-# ChinaTest 与 iQiyi 共 1 条规则重复
+# ChinaTest 与 iQIYI 共 13 条规则重复
+HOST-SUFFIX,71.am
+HOST-SUFFIX,71.am.com
+HOST-SUFFIX,71edge.com
+HOST-SUFFIX,gitv.tv
+HOST-SUFFIX,iqiyi.com
+HOST-SUFFIX,iqiyipic.com
+HOST-SUFFIX,pps.tv
+HOST-SUFFIX,ppsimg.com
+HOST-SUFFIX,ppstream.com
+HOST-SUFFIX,ppstream.net
+HOST-SUFFIX,qiyi.com
+HOST-SUFFIX,qiyipic.com
 HOST-SUFFIX,qy.net
 # ChinaTest 与 Douyu 共 4 条规则重复
 HOST-SUFFIX,douyu.com
@@ -1628,6 +1805,1153 @@ HOST-SUFFIX,tuer123.com
 HOST-SUFFIX,we4399.com
 HOST-SUFFIX,youba.com
 HOST-SUFFIX,yxhhdl.com
+# ChinaTest 与 DaMai 共 2 条规则重复
+HOST-SUFFIX,maitix.com
+HOST-SUFFIX,maitix.net
+# ChinaTest 与 DanDanZan 共 7 条规则重复
+HOST-SUFFIX,343480.com
+HOST-SUFFIX,baduziyuan.com
+HOST-SUFFIX,com-hs-hkdy.com
+HOST-SUFFIX,czybjz.com
+HOST-SUFFIX,dandanzan.com
+HOST-SUFFIX,fjhps.com
+HOST-SUFFIX,kuyunbo.club
+# ChinaTest 与 Dandanplay 共 2 条规则重复
+HOST-SUFFIX,acplay.net
+HOST-SUFFIX,dandanplay.com
+# ChinaTest 与 DangDang 共 1 条规则重复
+HOST-SUFFIX,dangdang.com
+# ChinaTest 与 Dedao 共 6 条规则重复
+HOST-SUFFIX,biji.com
+HOST-SUFFIX,ddmogo.com
+HOST-SUFFIX,igetget.com
+HOST-SUFFIX,luojilab.com
+HOST-SUFFIX,mogoo.com
+HOST-SUFFIX,saolife.com
+# ChinaTest 与 Deepin 共 3 条规则重复
+HOST-SUFFIX,deepin.com
+HOST-SUFFIX,deepin.io
+HOST-SUFFIX,deepin.org
+# ChinaTest 与 DiSiFanShi 共 1 条规则重复
+HOST-SUFFIX,4paradigm.com
+# ChinaTest 与 DianCeWangKe 共 3 条规则重复
+HOST-SUFFIX,pgyer.com
+HOST-SUFFIX,tracup.com
+HOST-SUFFIX,xcxwo.com
+# ChinaTest 与 DingTalk 共 7 条规则重复
+HOST-SUFFIX,ddurl.to
+HOST-SUFFIX,dingding.xin
+HOST-SUFFIX,dingtalk.com
+HOST-SUFFIX,dingtalk.net
+HOST-SUFFIX,dingtalkapps.com
+HOST-SUFFIX,laiwang.com
+HOST-SUFFIX,lwurl.to
+# ChinaTest 与 DingXiangYuan 共 3 条规则重复
+HOST-SUFFIX,dxy.com
+HOST-SUFFIX,dxy.me
+HOST-SUFFIX,dxycdn.com
+# ChinaTest 与 Domob 共 3 条规则重复
+HOST-SUFFIX,dmrtb.com
+HOST-SUFFIX,domobcdn.com
+HOST-SUFFIX,domobnetwork.com
+# ChinaTest 与 DouBan 共 3 条规则重复
+HOST-SUFFIX,douban.com
+HOST-SUFFIX,douban.fm
+HOST-SUFFIX,doubanio.com
+# ChinaTest 与 EastMoney 共 8 条规则重复
+HOST-SUFFIX,dfcfw.com
+HOST-SUFFIX,eastmoney.com
+HOST-SUFFIX,eastmoneyfutures.com
+HOST-SUFFIX,emsec.hk
+HOST-SUFFIX,langke.tv
+HOST-SUFFIX,uufund.com
+HOST-SUFFIX,xzsec.com
+HOST-SUFFIX,zhaiba.com
+# ChinaTest 与 Eleme 共 5 条规则重复
+HOST-SUFFIX,ele.me
+HOST-SUFFIX,ele.to
+HOST-SUFFIX,eleme.io
+HOST-SUFFIX,elemecdn.com
+HOST-SUFFIX,elenet.me
+# ChinaTest 与 FeiZhu 共 11 条规则重复
+HOST-SUFFIX,alitrip.com
+HOST-SUFFIX,asczwa.com
+HOST-SUFFIX,asczxcefsv.com
+HOST-SUFFIX,bcvbw.com
+HOST-SUFFIX,dfkhgj.com
+HOST-SUFFIX,ereuiib.com
+HOST-SUFFIX,feizhu.com
+HOST-SUFFIX,fliggy.com
+HOST-SUFFIX,fliggy.hk
+HOST-SUFFIX,iuynfg.com
+HOST-SUFFIX,jhgtgb.com
+# ChinaTest 与 FengHuangWang 共 5 条规则重复
+HOST-SUFFIX,fengedu.com
+HOST-SUFFIX,ifeng.com
+HOST-SUFFIX,ifengimg.com
+HOST-SUFFIX,ifengweekly.com
+HOST-SUFFIX,phoenixtv.com
+# ChinaTest 与 FengXiaWangLuo 共 6 条规则重复
+HOST-SUFFIX,158c.com
+HOST-SUFFIX,ali213.net
+HOST-SUFFIX,fengyx.com
+HOST-SUFFIX,fhyx.com
+HOST-SUFFIX,iyouxia.com
+HOST-SUFFIX,wy213.com
+# ChinaTest 与 Fiio 共 1 条规则重复
+HOST-SUFFIX,fiio.net
+# ChinaTest 与 Funshion 共 4 条规则重复
+HOST-SUFFIX,fspcdn.com
+HOST-SUFFIX,fun.tv
+HOST-SUFFIX,funshion.com
+HOST-SUFFIX,funshion.net
+# ChinaTest 与 6JianFang 共 1 条规则重复
+HOST-SUFFIX,6rooms.com
+# ChinaTest 与 BaiDu 共 68 条规则重复
+HOST-SUFFIX,91.com
+HOST-SUFFIX,aipage.com
+HOST-SUFFIX,apollo.auto
+HOST-SUFFIX,baidu-int.com
+HOST-SUFFIX,baidu-itm.com
+HOST-SUFFIX,baidu.com
+HOST-SUFFIX,baidu.mobi
+HOST-SUFFIX,baidubce.com
+HOST-SUFFIX,baiducontent.com
+HOST-SUFFIX,baidupcs.com
+HOST-SUFFIX,baidustatic.com
+HOST-SUFFIX,baiduux.com
+HOST-SUFFIX,baiduwebgame.com
+HOST-SUFFIX,baiduyundns.com
+HOST-SUFFIX,baiduyundns.net
+HOST-SUFFIX,baifae.com
+HOST-SUFFIX,baifubao.com
+HOST-SUFFIX,baijincdn.com
+HOST-SUFFIX,bceapp.com
+HOST-SUFFIX,bcebos.com
+HOST-SUFFIX,bcedns.com
+HOST-SUFFIX,bcedns.net
+HOST-SUFFIX,bcedocument.com
+HOST-SUFFIX,bceimg.com
+HOST-SUFFIX,bcelive.com
+HOST-SUFFIX,bcevod.com
+HOST-SUFFIX,bdimg.com
+HOST-SUFFIX,bdstatic.com
+HOST-SUFFIX,bdtjrcv.com
+HOST-SUFFIX,bdydns.com
+HOST-SUFFIX,bdydns.net
+HOST-SUFFIX,bdysite.com
+HOST-SUFFIX,chuanke.com
+HOST-SUFFIX,cloudajs.org
+HOST-SUFFIX,dlnel.com
+HOST-SUFFIX,dlnel.org
+HOST-SUFFIX,dmhmusic.com
+HOST-SUFFIX,duapp.com
+HOST-SUFFIX,duapps.com
+HOST-SUFFIX,estrongs.com
+HOST-SUFFIX,fhldns.com
+HOST-SUFFIX,hao123.com
+HOST-SUFFIX,hao123img.com
+HOST-SUFFIX,hao222.com
+HOST-SUFFIX,haokan.com
+HOST-SUFFIX,hiapk.com
+HOST-SUFFIX,jomocdn.net
+HOST-SUFFIX,jomodns.com
+HOST-SUFFIX,mipcdn.com
+HOST-SUFFIX,mipengine.org
+HOST-SUFFIX,nuomi.com
+HOST-SUFFIX,qianqian.com
+HOST-SUFFIX,sg.work
+HOST-SUFFIX,shifen.com
+HOST-SUFFIX,siteapp-static.com
+HOST-SUFFIX,taihe.com
+HOST-SUFFIX,tieba.com
+HOST-SUFFIX,tiebaimg.com
+HOST-SUFFIX,ttplayer.com
+HOST-SUFFIX,xianfae.com
+HOST-SUFFIX,xiaodutv.com
+HOST-SUFFIX,yjs-cdn.com
+HOST-SUFFIX,yjs-cdn10.com
+HOST-SUFFIX,yunjiasu-cdn.net
+HOST-SUFFIX,yunjiasu.com
+HOST-SUFFIX,zuoyebang.cc
+HOST-SUFFIX,zuoyebang.com
+HOST-SUFFIX,zybang.com
+# ChinaTest 与 DouYu 共 4 条规则重复
+HOST-SUFFIX,douyu.com
+HOST-SUFFIX,douyu.tv
+HOST-SUFFIX,douyuscdn.com
+HOST-SUFFIX,douyutv.com
+# ChinaTest 与 GaoDe 共 5 条规则重复
+HOST-SUFFIX,amap.com
+HOST-SUFFIX,amapauto.com
+HOST-SUFFIX,anav.com
+HOST-SUFFIX,autonavi.com
+HOST-SUFFIX,gaode.com
+# ChinaTest 与 HaiNanHangKong 共 3 条规则重复
+HOST-SUFFIX,hainanairlines.com
+HOST-SUFFIX,hnacargo.com
+HOST-SUFFIX,hnair.com
+# ChinaTest 与 HanYi 共 1 条规则重复
+HOST-SUFFIX,hellowebfont.com
+# ChinaTest 与 HeMa 共 6 条规则重复
+HOST-SUFFIX,freshhema.com
+HOST-SUFFIX,hemamax.com
+HOST-SUFFIX,hemaos.com
+HOST-SUFFIX,marioall.com
+HOST-SUFFIX,marioin.com
+HOST-SUFFIX,shyhhema.com
+# ChinaTest 与 HibyMusic 共 2 条规则重复
+HOST-SUFFIX,hiby.com
+HOST-SUFFIX,hibymusic.com
+# ChinaTest 与 HuYa 共 1 条规则重复
+HOST-SUFFIX,huya.com
+# ChinaTest 与 HuaShuTV 共 3 条规则重复
+HOST-SUFFIX,hzcnc.com
+HOST-SUFFIX,hzman.net
+HOST-SUFFIX,wasu.tv
+# ChinaTest 与 HuaWei 共 28 条规则重复
+HOST-SUFFIX,cdnhwc1.com
+HOST-SUFFIX,cdnhwc2.com
+HOST-SUFFIX,cdnhwc3.com
+HOST-SUFFIX,cdnhwc6.com
+HOST-SUFFIX,dbank.com
+HOST-SUFFIX,dbankcdn.com
+HOST-SUFFIX,dbankcloud.asia
+HOST-SUFFIX,dbankcloud.com
+HOST-SUFFIX,dbankedge.net
+HOST-SUFFIX,harmonyos.com
+HOST-SUFFIX,hc-cdn.com
+HOST-SUFFIX,hicloud.com
+HOST-SUFFIX,hisilicon.com
+HOST-SUFFIX,huawei.com
+HOST-SUFFIX,huaweidevice.com
+HOST-SUFFIX,huaweimarine.com
+HOST-SUFFIX,huaweisafedns.com
+HOST-SUFFIX,huaweistatic.com
+HOST-SUFFIX,hwccpc.com
+HOST-SUFFIX,hwcloudlive.com
+HOST-SUFFIX,hwclouds.com
+HOST-SUFFIX,hwclouds.mobi
+HOST-SUFFIX,hwclouds.net
+HOST-SUFFIX,hwht.com
+HOST-SUFFIX,hwtrip.com
+HOST-SUFFIX,myhwclouds.com
+HOST-SUFFIX,vmall.com
+HOST-SUFFIX,vmallres.com
+# ChinaTest 与 HuanJu 共 9 条规则重复
+HOST-SUFFIX,5253.com
+HOST-SUFFIX,duowan.com
+HOST-SUFFIX,dwstatic.com
+HOST-SUFFIX,hiido.com
+HOST-SUFFIX,huanjuyun.com
+HOST-SUFFIX,yy.com
+HOST-SUFFIX,yyclouds.com
+HOST-SUFFIX,yystatic.com
+HOST-SUFFIX,zhiniu8.com
+# ChinaTest 与 HunanTV 共 5 条规则重复
+HOST-SUFFIX,hifuntv.com
+HOST-SUFFIX,hitv.com
+HOST-SUFFIX,hunantv.com
+HOST-SUFFIX,imgo.tv
+HOST-SUFFIX,mgtv.com
+# ChinaTest 与 Hupu 共 4 条规则重复
+HOST-SUFFIX,hellof1.com
+HOST-SUFFIX,hoopchina.com
+HOST-SUFFIX,hupu.com
+HOST-SUFFIX,hupucdn.com
+# ChinaTest 与 ICBC 共 19 条规则重复
+HOST-SUFFIX,95588.com
+HOST-SUFFIX,icbc
+HOST-SUFFIX,icbc-ltd.com
+HOST-SUFFIX,icbc-uk.com
+HOST-SUFFIX,icbc-us.com
+HOST-SUFFIX,icbc.co.id
+HOST-SUFFIX,icbc.com.cn
+HOST-SUFFIX,icbc.com.mo
+HOST-SUFFIX,icbc.com.pe
+HOST-SUFFIX,icbc.com.sg
+HOST-SUFFIX,icbcasia.com
+HOST-SUFFIX,icbcbr.com.br
+HOST-SUFFIX,icbclondon.com
+HOST-SUFFIX,icbcmy.com
+HOST-SUFFIX,icbcstandard.com
+HOST-SUFFIX,icbcstandardbank.com
+HOST-SUFFIX,icbcstandardresources.com
+HOST-SUFFIX,icbcstandardsecurities.com
+HOST-SUFFIX,icbcswiss.com
+# ChinaTest 与 JiGuangTuiSong 共 6 条规则重复
+HOST-SUFFIX,5566ua.com
+HOST-SUFFIX,jchat.io
+HOST-SUFFIX,jmlk.co
+HOST-SUFFIX,jpush.io
+HOST-SUFFIX,jpushoa.com
+HOST-SUFFIX,pushcfg.com
+# ChinaTest 与 JianGuoYun 共 2 条规则重复
+HOST-SUFFIX,jianguopuzi.com
+HOST-SUFFIX,jianguoyun.com
+# ChinaTest 与 JianShu 共 3 条规则重复
+HOST-SUFFIX,jianshu.com
+HOST-SUFFIX,jianshu.io
+HOST-SUFFIX,jianshuapi.com
+# ChinaTest 与 JinJiangWenXue 共 3 条规则重复
+HOST-SUFFIX,jjwxc.net
+HOST-SUFFIX,jjwxc.org
+HOST-SUFFIX,robook.com
+# ChinaTest 与 JingDong 共 79 条规则重复
+HOST-SUFFIX,360buy.com
+HOST-SUFFIX,360buyimg.com
+HOST-SUFFIX,360top.com
+HOST-SUFFIX,7fresh.com
+HOST-SUFFIX,baitiao.com
+HOST-SUFFIX,blackdragon.com
+HOST-SUFFIX,caiyu.com
+HOST-SUFFIX,dao123.com
+HOST-SUFFIX,isvjcloud.com
+HOST-SUFFIX,jcloud-cache.com
+HOST-SUFFIX,jcloud-cdn.com
+HOST-SUFFIX,jcloud-live.com
+HOST-SUFFIX,jcloud-oss.com
+HOST-SUFFIX,jcloud.com
+HOST-SUFFIX,jcloudcache.com
+HOST-SUFFIX,jcloudcs.com
+HOST-SUFFIX,jclouddn.com
+HOST-SUFFIX,jcloudec.com
+HOST-SUFFIX,jcloudedge.com
+HOST-SUFFIX,jcloudgslb.com
+HOST-SUFFIX,jcloudimg.com
+HOST-SUFFIX,jcloudlb.com
+HOST-SUFFIX,jcloudlive.com
+HOST-SUFFIX,jcloudlv.com
+HOST-SUFFIX,jcloudoss.com
+HOST-SUFFIX,jcloudss.com
+HOST-SUFFIX,jcloudstatic.com
+HOST-SUFFIX,jcloudvideo.com
+HOST-SUFFIX,jclps.com
+HOST-SUFFIX,jd-ex.com
+HOST-SUFFIX,jd.co.th
+HOST-SUFFIX,jd.com
+HOST-SUFFIX,jd.hk
+HOST-SUFFIX,jd.id
+HOST-SUFFIX,jd.ru
+HOST-SUFFIX,jdbusiness.com
+HOST-SUFFIX,jdcache.com
+HOST-SUFFIX,jdcdn.com
+HOST-SUFFIX,jdcloud-api.com
+HOST-SUFFIX,jdcloud-oss.com
+HOST-SUFFIX,jdcloud.com
+HOST-SUFFIX,jdcloudcache.com
+HOST-SUFFIX,jdcloudcs.com
+HOST-SUFFIX,jdcloudedge.com
+HOST-SUFFIX,jdcloudstatic.net
+HOST-SUFFIX,jdcloudwaf.com
+HOST-SUFFIX,jddapeigou.com
+HOST-SUFFIX,jddebug.com
+HOST-SUFFIX,jddglobal.com
+HOST-SUFFIX,jdgslb.com
+HOST-SUFFIX,jdjinrong.com
+HOST-SUFFIX,jdpay.com
+HOST-SUFFIX,jdpaydns.com
+HOST-SUFFIX,jdwl.com
+HOST-SUFFIX,jdworldwide.com
+HOST-SUFFIX,jdx.com
+HOST-SUFFIX,jingdong.com
+HOST-SUFFIX,jingdongjinrong.com
+HOST-SUFFIX,jingxi.com
+HOST-SUFFIX,jkcsjd.com
+HOST-SUFFIX,joybuy.com
+HOST-SUFFIX,joybuy.es
+HOST-SUFFIX,linglonglife.com
+HOST-SUFFIX,mayshijia.com
+HOST-SUFFIX,minitiao.com
+HOST-SUFFIX,ocwms.com
+HOST-SUFFIX,paipai.com
+HOST-SUFFIX,prestodb-china.com
+HOST-SUFFIX,qianxun.com
+HOST-SUFFIX,qingzhouip.com
+HOST-SUFFIX,vg.com
+HOST-SUFFIX,wanggou.com
+HOST-SUFFIX,wangyin.com
+HOST-SUFFIX,yhd.com
+HOST-SUFFIX,yihaodian.com
+HOST-SUFFIX,yihaodianimg.com
+HOST-SUFFIX,yixun.com
+HOST-SUFFIX,yiyaojd.com
+HOST-SUFFIX,yizhitou.com
+# ChinaTest 与 JueJin 共 1 条规则重复
+HOST-SUFFIX,juejin.im
+# ChinaTest 与 Keep 共 3 条规则重复
+HOST-SUFFIX,gotokeep.com
+HOST-SUFFIX,keep.com
+HOST-SUFFIX,keepcdn.com
+# ChinaTest 与 Kingsoft 共 46 条规则重复
+HOST-SUFFIX,35go.net
+HOST-SUFFIX,51dzt.com
+HOST-SUFFIX,9724.com
+HOST-SUFFIX,cmcm.com
+HOST-SUFFIX,cmcmcdn.com
+HOST-SUFFIX,docer.com
+HOST-SUFFIX,drivergenius.com
+HOST-SUFFIX,duba.com
+HOST-SUFFIX,duba.net
+HOST-SUFFIX,iciba.com
+HOST-SUFFIX,ihuoyan.com
+HOST-SUFFIX,ijinshan.com
+HOST-SUFFIX,kcdnvip.com
+HOST-SUFFIX,kingsoft-office-service.com
+HOST-SUFFIX,kingsoft.com
+HOST-SUFFIX,kmail.com
+HOST-SUFFIX,ks-cdn.com
+HOST-SUFFIX,ks-cdn1.com
+HOST-SUFFIX,ksmobile.com
+HOST-SUFFIX,ksops.com
+HOST-SUFFIX,ksord.com
+HOST-SUFFIX,ksosoft.com
+HOST-SUFFIX,ksyna.com
+HOST-SUFFIX,ksyun.com
+HOST-SUFFIX,ksyunad.com
+HOST-SUFFIX,ksyuncdn-k1.com
+HOST-SUFFIX,ksyuncdn.com
+HOST-SUFFIX,ksyungslb.com
+HOST-SUFFIX,kuaipandata.com
+HOST-SUFFIX,ljhks.com
+HOST-SUFFIX,ljhks.net
+HOST-SUFFIX,northgun.com
+HOST-SUFFIX,pc120.com
+HOST-SUFFIX,q-supreme.com
+HOST-SUFFIX,r9t1.com
+HOST-SUFFIX,seasungame.com
+HOST-SUFFIX,seasungames.com
+HOST-SUFFIX,v78q.com
+HOST-SUFFIX,wpscdn.com
+HOST-SUFFIX,wpsgo.com
+HOST-SUFFIX,wpsmail.net
+HOST-SUFFIX,xindexuexi.com
+HOST-SUFFIX,xishanju.com
+HOST-SUFFIX,xoyo.com
+HOST-SUFFIX,xoyobox.com
+HOST-SUFFIX,xoyocdn.com
+# ChinaTest 与 KouDaiShiShang 共 8 条规则重复
+HOST-SUFFIX,91ruyu.com
+HOST-SUFFIX,fangxin.com
+HOST-SUFFIX,geilicdn.com
+HOST-SUFFIX,koudai.com
+HOST-SUFFIX,vdian.com
+HOST-SUFFIX,wdfangyi.com
+HOST-SUFFIX,weidian.cc
+HOST-SUFFIX,weidian.com
+# ChinaTest 与 Ku6 共 5 条规则重复
+HOST-SUFFIX,ku6.com
+HOST-SUFFIX,ku6.net
+HOST-SUFFIX,ku6cdn.com
+HOST-SUFFIX,ku6img.com
+HOST-SUFFIX,ku6vms.com
+# ChinaTest 与 KuKeMusic 共 1 条规则重复
+HOST-SUFFIX,kuke.com
+# ChinaTest 与 KuaiDi100 共 2 条规则重复
+HOST-SUFFIX,ckd.im
+HOST-SUFFIX,kuaidi100.com
+# ChinaTest 与 KuaiShou 共 14 条规则重复
+HOST-SUFFIX,etoote.com
+HOST-SUFFIX,gifshow.com
+HOST-SUFFIX,inkuai.com
+HOST-SUFFIX,ksapisrv.com
+HOST-SUFFIX,kspkg.com
+HOST-SUFFIX,kuaishou.com
+HOST-SUFFIX,kuaishoupay.com
+HOST-SUFFIX,kuaishouzt.com
+HOST-SUFFIX,kwaisczway7r4tz7m8.com
+HOST-SUFFIX,kwaizt.com
+HOST-SUFFIX,kwimgs.com
+HOST-SUFFIX,yiqioffice.com
+HOST-SUFFIX,yiqixie.com
+HOST-SUFFIX,yximgs.com
+# ChinaTest 与 KuangShi 共 5 条规则重复
+HOST-SUFFIX,faceid.com
+HOST-SUFFIX,faceplusplus.com
+HOST-SUFFIX,koalacam.net
+HOST-SUFFIX,megvii.com
+HOST-SUFFIX,yuesuoping.com
+# ChinaTest 与 KugouKuwo 共 5 条规则重复
+HOST-SUFFIX,kgimg.com
+HOST-SUFFIX,koowo.com
+HOST-SUFFIX,kugou.com
+HOST-SUFFIX,kugou.net
+HOST-SUFFIX,shuoba.org
+# ChinaTest 与 LanZouYun 共 6 条规则重复
+HOST-SUFFIX,baidupan.com
+HOST-SUFFIX,lanzou.com
+HOST-SUFFIX,lanzoui.com
+HOST-SUFFIX,lanzous.com
+HOST-SUFFIX,lanzoux.com
+HOST-SUFFIX,woozooo.com
+# ChinaTest 与 LeJu 共 8 条规则重复
+HOST-SUFFIX,dichan.com
+HOST-SUFFIX,esfimg.com
+HOST-SUFFIX,leju.com
+HOST-SUFFIX,ljimg.com
+HOST-SUFFIX,sousea.com
+HOST-SUFFIX,xhaiwai.com
+HOST-SUFFIX,xhwhouse.com
+HOST-SUFFIX,yiqisooimg.com
+# ChinaTest 与 LeTV 共 8 条规则重复
+HOST-SUFFIX,le.com
+HOST-SUFFIX,lecloud.com
+HOST-SUFFIX,lemall.com
+HOST-SUFFIX,letv.com
+HOST-SUFFIX,letv8.com
+HOST-SUFFIX,letvcdn.com
+HOST-SUFFIX,letvcloud.com
+HOST-SUFFIX,letvimg.com
+# ChinaTest 与 Lenovo 共 5 条规则重复
+HOST-SUFFIX,lenovogame.com
+HOST-SUFFIX,lenovomm.com
+HOST-SUFFIX,lx.pub
+HOST-SUFFIX,zui.com
+HOST-SUFFIX,zuk.com
+# ChinaTest 与 LuDaShi 共 4 条规则重复
+HOST-SUFFIX,ludashi.com
+HOST-SUFFIX,xiaoluhaohuo.com
+HOST-SUFFIX,xiaoluyouxuan.com
+HOST-SUFFIX,youhua.com
+# ChinaTest 与 LvMiLianChuang 共 2 条规则重复
+HOST-SUFFIX,aqara.com
+HOST-SUFFIX,lumiunited.com
+# ChinaTest 与 Maocloud 共 2 条规则重复
+HOST-SUFFIX,maoyun.com
+HOST-SUFFIX,maoyuncloud.com
+# ChinaTest 与 MeiTuan 共 6 条规则重复
+HOST-SUFFIX,dianping.com
+HOST-SUFFIX,maoyan.com
+HOST-SUFFIX,meituan.com
+HOST-SUFFIX,meituan.net
+HOST-SUFFIX,mtyun.com
+HOST-SUFFIX,sankuai.com
+# ChinaTest 与 MeiZu 共 2 条规则重复
+HOST-SUFFIX,meizu.com
+HOST-SUFFIX,mzres.com
+# ChinaTest 与 Migu 共 1 条规则重复
+HOST-SUFFIX,miguvideo.com
+# ChinaTest 与 MingLueZhaoHui 共 3 条规则重复
+HOST-SUFFIX,miaozhen.com
+HOST-SUFFIX,mzfile.com
+HOST-SUFFIX,stfile.com
+# ChinaTest 与 Mogujie 共 5 条规则重复
+HOST-SUFFIX,juangua.com
+HOST-SUFFIX,meili-inc.com
+HOST-SUFFIX,mogu.com
+HOST-SUFFIX,mogucdn.com
+HOST-SUFFIX,mogujie.com
+# ChinaTest 与 Mojitianqi 共 5 条规则重复
+HOST-SUFFIX,airnut.com
+HOST-SUFFIX,moji.com
+HOST-SUFFIX,mojicb.com
+HOST-SUFFIX,mojichina.com
+HOST-SUFFIX,mojitest.com
+# ChinaTest 与 Netease 共 37 条规则重复
+HOST-SUFFIX,126.am
+HOST-SUFFIX,126.com
+HOST-SUFFIX,126.fm
+HOST-SUFFIX,126.link
+HOST-SUFFIX,126.net
+HOST-SUFFIX,127.com
+HOST-SUFFIX,127.net
+HOST-SUFFIX,163.com
+HOST-SUFFIX,163.fm
+HOST-SUFFIX,163fen.com
+HOST-SUFFIX,163industry.com
+HOST-SUFFIX,163mail.com
+HOST-SUFFIX,163qiyukf.com
+HOST-SUFFIX,163yun.com
+HOST-SUFFIX,166.com
+HOST-SUFFIX,166.net
+HOST-SUFFIX,188.com
+HOST-SUFFIX,321fenx.com
+HOST-SUFFIX,haowu.link
+HOST-SUFFIX,icourse163.com
+HOST-SUFFIX,icourse163.org
+HOST-SUFFIX,kaola.com
+HOST-SUFFIX,laiqukankan.com
+HOST-SUFFIX,lf127.net
+HOST-SUFFIX,lofter.com
+HOST-SUFFIX,nease.net
+HOST-SUFFIX,netease-inc.com
+HOST-SUFFIX,netease.com
+HOST-SUFFIX,netease.im
+HOST-SUFFIX,qiyukf.com
+HOST-SUFFIX,tx163.com
+HOST-SUFFIX,ydstatic.com
+HOST-SUFFIX,yeah.net
+HOST-SUFFIX,yodao.com
+HOST-SUFFIX,youdao.com
+HOST-SUFFIX,yqkk.link
+HOST-SUFFIX,zhuanzfx.com
+# ChinaTest 与 NeteaseMusic 共 3 条规则重复
+HOST-SUFFIX,163yun.com
+USER-AGENT,%e7%bd%91%e6%98%93%e4%ba%91%e9%9f%b3%e4%b9%90*
+USER-AGENT,neteasemusic*
+# ChinaTest 与 OPPO 共 22 条规则重复
+HOST-SUFFIX,coloros.com
+HOST-SUFFIX,coloros.net
+HOST-SUFFIX,fenzijr.com
+HOST-SUFFIX,finzfin.com
+HOST-SUFFIX,finzjr.com
+HOST-SUFFIX,heytap.com
+HOST-SUFFIX,heytapcs.com
+HOST-SUFFIX,heytapdownload.com
+HOST-SUFFIX,heytapimage.com
+HOST-SUFFIX,heytapmobi.com
+HOST-SUFFIX,myoppo.com
+HOST-SUFFIX,oppo.com
+HOST-SUFFIX,oppo.mobi
+HOST-SUFFIX,oppodigital.com
+HOST-SUFFIX,oppoer.me
+HOST-SUFFIX,oppofind.com
+HOST-SUFFIX,oppomobile.com
+HOST-SUFFIX,oppopay.com
+HOST-SUFFIX,realme.com
+HOST-SUFFIX,realmebbs.com
+HOST-SUFFIX,realmemobile.com
+HOST-SUFFIX,wanyol.com
+# ChinaTest 与 OnePlus 共 6 条规则重复
+HOST-SUFFIX,h2os.com
+HOST-SUFFIX,oneplus.com
+HOST-SUFFIX,oneplus.net
+HOST-SUFFIX,oneplusbbs.com
+HOST-SUFFIX,oneplusmobile.com
+HOST-SUFFIX,opstatics.com
+# ChinaTest 与 OuPeng 共 3 条规则重复
+HOST-SUFFIX,adbxb.com
+HOST-SUFFIX,oupeng.com
+HOST-SUFFIX,oupengcloud.net
+# ChinaTest 与 PPTV 共 5 条规则重复
+HOST-SUFFIX,g1d.net
+HOST-SUFFIX,pplive.com
+HOST-SUFFIX,pptv.com
+HOST-SUFFIX,pptvyun.com
+HOST-SUFFIX,synacast.com
+# ChinaTest 与 PSBC 共 1 条规则重复
+HOST-SUFFIX,psbc.com
+# ChinaTest 与 PingAn 共 8 条规则重复
+HOST-SUFFIX,1qianbao.com
+HOST-SUFFIX,4008000000.com
+HOST-SUFFIX,mingyuanfund.com
+HOST-SUFFIX,pingan.com
+HOST-SUFFIX,pingan.com.cn
+HOST-SUFFIX,pingan.com.hk
+HOST-SUFFIX,yqb.com
+HOST-SUFFIX,yqbimg.net
+# ChinaTest 与 QiNiuYun 共 18 条规则重复
+HOST-SUFFIX,clouddn.com
+HOST-SUFFIX,cloudvdn.com
+HOST-SUFFIX,pilidns.com
+HOST-SUFFIX,qbox.me
+HOST-SUFFIX,qiniu.com
+HOST-SUFFIX,qiniu.in
+HOST-SUFFIX,qiniuapi.com
+HOST-SUFFIX,qiniucdn.com
+HOST-SUFFIX,qiniudn.com
+HOST-SUFFIX,qiniudns.com
+HOST-SUFFIX,qiniukodo.com
+HOST-SUFFIX,qiniup.com
+HOST-SUFFIX,qiniupkg.com
+HOST-SUFFIX,qiniutek.com
+HOST-SUFFIX,qnssl.com
+HOST-SUFFIX,qnydns.com
+HOST-SUFFIX,qnydns.net
+HOST-SUFFIX,staticfile.org
+# ChinaTest 与 Qihoo360 共 49 条规则重复
+HOST-SUFFIX,360-jr.com
+HOST-SUFFIX,360.cn
+HOST-SUFFIX,360.com
+HOST-SUFFIX,360chou.com
+HOST-SUFFIX,360daikuan.com
+HOST-SUFFIX,360doc.com
+HOST-SUFFIX,360huzhubao.com
+HOST-SUFFIX,360jie.com
+HOST-SUFFIX,360jinrong.net
+HOST-SUFFIX,360kan.com
+HOST-SUFFIX,360kuai.com
+HOST-SUFFIX,360os.com
+HOST-SUFFIX,360safe.com
+HOST-SUFFIX,360shouji.com
+HOST-SUFFIX,360taojin.com
+HOST-SUFFIX,360totalsecurity.com
+HOST-SUFFIX,360tpcdn.com
+HOST-SUFFIX,360webcache.com
+HOST-SUFFIX,anquanke.com
+HOST-SUFFIX,dhrest.com
+HOST-SUFFIX,haoso.com
+HOST-SUFFIX,haosou.com
+HOST-SUFFIX,haosou.net
+HOST-SUFFIX,i360mall.com
+HOST-SUFFIX,ludashi.com
+HOST-SUFFIX,nicaifu.com
+HOST-SUFFIX,nzwgs.com
+HOST-SUFFIX,qhimg.com
+HOST-SUFFIX,qhimgs0.com
+HOST-SUFFIX,qhimgs1.com
+HOST-SUFFIX,qhimgs2.com
+HOST-SUFFIX,qhimgs3.com
+HOST-SUFFIX,qhimgs4.com
+HOST-SUFFIX,qhimgs5.com
+HOST-SUFFIX,qhimgs6.com
+HOST-SUFFIX,qhmsg.com
+HOST-SUFFIX,qhres.com
+HOST-SUFFIX,qhstatic.com
+HOST-SUFFIX,qhupdate.com
+HOST-SUFFIX,qihoo.com
+HOST-SUFFIX,qihucdn.com
+HOST-SUFFIX,qikucdn.com
+HOST-SUFFIX,so.com
+HOST-SUFFIX,sou.com
+HOST-SUFFIX,useso.com
+HOST-SUFFIX,xiaoluyouxuan.com
+HOST-SUFFIX,xiaoluzhidian.com
+HOST-SUFFIX,xjietiao.com
+HOST-SUFFIX,youhua.com
+# ChinaTest 与 QingCloud 共 6 条规则重复
+HOST-SUFFIX,frontwize.com
+HOST-SUFFIX,qingcache.com
+HOST-SUFFIX,qingcloud.com
+HOST-SUFFIX,qingstor.com
+HOST-SUFFIX,routewize.com
+HOST-SUFFIX,yunify.com
+# ChinaTest 与 RuanMei 共 12 条规则重复
+HOST-SUFFIX,6655.com
+HOST-SUFFIX,cooldock.com
+HOST-SUFFIX,ithome.com
+HOST-SUFFIX,ithome.net
+HOST-SUFFIX,lapin365.com
+HOST-SUFFIX,ruanmei.com
+HOST-SUFFIX,saayaa.com
+HOST-SUFFIX,tweakcube.com
+HOST-SUFFIX,vista123.com
+HOST-SUFFIX,win7china.com
+HOST-SUFFIX,win8china.com
+HOST-SUFFIX,zuihuimai.com
+# ChinaTest 与 SFExpress 共 9 条规则重复
+HOST-SUFFIX,feng1.com
+HOST-SUFFIX,rongechain.com
+HOST-SUFFIX,sf-airlines.com
+HOST-SUFFIX,sf-cityrush.com
+HOST-SUFFIX,sf-express.com
+HOST-SUFFIX,sf-financial.com
+HOST-SUFFIX,sf-saas.com
+HOST-SUFFIX,sfcar.hk
+HOST-SUFFIX,sfgy.org
+# ChinaTest 与 SMZDM 共 3 条规则重复
+HOST-SUFFIX,smzdm.com
+HOST-SUFFIX,smzdmimg.com
+HOST-SUFFIX,zdmimg.com
+# ChinaTest 与 ShangHaiJuXiao 共 2 条规则重复
+HOST-SUFFIX,mdvdns.com
+HOST-SUFFIX,mediav.com
+# ChinaTest 与 ShenMa 共 5 条规则重复
+HOST-SUFFIX,uczzd.com
+HOST-SUFFIX,uczzd.net
+HOST-SUFFIX,xiaoshuo1-sm.com
+HOST-SUFFIX,xiaoshuo5-sm.com
+HOST-SUFFIX,yisou.com
+# ChinaTest 与 Sohu 共 11 条规则重复
+HOST-SUFFIX,go2map.com
+HOST-SUFFIX,sogo.com
+HOST-SUFFIX,sogou-inc.com
+HOST-SUFFIX,sogou-op.org
+HOST-SUFFIX,sogou.com
+HOST-SUFFIX,sogoucdn.com
+HOST-SUFFIX,sohu-inc.com
+HOST-SUFFIX,sohu.com
+HOST-SUFFIX,sohucs.com
+HOST-SUFFIX,sohusce.com
+HOST-SUFFIX,soso.com
+# ChinaTest 与 SouFang 共 4 条规则重复
+HOST-SUFFIX,fang.com
+HOST-SUFFIX,hkproperty.com
+HOST-SUFFIX,soufun.com
+HOST-SUFFIX,soufunimg.com
+# ChinaTest 与 SuNing 共 6 条规则重复
+HOST-SUFFIX,cnsuning.com
+HOST-SUFFIX,suning.com
+HOST-SUFFIX,suningcloud.com
+HOST-SUFFIX,suningestate.com
+HOST-SUFFIX,suningholdings.com
+HOST-SUFFIX,yifubao.com
+# ChinaTest 与 SuiShiChuanMei 共 4 条规则重复
+HOST-SUFFIX,mipujia.com
+HOST-SUFFIX,quyaoya.com
+HOST-SUFFIX,socialjia.com
+HOST-SUFFIX,weibopie.com
+# ChinaTest 与 TCL 共 1 条规则重复
+HOST-SUFFIX,tcl.com
+# ChinaTest 与 TaiKang 共 4 条规则重复
+HOST-SUFFIX,taikang.com
+HOST-SUFFIX,taikanglife.com
+HOST-SUFFIX,taikangzhijia.com
+HOST-SUFFIX,tkhealthcare.com
+# ChinaTest 与 TaiheMusic 共 4 条规则重复
+HOST-SUFFIX,dmhmusic.com
+HOST-SUFFIX,qianqian.com
+HOST-SUFFIX,taihe.com
+HOST-SUFFIX,ttplayer.com
+# ChinaTest 与 Teambition 共 6 条规则重复
+HOST-SUFFIX,jianliao.com
+HOST-SUFFIX,talk.ai
+HOST-SUFFIX,tburl.in
+HOST-SUFFIX,teambition.com
+HOST-SUFFIX,teambition.net
+HOST-SUFFIX,teambitionapis.com
+# ChinaTest 与 TianYaForum 共 7 条规则重复
+HOST-SUFFIX,gz12301.com
+HOST-SUFFIX,hainan.com
+HOST-SUFFIX,hainan.net
+HOST-SUFFIX,tianyablog.com
+HOST-SUFFIX,tianyaclub.com
+HOST-SUFFIX,tianyaui.com
+HOST-SUFFIX,tysurl.com
+# ChinaTest 与 TigerFintech 共 4 条规则重复
+HOST-SUFFIX,itiger.com
+HOST-SUFFIX,laohu8.com
+HOST-SUFFIX,tigerbbs.com
+HOST-SUFFIX,tigerfintech.com
+# ChinaTest 与 TongCheng 共 6 条规则重复
+HOST-SUFFIX,17u.net
+HOST-SUFFIX,17usoft.com
+HOST-SUFFIX,17usoft.net
+HOST-SUFFIX,elong.com
+HOST-SUFFIX,elongstatic.com
+HOST-SUFFIX,ly.com
+# ChinaTest 与 U17 共 3 条规则重复
+HOST-SUFFIX,u17.com
+HOST-SUFFIX,u17i.com
+HOST-SUFFIX,u17t.com
+# ChinaTest 与 UC 共 5 条规则重复
+HOST-SUFFIX,effirst.com
+HOST-SUFFIX,uc123.com
+HOST-SUFFIX,ucfly.com
+HOST-SUFFIX,ucweb.com
+HOST-SUFFIX,uflowx.com
+# ChinaTest 与 UCloud 共 8 条规则重复
+HOST-SUFFIX,cdndo.com
+HOST-SUFFIX,ipssh.net
+HOST-SUFFIX,ucloudgda.com
+HOST-SUFFIX,uewaf.com
+HOST-SUFFIX,ufileos.com
+HOST-SUFFIX,ugslb.com
+HOST-SUFFIX,ugslb.info
+HOST-SUFFIX,ugslb.net
+# ChinaTest 与 UPYun 共 9 条规则重复
+HOST-SUFFIX,aicdn.com
+HOST-SUFFIX,aicdn2.com
+HOST-SUFFIX,aicdn4.com
+HOST-SUFFIX,shangzhibo.tv
+HOST-SUFFIX,upai.com
+HOST-SUFFIX,upaiyun.com
+HOST-SUFFIX,upcdn.net
+HOST-SUFFIX,upyun.com
+HOST-SUFFIX,yupoo.com
+# ChinaTest 与 UnionPay 共 7 条规则重复
+HOST-SUFFIX,95516.com
+HOST-SUFFIX,95516.net
+HOST-SUFFIX,chinapay.com
+HOST-SUFFIX,chinaunionpay.com
+HOST-SUFFIX,unionpay.com
+HOST-SUFFIX,unionpayintl.com
+HOST-SUFFIX,unionpaysecure.com
+# ChinaTest 与 Vancl 共 3 条规则重复
+HOST-SUFFIX,vancl.com
+HOST-SUFFIX,vanclimg.com
+HOST-SUFFIX,vcimg.com
+# ChinaTest 与 VideoCrack 共 5 条规则重复
+HOST-SUFFIX,355pan.com
+HOST-SUFFIX,8lhx.com
+HOST-SUFFIX,baiwanzy.com
+HOST-SUFFIX,laqddc.com
+HOST-SUFFIX,taijutv.com
+# ChinaTest 与 Vivo 共 3 条规则重复
+HOST-SUFFIX,bbk.com
+HOST-SUFFIX,vivo.com
+HOST-SUFFIX,vivoglobal.com
+# ChinaTest 与 WanMeiShiJie 共 3 条规则重复
+HOST-SUFFIX,laohu.com
+HOST-SUFFIX,wanmei.com
+HOST-SUFFIX,wmupd.com
+# ChinaTest 与 WangSuKeJi 共 68 条规则重复
+HOST-SUFFIX,51cdn.com
+HOST-SUFFIX,8686c.com
+HOST-SUFFIX,cdn20.com
+HOST-SUFFIX,cdn20.info
+HOST-SUFFIX,cdn20.org
+HOST-SUFFIX,cdn30.com
+HOST-SUFFIX,cdn30.org
+HOST-SUFFIX,cdngtm.com
+HOST-SUFFIX,chinanetcenter.com
+HOST-SUFFIX,dnsgtm.com
+HOST-SUFFIX,haplat.net
+HOST-SUFFIX,idnscloud.com
+HOST-SUFFIX,lxdms.com
+HOST-SUFFIX,lxdns.com
+HOST-SUFFIX,lxdns.info
+HOST-SUFFIX,lxdns.net
+HOST-SUFFIX,lxdns.org
+HOST-SUFFIX,matocloud.com
+HOST-SUFFIX,mwcloudcdn.com
+HOST-SUFFIX,mwcname.com
+HOST-SUFFIX,ogccdn.com
+HOST-SUFFIX,ourcdns.com
+HOST-SUFFIX,ourdvs.com
+HOST-SUFFIX,ourdvs.net
+HOST-SUFFIX,ourdvsss.com
+HOST-SUFFIX,ourglb0.com
+HOST-SUFFIX,ourglb0.net
+HOST-SUFFIX,ourhlb.com
+HOST-SUFFIX,ourhlb.info
+HOST-SUFFIX,ourhlb.org
+HOST-SUFFIX,oursec1.com
+HOST-SUFFIX,oursec2.com
+HOST-SUFFIX,ourwebat.com
+HOST-SUFFIX,ourwebcdn.com
+HOST-SUFFIX,ourwebcdn.net
+HOST-SUFFIX,ourwebhttps.com
+HOST-SUFFIX,ourwebpic.com
+HOST-SUFFIX,qtlcn.com
+HOST-SUFFIX,qtlglb.com
+HOST-SUFFIX,quansucloud.com
+HOST-SUFFIX,quantil.com
+HOST-SUFFIX,speedcdns.com
+HOST-SUFFIX,speedws.info
+HOST-SUFFIX,speedws.org
+HOST-SUFFIX,tl88.net
+HOST-SUFFIX,wangsu.com
+HOST-SUFFIX,wangsucloud.com
+HOST-SUFFIX,wcsapi.com
+HOST-SUFFIX,wscdns.com
+HOST-SUFFIX,wscdns.info
+HOST-SUFFIX,wscdns.org
+HOST-SUFFIX,wsclouddns.com
+HOST-SUFFIX,wscloudsec.com
+HOST-SUFFIX,wscvdns.com
+HOST-SUFFIX,wsdvs.com
+HOST-SUFFIX,wsfdn.com
+HOST-SUFFIX,wsglb0.com
+HOST-SUFFIX,wshttpdns.com
+HOST-SUFFIX,wsoversea.info
+HOST-SUFFIX,wsssec.com
+HOST-SUFFIX,wswebcdn.com
+HOST-SUFFIX,wswebcdn.info
+HOST-SUFFIX,wswebcdn.org
+HOST-SUFFIX,wswebpic.com
+HOST-SUFFIX,wswebpic.info
+HOST-SUFFIX,wswebpic.org
+HOST-SUFFIX,wtxcdn.com
+HOST-SUFFIX,xs3cnc.com
+# ChinaTest 与 WangXinKeJi 共 4 条规则重复
+HOST-SUFFIX,onethingcloud.com
+HOST-SUFFIX,onethingpcs.com
+HOST-SUFFIX,xycdn.com
+HOST-SUFFIX,xycloud.com
+# ChinaTest 与 WenJuanXing 共 2 条规则重复
+HOST-SUFFIX,sojump.com
+HOST-SUFFIX,wjx.com
+# ChinaTest 与 WiFiMaster 共 14 条规则重复
+HOST-SUFFIX,51y5.com
+HOST-SUFFIX,51y5.net
+HOST-SUFFIX,gamewifi.net
+HOST-SUFFIX,ieeewifi.com
+HOST-SUFFIX,lianliantaoshop.com
+HOST-SUFFIX,lianwangtech.com
+HOST-SUFFIX,lianwifi.com
+HOST-SUFFIX,lsttapp.com
+HOST-SUFFIX,lsttnews.com
+HOST-SUFFIX,readdsp.com
+HOST-SUFFIX,swaqds.com
+HOST-SUFFIX,wifi.com
+HOST-SUFFIX,wifi188.com
+HOST-SUFFIX,wkanx.com
+# ChinaTest 与 XiMaLaYa 共 5 条规则重复
+HOST-SUFFIX,9nali.com
+HOST-SUFFIX,qingxuetang.com
+HOST-SUFFIX,xima.tv
+HOST-SUFFIX,ximalaya.com
+HOST-SUFFIX,xmcdn.com
+# ChinaTest 与 XiamiMusic 共 3 条规则重复
+HOST-SUFFIX,xiami.com
+HOST-SUFFIX,xiami.fm
+HOST-SUFFIX,xiami.net
+# ChinaTest 与 XianYu 共 5 条规则重复
+HOST-SUFFIX,ewqcxz.com
+HOST-SUFFIX,hjkhjkl.com
+HOST-SUFFIX,lkjujm.com
+HOST-SUFFIX,nfmrtfv.com
+HOST-SUFFIX,xianyu.mobi
+# ChinaTest 与 XiaoGouKeJi 共 1 条规则重复
+HOST-SUFFIX,xgdq.com
+# ChinaTest 与 XiaoYuanKeJi 共 2 条规则重复
+HOST-SUFFIX,10010mx.com
+HOST-SUFFIX,mfexcel.com
+# ChinaTest 与 Xiaomi 共 17 条规则重复
+HOST-SUFFIX,duokan.com
+HOST-SUFFIX,duokanbox.com
+HOST-SUFFIX,mgslb.com
+HOST-SUFFIX,mi-idc.com
+HOST-SUFFIX,mi-img.com
+HOST-SUFFIX,mi.com
+HOST-SUFFIX,mij.cc
+HOST-SUFFIX,miliao.com
+HOST-SUFFIX,mipay.com
+HOST-SUFFIX,miui.com
+HOST-SUFFIX,miwifi.com
+HOST-SUFFIX,timipc.com
+HOST-SUFFIX,wali.com
+HOST-SUFFIX,xiaomi.com
+HOST-SUFFIX,xiaomi.net
+HOST-SUFFIX,xiaomicp.com
+HOST-SUFFIX,xiaomiyoupin.com
+# ChinaTest 与 XieCheng 共 24 条规则重复
+HOST-SUFFIX,c-ctrip.com
+HOST-SUFFIX,colinker.com
+HOST-SUFFIX,ctrip.co.id
+HOST-SUFFIX,ctrip.co.kr
+HOST-SUFFIX,ctrip.co.th
+HOST-SUFFIX,ctrip.com
+HOST-SUFFIX,ctrip.com.hk
+HOST-SUFFIX,ctrip.my
+HOST-SUFFIX,ctrip.sg
+HOST-SUFFIX,ctripbiz.com
+HOST-SUFFIX,ctripbuy.hk
+HOST-SUFFIX,ctripteam.com
+HOST-SUFFIX,easytrip.com
+HOST-SUFFIX,hhtravel.com
+HOST-SUFFIX,hhtravel.com.tw
+HOST-SUFFIX,izuchebao.com
+HOST-SUFFIX,lvtds.com
+HOST-SUFFIX,skysea.com
+HOST-SUFFIX,suanya.com
+HOST-SUFFIX,tieyou.com
+HOST-SUFFIX,toursbms.com
+HOST-SUFFIX,trip.com
+HOST-SUFFIX,tripcdn.com
+HOST-SUFFIX,vipdlt.com
+# ChinaTest 与 XueErSi 共 3 条规则重复
+HOST-SUFFIX,speiyou.com
+HOST-SUFFIX,xesimg.com
+HOST-SUFFIX,xueersi.com
+# ChinaTest 与 XueQiu 共 6 条规则重复
+HOST-SUFFIX,aiganggu.com
+HOST-SUFFIX,danjuanapp.com
+HOST-SUFFIX,danjuanfunds.com
+HOST-SUFFIX,imedao.com
+HOST-SUFFIX,snowballsecurities.com
+HOST-SUFFIX,xueqiu.com
+# ChinaTest 与 YYeTs 共 14 条规则重复
+HOST-SUFFIX,jstucdn.com
+HOST-SUFFIX,p4pfile.com
+HOST-SUFFIX,playcvn.com
+HOST-SUFFIX,rrys.tv
+HOST-SUFFIX,rrys2019.com
+HOST-SUFFIX,rrys2020.com
+HOST-SUFFIX,rrysapp.com
+HOST-SUFFIX,zimuzu.io
+HOST-SUFFIX,zimuzu.tv
+HOST-SUFFIX,zmz002.com
+HOST-SUFFIX,zmz2019.com
+HOST-SUFFIX,zmzapi.com
+HOST-SUFFIX,zmzapi.net
+HOST-SUFFIX,zmzfile.com
+# ChinaTest 与 YiChe 共 5 条规则重复
+HOST-SUFFIX,bitauto.com
+HOST-SUFFIX,bitautoimg.com
+HOST-SUFFIX,cheyisou.com
+HOST-SUFFIX,yccdn.com
+HOST-SUFFIX,yiche.com
+# ChinaTest 与 YiXiaKeJi 共 7 条规则重复
+HOST-SUFFIX,miaopai.com
+HOST-SUFFIX,vbbobo.com
+HOST-SUFFIX,vitamio.org
+HOST-SUFFIX,vplayer.net
+HOST-SUFFIX,xiaoka.tv
+HOST-SUFFIX,xiaokaxiu.com
+HOST-SUFFIX,yixia.com
+# ChinaTest 与 YiZhiBo 共 2 条规则重复
+HOST-SUFFIX,yizhibo.com
+HOST-SUFFIX,yzbo.tv
+# ChinaTest 与 YouMengChuangXiang 共 3 条规则重复
+HOST-SUFFIX,97973.com
+HOST-SUFFIX,maozhuar.com
+HOST-SUFFIX,youmengchuangxiang.com
+# ChinaTest 与 YouZan 共 2 条规则重复
+HOST-SUFFIX,youzan.com
+HOST-SUFFIX,youzanyun.com
+# ChinaTest 与 YoukuTudou 共 7 条规则重复
+HOST-SUFFIX,kumiao.com
+HOST-SUFFIX,soku.com
+HOST-SUFFIX,tudou.com
+HOST-SUFFIX,ykimg.com
+HOST-SUFFIX,yoqoo.com
+HOST-SUFFIX,youku.com
+USER-AGENT,%e4%bc%98%e9%85%b7*
+# ChinaTest 与 YuanFuDao 共 8 条规则重复
+HOST-SUFFIX,52ml.net
+HOST-SUFFIX,banmaaike.com
+HOST-SUFFIX,xiaoyuankousuan.com
+HOST-SUFFIX,ybccode.com
+HOST-SUFFIX,yfdurl.com
+HOST-SUFFIX,yuanfudao.com
+HOST-SUFFIX,yuansouti.com
+HOST-SUFFIX,yuantiku.com
+# ChinaTest 与 YunFanJiaSu 共 12 条规则重复
+HOST-SUFFIX,yfcache.com
+HOST-SUFFIX,yfcalc.com
+HOST-SUFFIX,yfcdn.net
+HOST-SUFFIX,yfcloud.com
+HOST-SUFFIX,yfcloud.io
+HOST-SUFFIX,yfdns.net
+HOST-SUFFIX,yfdts.net
+HOST-SUFFIX,yfp2p.net
+HOST-SUFFIX,yfscdn.com
+HOST-SUFFIX,yfscdn.net
+HOST-SUFFIX,yunfancdn.com
+HOST-SUFFIX,yunfandns.com
+# ChinaTest 与 ZDNS 共 4 条规则重复
+HOST-SUFFIX,zdnscloud.biz
+HOST-SUFFIX,zdnscloud.com
+HOST-SUFFIX,zdnscloud.info
+HOST-SUFFIX,zdnscloud.net
+# ChinaTest 与 ZhangYue 共 8 条规则重复
+HOST-SUFFIX,ireader.com
+HOST-SUFFIX,ireaderm.net
+HOST-SUFFIX,palmestore.com
+HOST-SUFFIX,zhangyue.com
+HOST-SUFFIX,zhangyue.net
+HOST-SUFFIX,zhangyue01.com
+HOST-SUFFIX,zhangyue02.com
+HOST-SUFFIX,zhangyue03.com
+# ChinaTest 与 ZhiYunZhong 共 1 条规则重复
+HOST-SUFFIX,optaim.com
+# ChinaTest 与 ZhongGuoShiHua 共 4 条规则重复
+HOST-SUFFIX,sinopec-usa.com
+HOST-SUFFIX,sinopec.com
+HOST-SUFFIX,sinopecgroup.com
+HOST-SUFFIX,sinopecsales.com
+# ChinaTest 与 ZhongWeiShiJi 共 4 条规则重复
+HOST-SUFFIX,cloudsee.com
+HOST-SUFFIX,cloudseetech.com
+HOST-SUFFIX,jovcloud.com
+HOST-SUFFIX,jovetech.com
+# ChinaTest 与 ZhuanZhuan 共 3 条规则重复
+HOST-SUFFIX,zhuancorp.com
+HOST-SUFFIX,zhuanspirit.com
+HOST-SUFFIX,zhuanzhuan.com
+# ChinaTest 与 iFlytek 共 3 条规则重复
+HOST-SUFFIX,iflyink.com
+HOST-SUFFIX,iflyrec.com
+HOST-SUFFIX,iflytek.com
+# ChinaTest 与 ifanr 共 6 条规则重复
+HOST-SUFFIX,coolbuy.com
+HOST-SUFFIX,ifanr.com
+HOST-SUFFIX,ifanr.in
+HOST-SUFFIX,ifanrusercontent.com
+HOST-SUFFIX,minapp.com
+HOST-SUFFIX,mindstore.io
 # ChinaTest 与 Apple 共 8 条规则重复
 HOST-KEYWORD,icloud.com.akadns.net
 HOST-SUFFIX,aaplimg.com
@@ -1710,7 +3034,7 @@ HOST-SUFFIX,toolbarqueries.google.com
 HOST-SUFFIX,tools.google.com
 HOST-SUFFIX,tools.l.google.com
 HOST-SUFFIX,www-googletagmanager.l.google.com
-# ChinaTest 与 AdvertisingLite 共 650 条规则重复
+# ChinaTest 与 AdvertisingLite 共 652 条规则重复
 HOST-SUFFIX,000dn.com
 HOST-SUFFIX,0024aaaa.com
 HOST-SUFFIX,002lzj.com
@@ -2083,6 +3407,7 @@ HOST-SUFFIX,mieyisi.com
 HOST-SUFFIX,miidi.net
 HOST-SUFFIX,mindmanager.cc
 HOST-SUFFIX,mindmapper.cc
+HOST-SUFFIX,mindopu.com
 HOST-SUFFIX,minesage.com
 HOST-SUFFIX,mipujia.com
 HOST-SUFFIX,mjmobi.com
@@ -2128,6 +3453,7 @@ HOST-SUFFIX,penxiangge.com
 HOST-SUFFIX,photozoomchina.com
 HOST-SUFFIX,pikacn.com
 HOST-SUFFIX,pintour.com
+HOST-SUFFIX,pnxs.com
 HOST-SUFFIX,poppyta.com
 HOST-SUFFIX,punchbox.org
 HOST-SUFFIX,qajypx.com
@@ -2361,7 +3687,7 @@ HOST-SUFFIX,zlongad.com
 HOST-SUFFIX,zry8181.com
 HOST-SUFFIX,ztvx8.com
 HOST-SUFFIX,zzbyc.xyz
-# ChinaTest 与 Advertising 共 1150 条规则重复
+# ChinaTest 与 Advertising 共 1155 条规则重复
 HOST-SUFFIX,000dn.com
 HOST-SUFFIX,0024aaaa.com
 HOST-SUFFIX,002lzj.com
@@ -2980,6 +4306,7 @@ HOST-SUFFIX,kuyun.com
 HOST-SUFFIX,kxewpz.com
 HOST-SUFFIX,kxji.com
 HOST-SUFFIX,kxvuv.com
+HOST-SUFFIX,kyqcfj.com
 HOST-SUFFIX,ladymetro.com
 HOST-SUFFIX,lansha.tv
 HOST-SUFFIX,laolinow.com
@@ -3042,6 +4369,7 @@ HOST-SUFFIX,mieyisi.com
 HOST-SUFFIX,miidi.net
 HOST-SUFFIX,mindmanager.cc
 HOST-SUFFIX,mindmapper.cc
+HOST-SUFFIX,mindopu.com
 HOST-SUFFIX,minesage.com
 HOST-SUFFIX,mingyueqingfengshe.com
 HOST-SUFFIX,mipujia.com
@@ -3107,6 +4435,7 @@ HOST-SUFFIX,pincai.com
 HOST-SUFFIX,pintour.com
 HOST-SUFFIX,pinwu123.com
 HOST-SUFFIX,playcvn.com
+HOST-SUFFIX,pnxs.com
 HOST-SUFFIX,pop800.com
 HOST-SUFFIX,poppyta.com
 HOST-SUFFIX,pp8.com
@@ -3417,6 +4746,7 @@ HOST-SUFFIX,xwdsp.com
 HOST-SUFFIX,xwuad.com
 HOST-SUFFIX,xxxfeng.com
 HOST-SUFFIX,xy.com
+HOST-SUFFIX,xyad3hada.com
 HOST-SUFFIX,xyimg.net
 HOST-SUFFIX,xyxy01.com
 HOST-SUFFIX,xz6d.com
@@ -3434,6 +4764,7 @@ HOST-SUFFIX,yifuls.com
 HOST-SUFFIX,yigao.com
 HOST-SUFFIX,yihe360.com
 HOST-SUFFIX,yiiwoo.com
+HOST-SUFFIX,yinvmh.com
 HOST-SUFFIX,yipanhaocai.com
 HOST-SUFFIX,yiqifa.com
 HOST-SUFFIX,yiqiv.com
@@ -3512,7 +4843,7 @@ HOST-SUFFIX,zxw51.com
 HOST-SUFFIX,zyiis.net
 HOST-SUFFIX,zzbyc.xyz
 HOST-SUFFIX,zzpzero.com
-# ChinaTest 与 AdvertisingTest 共 1178 条规则重复
+# ChinaTest 与 AdvertisingTest 共 1184 条规则重复
 HOST-SUFFIX,000dn.com
 HOST-SUFFIX,0024aaaa.com
 HOST-SUFFIX,002lzj.com
@@ -4150,6 +5481,7 @@ HOST-SUFFIX,kuyun.com
 HOST-SUFFIX,kxewpz.com
 HOST-SUFFIX,kxji.com
 HOST-SUFFIX,kxvuv.com
+HOST-SUFFIX,kyqcfj.com
 HOST-SUFFIX,lady177.com
 HOST-SUFFIX,ladymetro.com
 HOST-SUFFIX,lansha.tv
@@ -4213,6 +5545,7 @@ HOST-SUFFIX,mieyisi.com
 HOST-SUFFIX,miidi.net
 HOST-SUFFIX,mindmanager.cc
 HOST-SUFFIX,mindmapper.cc
+HOST-SUFFIX,mindopu.com
 HOST-SUFFIX,minesage.com
 HOST-SUFFIX,mingyueqingfengshe.com
 HOST-SUFFIX,mipujia.com
@@ -4279,6 +5612,7 @@ HOST-SUFFIX,pincai.com
 HOST-SUFFIX,pintour.com
 HOST-SUFFIX,pinwu123.com
 HOST-SUFFIX,playcvn.com
+HOST-SUFFIX,pnxs.com
 HOST-SUFFIX,pop800.com
 HOST-SUFFIX,poppyta.com
 HOST-SUFFIX,pp8.com
@@ -4322,6 +5656,7 @@ HOST-SUFFIX,qujishu.com
 HOST-SUFFIX,quyaoya.com
 HOST-SUFFIX,qvpublish.com
 HOST-SUFFIX,qwxcs.com
+HOST-SUFFIX,qysyyg.com
 HOST-SUFFIX,qzxmtyy.com
 HOST-SUFFIX,rannabio.com
 HOST-SUFFIX,raonie.com
@@ -4596,6 +5931,7 @@ HOST-SUFFIX,xwdsp.com
 HOST-SUFFIX,xwuad.com
 HOST-SUFFIX,xxxfeng.com
 HOST-SUFFIX,xy.com
+HOST-SUFFIX,xyad3hada.com
 HOST-SUFFIX,xyimg.net
 HOST-SUFFIX,xyxy01.com
 HOST-SUFFIX,xz6d.com
@@ -4613,6 +5949,7 @@ HOST-SUFFIX,yifuls.com
 HOST-SUFFIX,yigao.com
 HOST-SUFFIX,yihe360.com
 HOST-SUFFIX,yiiwoo.com
+HOST-SUFFIX,yinvmh.com
 HOST-SUFFIX,yipanhaocai.com
 HOST-SUFFIX,yiqifa.com
 HOST-SUFFIX,yiqiv.com
@@ -4769,25 +6106,42 @@ HOST-SUFFIX,steampowered.com
 HOST-SUFFIX,steamstat.us
 HOST-SUFFIX,steamstatic.com
 HOST-SUFFIX,steamusercontent.com
-# ChinaTest 与 Blizzard 共 3 条规则重复
-HOST,blzddist1-a.akamaihd.net
+# ChinaTest 与 Blizzard 共 4 条规则重复
 HOST-SUFFIX,battle.net
+HOST-SUFFIX,battlenet.com
 HOST-SUFFIX,blizzard.com
+HOST-SUFFIX,wowchina.com
 # ChinaTest 与 Steam 共 8 条规则重复
-HOST,steamcommunity-a.akamaihd.net
 HOST-SUFFIX,steam-chat.com
+HOST-SUFFIX,steamcdn-a.akamaihd.net
 HOST-SUFFIX,steamcontent.com
 HOST-SUFFIX,steamgames.com
 HOST-SUFFIX,steampowered.com
 HOST-SUFFIX,steamstat.us
 HOST-SUFFIX,steamstatic.com
 HOST-SUFFIX,steamusercontent.com
+# ChinaTest 与 PlayStation 共 4 条规则重复
+HOST-SUFFIX,playstation.com
+HOST-SUFFIX,playstation.net
+HOST-SUFFIX,playstationnetwork.com
+HOST-SUFFIX,sonyentertainmentnetwork.com
 # ChinaTest 与 SteamCN 共 5 条规则重复
 HOST-SUFFIX,steamcontent.com
 HOST-SUFFIX,steamgames.com
 HOST-SUFFIX,steamstat.us
 HOST-SUFFIX,steamstatic.com
 HOST-SUFFIX,steamusercontent.com
+# ChinaTest 与 Gog 共 5 条规则重复
+HOST-SUFFIX,gogalaxy.gog-statics.com
+HOST-SUFFIX,menu-static.gog-statics.com
+HOST-SUFFIX,productcard.gog-statics.com
+HOST-SUFFIX,static-login.gog-statics.com
+HOST-SUFFIX,www4-static.gog-statics.com
+# ChinaTest 与 UBI 共 1 条规则重复
+HOST-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com
+# ChinaTest 与 Xbox 共 2 条规则重复
+HOST-SUFFIX,xbox.com
+HOST-SUFFIX,xboxlive.com
 # ChinaTest 与 Proxy 共 179 条规则重复
 HOST-SUFFIX,265.com
 HOST-SUFFIX,2mdn.net
@@ -5044,9 +6398,11 @@ HOST-SUFFIX,xteko.com
 # ChinaTest 与 Speedtest 共 2 条规则重复
 HOST-KEYWORD,speedtest
 HOST-SUFFIX,ooklaserver.net
-# ChinaTest 与 TikTok 共 2 条规则重复
+# ChinaTest 与 TikTok 共 4 条规则重复
+HOST-SUFFIX,amemv.com
 HOST-SUFFIX,byteoversea.com
 HOST-SUFFIX,ibytedtos.com
+HOST-SUFFIX,snssdk.com
 # ChinaTest 与 PayPal 共 4 条规则重复
 HOST-SUFFIX,paypal.com
 HOST-SUFFIX,paypal.me

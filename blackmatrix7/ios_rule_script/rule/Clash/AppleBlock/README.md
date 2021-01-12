@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-01-12 03:02:40。
+最后检查时间：2021-01-12 21:05:15。
 
 ## 规则统计
 
@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 | ---- | ---- | ---- | ------ |
 |  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Apple)    | 84   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleBlock/AppleBlock_Repeat.list)   |   2.38% |
 |  [AppleTV](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AppleTV)    | 5   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleBlock/AppleBlock_Repeat.list)   |   20.0% |
-|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Proxy)    | 27892   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleBlock/AppleBlock_Repeat.list)   |   0.01% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Proxy)    | 27893   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleBlock/AppleBlock_Repeat.list)   |   0.01% |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Global)    | 1252   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleBlock/AppleBlock_Repeat.list)   |   0.4% |
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/BlackList)    | 768   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleBlock/AppleBlock_Repeat.list)   |   0.65% |
 ### 特别说明

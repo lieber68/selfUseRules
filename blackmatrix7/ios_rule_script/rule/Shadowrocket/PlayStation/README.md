@@ -8,17 +8,17 @@
 
 
 
-最后检查时间：2021-01-12 03:02:43。
+最后检查时间：2021-01-12 21:05:22。
 
 ## 规则统计
 
-总计规则：3 条。
+总计规则：4 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN | 3 |
+| DOMAIN-SUFFIX | 4 |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -40,8 +40,18 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shad
 当前分流规则，未包含其他子规则。
 
 
+当前分流规则，与本项目其他分流规则重复情况统计(点击重复数量可查看明细)。
 
-PlayStation分流规则，与本项目其他分流规则没有重复。
+
+
+| 名称 | 数量 | 重复 | 重合度 |
+| ---- | ---- | ---- | ------ |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/China)    | 689   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/PlayStation/PlayStation_Repeat.list)   |   0.58% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/ChinaTest)    | 72396   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/PlayStation/PlayStation_Repeat.list)   |   0.01% |
+|  [Game](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Game)    | 63   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/PlayStation/PlayStation_Repeat.list)   |   6.35% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Proxy)    | 27943   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/PlayStation/PlayStation_Repeat.list)   |   0.01% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Global)    | 1292   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/PlayStation/PlayStation_Repeat.list)   |   0.31% |
+|  [Sony](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Sony)    | 6   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/PlayStation/PlayStation_Repeat.list)   |   66.67% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 
@@ -49,6 +59,7 @@ PlayStation分流规则，与本项目其他分流规则没有重复。
 
 本项目的PlayStation分流规则的数据来自以下链接，通常已涵盖所有数据来源的分流规则。如果你正在使用这些分流规则，建议不要与本项目的PlayStation分流规则混合使用，以免造成规则重复。
 
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/PlayStation.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/PlayStation/PlayStation.list
 
 

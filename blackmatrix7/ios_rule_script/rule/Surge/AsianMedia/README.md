@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-01-12 03:02:32。
+最后检查时间：2021-01-12 21:04:57。
 
 ## 规则统计
 
@@ -50,15 +50,17 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Bilibili](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Bilibili)    | 60   | [13](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AsianMedia/AsianMedia_Repeat.list)   |   21.67% |
+|  [BiliBili](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/BiliBili)    | 60   | [13](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AsianMedia/AsianMedia_Repeat.list)   |   21.67% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 689   | [8](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AsianMedia/AsianMedia_Repeat.list)   |   1.16% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 72354   | [14](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AsianMedia/AsianMedia_Repeat.list)   |   0.02% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 72396   | [14](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AsianMedia/AsianMedia_Repeat.list)   |   0.02% |
 |  [ChinaIPs](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaIPs)    | 6057   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AsianMedia/AsianMedia_Repeat.list)   |   0.05% |
+|  [Tencent](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Tencent)    | 300   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AsianMedia/AsianMedia_Repeat.list)   |   0.33% |
 |  [ChinaMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaMedia)    | 141   | [24](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AsianMedia/AsianMedia_Repeat.list)   |   17.02% |
 |  [Youku](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Youku)    | 1   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AsianMedia/AsianMedia_Repeat.list)   |   100.0% |
 |  [TencentVideo](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/TencentVideo)    | 2   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AsianMedia/AsianMedia_Repeat.list)   |   50.0% |
-|  [iQiyi](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/iQiyi)    | 19   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AsianMedia/AsianMedia_Repeat.list)   |   26.32% |
+|  [iQIYI](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/iQIYI)    | 47   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AsianMedia/AsianMedia_Repeat.list)   |   14.89% |
 |  [Alibaba](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Alibaba)    | 1222   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AsianMedia/AsianMedia_Repeat.list)   |   0.08% |
+|  [WeTV](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/WeTV)    | 7   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AsianMedia/AsianMedia_Repeat.list)   |   14.29% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 

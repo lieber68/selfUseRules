@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-01-12 03:02:31。
+最后检查时间：2021-01-12 21:04:56。
 
 ## 规则统计
 
@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 | ---- | ---- | ---- | ------ |
 |  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Apple)    | 106   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleBlock/AppleBlock_Repeat.list)   |   1.89% |
 |  [AppleTV](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AppleTV)    | 7   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleBlock/AppleBlock_Repeat.list)   |   14.29% |
-|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 27942   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleBlock/AppleBlock_Repeat.list)   |   0.01% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 27943   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleBlock/AppleBlock_Repeat.list)   |   0.01% |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 1292   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleBlock/AppleBlock_Repeat.list)   |   0.39% |
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/BlackList)    | 771   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleBlock/AppleBlock_Repeat.list)   |   0.65% |
 ### 特别说明

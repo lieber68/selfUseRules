@@ -1,0 +1,16 @@
+# NAME: DouYu
+# AUTHOR: blackmatrix7
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-01-12 21:04:42
+# HOST-SUFFIX: 10
+# TOTAL: 10
+HOST-SUFFIX,douyu.com,DouYu
+HOST-SUFFIX,douyu.tv,DouYu
+HOST-SUFFIX,douyuba.cn,DouYu
+HOST-SUFFIX,douyucdn.cn,DouYu
+HOST-SUFFIX,douyucdn2.cn,DouYu
+HOST-SUFFIX,douyupcdn.cn,DouYu
+HOST-SUFFIX,douyuscdn.com,DouYu
+HOST-SUFFIX,douyutv.com,DouYu
+HOST-SUFFIX,doyonoc.com,DouYu
+HOST-SUFFIX,oywtv.com,DouYu

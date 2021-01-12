@@ -1,7 +1,7 @@
 # NAME: Global 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-12 03:02:28
+# UPDATED: 2021-01-12 21:04:49
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Global 与 China 共 36 条规则重复
 HOST-SUFFIX,bing.com
@@ -129,11 +129,12 @@ HOST-SUFFIX,skype.com
 HOST-SUFFIX,windows.com
 HOST-SUFFIX,windows.net
 HOST-SUFFIX,xboxlive.com
-# Global 与 YouTube 共 9 条规则重复
-HOST,youtubei.googleapis.com
+# Global 与 YouTube 共 10 条规则重复
+HOST-SUFFIX,ggpht.com
 HOST-SUFFIX,googlevideo.com
 HOST-SUFFIX,youtu.be
 HOST-SUFFIX,youtube.com
+HOST-SUFFIX,yt.be
 HOST-SUFFIX,ytimg.com
 USER-AGENT,com.google.ios.youtube*
 USER-AGENT,com.google.ios.youtubemusic*
@@ -288,8 +289,22 @@ HOST-SUFFIX,sonyentertainmentnetwork.com
 HOST-SUFFIX,steamcommunity.com
 # Global 与 Steam 共 1 条规则重复
 HOST-SUFFIX,steamcommunity.com
+# Global 与 PlayStation 共 4 条规则重复
+HOST-SUFFIX,playstation.com
+HOST-SUFFIX,playstation.net
+HOST-SUFFIX,playstationnetwork.com
+HOST-SUFFIX,sonyentertainmentnetwork.com
 # Global 与 Epic 共 1 条规则重复
 HOST-SUFFIX,helpshift.com
+# Global 与 Gog 共 1 条规则重复
+HOST-SUFFIX,gog.com
+# Global 与 Nintendo 共 4 条规则重复
+HOST-SUFFIX,nintendo.com
+HOST-SUFFIX,nintendo.net
+HOST-SUFFIX,pokemon.com
+HOST-SUFFIX,supermariorun.com
+# Global 与 Xbox 共 1 条规则重复
+HOST-SUFFIX,xboxlive.com
 # Global 与 Proxy 共 1255 条规则重复
 HOST,ds-linear-abematv.akamaized.net
 HOST,ds-vod-abematv.akamaized.net
@@ -2446,11 +2461,14 @@ USER-AGENT,argo*
 # Global 与 Dubox 共 2 条规则重复
 HOST-SUFFIX,dubox.com
 HOST-SUFFIX,duboxcdn.com
-# Global 与 Disney 共 5 条规则重复
+# Global 与 Disney 共 8 条规则重复
+HOST-SUFFIX,abc.com
+HOST-SUFFIX,adobedtm.com
 HOST-SUFFIX,bamgrid.com
 HOST-SUFFIX,disney-plus.net
 HOST-SUFFIX,disneyplus.com
 HOST-SUFFIX,dssott.com
+HOST-SUFFIX,go.com
 USER-AGENT,disney+*
 # Global 与 Twitter 共 10 条规则重复
 HOST-KEYWORD,twitter
@@ -2544,9 +2562,13 @@ HOST-SUFFIX,nicovideo.jp
 HOST-SUFFIX,nimg.jp
 HOST-SUFFIX,socdm.com
 USER-AGENT,niconico*
-# Global 与 BBC 共 2 条规则重复
+# Global 与 BBC 共 6 条规则重复
+HOST-KEYWORD,bbcfmt
 HOST-KEYWORD,uk-live
+HOST-SUFFIX,bbc.co.uk
 HOST-SUFFIX,bbc.com
+HOST-SUFFIX,bbci.co.uk
+USER-AGENT,bbciplayer*
 # Global 与 Developer 共 6 条规则重复
 HOST-SUFFIX,docker.com
 HOST-SUFFIX,gcr.io
@@ -2588,3 +2610,156 @@ HOST-SUFFIX,macromedia.com
 HOST-SUFFIX,symcb.com
 HOST-SUFFIX,symcd.com
 HOST-SUFFIX,typekit.net
+# Global 与 AbemaTV 共 5 条规则重复
+HOST-SUFFIX,abema.io
+HOST-SUFFIX,abema.tv
+HOST-SUFFIX,ameba.jp
+HOST-SUFFIX,hayabusa.io
+USER-AGENT,abematv*
+# Global 与 All4 共 3 条规则重复
+HOST-SUFFIX,c4assets.com
+HOST-SUFFIX,channel4.com
+USER-AGENT,all4*
+# Global 与 AmazonPrimeVideo 共 8 条规则重复
+HOST-KEYWORD,avoddashs
+HOST-SUFFIX,aiv-cdn.net
+HOST-SUFFIX,aiv-delivery.net
+HOST-SUFFIX,amazonvideo.com
+HOST-SUFFIX,llnwd.net
+HOST-SUFFIX,primevideo.com
+USER-AGENT,instantvideo.us*
+USER-AGENT,prime%20video*
+# Global 与 AppleDaily 共 2 条规则重复
+HOST-SUFFIX,appledaily.com
+HOST-SUFFIX,nextmedia.com
+# Global 与 BoXun 共 1 条规则重复
+HOST-SUFFIX,boxun.com
+# Global 与 CNN 共 1 条规则重复
+HOST-SUFFIX,cnn.com
+# Global 与 CableTV 共 1 条规则重复
+HOST-SUFFIX,i-cable.com
+# Global 与 DAZN 共 4 条规则重复
+HOST-KEYWORD,voddazn
+HOST-SUFFIX,dazn-api.com
+HOST-SUFFIX,dazn.com
+USER-AGENT,dazn*
+# Global 与 Dailymotion 共 1 条规则重复
+HOST-SUFFIX,dailymotion.com
+# Global 与 Deezer 共 3 条规则重复
+HOST-SUFFIX,deezer.com
+HOST-SUFFIX,dzcdn.net
+USER-AGENT,deezer*
+# Global 与 EncoreTVB 共 3 条规则重复
+HOST,edge.api.brightcove.com
+HOST-SUFFIX,encoretvb.com
+USER-AGENT,encoretvb*
+# Global 与 Fox 共 7 条规则重复
+HOST-SUFFIX,fox.com
+HOST-SUFFIX,foxdcg.com
+HOST-SUFFIX,fxnetworks.com
+HOST-SUFFIX,now.com
+HOST-SUFFIX,theplatform.com
+HOST-SUFFIX,uplynk.com
+USER-AGENT,fox%20now*
+# Global 与 HBO 共 7 条规则重复
+HOST-SUFFIX,hbo.com
+HOST-SUFFIX,hbogo.com
+HOST-SUFFIX,hbogoasia.com
+HOST-SUFFIX,hbogoasia.hk
+HOST-SUFFIX,hbonow.com
+HOST-SUFFIX,nowe.com
+USER-AGENT,hbo%20now*
+# Global 与 HWTV 共 3 条规则重复
+HOST-SUFFIX,5itv.tv
+HOST-SUFFIX,ocnttv.com
+USER-AGENT,hwtvmobile*
+# Global 与 Huffpost 共 1 条规则重复
+HOST-SUFFIX,huffpost.com
+# Global 与 Hulu 共 5 条规则重复
+HOST-SUFFIX,happyon.jp
+HOST-SUFFIX,hulu.com
+HOST-SUFFIX,hulu.jp
+HOST-SUFFIX,huluim.com
+HOST-SUFFIX,hulustream.com
+# Global 与 ITV 共 3 条规则重复
+HOST-SUFFIX,itv.com
+HOST-SUFFIX,itvstatic.com
+USER-AGENT,itv_player*
+# Global 与 JOOX 共 3 条规则重复
+HOST-SUFFIX,joox.com
+USER-AGENT,joox*
+USER-AGENT,wemusic*
+# Global 与 KKBOX 共 5 条规则重复
+HOST-SUFFIX,kfs.io
+HOST-SUFFIX,kkbox.com
+HOST-SUFFIX,kkbox.com.tw
+HOST-SUFFIX,kktv.com.tw
+HOST-SUFFIX,kktv.me
+# Global 与 Kakao 共 6 条规则重复
+HOST-SUFFIX,daum.net
+HOST-SUFFIX,daumcdn.net
+HOST-SUFFIX,kakao.co.kr
+HOST-SUFFIX,kakao.com
+HOST-SUFFIX,kakaocdn.net
+HOST-SUFFIX,kakaocorp.com
+# Global 与 LiTV 共 1 条规则重复
+HOST-SUFFIX,litv.tv
+# Global 与 LineTV 共 4 条规则重复
+HOST-SUFFIX,chocotv.com.tw
+HOST-SUFFIX,line-scdn.net
+HOST-SUFFIX,linetv.tw
+USER-AGENT,line%20tv*
+# Global 与 My5 共 3 条规则重复
+HOST-SUFFIX,channel5.com
+HOST-SUFFIX,my5.tv
+USER-AGENT,my5*
+# Global 与 NYTimes 共 8 条规则重复
+HOST-SUFFIX,nyt.com
+HOST-SUFFIX,nytchina.com
+HOST-SUFFIX,nytcn.me
+HOST-SUFFIX,nytco.com
+HOST-SUFFIX,nytimes.com
+HOST-SUFFIX,nytimg.com
+HOST-SUFFIX,nytlog.com
+HOST-SUFFIX,nytstyle.com
+# Global 与 Nikkei 共 1 条规则重复
+HOST-SUFFIX,nikkei.com
+# Global 与 PBS 共 2 条规则重复
+HOST-SUFFIX,pbs.org
+USER-AGENT,pbs*
+# Global 与 Pandora 共 3 条规则重复
+HOST-SUFFIX,p-cdn.us
+HOST-SUFFIX,pandora.com
+USER-AGENT,pandora*
+# Global 与 SoundCloud 共 4 条规则重复
+HOST-SUFFIX,p-cdn.us
+HOST-SUFFIX,sndcdn.com
+HOST-SUFFIX,soundcloud.com
+USER-AGENT,soundcloud*
+# Global 与 TIDAL 共 1 条规则重复
+HOST-SUFFIX,tidal.com
+# Global 与 TVB 共 3 条规则重复
+HOST-SUFFIX,mytvsuper.com
+HOST-SUFFIX,tvb.com
+USER-AGENT,mytv*
+# Global 与 TaiWanGood 共 3 条规则重复
+HOST,hamifans.emome.net
+HOST-SUFFIX,skyking.com.tw
+USER-AGENT,taiwangood*
+# Global 与 VOA 共 2 条规则重复
+HOST-SUFFIX,voachinese.com
+HOST-SUFFIX,voanews.com
+# Global 与 Vimeo 共 3 条规则重复
+HOST-SUFFIX,livestream.com
+HOST-SUFFIX,vimeo.com
+HOST-SUFFIX,vimeocdn.com
+# Global 与 ViuTV 共 4 条规则重复
+HOST-SUFFIX,viu.com
+HOST-SUFFIX,viu.tv
+USER-AGENT,viu*
+USER-AGENT,viutv*
+# Global 与 Voxmedia 共 2 条规则重复
+HOST-SUFFIX,theverge.com
+HOST-SUFFIX,vox-cdn.com
+# Global 与 friDay 共 1 条规则重复
+HOST-SUFFIX,friday.tw

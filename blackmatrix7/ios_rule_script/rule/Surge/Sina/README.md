@@ -8,17 +8,17 @@
 
 
 
-最后检查时间：2021-01-12 03:02:29。
+最后检查时间：2021-01-12 21:04:52。
 
 ## 规则统计
 
-总计规则：10 条。
+总计规则：101 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 9 |
+| DOMAIN-SUFFIX | 100 |
 | DOMAIN-KEYWORD | 1 |
 ## 配置说明
 
@@ -48,9 +48,11 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [Weibo](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Weibo)    | 4   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sina/Sina_Repeat.list)   |   100.0% |
-|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 689   | [8](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sina/Sina_Repeat.list)   |   1.16% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 72354   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sina/Sina_Repeat.list)   |   0.01% |
-|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 27942   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sina/Sina_Repeat.list)   |   0.0% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 689   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sina/Sina_Repeat.list)   |   1.31% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 72396   | [32](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sina/Sina_Repeat.list)   |   0.04% |
+|  [LeJu](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/LeJu)    | 23   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sina/Sina_Repeat.list)   |   4.35% |
+|  [YiXiaKeJi](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/YiXiaKeJi)    | 14   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sina/Sina_Repeat.list)   |   14.29% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 27943   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Sina/Sina_Repeat.list)   |   0.0% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 
@@ -59,6 +61,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 本项目的新浪分流规则的数据来自以下链接，通常已涵盖所有数据来源的分流规则。如果你正在使用这些分流规则，建议不要与本项目的新浪分流规则混合使用，以免造成规则重复。
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sina.list
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Sina.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Weibo/Weibo.list
 
 

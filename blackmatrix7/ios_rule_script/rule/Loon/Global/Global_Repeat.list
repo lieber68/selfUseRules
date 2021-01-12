@@ -1,7 +1,7 @@
 # NAME: Global 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-12 03:02:28
+# UPDATED: 2021-01-12 21:04:50
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Global 与 China 共 36 条规则重复
 DOMAIN-SUFFIX,bing.com
@@ -129,11 +129,12 @@ DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,xboxlive.com
-# Global 与 YouTube 共 9 条规则重复
-DOMAIN,youtubei.googleapis.com
+# Global 与 YouTube 共 10 条规则重复
+DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 USER-AGENT,com.google.ios.youtube*
 USER-AGENT,com.google.ios.youtubemusic*
@@ -288,8 +289,22 @@ DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,steamcommunity.com
 # Global 与 Steam 共 1 条规则重复
 DOMAIN-SUFFIX,steamcommunity.com
+# Global 与 PlayStation 共 4 条规则重复
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 # Global 与 Epic 共 1 条规则重复
 DOMAIN-SUFFIX,helpshift.com
+# Global 与 Gog 共 1 条规则重复
+DOMAIN-SUFFIX,gog.com
+# Global 与 Nintendo 共 4 条规则重复
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,pokemon.com
+DOMAIN-SUFFIX,supermariorun.com
+# Global 与 Xbox 共 1 条规则重复
+DOMAIN-SUFFIX,xboxlive.com
 # Global 与 Proxy 共 1256 条规则重复
 DOMAIN,ds-linear-abematv.akamaized.net
 DOMAIN,ds-vod-abematv.akamaized.net
@@ -2447,11 +2462,14 @@ USER-AGENT,argo*
 # Global 与 Dubox 共 2 条规则重复
 DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,duboxcdn.com
-# Global 与 Disney 共 5 条规则重复
+# Global 与 Disney 共 8 条规则重复
+DOMAIN-SUFFIX,abc.com
+DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,disneyplus.com
 DOMAIN-SUFFIX,dssott.com
+DOMAIN-SUFFIX,go.com
 USER-AGENT,disney+*
 # Global 与 Twitter 共 10 条规则重复
 DOMAIN-KEYWORD,twitter
@@ -2545,9 +2563,13 @@ DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nimg.jp
 DOMAIN-SUFFIX,socdm.com
 USER-AGENT,niconico*
-# Global 与 BBC 共 2 条规则重复
+# Global 与 BBC 共 6 条规则重复
+DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
+DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbci.co.uk
+USER-AGENT,bbciplayer*
 # Global 与 Developer 共 6 条规则重复
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,gcr.io
@@ -2589,3 +2611,156 @@ DOMAIN-SUFFIX,macromedia.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,typekit.net
+# Global 与 AbemaTV 共 5 条规则重复
+DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,ameba.jp
+DOMAIN-SUFFIX,hayabusa.io
+USER-AGENT,abematv*
+# Global 与 All4 共 3 条规则重复
+DOMAIN-SUFFIX,c4assets.com
+DOMAIN-SUFFIX,channel4.com
+USER-AGENT,all4*
+# Global 与 AmazonPrimeVideo 共 8 条规则重复
+DOMAIN-KEYWORD,avoddashs
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,aiv-delivery.net
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,primevideo.com
+USER-AGENT,instantvideo.us*
+USER-AGENT,prime%20video*
+# Global 与 AppleDaily 共 2 条规则重复
+DOMAIN-SUFFIX,appledaily.com
+DOMAIN-SUFFIX,nextmedia.com
+# Global 与 BoXun 共 1 条规则重复
+DOMAIN-SUFFIX,boxun.com
+# Global 与 CNN 共 1 条规则重复
+DOMAIN-SUFFIX,cnn.com
+# Global 与 CableTV 共 1 条规则重复
+DOMAIN-SUFFIX,i-cable.com
+# Global 与 DAZN 共 4 条规则重复
+DOMAIN-KEYWORD,voddazn
+DOMAIN-SUFFIX,dazn-api.com
+DOMAIN-SUFFIX,dazn.com
+USER-AGENT,dazn*
+# Global 与 Dailymotion 共 1 条规则重复
+DOMAIN-SUFFIX,dailymotion.com
+# Global 与 Deezer 共 3 条规则重复
+DOMAIN-SUFFIX,deezer.com
+DOMAIN-SUFFIX,dzcdn.net
+USER-AGENT,deezer*
+# Global 与 EncoreTVB 共 3 条规则重复
+DOMAIN,edge.api.brightcove.com
+DOMAIN-SUFFIX,encoretvb.com
+USER-AGENT,encoretvb*
+# Global 与 Fox 共 7 条规则重复
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,fxnetworks.com
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,theplatform.com
+DOMAIN-SUFFIX,uplynk.com
+USER-AGENT,fox%20now*
+# Global 与 HBO 共 7 条规则重复
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,nowe.com
+USER-AGENT,hbo%20now*
+# Global 与 HWTV 共 3 条规则重复
+DOMAIN-SUFFIX,5itv.tv
+DOMAIN-SUFFIX,ocnttv.com
+USER-AGENT,hwtvmobile*
+# Global 与 Huffpost 共 1 条规则重复
+DOMAIN-SUFFIX,huffpost.com
+# Global 与 Hulu 共 5 条规则重复
+DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,hulu.jp
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,hulustream.com
+# Global 与 ITV 共 3 条规则重复
+DOMAIN-SUFFIX,itv.com
+DOMAIN-SUFFIX,itvstatic.com
+USER-AGENT,itv_player*
+# Global 与 JOOX 共 3 条规则重复
+DOMAIN-SUFFIX,joox.com
+USER-AGENT,joox*
+USER-AGENT,wemusic*
+# Global 与 KKBOX 共 5 条规则重复
+DOMAIN-SUFFIX,kfs.io
+DOMAIN-SUFFIX,kkbox.com
+DOMAIN-SUFFIX,kkbox.com.tw
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+# Global 与 Kakao 共 6 条规则重复
+DOMAIN-SUFFIX,daum.net
+DOMAIN-SUFFIX,daumcdn.net
+DOMAIN-SUFFIX,kakao.co.kr
+DOMAIN-SUFFIX,kakao.com
+DOMAIN-SUFFIX,kakaocdn.net
+DOMAIN-SUFFIX,kakaocorp.com
+# Global 与 LiTV 共 1 条规则重复
+DOMAIN-SUFFIX,litv.tv
+# Global 与 LineTV 共 4 条规则重复
+DOMAIN-SUFFIX,chocotv.com.tw
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,linetv.tw
+USER-AGENT,line%20tv*
+# Global 与 My5 共 3 条规则重复
+DOMAIN-SUFFIX,channel5.com
+DOMAIN-SUFFIX,my5.tv
+USER-AGENT,my5*
+# Global 与 NYTimes 共 8 条规则重复
+DOMAIN-SUFFIX,nyt.com
+DOMAIN-SUFFIX,nytchina.com
+DOMAIN-SUFFIX,nytcn.me
+DOMAIN-SUFFIX,nytco.com
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,nytimg.com
+DOMAIN-SUFFIX,nytlog.com
+DOMAIN-SUFFIX,nytstyle.com
+# Global 与 Nikkei 共 1 条规则重复
+DOMAIN-SUFFIX,nikkei.com
+# Global 与 PBS 共 2 条规则重复
+DOMAIN-SUFFIX,pbs.org
+USER-AGENT,pbs*
+# Global 与 Pandora 共 3 条规则重复
+DOMAIN-SUFFIX,p-cdn.us
+DOMAIN-SUFFIX,pandora.com
+USER-AGENT,pandora*
+# Global 与 SoundCloud 共 4 条规则重复
+DOMAIN-SUFFIX,p-cdn.us
+DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,soundcloud.com
+USER-AGENT,soundcloud*
+# Global 与 TIDAL 共 1 条规则重复
+DOMAIN-SUFFIX,tidal.com
+# Global 与 TVB 共 3 条规则重复
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+USER-AGENT,mytv*
+# Global 与 TaiWanGood 共 3 条规则重复
+DOMAIN,hamifans.emome.net
+DOMAIN-SUFFIX,skyking.com.tw
+USER-AGENT,taiwangood*
+# Global 与 VOA 共 2 条规则重复
+DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,voanews.com
+# Global 与 Vimeo 共 3 条规则重复
+DOMAIN-SUFFIX,livestream.com
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,vimeocdn.com
+# Global 与 ViuTV 共 4 条规则重复
+DOMAIN-SUFFIX,viu.com
+DOMAIN-SUFFIX,viu.tv
+USER-AGENT,viu*
+USER-AGENT,viutv*
+# Global 与 Voxmedia 共 2 条规则重复
+DOMAIN-SUFFIX,theverge.com
+DOMAIN-SUFFIX,vox-cdn.com
+# Global 与 friDay 共 1 条规则重复
+DOMAIN-SUFFIX,friday.tw
