@@ -55,6 +55,8 @@
 
 * [@58xinian](https://github.com/58xinian?tab=repositories)
 
+* [@yichahucha](https://github.com/yichahucha/surge/tree/master)
+
 ## License
 
 [GPLv3](LICENSE)
