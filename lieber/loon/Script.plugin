@@ -1,0 +1,137 @@
+[Script]
+enable = true
+# 京东历史价格
+http-response ^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig) requires-body=1,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/yichahucha/surge/jd_price_lite.js, tag=京东比价 Lite(通知版)
+
+# 淘宝比价
+http-request ^http://.+/amdc/mobileDispatch requires-body=1,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/yichahucha/surge/tb_price_lite.js, tag=淘宝比价1 Lite(通知版)
+http-response ^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail requires-body=1,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/yichahucha/surge/tb_price_lite.js, tag=淘宝比价2 Lite(通知版)
+
+http-request https?:\/\/sub\.store script-path=https://gitee.com/lieber68/selfUseRules/raw/master/Peng-YM/Sub-Store/backend/sub-store.js, requires-body=true, timeout=120, tag=Sub-Store
+
+http-request ^https?://boxjs.com script-path=https://gitee.com/chavyleung/scripts/raw/master/chavy.box.js, requires-body=true, timeout=120, tag=BoxJs
+
+[Rule]
+DOMAIN, cdn.jsdelivr.net, DIRECT
+DOMAIN-SUFFIX, coding-pages.com, DIRECT
+DOMAIN-SUFFIX, workers.dev, DIRECT
+DOMAIN, cdn.staticaly.com, DIRECT
+DOMAIN, cdn.statically.io, DIRECT
+DOMAIN, pv.sohu.com, DIRECT
+DOMAIN-SUFFIX, gitee.io, DIRECT
+DOMAIN-SUFFIX, gitlab.io, DIRECT
+DOMAIN, activation.crossutility.com, DIRECT
+DOMAIN, download.maxmind.com, DIRECT
+DOMAIN, iqiyia.xyz, DIRECT
+DOMAIN, boxjs.com, DIRECT
+
+[Host]
+*.taobao.com = server:223.5.5.5
+*.tmall.com = server:223.5.5.5
+*.jd.com = server:119.28.28.28
+*.qq.com = server:119.28.28.28
+*.tencent.com = server:119.28.28.28
+*.alicdn.com = server:223.5.5.5
+*.aliyun.com = server:223.5.5.5
+*.weixin.com = server:119.28.28.28
+*.163.com = server:119.29.29.29
+*.126.com = server:119.29.29.29
+*.126.net = server:119.29.29.29
+*.127.net = server:119.29.29.29
+*.netease.com = server:119.29.29.29
+*.mi.com = server:119.29.29.29
+*.xiaomi.com = server:119.29.29.29
+*.bilibili.com = server:119.29.29.29
+*testflight.apple.com = server:8.8.4.4
+cdn.pcbeta.attachment.inimc.com = 120.52.19.113
+cdn.pcbeta.css.inimc.com = 120.52.19.113
+cdn.pcbeta.static.inimc.com = 120.52.19.113
+
+[URL Rewrite]
+enable = true
+^(http|https):\/\/raw\.githubusercontent\.com\/(.+) https://cdn.staticaly.com/gh/$2 302
+^(http|https):\/\/gist\.githubusercontent\.com\/(.+) https://cdn.staticaly.com/gist/$2 302
+# wiki xxx (Wikipedia)
+^https:\/\/duckduckgo.com\/\?q=wiki(\+|%20)([^&]+).+ https://wikipedia.org/wiki/$2 302
+
+# wk xxx (Wikipedia 中文)
+^https:\/\/duckduckgo.com\/\?q=wk(\+|%20)([^&]+).+ https://zh.wikipedia.org/wiki/$2 302
+
+# mg xxx (Magi)
+^https:\/\/duckduckgo.com\/\?q=mg(\+|%20)([^&]+).+ https://magi.com/search?q=$2 302
+
+# bd xxx (百度)
+^https:\/\/duckduckgo.com\/\?q=bd(\+|%20)([^&]+).+ https://www.baidu.com/s?wd=$2 302
+
+# gh xxx (GitHub)
+^https:\/\/duckduckgo.com\/\?q=gh(\+|%20)([^&]+).+ https://github.com/search?q=$2 302
+
+# tf xxx (Google 搜索 TestFlight)
+^https:\/\/duckduckgo.com\/\?q=tf(\+|%20)([^&]+).+ https://www.google.com/search?as_q=$2&as_sitesearch=testflight.apple.com 302
+
+# gi xxx (Google 图片)
+^https:\/\/duckduckgo.com\/\?q=gi(\+|%20)([^&]+).+ https://www.google.com/search?&tbm=isch&q=$2 302
+
+# yd xxx (有道词典)
+^https:\/\/duckduckgo.com\/\?q=yd(\+|%20)([^&]+).+ https://dict.youdao.com/search?q=$2 302
+
+# trc xxx (Google 译至中)
+^https:\/\/duckduckgo.com\/\?q=trc(\+|%20)([^&]+).+ https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=$2 302
+
+# tre xxx (Google 译至英)
+^https:\/\/duckduckgo.com\/\?q=tre(\+|%20)([^&]+).+ https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=$2 302
+
+# trj xxx (Google 译至日)
+^https:\/\/duckduckgo.com\/\?q=trj(\+|%20)([^&]+).+ https://translate.google.com/#view=home&op=translate&sl=auto&tl=ja&text=$2 302
+
+# sspai xxx (少数派站内搜索)
+^https:\/\/duckduckgo.com\/\?q=sspai(\+|%20)([^&]+).+ https://sspai.com/search/post/$2 302
+
+# ssp xxx (Google 搜索少数派)
+^https:\/\/duckduckgo.com\/\?q=ssp(\+|%20)([^&]+).+ https://www.google.com/search?as_q=$2&as_sitesearch=sspai.com 302
+
+# ytb xxx (YouTube)
+^https:\/\/duckduckgo.com\/\?q=ytb(\+|%20)([^&]+).+ https://www.youtube.com/results?search_query=$2 302
+
+# so xxx (Stack Overflow)
+^https:\/\/duckduckgo.com\/\?q=so(\+|%20)([^&]+).+ https://stackoverflow.com/search?q=$2 302
+
+# se xxx (StackExchange)
+^https:\/\/duckduckgo.com\/\?q=se(\+|%20)([^&]+).+ https://stackexchange.com/search?q=$2 302
+
+# wa xxx (WolframAlpha)
+^https:\/\/duckduckgo.com\/\?q=wa(\+|%20)([^&]+).+ https://www.wolframalpha.com/input/?i=$2 302
+
+# db xxx (豆瓣)
+^https:\/\/duckduckgo.com\/\?q=db(\+|%20)([^&]+).+ https://www.douban.com/search?q=$2 302
+
+# zh xxx (知乎)
+^https:\/\/duckduckgo.com\/\?q=zh(\+|%20)([^&]+).+ https://www.zhihu.com/search?q=$2 302
+
+# wb xxx (微博)
+^https:\/\/duckduckgo.com\/\?q=wb(\+|%20)([^&]+).+ https://s.weibo.com/weibo/$2 302
+
+# rd xxx (Reddit)
+^https:\/\/duckduckgo.com\/\?q=rd(\+|%20)([^&]+).+ https://www.reddit.com/search?q=$2 302
+
+# tw xxx (Twitter)
+^https:\/\/duckduckgo.com\/\?q=tw(\+|%20)([^&]+).+ https://twitter.com/search?q=$2 302
+
+# gd xxx (Google 搜索 Google Drive 资源)
+^https:\/\/duckduckgo.com\/\?q=gd(\+|%20)([^&]+).+ https://www.google.com/search?q=%22Google+Drive%22+$2 302
+
+# tgd xxx (t.me/gdurl 搜索 Google Drive 资源)
+^https:\/\/duckduckgo.com\/\?q=tgd(\+|%20)([^&]+).+ https://t.me/s/gdurl?q=$2 302
+
+# zgd xxx (https://zhao.pp.ua 搜索 Google Drive 资源)
+^https:\/\/duckduckgo.com\/\?q=zgd(\+|%20)([^&]+).+ https://zhao.pp.ua/?q=$2 302
+
+# ddg xxx (还原 DuckDuckGo)
+^https:\/\/duckduckgo.com\/\?q=ddg(\+|%20)([^&]+).+ https://duckduckgo.com/?ia=about&q=$2 302
+
+# xxx （无指令默认为 Google）
+^https:\/\/duckduckgo.com\/\?q=([^&]+).+ https://www.google.com/search?q=$1 302
+
+[MITM]
+enable = true
+hostname = trade-acs.m.taobao.com, api.m.jd.com, sub.store, duckduckgo.com, raw.githubusercontent.com, gist.githubusercontent.com
