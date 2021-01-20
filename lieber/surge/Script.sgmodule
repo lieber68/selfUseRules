@@ -1,34 +1,35 @@
-#!name=Self-use
+#!name=自用模块
 #!desc=自用
 
 [General]
-http-api = lieber@0.0.0.0:6166
-loglevel = notify
-dns-server = 119.29.29.29, system, 223.5.5.5
-skip-proxy = 192.168.0.0/16, 193.168.0.0/24, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, 17.0.0.0/8, 127.0.0.1, localhost, *.local
-wifi-access-http-port = 7222
-wifi-access-socks5-port = 7221
-proxy-test-url = http://www.gstatic.com/generate_204
-test-timeout = 3
-allow-wifi-access = false
-ipv6 = false
-show-error-page-for-reject = true
-tls-provider = default
-wifi-assist = true
+loglevel = warning
+# 从 Surge iOS 4 / Surge Mac 3.3.0 起，工具开始支持 DoH
+doh-server = https://dns.alidns.com/dns-query
+# https://dns.alidns.com/dns-query, https://13800000000.rubyfish.cn/, https://doh.360.cn/dns-query, https://dns.google/dns-query, https://doh.pub/dns-query
+dns-server = 119.29.29.29, 223.5.5.5, system
+tun-excluded-routes = 0.0.0.0/8, 10.0.0.0/8, 100.64.0.0/10, 127.0.0.0/8, 169.254.0.0/16, 172.16.0.0/12, 192.0.0.0/24, 192.0.2.0/24, 192.168.0.0/16, 192.88.99.0/24, 198.51.100.0/24, 203.0.113.0/24, 224.0.0.0/4, 255.255.255.255/32
+skip-proxy = localhost, *.local, injections.adguard.org, local.adguard.org, captive.apple.com, guzzoni.apple.com, 0.0.0.0/8, 10.0.0.0/8, 17.0.0.0/8, 100.64.0.0/10, 127.0.0.0/8, 169.254.0.0/16, 172.16.0.0/12, 192.0.0.0/24, 192.0.2.0/24, 192.168.0.0/16, 192.88.99.0/24, 198.18.0.0/15, 198.51.100.0/24, 203.0.113.0/24, 224.0.0.0/4, 240.0.0.0/4, 255.255.255.255/32
+wifi-assist = false
+allow-wifi-access = true
+wifi-access-http-port = 6152
+wifi-access-socks5-port = 6153
+http-listen = 0.0.0.0:6152
+socks5-listen = 0.0.0.0:6153
+external-controller-access = lieber@0.0.0.0:6170
+replica = false
+tls-provider = openssl
+network-framework = false
+exclude-simple-hostnames = true
+ipv6 = true
+test-timeout = 4
+proxy-test-url = http://www.qualcomm.cn/generate_204
 geoip-maxmind-url = https://gitee.com/lieber68/selfUseRules/raw/master/Hackl0us/GeoIP2-CN/Country.mmdb
 
 [Replica]
-# [抓取流量] => 过滤器
-# > 隐藏 Apple 请求
-hide-apple-request = 1
-# > 隐藏 Crashlytics 请求
+hide-apple-request = true
 hide-crashlytics-request = true
-# > 隐藏 UDP 会话
-hide-udp = 0
-# > 关键词过滤器
-keyword-filter-type = blacklist
-keyword-filter = icloud, ocsp, logs, analytic, imap, adthor, applovin, appnext, talk, dropbox, github, spys, 149.154, 91.108
-hide-crash-reporter-request = 1
+use-keyword-filter = false
+hide-udp = false
 
 [Host]
 *.taobao.com = server:223.5.5.5
@@ -51,6 +52,7 @@ hide-crash-reporter-request = 1
 cdn.pcbeta.attachment.inimc.com = 120.52.19.113
 cdn.pcbeta.css.inimc.com = 120.52.19.113
 cdn.pcbeta.static.inimc.com = 120.52.19.113
+iosapps.itunes.apple.com = script:dnspod
 
 [Rule]
 PROCESS-NAME,v2ray, DIRECT
@@ -223,5 +225,9 @@ Rewrite: BoxJs = type=http-request,pattern=^https?://boxjs.net,script-path=https
 
 Sub-Store = type=http-request,pattern=^https?:\/\/sub\.store,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/Peng-YM/Sub-Store/backend/sub-store.js,requires-body=true,timeout=120,max-size=131072
 
+dnspod = type=dns,script-path=https://cdn.jsdelivr.net/gh/langkhach270389/Scripting@master/Surge/dnspod.js,script-update-interval=43200
+
 [MITM]
+ca-passphrase = Lieber
+ca-p12 = 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
 hostname = %APPEND% trade-acs.m.taobao.com,api.m.jd.com,mp.weixin.qq.com, ios.prod.ftl.netflix.com, weixin110.qq.com,*.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com, raw.githubusercontent.com, gist.githubusercontent.com, sub.store, duckduckgo.com
