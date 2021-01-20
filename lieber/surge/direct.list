@@ -1,58 +1,59 @@
-PROCESS-NAME,v2ray
-PROCESS-NAME,ss-local
-PROCESS-NAME,UUBooster
+PROCESS-NAME,v2ray, DIRECT
+PROCESS-NAME,ss-local, DIRECT
+PROCESS-NAME,UUBooster, DIRECT
 # > Download
-PROCESS-NAME,aria2c
-PROCESS-NAME,fdm
-PROCESS-NAME,Folx
-PROCESS-NAME,NetTransport
-PROCESS-NAME,Thunder
-PROCESS-NAME,Transmission
-PROCESS-NAME,uTorrent
-PROCESS-NAME,WebTorrent
-PROCESS-NAME,WebTorrent Helper
-DOMAIN-SUFFIX,download.maxmind.com
-DOMAIN-SUFFIX,coding-pages.com
-DOMAIN-SUFFIX,workers.dev
-DOMAIN, cdn.jsdelivr.net
-DOMAIN-SUFFIX, coding-pages.com
-DOMAIN, cdn.staticaly.com
-DOMAIN, cdn.statically.io
-DOMAIN, pv.sohu.com
-DOMAIN-SUFFIX, gitee.io
-DOMAIN-SUFFIX, gitlab.io
-DOMAIN, activation.crossutility.com
-DOMAIN, iqiyia.xyz
-DOMAIN, boxjs.com
-USER-AGENT,WeLink*
-USER-AGENT,WorkPlace*
-USER-AGENT,Sktcam*
-USER-AGENT,曲奇截屏*
-USER-AGENT,RandomNumber*
-USER-AGENT,哔哩哔哩*
-USER-AGENT,*bili*
-USER-AGENT,Aweme*
-USER-AGENT,CoolMarket*
-USER-AGENT,QQ音乐*
-USER-AGENT,Reader*
-USER-AGENT,ICBCiPhoneCSNew*
-USER-AGENT,中国工商银行*
-USER-AGENT,BankABCPro*
-USER-AGENT,易校园*
-USER-AGENT,石头阅读*
-USER-AGENT,12123*
-USER-AGENT,itis*
-USER-AGENT,小天才*
-USER-AGENT,CallWatch*
-USER-AGENT,米家*
-USER-AGENT,Seeyou*
-USER-AGENT,AMapiPhone*
-USER-AGENT,网易云音乐*
-USER-AGENT,NeteaseMusic*
-USER-AGENT,neteasemusic*
-USER-AGENT,qqlive4iphone*
-USER-AGENT,live4iphoneRel*
-USER-AGENT,smoba*
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,discover*
-USER-AGENT,支付宝*
+PROCESS-NAME,aria2c, DIRECT
+PROCESS-NAME,fdm, DIRECT
+PROCESS-NAME,Folx, DIRECT
+PROCESS-NAME,NetTransport, DIRECT
+PROCESS-NAME,Thunder, DIRECT
+PROCESS-NAME,Transmission, DIRECT
+PROCESS-NAME,uTorrent, DIRECT
+PROCESS-NAME,WebTorrent, DIRECT
+PROCESS-NAME,WebTorrent Helper, DIRECT
+DOMAIN-SUFFIX,coding-pages.com, DIRECT
+DOMAIN-SUFFIX,workers.dev, DIRECT
+DOMAIN-SUFFIX,diliktv.com, DIRECT
+DOMAIN, cdn.jsdelivr.net, DIRECT
+DOMAIN, cdn.staticaly.com, DIRECT
+DOMAIN, pv.sohu.com, DIRECT
+DOMAIN-SUFFIX, gitee.io, DIRECT
+DOMAIN-SUFFIX, gitlab.io, DIRECT
+DOMAIN, activation.crossutility.com, DIRECT
+DOMAIN, iqiyia.xyz, DIRECT
+DOMAIN, boxjs.com, DIRECT
+DOMAIN, boxjs.net, DIRECT
+DOMAIN, sub.store, DIRECT
+USER-AGENT,*Tencent*, DIRECT
+USER-AGENT,WeLink*, DIRECT
+USER-AGENT,BMI*, DIRECT
+USER-AGENT,WorkPlace*, DIRECT
+USER-AGENT,Sktcam*, DIRECT
+USER-AGENT,曲奇截屏*, DIRECT
+USER-AGENT,RandomNumber*, DIRECT
+USER-AGENT,哔哩哔哩*, DIRECT
+USER-AGENT,*bili*, DIRECT
+USER-AGENT,Aweme*, DIRECT
+USER-AGENT,CoolMarket*, DIRECT
+USER-AGENT,QQ音乐*, DIRECT
+USER-AGENT,Reader*, DIRECT
+USER-AGENT,ICBCiPhoneCSNew*, DIRECT
+USER-AGENT,中国工商银行*, DIRECT
+USER-AGENT,BankABCPro*, DIRECT
+USER-AGENT,易校园*, DIRECT
+USER-AGENT,石头阅读*, DIRECT
+USER-AGENT,12123*, DIRECT
+USER-AGENT,itis*, DIRECT
+USER-AGENT,小天才*, DIRECT
+USER-AGENT,CallWatch*, DIRECT
+USER-AGENT,米家*, DIRECT
+USER-AGENT,Seeyou*, DIRECT
+USER-AGENT,AMapiPhone*, DIRECT
+USER-AGENT,网易云音乐*, DIRECT
+USER-AGENT,NeteaseMusic*, DIRECT
+USER-AGENT,neteasemusic*, DIRECT
+USER-AGENT,qqlive4iphone*, DIRECT
+USER-AGENT,live4iphoneRel*, DIRECT
+USER-AGENT,smoba*, DIRECT
+USER-AGENT,discover*, DIRECT
+USER-AGENT,支付宝*, DIRECT

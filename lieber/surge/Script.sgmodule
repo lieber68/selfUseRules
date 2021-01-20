@@ -81,39 +81,6 @@ DOMAIN, iqiyia.xyz, DIRECT
 DOMAIN, boxjs.com, DIRECT
 DOMAIN, boxjs.net, DIRECT
 DOMAIN, sub.store, DIRECT
-USER-AGENT,*Tencent*, DIRECT
-USER-AGENT,WeLink*, DIRECT
-USER-AGENT,BMI*, DIRECT
-USER-AGENT,WorkPlace*, DIRECT
-USER-AGENT,Sktcam*, DIRECT
-USER-AGENT,曲奇截屏*, DIRECT
-USER-AGENT,RandomNumber*, DIRECT
-USER-AGENT,哔哩哔哩*, DIRECT
-USER-AGENT,*bili*, DIRECT
-USER-AGENT,Aweme*, DIRECT
-USER-AGENT,CoolMarket*, DIRECT
-USER-AGENT,QQ音乐*, DIRECT
-USER-AGENT,Reader*, DIRECT
-USER-AGENT,ICBCiPhoneCSNew*, DIRECT
-USER-AGENT,中国工商银行*, DIRECT
-USER-AGENT,BankABCPro*, DIRECT
-USER-AGENT,易校园*, DIRECT
-USER-AGENT,石头阅读*, DIRECT
-USER-AGENT,12123*, DIRECT
-USER-AGENT,itis*, DIRECT
-USER-AGENT,小天才*, DIRECT
-USER-AGENT,CallWatch*, DIRECT
-USER-AGENT,米家*, DIRECT
-USER-AGENT,Seeyou*, DIRECT
-USER-AGENT,AMapiPhone*, DIRECT
-USER-AGENT,网易云音乐*, DIRECT
-USER-AGENT,NeteaseMusic*, DIRECT
-USER-AGENT,neteasemusic*, DIRECT
-USER-AGENT,qqlive4iphone*, DIRECT
-USER-AGENT,live4iphoneRel*, DIRECT
-USER-AGENT,smoba*, DIRECT
-USER-AGENT,discover*, DIRECT
-USER-AGENT,支付宝*, DIRECT
 
 [URL Rewrite]
 ^(http|https):\/\/raw\.githubusercontent\.com\/(.+?)\/(.+?)\/(.+?)\/(.+) https://cdn.jsdelivr.net/gh/$2/$3@$4/$5 302
@@ -202,19 +169,14 @@ USER-AGENT,支付宝*, DIRECT
 
 [Script]
 # 京东比价
-http-response ^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig) requires-body=1,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/yichahucha/surge/jd_price_lite.js
+京东比价通知版 = type=http-response,pattern=^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig),max-size=-1,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/yichahucha/surge/jd_price_lite.js, requires-body=true, timeout=120
 
 # 淘宝比价
-http-request ^http://.+/amdc/mobileDispatch requires-body=1,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/yichahucha/surge/tb_price_lite.js
-http-response ^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail requires-body=1,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/yichahucha/surge/tb_price_lite.js
+淘宝比价Request通知版 = type=http-request,pattern=^http://.+/amdc/mobileDispatch,max-size=-1,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/yichahucha/surge/tb_price_lite.js, requires-body=true, timeout=120
+淘宝比价通知版 = type=http-response,pattern=^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail,max-size=-1,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/yichahucha/surge/tb_price_lite.js, requires-body=true, timeout=120
 
 # 微信去广告
-http-response ^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad requires-body=1,max-size=0,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/NobyDa/Script/QuantumultX/File/Wechat.js
-
-# Display netflix ratings
-http-request ^https?://ios\.prod\.ftl\.netflix\.com/iosui/user/.+path=%5B%22videos%22%2C%\d+%22%2C%22summary%22%5D script-path=https://gitee.com/lieber68/selfUseRules/raw/master/yichahucha/surge/nf_rating.js, requires-body=true, timeout=10
-http-response ^https?://ios\.prod\.ftl\.netflix\.com/iosui/user/.+path=%5B%22videos%22%2C%\d+%22%2C%22summary%22%5D requires-body=1,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/yichahucha/surge/nf_rating.js, requires-body=true, timeout=10
-http-response ^https?://ios\.prod\.ftl\.netflix\.com/iosui/warmer/.+type=show-ath script-path=https://gitee.com/lieber68/selfUseRules/raw/master/yichahucha/surge/nf_rating_season.js, requires-body=true, timeout=10,
+微信去广告 = type=http-response,pattern=^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad,max-size=0,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/NobyDa/Script/QuantumultX/File/Wechat.js, requires-body=true, timeout=120
 
 # > 微信 App 内被屏蔽链接快捷跳转
 weixin110.js = type=http-response,requires-body=1,max-size=-1,pattern=^https?:\/\/weixin110\.qq\.com\/cgi-bin\/mmspamsupport-bin\/newredirectconfirmcgi,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/HotKids/Rules/Script/weixin110.js
@@ -223,7 +185,7 @@ weixin110.js = type=http-response,requires-body=1,max-size=-1,pattern=^https?:\/
 Rewrite: BoxJs = type=http-request,pattern=^https?://boxjs.com,script-path=https://gitee.com/chavyleung/scripts/raw/master/chavy.box.js, requires-body=true, timeout=120
 Rewrite: BoxJs = type=http-request,pattern=^https?://boxjs.net,script-path=https://gitee.com/chavyleung/scripts/raw/master/box/chavy.boxjs.js, requires-body=true, timeout=120
 
-Sub-Store = type=http-request,pattern=^https?:\/\/sub\.store,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/Peng-YM/Sub-Store/backend/sub-store.js,requires-body=true,timeout=120,max-size=131072
+Sub-Store = type=http-request,pattern=^https?:\/\/sub\.store,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/Peng-YM/Sub-Store/backend/sub-store.min.js,requires-body=true,timeout=120,max-size=131072
 
 dnspod = type=dns,script-path=https://cdn.jsdelivr.net/gh/langkhach270389/Scripting@master/Surge/dnspod.js,script-update-interval=43200
 
