@@ -49,6 +49,7 @@ cdn.pcbeta.static.inimc.com = 120.52.19.113
 
 [URL Rewrite]
 enable = true
+^https:\/\/raw\.githubusercontent\.com\/LXK9301\/jd_scripts\/ https://gitee.com/lxk0301/jd_scripts/raw/ 302
 ^(http|https):\/\/raw\.githubusercontent\.com\/(.+?)\/(.+?)\/(.+?)\/(.+) https://cdn.jsdelivr.net/gh/$2/$3@$4/$5 302
 ^(http|https):\/\/gist\.githubusercontent\.com\/(.+?)\/(.+?)\/(.+?)\/(.+) https://cdn.staticaly.com/gist/$2 302
 #^(http|https):\/\/raw\.githubusercontent\.com\/(.+) https://cdn.staticaly.com/gh/$2 302

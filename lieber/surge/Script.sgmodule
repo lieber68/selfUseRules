@@ -83,6 +83,7 @@ DOMAIN, boxjs.net, DIRECT
 DOMAIN, sub.store, DIRECT
 
 [URL Rewrite]
+^https:\/\/raw\.githubusercontent\.com\/LXK9301\/jd_scripts\/ https://gitee.com/lxk0301/jd_scripts/raw/ 302
 ^(http|https):\/\/raw\.githubusercontent\.com\/(.+?)\/(.+?)\/(.+?)\/(.+) https://cdn.jsdelivr.net/gh/$2/$3@$4/$5 302
 ^(http|https):\/\/gist\.githubusercontent\.com\/(.+?)\/(.+?)\/(.+?)\/(.+) https://cdn.staticaly.com/gist/$2 302
 
