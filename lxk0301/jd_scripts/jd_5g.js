@@ -445,7 +445,7 @@ function getHelp() {
         } else {
           data = JSON.parse(data);
           if (data && data['code'] === 200) {
-            console.log(`您的好友助力码为：${data.data.shareId}`);
+            console.log(`您的好友助力码为：${data.data.shareId} \n注：此邀请码每天都变！`);
           } else {
             console.log(data)
           }
@@ -462,7 +462,7 @@ function readShareCode() {
   console.log(`开始`)
   return new Promise(async resolve => {
     $.get({
-      url: `http://jd.turinglabs.net/api/v2/jd/818/read/${randomCount}/`,
+      url: `http://jd.turinglabs.net/api/v2/jd/5g/read/${randomCount}/`,
       'timeout': 10000
     }, (err, resp, data) => {
       try {
