@@ -11,12 +11,17 @@ http-request https?:\/\/sub\.store script-path=https://gitee.com/lieber68/selfUs
 
 http-request ^https?://boxjs.com script-path=https://gitee.com/chavyleung/scripts/raw/master/chavy.box.js, requires-body=true, timeout=120, tag=BoxJs
 
+# > 微信 App 内被屏蔽链接快捷跳转
+http-response ^https?:\/\/weixin110\.qq\.com\/cgi-bin\/mmspamsupport-bin\/newredirectconfirmcgi script-path=https://gitee.com/lieber68/selfUseRules/raw/master/HotKids/Rules/Script/weixin110.js,requires-body=1,timeout=10, tag=微信 App 内被屏蔽链接快捷跳转
+
+# 微信公众号去广告
+http-response ^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad requires-body=1,max-size=0,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/NobyDa/Script/QuantumultX/File/Wechat.js, tag=微信公众号去广告
+
 [Rule]
 DOMAIN, cdn.jsdelivr.net, DIRECT
 DOMAIN-SUFFIX, coding-pages.com, DIRECT
 DOMAIN-SUFFIX, workers.dev, DIRECT
 DOMAIN, cdn.staticaly.com, DIRECT
-DOMAIN, cdn.statically.io, DIRECT
 DOMAIN, pv.sohu.com, DIRECT
 DOMAIN-SUFFIX, gitee.io, DIRECT
 DOMAIN-SUFFIX, gitlab.io, DIRECT
@@ -24,6 +29,11 @@ DOMAIN, activation.crossutility.com, DIRECT
 DOMAIN, download.maxmind.com, DIRECT
 DOMAIN, iqiyia.xyz, DIRECT
 DOMAIN, boxjs.com, DIRECT
+URL-REGEX,^https?:\/\/socketio\.ctrip\.com\/api,REJECT
+URL-REGEX,^https?://gw.alicdn.com/(t(f|p)s/.+\d{3,4}-\d{4}|mt),REJECT
+URL-REGEX,^https?:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.wireless\.home\.splash\.awesome\.get\/,REJECT
+URL-REGEX,^https?:\/\/render\.alipay\.com\/p\/s\/h5data\/prod\/spring-festival-2019-h5data\/popup-h5data\.json,REJECT
+URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.((trip\.activity|film\.mtopadvertiseapi)\.querytmsresources|(taobao\.idle\.home|aliyun\.mobile)\.welcome(page)?|.*?\.ads?\.),REJECT
 
 [Host]
 *.taobao.com = server:223.5.5.5
@@ -49,7 +59,6 @@ cdn.pcbeta.static.inimc.com = 120.52.19.113
 
 [URL Rewrite]
 enable = true
-^https:\/\/raw\.githubusercontent\.com\/LXK9301\/jd_scripts\/ https://gitee.com/lxk0301/jd_scripts/raw/ 302
 ^(http|https):\/\/raw\.githubusercontent\.com\/(.+?)\/(.+?)\/(.+?)\/(.+) https://cdn.jsdelivr.net/gh/$2/$3@$4/$5 302
 ^(http|https):\/\/gist\.githubusercontent\.com\/(.+?)\/(.+?)\/(.+?)\/(.+) https://cdn.staticaly.com/gist/$2 302
 #^(http|https):\/\/raw\.githubusercontent\.com\/(.+) https://cdn.staticaly.com/gh/$2 302
@@ -137,4 +146,4 @@ enable = true
 
 [MITM]
 enable = true
-hostname = trade-acs.m.taobao.com, api.m.jd.com, sub.store, duckduckgo.com, raw.githubusercontent.com, gist.githubusercontent.com
+hostname = trade-acs.m.taobao.com, api.m.jd.com, sub.store, duckduckgo.com, raw.githubusercontent.com, gist.githubusercontent.com, mp.weixin.qq.com, weixin110.qq.com
