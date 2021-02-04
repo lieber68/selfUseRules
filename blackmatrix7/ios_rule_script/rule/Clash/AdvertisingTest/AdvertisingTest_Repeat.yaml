@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 20:10:23.539705
+# UPDATED: 2021-02-04 21:14:18.071190
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 #  与 Hijacking 共 212 条规则重复
@@ -2827,7 +2827,7 @@ payload:
   - DOMAIN-SUFFIX,zsi7.destinia.do
   - DOMAIN-SUFFIX,zyq2.destinia.sk
   - DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 58631 条规则重复
+#  与 Advertising 共 58632 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -9669,6 +9669,7 @@ payload:
   - DOMAIN,hacklizard.com
   - DOMAIN,hackmeout.net
   - DOMAIN,hackmobilegames.com
+  - DOMAIN,hackmyapp.net
   - DOMAIN,hacknosurvey.org
   - DOMAIN,hackphat.com
   - DOMAIN,hackprivate.com

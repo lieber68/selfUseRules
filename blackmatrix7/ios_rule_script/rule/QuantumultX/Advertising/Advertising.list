@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 20:10:12.659966
+# UPDATED: 2021-02-04 21:14:09.176303
 # HOST-KEYWORD: 60
 # HOST-SUFFIX: 43008
-# HOST: 21433
+# HOST: 21435
 # IP-CIDR: 240
 # USER-AGENT: 1
-# TOTAL: 64742
+# TOTAL: 64744
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -9614,6 +9614,7 @@ HOST,hackittoday.com,Advertising
 HOST,hacklizard.com,Advertising
 HOST,hackmeout.net,Advertising
 HOST,hackmobilegames.com,Advertising
+HOST,hackmyapp.net,Advertising
 HOST,hacknosurvey.org,Advertising
 HOST,hackphat.com,Advertising
 HOST,hackprivate.com,Advertising
@@ -19876,6 +19877,7 @@ HOST,vidustal.com,Advertising
 HOST,vidyard.actonsoftware.com,Advertising
 HOST,vidzsource.net,Advertising
 HOST,viequesclassifieds.com,Advertising
+HOST,vietalle.com,Advertising
 HOST,vietbuzzad.com,Advertising
 HOST,vietdorje.com,Advertising
 HOST,vietravel.ezimar.com,Advertising

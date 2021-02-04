@@ -1,7 +1,7 @@
 # NAME: Global 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 20:10:22.499785
+# UPDATED: 2021-02-04 21:14:17.220548
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Github 共 6 条规则重复
 DOMAIN-KEYWORD,github
@@ -29003,30 +29003,6 @@ DOMAIN-SUFFIX,voatiengviet.com
 DOMAIN-SUFFIX,voatour.com
 DOMAIN-SUFFIX,voazimbabwe.com
 DOMAIN-SUFFIX,zeriamerikes.com
-#  与 Porn 共 23 条规则重复
-DOMAIN-KEYWORD,porn
-DOMAIN-SUFFIX,8teenxxx.com
-DOMAIN-SUFFIX,ahcdn.com
-DOMAIN-SUFFIX,bcvcdn.com
-DOMAIN-SUFFIX,bongacams.com
-DOMAIN-SUFFIX,chaturbate.com
-DOMAIN-SUFFIX,dditscdn.com
-DOMAIN-SUFFIX,livejasmin.com
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
-DOMAIN-SUFFIX,rdtcdn.com
-DOMAIN-SUFFIX,redtube.com
-DOMAIN-SUFFIX,sb-cd.com
-DOMAIN-SUFFIX,spankbang.com
-DOMAIN-SUFFIX,t66y.com
-DOMAIN-SUFFIX,xhamster.com
-DOMAIN-SUFFIX,xnxx-cdn.com
-DOMAIN-SUFFIX,xnxx.com
-DOMAIN-SUFFIX,xvideos-cdn.com
-DOMAIN-SUFFIX,xvideos.com
-DOMAIN-SUFFIX,ypncdn.com
 #  与 Developer 共 23 条规则重复
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,atlassian.com

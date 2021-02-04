@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 20:10:21.053074
+# UPDATED: 2021-02-04 21:14:16.039174
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -2894,7 +2894,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 58632 条规则重复
+#  与 AdvertisingTest 共 58633 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -9736,6 +9736,7 @@ HOST,hackittoday.com
 HOST,hacklizard.com
 HOST,hackmeout.net
 HOST,hackmobilegames.com
+HOST,hackmyapp.net
 HOST,hacknosurvey.org
 HOST,hackphat.com
 HOST,hackprivate.com

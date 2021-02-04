@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 20:10:16.150336
+# UPDATED: 2021-02-04 21:14:12.022517
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 43008
-# DOMAIN: 21433
+# DOMAIN: 21435
 # IP-CIDR: 240
-# TOTAL: 64741
+# TOTAL: 64743
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -9614,6 +9614,7 @@ payload:
   - 'hacklizard.com'
   - 'hackmeout.net'
   - 'hackmobilegames.com'
+  - 'hackmyapp.net'
   - 'hacknosurvey.org'
   - 'hackphat.com'
   - 'hackprivate.com'
@@ -19876,6 +19877,7 @@ payload:
   - 'vidyard.actonsoftware.com'
   - 'vidzsource.net'
   - 'viequesclassifieds.com'
+  - 'vietalle.com'
   - 'vietbuzzad.com'
   - 'vietdorje.com'
   - 'vietravel.ezimar.com'

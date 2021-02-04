@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 20:10:12.741039
+# UPDATED: 2021-02-04 21:14:09.240997
 # HOST-KEYWORD: 60
 # HOST-SUFFIX: 64445
-# HOST: 15525
+# HOST: 15526
 # IP-CIDR: 240
 # USER-AGENT: 1
-# TOTAL: 80271
+# TOTAL: 80272
 HOST,0.up.qingdaonews.com,AdvertisingTest
 HOST,0001.2waky.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
@@ -6849,6 +6849,7 @@ HOST,hackittoday.com,AdvertisingTest
 HOST,hacklizard.com,AdvertisingTest
 HOST,hackmeout.net,AdvertisingTest
 HOST,hackmobilegames.com,AdvertisingTest
+HOST,hackmyapp.net,AdvertisingTest
 HOST,hacknosurvey.org,AdvertisingTest
 HOST,hackphat.com,AdvertisingTest
 HOST,hackprivate.com,AdvertisingTest
