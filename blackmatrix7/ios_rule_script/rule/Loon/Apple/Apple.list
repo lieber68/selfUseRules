@@ -1,18 +1,19 @@
 # NAME: Apple
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:52:56
-# DOMAIN-SUFFIX: 66
-# IP-CIDR: 10
+# UPDATED: 2021-02-04 20:10:14.511151
+# DOMAIN-SUFFIX: 68
 # DOMAIN: 2
-# USER-AGENT: 20
 # DOMAIN-KEYWORD: 3
-# TOTAL: 101
+# USER-AGENT: 21
+# IP-CIDR: 10
+# TOTAL: 104
 DOMAIN,api.smoot.apple.cn
 DOMAIN,apple.comscoreresearch.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple-icloud.cn
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple.co
@@ -25,6 +26,7 @@ DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net
 DOMAIN-SUFFIX,icloud-apple.cn
 DOMAIN-SUFFIX,icloud-content.com
@@ -86,7 +88,6 @@ USER-AGENT,*WeatherFoundation*
 USER-AGENT,*com.apple.mobileme.fmip1
 USER-AGENT,AppStore*
 USER-AGENT,AppleNews*
-USER-AGENT,AppleTV*
 USER-AGENT,FMDClient*
 USER-AGENT,FMFD*
 USER-AGENT,FindMy*
@@ -95,9 +96,11 @@ USER-AGENT,Music*
 USER-AGENT,TestFlight*
 USER-AGENT,com.apple.Maps
 USER-AGENT,com.apple.appstored*
+USER-AGENT,com.apple.geod*
 USER-AGENT,com.apple.news*
-USER-AGENT,com.apple.tv*
+USER-AGENT,com.apple.trustd*
 USER-AGENT,fmflocatord*
+USER-AGENT,geod*
 USER-AGENT,locationd*
 IP-CIDR,139.178.128.0/18,no-resolve
 IP-CIDR,144.178.0.0/19,no-resolve

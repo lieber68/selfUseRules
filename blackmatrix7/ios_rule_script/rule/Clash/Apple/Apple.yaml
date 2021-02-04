@@ -1,19 +1,20 @@
 # NAME: Apple
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:52:58
-# DOMAIN-SUFFIX: 66
-# IP-CIDR: 10
-# PROCESS-NAME: 4
+# UPDATED: 2021-02-04 20:10:16.557967
+# DOMAIN-SUFFIX: 68
 # DOMAIN: 2
 # DOMAIN-KEYWORD: 3
-# TOTAL: 85
+# PROCESS-NAME: 3
+# IP-CIDR: 10
+# TOTAL: 86
 payload:
   - DOMAIN,api.smoot.apple.cn
   - DOMAIN,apple.comscoreresearch.com
   - DOMAIN-SUFFIX,aaplimg.com
   - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,apple-cloudkit.com
+  - DOMAIN-SUFFIX,apple-dns.net
   - DOMAIN-SUFFIX,apple-icloud.cn
   - DOMAIN-SUFFIX,apple-mapkit.com
   - DOMAIN-SUFFIX,apple.co
@@ -26,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,appstore.com
   - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net
   - DOMAIN-SUFFIX,icloud-apple.cn
   - DOMAIN-SUFFIX,icloud-content.com
@@ -93,4 +95,3 @@ payload:
   - PROCESS-NAME,com.apple.geod
   - PROCESS-NAME,lookupviewservice
   - PROCESS-NAME,news
-  - PROCESS-NAME,storedownloadd

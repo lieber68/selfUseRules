@@ -1,10 +1,10 @@
 # NAME: Microsoft
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:52:58
+# UPDATED: 2021-02-04 20:10:16.509477
 # DOMAIN-SUFFIX: 92
-# DOMAIN-KEYWORD: 4
 # PROCESS-NAME: 2
+# DOMAIN-KEYWORD: 4
 # TOTAL: 98
 payload:
   - DOMAIN-SUFFIX,1drv.com

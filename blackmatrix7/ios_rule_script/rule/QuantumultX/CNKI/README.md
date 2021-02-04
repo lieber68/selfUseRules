@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-04 02:53:16。
+最后检查时间：2021-02-04 20:10:38.968744。
 
 ## 规则统计
 
@@ -46,9 +46,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 71479   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CNKI/CNKI_Repeat.list)   |   0.0% |
 |  [CMB](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/CMB)    | 17   | [17](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CNKI/CNKI_Repeat.list)   |   100.0% |
-|  [Scholar](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Scholar)    | 76   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/CNKI/CNKI_Repeat.list)   |   1.32% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 

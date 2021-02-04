@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:52:55
+# UPDATED: 2021-02-04 20:10:12.611551
 # HOST: 19
-# HOST-SUFFIX: 2816
+# HOST-SUFFIX: 2817
 # HOST-KEYWORD: 3
-# TOTAL: 2838
+# TOTAL: 2839
 HOST,data.mistat.xiaomi.com,Privacy
 HOST,hm.baidu.com,Privacy
 HOST,hmma.baidu.com,Privacy
@@ -1728,6 +1728,7 @@ HOST-SUFFIX,res.rbl.ms,Privacy
 HOST-SUFFIX,responder.wt.heise.de,Privacy
 HOST-SUFFIX,response.pure360.com,Privacy
 HOST-SUFFIX,retargeting.vistaprint.com,Privacy
+HOST-SUFFIX,retcode.taobao.com,Privacy
 HOST-SUFFIX,retrack.q-divisioncdn.de,Privacy
 HOST-SUFFIX,revsci.tvguide.com,Privacy
 HOST-SUFFIX,rich-agent.s3.amazonaws.com,Privacy

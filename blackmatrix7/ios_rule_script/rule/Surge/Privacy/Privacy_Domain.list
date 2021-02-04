@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:52:53
+# UPDATED: 2021-02-04 20:10:10.717777
 # DOMAIN: 19
-# DOMAIN-SUFFIX: 2816
+# DOMAIN-SUFFIX: 2817
 # DOMAIN-KEYWORD: 3
-# TOTAL: 2838
+# TOTAL: 2839
 data.mistat.xiaomi.com
 hm.baidu.com
 hmma.baidu.com
@@ -1728,6 +1728,7 @@ zgsdk.zhugeio.com
 .responder.wt.heise.de
 .response.pure360.com
 .retargeting.vistaprint.com
+.retcode.taobao.com
 .retrack.q-divisioncdn.de
 .revsci.tvguide.com
 .rich-agent.s3.amazonaws.com
