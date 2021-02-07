@@ -19,6 +19,8 @@ http-response ^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad requires-body=1,m
 
 http-request ^https?:\/\/testflight\.apple\.com\/v\d\/accounts\/.+?\/install$ requires-body=1,max-size=0,script-path=https://cdn.staticaly.com/gist/NobyDa/9be418b93afc5e9c8a8f4d28ae403cf2/raw/TF_Download.js, tag=TF区域限制解除
 
+http-request ^https:\/\/nobyda/(install|download)(\/jsbox)?$ requires-body=1,max-size=0,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/NobyDa/Script/Surge/JS/IPA_install.js, tag=IPA应用安装
+
 [Rule]
 DOMAIN, cdn.jsdelivr.net, DIRECT
 DOMAIN-SUFFIX, coding-pages.com, DIRECT
@@ -148,4 +150,4 @@ enable = true
 
 [MITM]
 enable = true
-hostname = trade-acs.m.taobao.com, api.m.jd.com, sub.store, duckduckgo.com, raw.githubusercontent.com, gist.githubusercontent.com, mp.weixin.qq.com, weixin110.qq.com, testflight.apple.com
+hostname = trade-acs.m.taobao.com, api.m.jd.com, sub.store, duckduckgo.com, raw.githubusercontent.com, gist.githubusercontent.com, mp.weixin.qq.com, weixin110.qq.com, testflight.apple.com, nobyda
