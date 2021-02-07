@@ -17,6 +17,8 @@ http-response ^https?:\/\/weixin110\.qq\.com\/cgi-bin\/mmspamsupport-bin\/newred
 # 微信公众号去广告
 http-response ^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad requires-body=1,max-size=0,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/NobyDa/Script/QuantumultX/File/Wechat.js, tag=微信公众号去广告
 
+http-request ^https?:\/\/testflight\.apple\.com\/v\d\/accounts\/.+?\/install$ requires-body=1,max-size=0,script-path=https://cdn.staticaly.com/gist/NobyDa/9be418b93afc5e9c8a8f4d28ae403cf2/raw/TF_Download.js, tag=TF区域限制解除
+
 [Rule]
 DOMAIN, cdn.jsdelivr.net, DIRECT
 DOMAIN-SUFFIX, coding-pages.com, DIRECT
@@ -60,7 +62,7 @@ cdn.pcbeta.static.inimc.com = 120.52.19.113
 [URL Rewrite]
 enable = true
 ^(http|https):\/\/raw\.githubusercontent\.com\/(.+?)\/(.+?)\/(.+?)\/(.+) https://cdn.jsdelivr.net/gh/$2/$3@$4/$5 302
-^(http|https):\/\/gist\.githubusercontent\.com\/(.+?)\/(.+?)\/(.+?)\/(.+) https://cdn.staticaly.com/gist/$2 302
+^(http|https):\/\/gist\.githubusercontent\.com\/(.+?) https://cdn.staticaly.com/gist/$2 302
 #^(http|https):\/\/raw\.githubusercontent\.com\/(.+) https://cdn.staticaly.com/gh/$2 302
 #^(http|https):\/\/gist\.githubusercontent\.com\/(.+) https://cdn.staticaly.com/gist/$2 302
 # wiki xxx (Wikipedia)
@@ -146,4 +148,4 @@ enable = true
 
 [MITM]
 enable = true
-hostname = trade-acs.m.taobao.com, api.m.jd.com, sub.store, duckduckgo.com, raw.githubusercontent.com, gist.githubusercontent.com, mp.weixin.qq.com, weixin110.qq.com
+hostname = trade-acs.m.taobao.com, api.m.jd.com, sub.store, duckduckgo.com, raw.githubusercontent.com, gist.githubusercontent.com, mp.weixin.qq.com, weixin110.qq.com, testflight.apple.com
