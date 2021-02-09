@@ -57,8 +57,6 @@
 
 * [@yichahucha](https://github.com/yichahucha/surge/tree/master)
 
-* [@ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master)
-
 ## License
 
 [GPLv3](LICENSE)
