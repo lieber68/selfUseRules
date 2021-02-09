@@ -33,7 +33,7 @@
 
 * [@chavyleung](https://github.com/chavyleung)
 
-* [@LXK9301](https://github.com/LXK9301/jd_scripts/tree/master)
+* [@lxk0301](https://gitee.com/lxk0301/jd_scripts)
 
 * [@Tartarus2014](https://github.com/Tartarus2014)
 
