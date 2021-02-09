@@ -56,10 +56,6 @@ URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.((trip\.activity|film\.mtop
 *.mi.com = server:119.29.29.29
 *.xiaomi.com = server:119.29.29.29
 *.bilibili.com = server:119.29.29.29
-*testflight.apple.com = server:8.8.4.4
-cdn.pcbeta.attachment.inimc.com = 120.52.19.113
-cdn.pcbeta.css.inimc.com = 120.52.19.113
-cdn.pcbeta.static.inimc.com = 120.52.19.113
 
 [URL Rewrite]
 enable = true
