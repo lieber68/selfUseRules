@@ -1,25 +1,25 @@
 [Script]
 enable = true
 # 京东历史价格
-http-response ^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig) requires-body=1,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/yichahucha/surge/jd_price_lite.js, tag=京东比价 Lite(通知版)
+http-response ^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig) requires-body=1,script-path=https://cdn.jsdelivr.net/gh/lieber68/selfUseRules@master/yichahucha/surge/jd_price_lite.js, tag=京东比价 Lite(通知版)
 
 # 淘宝比价
-http-request ^http://.+/amdc/mobileDispatch requires-body=1,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/yichahucha/surge/tb_price_lite.js, tag=淘宝比价1 Lite(通知版)
-http-response ^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail requires-body=1,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/yichahucha/surge/tb_price_lite.js, tag=淘宝比价2 Lite(通知版)
+http-request ^http://.+/amdc/mobileDispatch requires-body=1,script-path=https://cdn.jsdelivr.net/gh/lieber68/selfUseRules@master/yichahucha/surge/tb_price_lite.js, tag=淘宝比价1 Lite(通知版)
+http-response ^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail requires-body=1,script-path=https://cdn.jsdelivr.net/gh/lieber68/selfUseRules@master/yichahucha/surge/tb_price_lite.js, tag=淘宝比价2 Lite(通知版)
 
-http-request https?:\/\/sub\.store script-path=https://gitee.com/lieber68/selfUseRules/raw/master/Peng-YM/Sub-Store/backend/sub-store.js, requires-body=true, timeout=120, tag=Sub-Store
+http-request https?:\/\/sub\.store script-path=https://cdn.jsdelivr.net/gh/lieber68/selfUseRules@master/Peng-YM/Sub-Store/backend/sub-store.js, requires-body=true, timeout=120, tag=Sub-Store
 
-http-request ^https?://boxjs.com script-path=https://gitee.com/chavyleung/scripts/raw/master/chavy.box.js, requires-body=true, timeout=120, tag=BoxJs
+http-request ^https?://boxjs.com script-path=https://gitee.com/chavyleung/scripts@master/chavy.box.js, requires-body=true, timeout=120, tag=BoxJs
 
 # > 微信 App 内被屏蔽链接快捷跳转
-http-response ^https?:\/\/weixin110\.qq\.com\/cgi-bin\/mmspamsupport-bin\/newredirectconfirmcgi script-path=https://gitee.com/lieber68/selfUseRules/raw/master/HotKids/Rules/Script/weixin110.js,requires-body=1,timeout=10, tag=微信 App 内被屏蔽链接快捷跳转
+http-response ^https?:\/\/weixin110\.qq\.com\/cgi-bin\/mmspamsupport-bin\/newredirectconfirmcgi script-path=https://cdn.jsdelivr.net/gh/lieber68/selfUseRules@master/HotKids/Rules/Script/weixin110.js,requires-body=1,timeout=10, tag=微信 App 内被屏蔽链接快捷跳转
 
 # 微信公众号去广告
-http-response ^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad requires-body=1,max-size=0,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/NobyDa/Script/QuantumultX/File/Wechat.js, tag=微信公众号去广告
+http-response ^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad requires-body=1,max-size=0,script-path=https://cdn.jsdelivr.net/gh/lieber68/selfUseRules@master/NobyDa/Script/QuantumultX/File/Wechat.js, tag=微信公众号去广告
 
 http-request ^https?:\/\/testflight\.apple\.com\/v\d\/accounts\/.+?\/install$ requires-body=1,max-size=0,script-path=https://cdn.staticaly.com/gist/NobyDa/9be418b93afc5e9c8a8f4d28ae403cf2/raw/TF_Download.js, tag=TF区域限制解除
 
-http-request ^https:\/\/nobyda/(install|download)(\/jsbox)?$ requires-body=1,max-size=0,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/NobyDa/Script/Surge/JS/IPA_install.js, tag=IPA应用安装
+http-request ^https:\/\/nobyda/(install|download)(\/jsbox)?$ requires-body=1,max-size=0,script-path=https://cdn.jsdelivr.net/gh/lieber68/selfUseRules@master/NobyDa/Script/Surge/JS/IPA_install.js, tag=IPA应用安装
 
 [Rule]
 DOMAIN, cdn.jsdelivr.net, DIRECT
