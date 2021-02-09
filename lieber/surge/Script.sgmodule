@@ -48,10 +48,6 @@ hide-udp = false
 *.mi.com = server:119.29.29.29
 *.xiaomi.com = server:119.29.29.29
 *.bilibili.com = server:119.29.29.29
-*testflight.apple.com = server:8.8.4.4
-cdn.pcbeta.attachment.inimc.com = 120.52.19.113
-cdn.pcbeta.css.inimc.com = 120.52.19.113
-cdn.pcbeta.static.inimc.com = 120.52.19.113
 iosapps.itunes.apple.com = script:dnspod
 
 [Rule]
@@ -81,6 +77,7 @@ DOMAIN, iqiyia.xyz, DIRECT
 DOMAIN, boxjs.com, DIRECT
 DOMAIN, boxjs.net, DIRECT
 DOMAIN, sub.store, DIRECT
+IP-CIDR, 164.52.102.0/24, DIRECT
 
 [URL Rewrite]
 ^(http|https):\/\/raw\.githubusercontent\.com\/(.+?)\/(.+?)\/(.+?)\/(.+) https://cdn.jsdelivr.net/gh/$2/$3@$4/$5 302

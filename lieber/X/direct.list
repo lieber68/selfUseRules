@@ -1,4 +1,5 @@
 host, cdn.jsdelivr.net, direct
+ip-cidr, 164.52.102.0/24, direct
 host-suffix, coding-pages.com, direct
 host-suffix, workers.dev, direct
 host, cdn.staticaly.com, direct

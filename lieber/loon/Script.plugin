@@ -33,6 +33,7 @@ DOMAIN, activation.crossutility.com, DIRECT
 DOMAIN, download.maxmind.com, DIRECT
 DOMAIN, iqiyia.xyz, DIRECT
 DOMAIN, boxjs.com, DIRECT
+IP-CIDR, 164.52.102.0/24, DIRECT
 URL-REGEX,^https?:\/\/socketio\.ctrip\.com\/api,REJECT
 URL-REGEX,^https?://gw.alicdn.com/(t(f|p)s/.+\d{3,4}-\d{4}|mt),REJECT
 URL-REGEX,^https?:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.wireless\.home\.splash\.awesome\.get\/,REJECT
