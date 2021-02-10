@@ -9,7 +9,7 @@ http-response ^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getde
 
 http-request https?:\/\/sub\.store script-path=https://gitee.com/lieber68/selfUseRules/raw/master/Peng-YM/Sub-Store/backend/sub-store.js, requires-body=1, tag=Sub-Store
 
-http-request ^https?://boxjs.com script-path=https://gitee.com/chavyleung/scripts@master/chavy.box.js, requires-body=1, tag=BoxJs
+http-request ^https?://boxjs.com script-path=https://gitee.com/chavyleung/scripts/raw/master/chavy.box.js, requires-body=1, timeout=120, tag=BoxJs
 
 # > 微信 App 内被屏蔽链接快捷跳转
 http-response ^https?:\/\/weixin110\.qq\.com\/cgi-bin\/mmspamsupport-bin\/newredirectconfirmcgi script-path=https://gitee.com/lieber68/selfUseRules/raw/master/HotKids/Rules/Script/weixin110.js,requires-body=1, tag=微信 App 内被屏蔽链接快捷跳转

@@ -179,8 +179,8 @@ IP-CIDR, 164.52.102.0/24, DIRECT
 weixin110.js = type=http-response,requires-body=1,max-size=-1,pattern=^https?:\/\/weixin110\.qq\.com\/cgi-bin\/mmspamsupport-bin\/newredirectconfirmcgi,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/HotKids/Rules/Script/weixin110.js
 
 # Boxjs
-Rewrite: BoxJs = type=http-request,pattern=^https?://boxjs.com,script-path=https://gitee.com/chavyleung/scripts@master/chavy.box.js, requires-body=true, timeout=120
-Rewrite: BoxJs = type=http-request,pattern=^https?://boxjs.net,script-path=https://gitee.com/chavyleung/scripts@master/box/chavy.boxjs.js, requires-body=true, timeout=120
+Rewrite: BoxJs = type=http-request,pattern=^https?://boxjs.com,script-path=https://gitee.com/chavyleung/scripts/raw/master/chavy.box.js, requires-body=true, timeout=120
+Rewrite: BoxJs = type=http-request,pattern=^https?://boxjs.net,script-path=https://gitee.com/chavyleung/scripts/raw/master/box/chavy.boxjs.js, requires-body=true, timeout=120
 
 Sub-Store = type=http-request,pattern=^https?:\/\/sub\.store,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/Peng-YM/Sub-Store/backend/sub-store.min.js,requires-body=true,timeout=120,max-size=131072
 
