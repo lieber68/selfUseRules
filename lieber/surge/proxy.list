@@ -2,3 +2,4 @@ USER-AGENT,Twitter*
 USER-AGENT,Telegram*
 USER-AGENT,YouTube*
 USER-AGENT,VoiceApp*
+DOMAIN,jdsharedresourcescdn.azureedge.net
