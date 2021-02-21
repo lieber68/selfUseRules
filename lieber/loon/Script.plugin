@@ -57,6 +57,8 @@ URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.((trip\.activity|film\.mtop
 *.mi.com = server:119.29.29.29
 *.xiaomi.com = server:119.29.29.29
 *.bilibili.com = server:119.29.29.29
+dl.google.com = server:119.29.29.29
+dl.l.google.com = server:119.29.29.29
 
 [URL Rewrite]
 enable = true

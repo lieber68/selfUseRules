@@ -49,6 +49,8 @@ hide-udp = false
 *.xiaomi.com = server:119.29.29.29
 *.bilibili.com = server:119.29.29.29
 iosapps.itunes.apple.com = script:dnspod
+dl.google.com = server:119.29.29.29
+dl.l.google.com = server:119.29.29.29
 
 [Rule]
 PROCESS-NAME,v2ray, DIRECT
