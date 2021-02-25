@@ -62,8 +62,8 @@ dl.l.google.com = server:119.29.29.29
 
 [URL Rewrite]
 enable = true
-^(http|https):\/\/raw\.githubusercontent\.com\/(.+?)\/(.+?)\/(.+?)\/(.+) https://cdn.jsdelivr.net/gh/$2/$3@$4/$5 302
-^(http|https):\/\/gist\.githubusercontent\.com\/(.+?) https://cdn.staticaly.com/gist/$2 302
+#^(http|https):\/\/raw\.githubusercontent\.com\/(.+?)\/(.+?)\/(.+?)\/(.+) https://cdn.jsdelivr.net/gh/$2/$3@$4/$5 302
+#^(http|https):\/\/gist\.githubusercontent\.com\/(.+?) https://cdn.staticaly.com/gist/$2 302
 #^(http|https):\/\/raw\.githubusercontent\.com\/(.+) https://cdn.staticaly.com/gh/$2 302
 #^(http|https):\/\/gist\.githubusercontent\.com\/(.+) https://cdn.staticaly.com/gist/$2 302
 # wiki xxx (Wikipedia)
