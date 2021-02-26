@@ -54,6 +54,7 @@ host, gamer-cds.cdn.hinet.net, proxy
 host, gamer2-cds.cdn.hinet.net, proxy
 host, gigabyte2.azureedge.net, proxy
 host, github-avatars.oss-cn-hongkong.aliyuncs.com, proxy
+host, github-cloud.s3.amazonaws.com, proxy
 host, gitlab-assets.oss-cn-hongkong.aliyuncs.com, proxy
 host, homebrew.bintray.com, proxy
 host, hpstore.corpmerchandise.com, proxy
@@ -1821,6 +1822,7 @@ host-suffix, actionjav.com, proxy
 host-suffix, actionnetwork.org, proxy
 host-suffix, actionsportsready.absorbtraining.com, proxy
 host-suffix, active, proxy
+host-suffix, activeteachonline.com, proxy
 host-suffix, activism.com, proxy
 host-suffix, activpn.com, proxy
 host-suffix, acts29network.org, proxy
@@ -1839,6 +1841,7 @@ host-suffix, adcdownload.apple.com.akadns.net, proxy
 host-suffix, adcex.com, proxy
 host-suffix, adcommerce.tv, proxy
 host-suffix, adcp002.com, proxy
+host-suffix, addison-wesley.ch, proxy
 host-suffix, addthis.com, proxy
 host-suffix, addthiscdn.com, proxy
 host-suffix, addthisedge.com, proxy
@@ -1884,6 +1887,7 @@ host-suffix, adobelanding.com, proxy
 host-suffix, adobelogin.com, proxy
 host-suffix, adobeoobe.com, proxy
 host-suffix, adobeplatinumclub.com, proxy
+host-suffix, adobepress.ch, proxy
 host-suffix, adobeprojectm.com, proxy
 host-suffix, adobesc.com, proxy
 host-suffix, adobesign.com, proxy
@@ -5655,6 +5659,7 @@ host-suffix, cisconetspace.info, proxy
 host-suffix, cisconetspace.net, proxy
 host-suffix, ciscopartnermarketing.com, proxy
 host-suffix, ciscopowercube.com, proxy
+host-suffix, ciscopress.ch, proxy
 host-suffix, ciscoprice.com, proxy
 host-suffix, ciscoresearch.com, proxy
 host-suffix, ciscosoftware.com, proxy
@@ -5954,6 +5959,9 @@ host-suffix, connectcommerce.tv, proxy
 host-suffix, connected-drive.com, proxy
 host-suffix, connectedcommerce.com, proxy
 host-suffix, connectedcommerce.tv, proxy
+host-suffix, connectionsacademy.com, proxy
+host-suffix, connectionseducation.com, proxy
+host-suffix, connectionslearning.com, proxy
 host-suffix, connectors, proxy
 host-suffix, connectssr.com, proxy
 host-suffix, conquerwithcharacter.com, proxy
@@ -11000,6 +11008,7 @@ host-suffix, ilhamtohtiinstitute.org, proxy
 host-suffix, ilife.wang, proxy
 host-suffix, illianacomputerrecycling.com, proxy
 host-suffix, illusionfactory.com, proxy
+host-suffix, ilongman.com, proxy
 host-suffix, ilookchina.net, proxy
 host-suffix, ilove80.be, proxy
 host-suffix, iloveinterracial.com, proxy
@@ -11221,6 +11230,7 @@ host-suffix, instructables.com, proxy
 host-suffix, intagram.com, proxy
 host-suffix, intagrm.com, proxy
 host-suffix, intc.com, proxy
+host-suffix, integral7.com, proxy
 host-suffix, integratedsandt.com, proxy
 host-suffix, intel, proxy
 host-suffix, intel-research.net, proxy
@@ -11273,6 +11283,7 @@ host-suffix, inteltechnologyprovider.com, proxy
 host-suffix, intelvmwarecybersecurity.com, proxy
 host-suffix, intercom.io, proxy
 host-suffix, international-news.newsmagazine.asia, proxy
+host-suffix, internationalconnectionsacademy.com, proxy
 host-suffix, internationalsaimoe.com, proxy
 host-suffix, internet-studies.org, proxy
 host-suffix, internet.org, proxy
@@ -12486,6 +12497,7 @@ host-suffix, lehaofa.com, proxy
 host-suffix, lehua.weebly.com, proxy
 host-suffix, leisurepro.com, proxy
 host-suffix, lematin.ch, proxy
+host-suffix, lencr.org, proxy
 host-suffix, lenovoappspot.com, proxy
 host-suffix, lenwhite.com, proxy
 host-suffix, leon.net, proxy
@@ -12747,6 +12759,7 @@ host-suffix, londonreal.tv, proxy
 host-suffix, long3158.com, proxy
 host-suffix, longhu99.com, proxy
 host-suffix, longjohnsilvers.com, proxy
+host-suffix, longman.ch, proxy
 host-suffix, longmusic.com, proxy
 host-suffix, longtailvideo.com, proxy
 host-suffix, longtermly.net, proxy
@@ -14071,6 +14084,7 @@ host-suffix, musictibet.com, proxy
 host-suffix, muslimmatters.org, proxy
 host-suffix, muslimvideo.com, proxy
 host-suffix, mustseeindia.com, proxy
+host-suffix, mut.ch, proxy
 host-suffix, muthead.com, proxy
 host-suffix, mutual, proxy
 host-suffix, mutuelle, proxy
@@ -14208,6 +14222,7 @@ host-suffix, mygalgame.com, proxy
 host-suffix, mygaysites.com, proxy
 host-suffix, mygraybar.graybar.com, proxy
 host-suffix, myhas.gq, proxy
+host-suffix, myhelpinglab.com, proxy
 host-suffix, myhhg.org, proxy
 host-suffix, myhotbook.com, proxy
 host-suffix, myhotsite.net, proxy
@@ -14220,6 +14235,7 @@ host-suffix, myipod.net, proxy
 host-suffix, mykomica.org, proxy
 host-suffix, mylcloud.net, proxy
 host-suffix, mylftv.com, proxy
+host-suffix, mylogiclab.com, proxy
 host-suffix, myluckymap.com, proxy
 host-suffix, mylust.com, proxy
 host-suffix, mymediarom.com, proxy
@@ -14234,6 +14250,8 @@ host-suffix, mynike.com, proxy
 host-suffix, mynumber.org, proxy
 host-suffix, myothantsinaung.weebly.com, proxy
 host-suffix, myparagliding.com, proxy
+host-suffix, mypearson.com, proxy
+host-suffix, mypearsonenglish.ch, proxy
 host-suffix, mypets.ws, proxy
 host-suffix, mypicture.info, proxy
 host-suffix, mypop3.net, proxy
@@ -14261,6 +14279,7 @@ host-suffix, mysims.com, proxy
 host-suffix, mysimsracing.com, proxy
 host-suffix, mysinablog.com, proxy
 host-suffix, mysinchew.com, proxy
+host-suffix, mysocialworklab.com, proxy
 host-suffix, myspace.com, proxy
 host-suffix, myspacecdn.com, proxy
 host-suffix, mysql.com, proxy
@@ -15704,6 +15723,29 @@ host-suffix, peachy18.com, proxy
 host-suffix, peachyforum.com, proxy
 host-suffix, peacocktv.com, proxy
 host-suffix, pearlher.org, proxy
+host-suffix, pearson-anaya.com, proxy
+host-suffix, pearson-intl.com, proxy
+host-suffix, pearson-schule.ch, proxy
+host-suffix, pearson-studium.ch, proxy
+host-suffix, pearson.ch, proxy
+host-suffix, pearson.com, proxy
+host-suffix, pearsonactivelearn.com, proxy
+host-suffix, pearsonassessment.be, proxy
+host-suffix, pearsonassessments.com, proxy
+host-suffix, pearsonclinical.be, proxy
+host-suffix, pearsoncmg.com, proxy
+host-suffix, pearsoncred.com, proxy
+host-suffix, pearsoned.com, proxy
+host-suffix, pearsoneducacion.net, proxy
+host-suffix, pearsoneducationbooks.com, proxy
+host-suffix, pearsonelt.ch, proxy
+host-suffix, pearsonelt.com, proxy
+host-suffix, pearsonenespanol.com, proxy
+host-suffix, pearsonhighered.com, proxy
+host-suffix, pearsonlongman.ch, proxy
+host-suffix, pearsononlineacademy.com, proxy
+host-suffix, pearsonvue.com, proxy
+host-suffix, pearsonvue.net, proxy
 host-suffix, pecelmadiun.web.id, proxy
 host-suffix, pediawan.web.id, proxy
 host-suffix, peeasian.com, proxy
@@ -15985,6 +16027,7 @@ host-suffix, pnas.org, proxy
 host-suffix, pnc, proxy
 host-suffix, po2b.com, proxy
 host-suffix, pobieramy.top, proxy
+host-suffix, pobl-content.com, proxy
 host-suffix, pocketbiketrader.com, proxy
 host-suffix, pocketcasts.com, proxy
 host-suffix, podbean.com, proxy
@@ -16419,6 +16462,8 @@ host-suffix, putty.org, proxy
 host-suffix, puuko.com, proxy
 host-suffix, pvp.net, proxy
 host-suffix, pvp.tv, proxy
+host-suffix, pvue1.com, proxy
+host-suffix, pvue2.com, proxy
 host-suffix, pvzgw2.com, proxy
 host-suffix, pvzheroes.com, proxy
 host-suffix, pw.fiddlefish.net, proxy
@@ -18121,6 +18166,7 @@ host-suffix, starfishfx.com, proxy
 host-suffix, starfox.com, proxy
 host-suffix, stargate.one, proxy
 host-suffix, starhub, proxy
+host-suffix, stark-verlag.ch, proxy
 host-suffix, starlink.one, proxy
 host-suffix, starp2p.com, proxy
 host-suffix, starthereright.weebly.com, proxy
@@ -18509,6 +18555,7 @@ host-suffix, taiwanyes.com, proxy
 host-suffix, taiwanyes.ning.com, proxy
 host-suffix, takeafile.com, proxy
 host-suffix, takegoto.com, proxy
+host-suffix, talentlens.com, proxy
 host-suffix, talesofwisdom.com, proxy
 host-suffix, talk853.com, proxy
 host-suffix, talk910.com, proxy
@@ -18798,6 +18845,7 @@ host-suffix, theksj.com, proxy
 host-suffix, thelancet.com, proxy
 host-suffix, thelegendarystarfy.com, proxy
 host-suffix, themarvelexperiencetour.com, proxy
+host-suffix, themathsfactor.com, proxy
 host-suffix, themecraft.net, proxy
 host-suffix, thememriblog.org, proxy
 host-suffix, themoviedb.org, proxy
@@ -24355,6 +24403,7 @@ host-suffix, xn--ngstr-lra8j.com, proxy
 host-suffix, xn--noss43i.com, proxy
 host-suffix, xn--oiq.cc, proxy
 host-suffix, xn--p8j9a0d9c9a.xn--q9jyb4c, proxy
+host-suffix, xn--pearsonenespaol-brb.com, proxy
 host-suffix, xn--pgb3ceoj, proxy
 host-suffix, xn--q41am8x.com, proxy
 host-suffix, xn--qcka1pmc, proxy
