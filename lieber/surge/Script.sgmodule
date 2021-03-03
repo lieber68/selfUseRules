@@ -1,6 +1,7 @@
 #!name=自用模块
 #!desc=自用
 
+[General]
 loglevel = notify
 # 从 Surge iOS 4 / Surge Mac 3.3.0 起，工具开始支持 DoH
 doh-server = https://doh.pub/dns-query, https://dns.alidns.com/dns-query
