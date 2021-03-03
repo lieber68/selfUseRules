@@ -1,9 +1,8 @@
 const scriptName = '饿了么';
-const getCookieRegex = /^https?:\/\/h5\.ele\.me\/restapi\/svip_biz\/v1\/supervip\/queryMissionCollect\?longitude=([^&]*).*latitude=([^&]*)/;
+const getCookieRegex = /^https?:\/\/h5\.ele\.me\/restapi\/svip_biz\/v1\/supervip\/query_mission_list\?longitude=([^&]*).*latitude=([^&]*)/;
 const elemeCookieKey = 'eleme_app_cookie';
 const elemeLongitudeKey = 'eleme_app_longitude';
 const elemeLatitudeKey = 'eleme_app_latitude';
-const invalidTaskKeyword = ['果蔬'];
 
 let magicJS = MagicJS(scriptName, "INFO");
 magicJS.unifiedPushUrl = magicJS.read('eleme_app_unified_push_url') || magicJS.read('magicjs_unified_push_url');
@@ -66,11 +65,7 @@ function GetSuperVipMissions(cookie, longitude, latitude){
           if (obj){
             let result = [];
             obj.missions.forEach(element => {
-              for (keyword of invalidTaskKeyword){
-                if (element.description.indexOf(keyword) < 0){
-                  result.push(element.mission_id);
-                }
-              }
+              result.push(element.mission_id);
             });
             resolve(result);
           }

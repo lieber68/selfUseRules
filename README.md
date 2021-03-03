@@ -61,6 +61,8 @@
 
 * [@Loyalsoldier](https://github.com/Loyalsoldier?tab=repositories)
 
+* [@ZhiYi-N](https://github.com/ZhiYi-N?tab=repositories)
+
 ## License
 
 [GPLv3](LICENSE)

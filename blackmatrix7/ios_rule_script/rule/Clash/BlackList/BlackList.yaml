@@ -1,13 +1,13 @@
 # NAME: BlackList
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-28 02:43:21.254045
-# DOMAIN-SUFFIX: 695
+# UPDATED: 2021-02-04 02:52:58
+# DOMAIN-SUFFIX: 694
 # DOMAIN: 5
+# PROCESS-NAME: 1
 # DOMAIN-KEYWORD: 12
 # IP-CIDR: 57
-# PROCESS-NAME: 1
-# TOTAL: 770
+# TOTAL: 769
 payload:
   - DOMAIN,api-glb-sea.smoot.apple.com
   - DOMAIN,books.itunes.apple.com
@@ -610,7 +610,6 @@ payload:
   - DOMAIN-SUFFIX,ustream.tv
   - DOMAIN-SUFFIX,v.gd
   - DOMAIN-SUFFIX,v2ex.co
-  - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,v2ray.com
   - DOMAIN-SUFFIX,van001.com
   - DOMAIN-SUFFIX,vanpeople.com

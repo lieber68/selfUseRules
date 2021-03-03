@@ -152,16 +152,27 @@ DOMAIN-SUFFIX,miwifi.com,DIRECT
 DOMAIN-SUFFIX,xiaomi.com,DIRECT
 DOMAIN-SUFFIX,xiaomi.net,DIRECT
 # > Microsoft
-DOMAIN-SUFFIX,hotmail.com,DIRECT
-DOMAIN-SUFFIX,microsoft.com,DIRECT
-DOMAIN-SUFFIX,msecnd.net,DIRECT
-DOMAIN-SUFFIX,office365.com,DIRECT
-DOMAIN-SUFFIX,outlook.com,DIRECT
-DOMAIN-SUFFIX,s-microsoft.com,DIRECT
-DOMAIN-SUFFIX,visualstudio.com,DIRECT
-DOMAIN-SUFFIX,windows.com,DIRECT
-DOMAIN-SUFFIX,windowsupdate.com,DIRECT
+# DOMAIN-SUFFIX,microsoft.com,DIRECT
+# DOMAIN-SUFFIX,msecnd.net,DIRECT
+# DOMAIN-SUFFIX,office.com,DIRECT
+# DOMAIN-SUFFIX,office365.com,DIRECT
+# DOMAIN-SUFFIX,s-microsoft.com,DIRECT
+# DOMAIN-SUFFIX,windows.com,DIRECT
+# DOMAIN-SUFFIX,windowsupdate.com,DIRECT
 # DOMAIN-KEYWORD,-microsoft-com.akamaized.net,DIRECT
+DOMAIN-SUFFIX,visualstudio.com,DIRECT
+# >> Outlook
+DOMAIN-SUFFIX,hotmail.com,DIRECT
+DOMAIN-SUFFIX,outlook.com,DIRECT
+DOMAIN,outlook.office365.com,DIRECT
+DOMAIN,smtp.office365.com,DIRECT
+# >> Windows Server Update Services
+DOMAIN-SUFFIX,windowsupdate.microsoft.com,DIRECT
+DOMAIN-SUFFIX,update.microsoft.com,DIRECT
+DOMAIN-SUFFIX,windowsupdate.com,DIRECT
+DOMAIN,download.microsoft.com,DIRECT
+DOMAIN,wustat.windows.com,DIRECT
+DOMAIN,ntservicepack.microsoft.com,DIRECT
 # > NetEase
 USER-AGENT,NeteaseMusic*,DIRECT
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,DIRECT
@@ -199,9 +210,9 @@ DOMAIN-SUFFIX,steamstatic.com,DIRECT
 USER-AGENT,MicroMessenger%20Client,DIRECT
 USER-AGENT,WeChat*,DIRECT
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*,DIRECT
+DOMAIN-SUFFIX,gcloudcs.com,DIRECT
 DOMAIN-SUFFIX,gtimg.com,DIRECT
 DOMAIN-SUFFIX,idqqimg.com,DIRECT
-DOMAIN-SUFFIX,igamecj.com,DIRECT
 DOMAIN-SUFFIX,myapp.com,DIRECT
 DOMAIN-SUFFIX,myqcloud.com,DIRECT
 DOMAIN-SUFFIX,qq.com,DIRECT
@@ -211,7 +222,11 @@ DOMAIN-SUFFIX,tencent.com,DIRECT
 DOMAIN-SUFFIX,tencent-cloud.net,DIRECT
 DOMAIN-SUFFIX,tenpay.com,DIRECT
 DOMAIN-SUFFIX,wechat.com,DIRECT
+# >> PUBG Mobile
+DOMAIN-SUFFIX,igamecj.com,DIRECT
 DOMAIN,file-igamecj.akamaized.net,DIRECT
+IP-CIDR,45.40.220.0/22,DIRECT
+IP-CIDR,150.109.124.0/23,DIRECT
 # > Content Delivery Network
 DOMAIN-SUFFIX,ccgslb.com,DIRECT
 DOMAIN-SUFFIX,ccgslb.net,DIRECT

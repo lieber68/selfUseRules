@@ -1,15 +1,14 @@
 #!name=自用模块
 #!desc=自用
 
-[General]
-loglevel = warning
+loglevel = notify
 # 从 Surge iOS 4 / Surge Mac 3.3.0 起，工具开始支持 DoH
-doh-server = https://dns.alidns.com/dns-query
-# https://dns.alidns.com/dns-query, https://13800000000.rubyfish.cn/, https://doh.360.cn/dns-query, https://dns.google/dns-query, https://doh.pub/dns-query
-dns-server = 119.29.29.29, 223.5.5.5, system
+doh-server = https://doh.pub/dns-query, https://dns.alidns.com/dns-query
+# https://dns.alidns.com/dns-query, https://13800000000.rubyfish.cn/, https://doh.360.cn/dns-query, https://dns.google/dns-query
+dns-server = 223.5.5.5, 119.29.29.29, system
 tun-excluded-routes = 0.0.0.0/8, 10.0.0.0/8, 100.64.0.0/10, 127.0.0.0/8, 169.254.0.0/16, 172.16.0.0/12, 192.0.0.0/24, 192.0.2.0/24, 192.168.0.0/16, 192.88.99.0/24, 198.51.100.0/24, 203.0.113.0/24, 224.0.0.0/4, 255.255.255.255/32
 skip-proxy = localhost, *.local, injections.adguard.org, local.adguard.org, captive.apple.com, guzzoni.apple.com, 0.0.0.0/8, 10.0.0.0/8, 17.0.0.0/8, 100.64.0.0/10, 127.0.0.0/8, 169.254.0.0/16, 172.16.0.0/12, 192.0.0.0/24, 192.0.2.0/24, 192.168.0.0/16, 192.88.99.0/24, 198.18.0.0/15, 198.51.100.0/24, 203.0.113.0/24, 224.0.0.0/4, 240.0.0.0/4, 255.255.255.255/32
-wifi-assist = false
+wifi-assist = true
 allow-wifi-access = true
 wifi-access-http-port = 6152
 wifi-access-socks5-port = 6153
@@ -22,8 +21,9 @@ network-framework = false
 exclude-simple-hostnames = true
 ipv6 = true
 test-timeout = 4
-proxy-test-url = http://www.qualcomm.cn/generate_204
-geoip-maxmind-url = https://gitee.com/lieber68/selfUseRules/raw/master/Hackl0us/GeoIP2-CN/Country.mmdb
+proxy-test-url = http://www.gstatic.com/generate_204
+geoip-maxmind-url = https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Hackl0us/GeoIP2-CN/Country.mmdb
+internet-test-url = http://www.aliyun.com
 
 [Replica]
 hide-apple-request = true
@@ -32,6 +32,7 @@ use-keyword-filter = false
 hide-udp = false
 
 [Host]
+iosapps.itunes.apple.com = script:dnspod
 *.taobao.com = server:223.5.5.5
 *.tmall.com = server:223.5.5.5
 *.jd.com = server:119.28.28.28
@@ -53,33 +54,6 @@ dl.google.com = server:119.29.29.29
 dl.l.google.com = server:119.29.29.29
 
 [Rule]
-PROCESS-NAME,v2ray, DIRECT
-PROCESS-NAME,ss-local, DIRECT
-PROCESS-NAME,UUBooster, DIRECT
-# > Download
-PROCESS-NAME,aria2c, DIRECT
-PROCESS-NAME,fdm, DIRECT
-PROCESS-NAME,Folx, DIRECT
-PROCESS-NAME,NetTransport, DIRECT
-PROCESS-NAME,Thunder, DIRECT
-PROCESS-NAME,Transmission, DIRECT
-PROCESS-NAME,uTorrent, DIRECT
-PROCESS-NAME,WebTorrent, DIRECT
-PROCESS-NAME,WebTorrent Helper, DIRECT
-DOMAIN-SUFFIX,coding-pages.com, DIRECT
-DOMAIN-SUFFIX,workers.dev, DIRECT
-DOMAIN-SUFFIX,diliktv.com, DIRECT
-DOMAIN, cdn.jsdelivr.net, DIRECT
-DOMAIN, cdn.staticaly.com, DIRECT
-DOMAIN, pv.sohu.com, DIRECT
-DOMAIN-SUFFIX, gitee.io, DIRECT
-DOMAIN-SUFFIX, gitlab.io, DIRECT
-DOMAIN, activation.crossutility.com, DIRECT
-DOMAIN, iqiyia.xyz, DIRECT
-DOMAIN, boxjs.com, DIRECT
-DOMAIN, boxjs.net, DIRECT
-DOMAIN, sub.store, DIRECT
-IP-CIDR, 164.52.102.0/24, DIRECT
 
 [URL Rewrite]
 ;^(http|https):\/\/raw\.githubusercontent\.com\/(.+?)\/(.+?)\/(.+?)\/(.+) https://cdn.jsdelivr.net/gh/$2/$3@$4/$5 302
@@ -168,29 +142,36 @@ IP-CIDR, 164.52.102.0/24, DIRECT
 
 [Script]
 # 京东比价
-京东比价通知版 = type=http-response,pattern=^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig),max-size=-1,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/yichahucha/surge/jd_price_lite.js, requires-body=true, timeout=120
+京东比价通知版 = type=http-response,pattern=^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig),max-size=-1,script-path=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/yichahucha/surge/jd_price_lite.js, requires-body=true, timeout=120
 
 # 淘宝比价
-淘宝比价Request通知版 = type=http-request,pattern=^http://.+/amdc/mobileDispatch,max-size=-1,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/yichahucha/surge/tb_price_lite.js, requires-body=true, timeout=120
-淘宝比价通知版 = type=http-response,pattern=^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail,max-size=-1,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/yichahucha/surge/tb_price_lite.js, requires-body=true, timeout=120
+淘宝比价Request通知版 = type=http-request,pattern=^http://.+/amdc/mobileDispatch,max-size=-1,script-path=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/yichahucha/surge/tb_price_lite.js, requires-body=true, timeout=120
+淘宝比价通知版 = type=http-response,pattern=^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail,max-size=-1,script-path=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/yichahucha/surge/tb_price_lite.js, requires-body=true, timeout=120
 
 # 微信去广告
-微信去广告 = type=http-response,pattern=^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad,max-size=0,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/NobyDa/Script/QuantumultX/File/Wechat.js, requires-body=true, timeout=120
+微信去广告 = type=http-response,pattern=^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad,max-size=0,script-path=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/NobyDa/Script/QuantumultX/File/Wechat.js, requires-body=true, timeout=120
 
 # > 微信 App 内被屏蔽链接快捷跳转
-weixin110.js = type=http-response,requires-body=1,max-size=-1,pattern=^https?:\/\/weixin110\.qq\.com\/cgi-bin\/mmspamsupport-bin\/newredirectconfirmcgi,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/HotKids/Rules/Script/weixin110.js
+weixin110.js = type=http-response,requires-body=1,max-size=-1,pattern=^https?:\/\/weixin110\.qq\.com\/cgi-bin\/mmspamsupport-bin\/newredirectconfirmcgi,script-path=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/HotKids/Rules/Script/weixin110.js
 
 # Boxjs
-Rewrite: BoxJs = type=http-request,pattern=^https?://boxjs.com,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/chavyleung/scripts/chavy.box.js, requires-body=true, timeout=120
-Rewrite: BoxJs = type=http-request,pattern=^https?://boxjs.net,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/chavyleung/scripts/box/chavy.boxjs.js, requires-body=true, timeout=120
+Rewrite: BoxJs = type=http-request,pattern=^https?://boxjs.com,script-path=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/chavyleung/scripts/chavy.box.js, requires-body=true, timeout=120
+Rewrite: BoxJs = type=http-request,pattern=^https?://boxjs.net,script-path=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/chavyleung/scripts/box/chavy.boxjs.js, requires-body=true, timeout=120
 
-Sub-Store = type=http-request,pattern=^https?:\/\/sub\.store,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/Peng-YM/Sub-Store/backend/sub-store.min.js,requires-body=true,timeout=120,max-size=131072
+Sub-Store = type=http-request,pattern=^https?:\/\/sub\.store,script-path=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Peng-YM/Sub-Store/backend/sub-store.min.js,requires-body=true,timeout=120,max-size=131072
 
-dnspod = type=dns,script-path=https://cdn.jsdelivr.net/gh/langkhach270389/Scripting@master/Surge/dnspod.js,script-update-interval=43200
+dnspod = type=dns,script-path=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/lieber/surge/dnspod.js,script-update-interval=43200
 
-TF下载修正 = type=http-request,pattern=^https?:\/\/testflight\.apple\.com\/v\d\/accounts\/.+?\/install$,requires-body=1,max-size=0,script-path=https://cdn.staticaly.com/gist/NobyDa/9be418b93afc5e9c8a8f4d28ae403cf2/raw/TF_Download.js
+TF下载修正 = type=http-request,pattern=^https?:\/\/testflight\.apple\.com\/v\d\/accounts\/.+?\/install$,requires-body=1,max-size=0,script-path=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/lieber/surge/TF_Download.js
 
-IPA应用安装 = type=http-request,pattern=^https:\/\/nobyda/(install|download)(\/jsbox)?$,requires-body=1,max-size=0,script-path=https://gitee.com/lieber68/selfUseRules/raw/master/NobyDa/Script/Surge/JS/IPA_install.js
+IPA应用安装 = type=http-request,pattern=^https:\/\/nobyda/(install|download)(\/jsbox)?$,requires-body=1,max-size=0,script-path=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/NobyDa/Script/Surge/JS/IPA_install.js
+
+京东签到 = type=cron,cronexp="5 0,23 * * *",wake-system=1,timeout=100,script-path=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/NobyDa/Script/JD-DailyBonus/JD_DailyBonus.js,script-update-interval=21600
+爱奇艺签到 = type=cron,cronexp=40 2 2 * * *,wake-system=1,script-path=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/NobyDa/Script/iQIYI-DailyBonus/iQIYI.js,script-update-interval=21600
+腾讯视频签到 = type=cron,cronexp=30 3 1 * * *,wake-system=1,script-path=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/chavyleung/scripts/videoqq/videoqq.js,script-update-interval=21600
+时光相册签到 = type=cron,cronexp=50 5 1 * * *,wake-system=1,script-path=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/chavyleung/scripts/everphoto/everphoto.js,script-update-interval=21600
+bilibili签到 = type=cron,cronexp=40 3 1 * * *,wake-system=1,script-path=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/chavyleung/scripts/bilibili/bilibili.js,script-update-interval=21600
+网易云音乐签到 = type=cron,cronexp=40 2 1 * * *,wake-system=1,script-path=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/chavyleung/scripts/neteasemusic/neteasemusic.js,script-update-interval=21600
 
 [MITM]
 hostname = %APPEND% trade-acs.m.taobao.com,api.m.jd.com,mp.weixin.qq.com, ios.prod.ftl.netflix.com, weixin110.qq.com,*.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com, raw.githubusercontent.com, gist.githubusercontent.com, sub.store, duckduckgo.com, testflight.apple.com, nobyda
