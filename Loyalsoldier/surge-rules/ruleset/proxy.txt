@@ -2585,7 +2585,6 @@ DOMAIN-SUFFIX,app.e8777.com
 DOMAIN-SUFFIX,app.peardeck.com
 DOMAIN-SUFFIX,app.staging.nuorder.com
 DOMAIN-SUFFIX,app.stex.com
-DOMAIN-SUFFIX,app.tutanota.com
 DOMAIN-SUFFIX,app0le.com
 DOMAIN-SUFFIX,app2.gq
 DOMAIN-SUFFIX,app365.gq
@@ -2833,6 +2832,7 @@ DOMAIN-SUFFIX,arctosia.com
 DOMAIN-SUFFIX,area120.com
 DOMAIN-SUFFIX,areca-backup.org
 DOMAIN-SUFFIX,arena.taipei
+DOMAIN-SUFFIX,arewereadyyet.com
 DOMAIN-SUFFIX,arextv.com
 DOMAIN-SUFFIX,arexv.com
 DOMAIN-SUFFIX,areyoucreditwise.com
@@ -7586,6 +7586,7 @@ DOMAIN-SUFFIX,electrek.co
 DOMAIN-SUFFIX,electricluxury.com
 DOMAIN-SUFFIX,electronicarts.com
 DOMAIN-SUFFIX,electronjs.org
+DOMAIN-SUFFIX,element.io
 DOMAIN-SUFFIX,element14.com
 DOMAIN-SUFFIX,elephantsdream.org
 DOMAIN-SUFFIX,elephantvpn.com
@@ -13878,6 +13879,7 @@ DOMAIN-SUFFIX,mod.red
 DOMAIN-SUFFIX,modelhub.com
 DOMAIN-SUFFIX,modfetish.com
 DOMAIN-SUFFIX,modmyi.com
+DOMAIN-SUFFIX,modular.im
 DOMAIN-SUFFIX,moeerolibrary.com
 DOMAIN-SUFFIX,moeshare.com
 DOMAIN-SUFFIX,moess.cc
@@ -17032,6 +17034,7 @@ DOMAIN-SUFFIX,rinne.xyz
 DOMAIN-SUFFIX,riolearn.org
 DOMAIN-SUFFIX,riot-games.com
 DOMAIN-SUFFIX,riot.com
+DOMAIN-SUFFIX,riot.im
 DOMAIN-SUFFIX,riot.net
 DOMAIN-SUFFIX,riotcdn.net
 DOMAIN-SUFFIX,riotforgegames.com
@@ -19599,6 +19602,8 @@ DOMAIN-SUFFIX,turnguard.com
 DOMAIN-SUFFIX,turntable.fm
 DOMAIN-SUFFIX,tusfiles.net
 DOMAIN-SUFFIX,tushycash.com
+DOMAIN-SUFFIX,tuta.io
+DOMAIN-SUFFIX,tutanota.com
 DOMAIN-SUFFIX,tuttogratis.it
 DOMAIN-SUFFIX,tuvpn.com
 DOMAIN-SUFFIX,tuzaijidi.com
@@ -20188,6 +20193,7 @@ DOMAIN-SUFFIX,vcloudair.net
 DOMAIN-SUFFIX,vct.news
 DOMAIN-SUFFIX,vds.rightster.com
 DOMAIN-SUFFIX,ve
+DOMAIN-SUFFIX,vector.im
 DOMAIN-SUFFIX,vedaadvantage.com
 DOMAIN-SUFFIX,veecos.net
 DOMAIN-SUFFIX,veesecurity.com

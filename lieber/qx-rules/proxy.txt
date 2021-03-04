@@ -2585,7 +2585,6 @@ host-suffix, app.e8777.com, proxy
 host-suffix, app.peardeck.com, proxy
 host-suffix, app.staging.nuorder.com, proxy
 host-suffix, app.stex.com, proxy
-host-suffix, app.tutanota.com, proxy
 host-suffix, app0le.com, proxy
 host-suffix, app2.gq, proxy
 host-suffix, app365.gq, proxy
@@ -2833,6 +2832,7 @@ host-suffix, arctosia.com, proxy
 host-suffix, area120.com, proxy
 host-suffix, areca-backup.org, proxy
 host-suffix, arena.taipei, proxy
+host-suffix, arewereadyyet.com, proxy
 host-suffix, arextv.com, proxy
 host-suffix, arexv.com, proxy
 host-suffix, areyoucreditwise.com, proxy
@@ -7586,6 +7586,7 @@ host-suffix, electrek.co, proxy
 host-suffix, electricluxury.com, proxy
 host-suffix, electronicarts.com, proxy
 host-suffix, electronjs.org, proxy
+host-suffix, element.io, proxy
 host-suffix, element14.com, proxy
 host-suffix, elephantsdream.org, proxy
 host-suffix, elephantvpn.com, proxy
@@ -13878,6 +13879,7 @@ host-suffix, mod.red, proxy
 host-suffix, modelhub.com, proxy
 host-suffix, modfetish.com, proxy
 host-suffix, modmyi.com, proxy
+host-suffix, modular.im, proxy
 host-suffix, moeerolibrary.com, proxy
 host-suffix, moeshare.com, proxy
 host-suffix, moess.cc, proxy
@@ -17032,6 +17034,7 @@ host-suffix, rinne.xyz, proxy
 host-suffix, riolearn.org, proxy
 host-suffix, riot-games.com, proxy
 host-suffix, riot.com, proxy
+host-suffix, riot.im, proxy
 host-suffix, riot.net, proxy
 host-suffix, riotcdn.net, proxy
 host-suffix, riotforgegames.com, proxy
@@ -19599,6 +19602,8 @@ host-suffix, turnguard.com, proxy
 host-suffix, turntable.fm, proxy
 host-suffix, tusfiles.net, proxy
 host-suffix, tushycash.com, proxy
+host-suffix, tuta.io, proxy
+host-suffix, tutanota.com, proxy
 host-suffix, tuttogratis.it, proxy
 host-suffix, tuvpn.com, proxy
 host-suffix, tuzaijidi.com, proxy
@@ -20188,6 +20193,7 @@ host-suffix, vcloudair.net, proxy
 host-suffix, vct.news, proxy
 host-suffix, vds.rightster.com, proxy
 host-suffix, ve, proxy
+host-suffix, vector.im, proxy
 host-suffix, vedaadvantage.com, proxy
 host-suffix, veecos.net, proxy
 host-suffix, veesecurity.com, proxy
