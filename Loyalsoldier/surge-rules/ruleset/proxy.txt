@@ -39,6 +39,7 @@ DOMAIN,dfp6rglgjqszk.cloudfront.net
 DOMAIN,dlgarenanow-a.akamaihd.net
 DOMAIN,dlmobilegarena-a.akamaihd.net
 DOMAIN,ds-linear-abematv.akamaized.net
+DOMAIN,ds-vod-abematv.akamaized.net
 DOMAIN,dtlgalleryint.cloudapp.net
 DOMAIN,ea.tt.omtrdc.net
 DOMAIN,eaassets-a.akamaihd.net
@@ -64,6 +65,7 @@ DOMAIN,imperial.insendi.com
 DOMAIN,interactive-examples.mdn.mozilla.net
 DOMAIN,itunes-apple.com.akadns.net
 DOMAIN,lgelectronics.122.2o7.net
+DOMAIN,linear-abematv.akamaized.net
 DOMAIN,lolstatic-a.akamaihd.net
 DOMAIN,mdn.mozillademos.org
 DOMAIN,media-rockstargames-com.akamaized.net
@@ -177,6 +179,7 @@ DOMAIN,ubisoft-uplay-savegames.s3.amazonaws.com
 DOMAIN,venmo.s3.amazonaws.com
 DOMAIN,videos-rockstargames-com.akamaized.net
 DOMAIN,vmware.tt.omtrdc.net
+DOMAIN,vod-abematv.akamaized.net
 DOMAIN,widgets.stripst.com
 DOMAIN,www-cdn.icloud.com.akadns.net
 DOMAIN,zeenews-fonts.s3.amazonaws.com
@@ -17343,6 +17346,7 @@ DOMAIN-SUFFIX,sbo1088.com
 DOMAIN-SUFFIX,sbobet.com
 DOMAIN-SUFFIX,sbofa88.com
 DOMAIN-SUFFIX,sbs
+DOMAIN-SUFFIX,sbuxcard.com
 DOMAIN-SUFFIX,sc
 DOMAIN-SUFFIX,sc-cdn.net
 DOMAIN-SUFFIX,sc1288.co
@@ -18273,9 +18277,25 @@ DOMAIN-SUFFIX,standupfortibet.org
 DOMAIN-SUFFIX,standwithhk.org
 DOMAIN-SUFFIX,staples
 DOMAIN-SUFFIX,star-telegram.com
+DOMAIN-SUFFIX,starbucks-stars.com
+DOMAIN-SUFFIX,starbucks.be
+DOMAIN-SUFFIX,starbucks.ch
+DOMAIN-SUFFIX,starbucks.co.id
 DOMAIN-SUFFIX,starbucks.com
+DOMAIN-SUFFIX,starbucks.com.co
+DOMAIN-SUFFIX,starbucks.it
+DOMAIN-SUFFIX,starbucks.pt
+DOMAIN-SUFFIX,starbucks.rs
 DOMAIN-SUFFIX,starbucksathome.com
+DOMAIN-SUFFIX,starbuckscardb2b.com
+DOMAIN-SUFFIX,starbuckscoffeegear.com
+DOMAIN-SUFFIX,starbuckscoffeegearstore.com
+DOMAIN-SUFFIX,starbucksforlife.com
+DOMAIN-SUFFIX,starbuckspoq.com
 DOMAIN-SUFFIX,starbucksreserve.com
+DOMAIN-SUFFIX,starbucksrewardsstarland.com
+DOMAIN-SUFFIX,starbucksrtd.com
+DOMAIN-SUFFIX,starbuckssummergame.com
 DOMAIN-SUFFIX,starcelebs.com
 DOMAIN-SUFFIX,starchu.com
 DOMAIN-SUFFIX,starcraft.com
