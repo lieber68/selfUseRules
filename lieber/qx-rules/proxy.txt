@@ -180,6 +180,10 @@ host, venmo.s3.amazonaws.com, proxy
 host, videos-rockstargames-com.akamaized.net, proxy
 host, vmware.tt.omtrdc.net, proxy
 host, vod-abematv.akamaized.net, proxy
+host, vod-dash-ww-live.akamaized.net, proxy
+host, vod-dash-ww-live.bbcfmt.s.llnwi.net, proxy
+host, vod-thumb-ww-live.akamaized.net, proxy
+host, vod-thumb-ww-live.bbcfmt.s.llnwi.net, proxy
 host, widgets.stripst.com, proxy
 host, www-cdn.icloud.com.akadns.net, proxy
 host, zeenews-fonts.s3.amazonaws.com, proxy
@@ -3253,7 +3257,6 @@ host-suffix, balaxtv.com, proxy
 host-suffix, ballbet.com, proxy
 host-suffix, ballbet5.com, proxy
 host-suffix, baltimorebmw.com, proxy
-host-suffix, bamgrid.com, proxy
 host-suffix, bamsoftware.com, proxy
 host-suffix, banamex, proxy
 host-suffix, banana-vpn.com, proxy
@@ -3352,15 +3355,14 @@ host-suffix, bbb678.com, proxy
 host-suffix, bbb916.net, proxy
 host-suffix, bbbccf.com, proxy
 host-suffix, bbc, proxy
-host-suffix, bbc.co, proxy
 host-suffix, bbc.com, proxy
 host-suffix, bbcchinese.com, proxy
 host-suffix, bbchat.tv, proxy
-host-suffix, bbci.co, proxy
 host-suffix, bbcnews.com, proxy
 host-suffix, bbcpersian.com, proxy
 host-suffix, bbcukchina.com, proxy
 host-suffix, bbcurdu.com, proxy
+host-suffix, bbcverticals.com, proxy
 host-suffix, bbcworldnews.com, proxy
 host-suffix, bbei7.com, proxy
 host-suffix, bbestmall.com, proxy
@@ -4573,7 +4575,6 @@ host-suffix, braveux.com, proxy
 host-suffix, bravoteens.com, proxy
 host-suffix, bravotube.com, proxy
 host-suffix, bravotube.net, proxy
-host-suffix, braze.com, proxy
 host-suffix, brazilpartneruniversity.com, proxy
 host-suffix, brazzers-girls.com, proxy
 host-suffix, brazzers.com, proxy
@@ -5317,6 +5318,8 @@ host-suffix, cdn.statically.io, proxy
 host-suffix, cdn.tranquilli.org, proxy
 host-suffix, cdn.ub8go.com, proxy
 host-suffix, cdn1.lp.saboom.com, proxy
+host-suffix, cdn77.com, proxy
+host-suffix, cdn77.org, proxy
 host-suffix, cdninstagram.com, proxy
 host-suffix, cdnjs.com, proxy
 host-suffix, cdnlab.live, proxy
@@ -6029,7 +6032,6 @@ host-suffix, contest.com, proxy
 host-suffix, contests.twilio.com, proxy
 host-suffix, convegnonazionalegeotecnica.it, proxy
 host-suffix, convio.net, proxy
-host-suffix, conviva.com, proxy
 host-suffix, convrgencegame.com, proxy
 host-suffix, coobay.com, proxy
 host-suffix, cookiechoices.org, proxy
@@ -6579,6 +6581,7 @@ host-suffix, delmonte, proxy
 host-suffix, deloitte, proxy
 host-suffix, delta, proxy
 host-suffix, delusionscho.weebly.com, proxy
+host-suffix, delvenetworks.com, proxy
 host-suffix, demandware.com, proxy
 host-suffix, demdex.net, proxy
 host-suffix, demo.nyris.io, proxy
@@ -11185,6 +11188,7 @@ host-suffix, incloak.com, proxy
 host-suffix, inclusivegrowthscore.com, proxy
 host-suffix, ind.sh, proxy
 host-suffix, indazn.com, proxy
+host-suffix, indaznlab.com, proxy
 host-suffix, independentoperatorcn.com, proxy
 host-suffix, indexoncensorship.org, proxy
 host-suffix, india.com, proxy
@@ -11367,7 +11371,10 @@ host-suffix, intelsoftwarenetwork.com, proxy
 host-suffix, intelstore.com, proxy
 host-suffix, inteltechnologyprovider.com, proxy
 host-suffix, intelvmwarecybersecurity.com, proxy
+host-suffix, intercom.com, proxy
 host-suffix, intercom.io, proxy
+host-suffix, intercomassets.com, proxy
+host-suffix, intercomcdn.com, proxy
 host-suffix, international-news.newsmagazine.asia, proxy
 host-suffix, internationalconnectionsacademy.com, proxy
 host-suffix, internationalsaimoe.com, proxy
@@ -11735,16 +11742,9 @@ host-suffix, japanesefuck.com, proxy
 host-suffix, japanfirst.asianfreeforum.com, proxy
 host-suffix, japaninporn.com, proxy
 host-suffix, japanknowledge.com, proxy
-host-suffix, japonx.com, proxy
 host-suffix, japonx.net, proxy
-host-suffix, japonx.tv, proxy
-host-suffix, japonx.vip, proxy
 host-suffix, japorn.tv, proxy
 host-suffix, jappydolls.net, proxy
-host-suffix, japronx.com, proxy
-host-suffix, japronx.net, proxy
-host-suffix, japronx.tv, proxy
-host-suffix, japronx.vip, proxy
 host-suffix, jasminearoma.co, proxy
 host-suffix, jasoncoyne.com, proxy
 host-suffix, jav-free.org, proxy
@@ -11758,6 +11758,7 @@ host-suffix, jav168.cc, proxy
 host-suffix, jav18.cc, proxy
 host-suffix, jav18.xyz, proxy
 host-suffix, jav2be.com, proxy
+host-suffix, jav321.com, proxy
 host-suffix, jav68.me, proxy
 host-suffix, jav68.tv, proxy
 host-suffix, jav777.cc, proxy
@@ -12278,6 +12279,7 @@ host-suffix, kissjav.com, proxy
 host-suffix, kisstv.cc, proxy
 host-suffix, kissxtv.com, proxy
 host-suffix, kjpnote.com, proxy
+host-suffix, kk.stream, proxy
 host-suffix, kk2267.com, proxy
 host-suffix, kkbox.com, proxy
 host-suffix, kkgg234.com, proxy
@@ -12289,7 +12291,6 @@ host-suffix, kkkk0102.com, proxy
 host-suffix, kknews.cc, proxy
 host-suffix, kksod.com, proxy
 host-suffix, kktix.com, proxy
-host-suffix, kktv-theater.kk.stream, proxy
 host-suffix, kktv.me, proxy
 host-suffix, kl8888.com, proxy
 host-suffix, klienux.org, proxy
@@ -12696,6 +12697,7 @@ host-suffix, lili100.com, proxy
 host-suffix, lilly, proxy
 host-suffix, limbopro.xyz, proxy
 host-suffix, limejs.com, proxy
+host-suffix, limelight.com, proxy
 host-suffix, limiao.net, proxy
 host-suffix, lin.ee, proxy
 host-suffix, lincoln, proxy
@@ -12787,7 +12789,12 @@ host-suffix, lkcn.net, proxy
 host-suffix, lksdc.com, proxy
 host-suffix, ll699.net, proxy
 host-suffix, llbn.tv, proxy
+host-suffix, lldns.net, proxy
+host-suffix, llnw-trials.com, proxy
+host-suffix, llnw.com, proxy
+host-suffix, llnw.net, proxy
 host-suffix, llnwd.net, proxy
+host-suffix, llnwi.net, proxy
 host-suffix, llqpipe.com, proxy
 host-suffix, llss.me, proxy
 host-suffix, lm.1731788.com, proxy
@@ -19022,7 +19029,6 @@ host-suffix, theparisnews.com, proxy
 host-suffix, thepaypalshop.com, proxy
 host-suffix, thepetitionsite.com, proxy
 host-suffix, thepiratebay.org, proxy
-host-suffix, theplatform.com, proxy
 host-suffix, theporndude.com, proxy
 host-suffix, theportalwiki.com, proxy
 host-suffix, theproject333.com, proxy
@@ -20278,6 +20284,7 @@ host-suffix, verisigninc.com, proxy
 host-suffix, verizon.com, proxy
 host-suffix, verizon.net, proxy
 host-suffix, verizonbusinessfios.com, proxy
+host-suffix, verizondigitalmedia.com, proxy
 host-suffix, verizonenterprise.com, proxy
 host-suffix, verizonfios.com, proxy
 host-suffix, verizonmedia.com, proxy
@@ -22971,11 +22978,11 @@ host-suffix, www.jahproxy.com, proxy
 host-suffix, www.jaiku.com, proxy
 host-suffix, www.jailbreakvpn.com, proxy
 host-suffix, www.jainchetan.com, proxy
+host-suffix, www.japonx.tv, proxy
 host-suffix, www.jasonfbrennan.com, proxy
 host-suffix, www.jav007.com, proxy
 host-suffix, www.jav008.com, proxy
 host-suffix, www.jav28.com, proxy
-host-suffix, www.jav321.com, proxy
 host-suffix, www.jav777.xyz, proxy
 host-suffix, www.java9countdown.xyz, proxy
 host-suffix, www.javbaike.com, proxy
@@ -24413,6 +24420,7 @@ host-suffix, x.team, proxy
 host-suffix, x06966.com, proxy
 host-suffix, x12express.com, proxy
 host-suffix, x188betx.com, proxy
+host-suffix, x18r.com, proxy
 host-suffix, x1949x.com, proxy
 host-suffix, x24hr.com, proxy
 host-suffix, x258888.com, proxy
@@ -25234,6 +25242,7 @@ host-suffix, zeit.sh, proxy
 host-suffix, zeitworld.com, proxy
 host-suffix, zello.com, proxy
 host-suffix, zencdn.net, proxy
+host-suffix, zencoder.com, proxy
 host-suffix, zend2.com, proxy
 host-suffix, zendesk.com, proxy
 host-suffix, zendproxy.com, proxy
