@@ -5,6 +5,7 @@ host, apple.com.akadns.net, proxy
 host, appleworldwidedeveloper.hb-api.omtrdc.net, proxy
 host, appleworldwidedeveloper.sc.omtrdc.net, proxy
 host, asahishimbun.sc.omtrdc.net, proxy
+host, audio-ak-spotify-com.akamaized.net, proxy
 host, avatargarenanow-a.akamaihd.net, proxy
 host, azure.microsoft.com, proxy
 host, azuremarketplace.microsoft.com, proxy
@@ -57,6 +58,7 @@ host, gigabyte2.azureedge.net, proxy
 host, github-avatars.oss-cn-hongkong.aliyuncs.com, proxy
 host, github-cloud.s3.amazonaws.com, proxy
 host, gitlab-assets.oss-cn-hongkong.aliyuncs.com, proxy
+host, heads4-ak-spotify-com.akamaized.net, proxy
 host, homebrew.bintray.com, proxy
 host, hpstore.corpmerchandise.com, proxy
 host, img-prod-cms-rt-microsoft-com.akamaized.net, proxy
