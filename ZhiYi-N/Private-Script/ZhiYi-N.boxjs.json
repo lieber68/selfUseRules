@@ -103,9 +103,31 @@
   {
     "id": "dyjsb",
     "name": "抖音极速版",
-    "keys": ["signheader", "signcookie", "stepheader", "stepkey", "readheader", "readkey", "signheader2", "signcookie2", "stepheader2", "stepkey2", "readheader2", "readkey2"],
+    "keys": ["signheader", "signcookie", "stepheader", "stepkey", "readheader", "readkey","signheader2", "signcookie2", "stepheader2", "stepkey2", "readheader2", "readkey2"],
     "author": "@ZhiYi-N",
     "settings": [{
+            "id": "dyhost",
+            "name": "抖音极速版域名",
+            "val": "",
+            "type": "string",
+            "desc": ""
+        },
+         {
+        "id": "dyjsbaccount0",
+         //为适应for循环，被迫命名dyjsbaccount0
+        "name": "支付宝账号1",
+        "val": "0",
+        "type": "number",
+        "desc": "测试的为手机号，邮箱不知道"
+      },
+          {
+        "id": "dyjsbaccount1",
+        "name": "支付宝账号2",
+        "val": "0",
+        "type": "number",
+        "desc": "测试的为手机号，邮箱不知道"
+      },
+         {
             "id": "tz",
             "name": "静默运行",
             "val": "1",
@@ -118,13 +140,6 @@
         "val": "1",
         "type": "number",
         "desc": "当前账号对应"
-      },
-       {
-        "id": "dyjsbaccount",
-        "name": "支付宝账号",
-        "val": "0",
-        "type": "number",
-        "desc": "测试的为手机号，邮箱不知道"
       },
       {
         "id": "dyjsbcount",
