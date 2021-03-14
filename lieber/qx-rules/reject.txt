@@ -4231,6 +4231,7 @@ host-suffix, ads.partner2profit.com, reject
 host-suffix, ads.passion.com, reject
 host-suffix, ads.pastemagazine.com, reject
 host-suffix, ads.paxnet.co.kr, reject
+host-suffix, ads.pcccdongduong.vn, reject
 host-suffix, ads.pcper.com, reject
 host-suffix, ads.pdbarea.com, reject
 host-suffix, ads.pdxguide.com, reject
@@ -8124,6 +8125,7 @@ host-suffix, awbbcre.com, reject
 host-suffix, awdigit.info, reject
 host-suffix, awebotchunto.work, reject
 host-suffix, awecr.com, reject
+host-suffix, awecre.com, reject
 host-suffix, aweinkbum.com, reject
 host-suffix, awelessawelesscedar.com, reject
 host-suffix, awempire.com, reject
@@ -8523,6 +8525,7 @@ host-suffix, banner.dabi.ir, reject
 host-suffix, banner.diamondclubcasino.com, reject
 host-suffix, banner.easyspace.com, reject
 host-suffix, banner.elisa.net, reject
+host-suffix, banner.etargeting.mobifone.vn, reject
 host-suffix, banner.eurogrand.com, reject
 host-suffix, banner.finzoom.ro, reject
 host-suffix, banner.free6.com, reject
@@ -9379,7 +9382,6 @@ host-suffix, bietthuvinhomesgialam.xyz, reject
 host-suffix, bifieyhg.com, reject
 host-suffix, big-bang-ads.com, reject
 host-suffix, big-hunter.com, reject
-host-suffix, big7.com, reject
 host-suffix, big88.one, reject
 host-suffix, bigads.guj.de, reject
 host-suffix, bigbangbon.online, reject
@@ -13761,7 +13763,6 @@ host-suffix, d1w24oanovvxvg.cloudfront.net, reject
 host-suffix, d1wi563t0137vz.cloudfront.net, reject
 host-suffix, d1wirc5qsdb1y5.cloudfront.net, reject
 host-suffix, d1wjz6mrey9f5v.cloudfront.net, reject
-host-suffix, d1wscoizcbxzhp.cloudfront.net, reject
 host-suffix, d1xfq2052q7thw.cloudfront.net, reject
 host-suffix, d1xkyo9j4r7vnn.cloudfront.net, reject
 host-suffix, d1ybdlg8aoufn.cloudfront.net, reject
@@ -16277,6 +16278,7 @@ host-suffix, elparmo.ru, reject
 host-suffix, elprogresse.top, reject
 host-suffix, elqsjecdav.com, reject
 host-suffix, elsbfby.com, reject
+host-suffix, elsetormentshower.com, reject
 host-suffix, elsupposit.club, reject
 host-suffix, eltex.co.jp, reject
 host-suffix, elthamely.com, reject
@@ -20293,6 +20295,7 @@ host-suffix, hao.315hyw.com, reject
 host-suffix, hao.360hyzj.com, reject
 host-suffix, hao61.net, reject
 host-suffix, haolew.com, reject
+host-suffix, haomaiweb.com, reject
 host-suffix, haomaojin.com, reject
 host-suffix, haorun.pw, reject
 host-suffix, haostat.qihoo.com, reject
@@ -20609,6 +20612,7 @@ host-suffix, hfgfz.hunteraustin.pw, reject
 host-suffix, hfiorasadions.mobi, reject
 host-suffix, hfjuki.com, reject
 host-suffix, hflvhua.com, reject
+host-suffix, hfoyjg.cn, reject
 host-suffix, hfsn.info, reject
 host-suffix, hfsteel.net, reject
 host-suffix, hfxofvdykkmq.com, reject
@@ -22824,6 +22828,7 @@ host-suffix, jb7hvckszone.com, reject
 host-suffix, jbbath.cn, reject
 host-suffix, jbbqwmnrkpi.com, reject
 host-suffix, jbbwtetv.xyz, reject
+host-suffix, jbo064.com, reject
 host-suffix, jbovn.com, reject
 host-suffix, jbpsorexvuapf.com, reject
 host-suffix, jbqeyfrli.com, reject
@@ -36416,6 +36421,7 @@ host-suffix, shili.wanyx.com, reject
 host-suffix, shilian168.cn, reject
 host-suffix, shillivee.pro, reject
 host-suffix, shinasi.info, reject
+host-suffix, shindyadmittancemeal.com, reject
 host-suffix, shinebliss.com, reject
 host-suffix, shinedns.net, reject
 host-suffix, shinesavage.com, reject
@@ -40850,6 +40856,7 @@ host-suffix, track.upaknee.com, reject
 host-suffix, track.vcdc.com, reject
 host-suffix, track.veedio.it, reject
 host-suffix, track.viewdeos.com, reject
+host-suffix, track.vio.edu.vn, reject
 host-suffix, track.vivid.com, reject
 host-suffix, track.vscash.com, reject
 host-suffix, track.wayin.com, reject
@@ -41024,6 +41031,7 @@ host-suffix, tracking.ariong.us, reject
 host-suffix, tracking.arxibs01.com, reject
 host-suffix, tracking.baddoggiemediagroup.com, reject
 host-suffix, tracking.badgeville.com, reject
+host-suffix, tracking.banner.g6.zing.vn, reject
 host-suffix, tracking.base.de, reject
 host-suffix, tracking.batanga.com, reject
 host-suffix, tracking.battleon.com, reject
@@ -43851,7 +43859,6 @@ host-suffix, waogi.com, reject
 host-suffix, waoptions.com.au, reject
 host-suffix, wap-click.com, reject
 host-suffix, wap.casee.cn, reject
-host-suffix, wap.hfoyjg.cn, reject
 host-suffix, wap001.bytravel.cn, reject
 host-suffix, wap1.laogu.wang, reject
 host-suffix, wapadv.com, reject
@@ -46432,6 +46439,7 @@ host-suffix, xulizui6.com, reject
 host-suffix, xunhuaji.cn, reject
 host-suffix, xunkhuczqnuf.com, reject
 host-suffix, xunlaile.com, reject
+host-suffix, xunzhuo123.com, reject
 host-suffix, xuossk3tu6hb.com, reject
 host-suffix, xuro006.com, reject
 host-suffix, xuveiai.ru, reject
