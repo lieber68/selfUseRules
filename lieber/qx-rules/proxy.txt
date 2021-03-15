@@ -12706,11 +12706,16 @@ host-suffix, limiao.net, proxy
 host-suffix, lin.ee, proxy
 host-suffix, lincoln, proxy
 host-suffix, linde, proxy
+host-suffix, line-apps-beta.com, proxy
 host-suffix, line-apps.com, proxy
+host-suffix, line-beta.me, proxy
 host-suffix, line-cdn.net, proxy
 host-suffix, line-scdn.net, proxy
 host-suffix, line.me, proxy
 host-suffix, linearcollider.org, proxy
+host-suffix, linecorp.com, proxy
+host-suffix, linefriends.com, proxy
+host-suffix, linemobile.com, proxy
 host-suffix, linglingfa.com, proxy
 host-suffix, lingq.com, proxy
 host-suffix, linguee.com, proxy
@@ -21046,6 +21051,7 @@ host-suffix, website--4210285482279019401133-hostel.business.site, proxy
 host-suffix, website.informer.com, proxy
 host-suffix, websitepulse.com, proxy
 host-suffix, websnapr.com, proxy
+host-suffix, webtoons.com, proxy
 host-suffix, webtunnel.org, proxy
 host-suffix, webtype.com, proxy
 host-suffix, webupd8.org, proxy
