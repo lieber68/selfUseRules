@@ -2,7 +2,7 @@
     "name": "Lieber",
     "description": "自用整理签到",
     "task": [
-        "1 0 * * * https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/chavyleung/scripts/bilibili/bilibili.js, tag=bilibili, img-url=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Orz-3/mini/Color/bilibili.png, enabled=true"
+        "1 0 * * * https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/chavyleung/scripts/bilibili/bilibili.js, tag=bilibili, img-url=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Orz-3/mini/Color/bilibili.png, enabled=true",
         "1 23,0 * * * https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/NobyDa/Script/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Orz-3/mini/Color/jd.png, enabled=true",
         "0 9 * * * https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/NobyDa/Script/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺签到, img-url=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Orz-3/mini/Color/iQIYI.png, enabled=true",
         "0 9 */7 * * https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Peng-YM/QuanX/Tasks/epic.js, tag=Epic周免, img-url=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Orz-3/mini/Color/epic.png, enabled=true",
