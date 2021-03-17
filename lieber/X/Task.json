@@ -1,0 +1,16 @@
+{
+    "name": "Lieber",
+    "description": "自用整理签到",
+    "task": [
+        "1 0 * * * https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/chavyleung/scripts/bilibili/bilibili.js, tag=bilibili, img-url=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Orz-3/mini/Color/bilibili.png, enabled=true"
+        "1 23,0 * * * https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/NobyDa/Script/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Orz-3/mini/Color/jd.png, enabled=true",
+        "0 9 * * * https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/NobyDa/Script/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺签到, img-url=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Orz-3/mini/Color/iQIYI.png, enabled=true",
+        "0 9 */7 * * https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Peng-YM/QuanX/Tasks/epic.js, tag=Epic周免, img-url=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Orz-3/mini/Color/epic.png, enabled=true",
+        "0 10 * * * https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Sunert/Scripts/Task/trainquery.js, tag=火车票及列车时刻, img-url=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Orz-3/mini/Color/12306.png, enabled=true",
+        "1 0 * * * https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/chavyleung/scripts/everphoto/everphoto.js, tag=时光相册, img-url=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Orz-3/mini/Color/everphoto.png, enabled=true",
+        "1 0 * * * https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/chavyleung/scripts/haidilao/hdl.js, tag=海底捞, img-url=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Orz-3/mini/Color/haidilao.png, enabled=true",
+        "1 0 * * * https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/chavyleung/scripts/mgtv/mgtv.js, tag=芒果TV, img-url=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Orz-3/mini/Color/mgtv.png, enabled=true",
+        "1 0 * * * https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/chavyleung/scripts/neteasemusic/quanx/neteasemusic.js, tag=网易云音乐, img-url=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Orz-3/mini/Color/neteasemusic.png, enabled=true",
+        "1 0 * * * https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/chavyleung/scripts/videoqq/videoqq.js, tag=腾讯视频, img-url=https://lieberplus.coding.net/p/AllRules/d/AllRules/git/raw/master/Orz-3/mini/Color/videoqq.png, enabled=true",
+    ]
+}
