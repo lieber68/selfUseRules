@@ -1,12 +1,2 @@
 host, router.asus.com, direct
-host-suffix, lan, direct
-host-suffix, localdomain, direct
-host-suffix, example, direct
-host-suffix, invalid, direct
-host-suffix, localhost, direct
-host-suffix, test, direct
-host-suffix, local, direct
-host-suffix, home.arpa, direct
-host-suffix, msftconnecttest.com, direct
-host-suffix, localhost.sec.qq.com, direct
-host-suffix, localhost.ptlogin2.qq.com, direct
+host-suffix, lan, directhost-suffix, localdomain, directhost-suffix, example, directhost-suffix, invalid, directhost-suffix, localhost, directhost-suffix, test, directhost-suffix, local, directhost-suffix, home.arpa, directhost-suffix, msftconnecttest.com, directhost-suffix, localhost.sec.qq.com, directhost-suffix, localhost.ptlogin2.qq.com, direct
