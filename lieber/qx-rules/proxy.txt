@@ -19279,6 +19279,8 @@ DOMAIN-SUFFIX, tiburon.com, proxy
 DOMAIN-SUFFIX, tickling-videos.com, proxy
 DOMAIN-SUFFIX, tickmill.com, proxy
 DOMAIN-SUFFIX, tictoc.video, proxy
+DOMAIN-SUFFIX, tidal.com, proxy
+DOMAIN-SUFFIX, tidalhifi.com, proxy
 DOMAIN-SUFFIX, tidebit.com, proxy
 DOMAIN-SUFFIX, tidelift.com, proxy
 DOMAIN-SUFFIX, tidex.com, proxy
@@ -21337,6 +21339,7 @@ DOMAIN-SUFFIX, williamhill138.com, proxy
 DOMAIN-SUFFIX, williamlong.jaiku.com, proxy
 DOMAIN-SUFFIX, willw.net, proxy
 DOMAIN-SUFFIX, wilmar, proxy
+DOMAIN-SUFFIX, wimpmusic.com, proxy
 DOMAIN-SUFFIX, win.hicam.net, proxy
 DOMAIN-SUFFIX, win123.ml, proxy
 DOMAIN-SUFFIX, win558.com, proxy
@@ -25805,10 +25808,12 @@ DOMAIN, venmo.s3.amazonaws.com, proxy
 DOMAIN, videos-rockstargames-com.akamaized.net, proxy
 DOMAIN, vmware.tt.omtrdc.net, proxy
 DOMAIN, vod-abematv.akamaized.net, proxy
+DOMAIN, vod-dash-uk-live.akamaized.net, proxy
 DOMAIN, vod-dash-ww-live.akamaized.net, proxy
-DOMAIN, vod-dash-ww-live.bbcfmt.s.llnwi.net, proxy
+DOMAIN, vod-hls-uk-live.akamaized.net, proxy
+DOMAIN, vod-sub-uk-live.akamaized.net, proxy
+DOMAIN, vod-thumb-uk-live.akamaized.net, proxy
 DOMAIN, vod-thumb-ww-live.akamaized.net, proxy
-DOMAIN, vod-thumb-ww-live.bbcfmt.s.llnwi.net, proxy
 DOMAIN, widgets.stripst.com, proxy
 DOMAIN, www-cdn.icloud.com.akadns.net, proxy
 DOMAIN, zeenews-fonts.s3.amazonaws.com, proxy
