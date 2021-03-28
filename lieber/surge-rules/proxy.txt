@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-27 03:10:17.920705
-# DOMAIN-SUFFIX: 28930
+# UPDATED: 2021-03-28 02:27:38.390644
+# DOMAIN-SUFFIX: 28932
 # USER-AGENT: 12
 # DOMAIN: 43
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 29105
+# TOTAL: 29107
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -17571,6 +17571,8 @@ www-cdn.icloud.com.akadns.net
 .pao77.com
 .paofu.cloud
 .paofuyun.me
+.paoluz.com
+.paoluz.link
 .paowang.net
 .papakev.de
 .papalah.com
