@@ -1,10 +1,10 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-29 02:28:28.908148
+# UPDATED: 2021-03-31 23:28:44
+# DOMAIN: 43
 # DOMAIN-SUFFIX: 28932
 # USER-AGENT: 12
-# DOMAIN: 43
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
@@ -29249,6 +29249,7 @@ zeenews-fonts.s3.amazonaws.com
 .go.nesnode.com
 .goagent.codeplex.com
 .greatfire.us7.list-manage.com
+.hbomaxcdn.com
 .help.linksalpha.com
 .hk.frienddy.com
 .hk.gradconnection.com
@@ -29287,6 +29288,16 @@ zeenews-fonts.s3.amazonaws.com
 .my.pcloud.com
 .my.steamchina.com
 .nemesis2.qx.net
+.netflixdnstest1.com
+.netflixdnstest10.com
+.netflixdnstest2.com
+.netflixdnstest3.com
+.netflixdnstest4.com
+.netflixdnstest5.com
+.netflixdnstest6.com
+.netflixdnstest7.com
+.netflixdnstest8.com
+.netflixdnstest9.com
 .news.sina.com
 .nic.cz.cc
 .ny.stgloballink.com

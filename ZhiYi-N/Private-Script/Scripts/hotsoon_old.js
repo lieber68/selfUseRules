@@ -284,9 +284,6 @@ async function control(){
     if(hotsoonaccount){
      await profits()
      }
-    if(cash == 1 && coins >= 20){
-     await withdraw()
-     }
 }
 //广告
 function ad() {
@@ -313,19 +310,23 @@ return new Promise((resolve, reject) => {
   })
  } 
 //profit
-function profit() {
+async function profit() {
 return new Promise((resolve, reject) => {
   let profiturl ={
     url: `https://ib-hl.snssdk.com/luckycat/hotsoon/v1/wallet/profit_detail_page?income_type=2&num=80&${hotsoonsignheader}`,
     headers :JSON.parse(hotsoonsignkey),
 }
-   $.get(profiturl,(error, response, data) =>{
+   $.get(profiturl,async(error, response, data) =>{
      const result = JSON.parse(data)
         if(logs)$.log(data)
 for(let i =0;i<=result.data.profit_detail.score_income_list.length;i++){
-if(result.data.profit_detail.score_income_list[i].desc.match(/\d+/)) {
+if(result.data.profit_detail.score_income_list[i].desc.match(/视频\d+/)) {
          no = result.data.profit_detail.score_income_list[i].desc.match(/\d+/)          
 $.log(no)
+     if(cash == 1 && coins >= 20){
+     no = 1;
+     await withdraw()
+     }
          break;
 }
 }

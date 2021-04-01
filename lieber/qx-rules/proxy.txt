@@ -10081,6 +10081,7 @@ DOMAIN-SUFFIX, hboasia.com, proxy
 DOMAIN-SUFFIX, hbogo.com, proxy
 DOMAIN-SUFFIX, hbogoasia.com, proxy
 DOMAIN-SUFFIX, hbomax.com, proxy
+DOMAIN-SUFFIX, hbomaxcdn.com, proxy
 DOMAIN-SUFFIX, hbonow.com, proxy
 DOMAIN-SUFFIX, hbxnets.com, proxy
 DOMAIN-SUFFIX, hcaptcha.com, proxy
@@ -14564,6 +14565,16 @@ DOMAIN-SUFFIX, netflav.com, proxy
 DOMAIN-SUFFIX, netflix, proxy
 DOMAIN-SUFFIX, netflix.com, proxy
 DOMAIN-SUFFIX, netflix.net, proxy
+DOMAIN-SUFFIX, netflixdnstest1.com, proxy
+DOMAIN-SUFFIX, netflixdnstest10.com, proxy
+DOMAIN-SUFFIX, netflixdnstest2.com, proxy
+DOMAIN-SUFFIX, netflixdnstest3.com, proxy
+DOMAIN-SUFFIX, netflixdnstest4.com, proxy
+DOMAIN-SUFFIX, netflixdnstest5.com, proxy
+DOMAIN-SUFFIX, netflixdnstest6.com, proxy
+DOMAIN-SUFFIX, netflixdnstest7.com, proxy
+DOMAIN-SUFFIX, netflixdnstest8.com, proxy
+DOMAIN-SUFFIX, netflixdnstest9.com, proxy
 DOMAIN-SUFFIX, netflixinvestor.com, proxy
 DOMAIN-SUFFIX, netflixtechblog.com, proxy
 DOMAIN-SUFFIX, netlify.com, proxy

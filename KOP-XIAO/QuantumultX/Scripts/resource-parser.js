@@ -1,5 +1,5 @@
 /** 
-☑️ 资源解析器 ©𝐒𝐡𝐚𝐰𝐧  ⟦2021-03-28 18:20⟧
+☑️ 资源解析器 ©𝐒𝐡𝐚𝐰𝐧  ⟦2021-03-31 12:20⟧
 ----------------------------------------------------------
 🛠 发现 𝐁𝐔𝐆 请反馈: @Shawn_KOP_bot
 ⛳️ 关注 🆃🅶 相关频道: https://t.me/QuanX_API
@@ -41,7 +41,7 @@
 ⦿ ptn=1-6, 分别将节点名中的英文替换成花样字 ⇒ 🅰/🄰/𝐀/𝗮/𝔸/𝕒
 ⦿ delreg, 利用正则表达式来删除 "节点名" 中的字段(⚠️ 慎用)
 ⦿ replace 参数, 正则替换节点中内容, 可用于重命名/更改加密方式等
-  ❖ replace𝗲=regex1@𝘀𝘁𝗿1+regex2@𝘀𝘁𝗿2
+  ❖ replace=regex1@𝘀𝘁𝗿1+regex2@𝘀𝘁𝗿2
   ❖ replace=𝗿𝗲𝗴𝗲𝘅1@ 则等效于 𝗱𝗲𝗹𝗿𝗲𝗴 参数
 ⦿ sort=1/-1/x/指定规则, 分别按节点名 正/逆/随机/指定规则 排序
   ❖ 指定规则是正则表达式或简单关键词, 用"<" 或 ">" 连接
@@ -129,8 +129,8 @@ SubFlow() //流量通知
 var Pin0 = mark0 && para1.indexOf("in=") != -1 ? (para1.split("in=")[1].split("&")[0].split("+")).map(decodeURIComponent) : null;
 var Pout0 = mark0 && para1.indexOf("out=") != -1 ? (para1.split("out=")[1].split("&")[0].split("+")).map(decodeURIComponent) : null;
 var Psfilter = mark0 && para1.indexOf("sfilter=") != -1 ? Base64.decode(para1.split("sfilter=")[1].split("&")[0]) : null; // script filter
-var Preg = mark0 && para1.indexOf("regex=") != -1 ? decodeURIComponent(para1.split("regex=")[1].split("&")[0]) : null; //server正则过滤参数
-var Pregdel = mark0 && para1.indexOf("delreg=") != -1 ? decodeURIComponent(para1.split("delreg=")[1].split("&")[0]) : null; // 正则删除参数
+var Preg = mark0 && para1.indexOf("regex=") != -1 ? decodeURIComponent(para1.split("regex=")[1].split("&")[0]).replace(/\，/g,",") : null; //server正则过滤参数
+var Pregdel = mark0 && para1.indexOf("delreg=") != -1 ? decodeURIComponent(para1.split("delreg=")[1].split("&")[0]).replace(/\，/g,",") : null; // 正则删除参数
 var Phin0 = mark0 && para1.indexOf("inhn=") != -1 ? (para1.split("inhn=")[1].split("&")[0].split("+")).map(decodeURIComponent) : null; //hostname 
 var Phout0 = mark0 && para1.indexOf("outhn=") != -1 ? (para1.split("outhn=")[1].split("&")[0].split("+")).map(decodeURIComponent) : null; //hostname
 var Preplace = mark0 && para1.indexOf("replace=") != -1 ? para1.split("replace=")[1].split("&")[0] : null; //filter/rewrite 正则替换
@@ -354,7 +354,7 @@ function RegCheck(total, typen, regpara) {
 		$notify("‼️ " + typen + "  ➟ " + "⟦" + subtag + "⟧", "⛔️ 筛选正则: regex=" + regpara, "⚠️ 筛选后剩余项为 0️⃣ , 请检查正则参数及原始链接", nan_link)
 	}else if((typen != "节点订阅" && Pntf0 !=0) || (typen == "节点订阅" && Pntf0 ==1)){
 		var nolist = total.length <= 10 ? emojino[total.length] : total.length
-		$notify("🤖 " + typen + "  ➟ " + "⟦" + subtag + "⟧", "⛔️ 筛选正则: regex=" + regpara, "⚠️ 筛选后剩余以下" + nolist + "个匹配项 \\n ⨷ " + total.join("\n ⨷ "), sub_link)
+		$notify("🤖 " + typen + "  ➟ " + "⟦" + subtag + "⟧", "⛔️ 筛选正则: regex=" + regpara, "⚠️ 筛选后剩余以下" + nolist + "个匹配项 \n ⨷ " + total.join("\n ⨷ "), sub_link)
 	}
 }
 //判断订阅类型
@@ -789,7 +789,7 @@ function HostNamecheck(content, parain, paraout) {
     if (nname.length == 0) {
         $notify("🤖 " + "重写引用  ➟ " + "⟦" + subtag + "⟧", "⛔️ 筛选参数: " + pfihn + pfohn, "⚠️ 主机名 hostname 中剩余 0️⃣ 项, 请检查参数及原始链接", nan_link)
     }
-    if(Preg){ nname = nname.map(Regex).filter(Boolean) 
+    if(Preg){ nname = nname.map(Regex).filter(Boolean)
     	RegCheck(nname, "主机名hostname", Preg) }
     hname = "hostname=" + nname.join(", ");
     return hname
@@ -941,8 +941,8 @@ function ReplaceReg(cnt, para) {
     //$notify("0","",cnt0)
     var pp = para.replace(/\\\@/g,"atsymbol").replace(/\\\+/g,"plussymbol").split("+");
     for (var i = 0; i < pp.length; i++) {
-        var p1 = decodeURIComponent(pp[i].split("@")[0]).replace(/atsymbol/g,"\@").replace(/plussymbol/g,"\\\+");
-        var p2 = decodeURIComponent(pp[i].split("@")[1]).replace(/atsymbol/g,"@").replace(/plussymbol/g,"+");
+        var p1 = decodeURIComponent(pp[i].split("@")[0]).replace(/atsymbol/g,"\@").replace(/plussymbol/g,"\\\+").replace(/\，/g,",");
+        var p2 = decodeURIComponent(pp[i].split("@")[1]).replace(/atsymbol/g,"@").replace(/plussymbol/g,"+").replace(/\，/g,",");
         p1 = new RegExp(p1, "gmi");
         cnt0 = cnt0.map(item => item.replace(p1, p2));
         //$notify(p1,p2,cnt0)
@@ -1140,27 +1140,32 @@ function VR2QX(subs, Pudp, Ptfo, Pcert, Ptls13) {
 
 //V2RayN uri转换成 QUANX 格式
 function V2QX(subs, Pudp, Ptfo, Pcert, Ptls13) {
-    var cert = Pcert
-    var tls13 = Ptls13
-    var server = String(Base64.decode(subs.replace("vmess://", "")).trim()).split("\u0000")[0];
-    var nss = [];
-    if (server != "") {
-        ss = JSON.parse(server);
-        ip = "vmess=" + ss.add + ":" + ss.port;
-        pwd = "password=" + ss.id;
-        mtd = "method=aes-128-gcm"
-        tag = "tag=" + decodeURIComponent(ss.ps);
-        udp = Pudp == 1 ? "udp-relay=true" : "udp-relay=false";
-        tfo = Ptfo == 1 ? "fast-open=true" : "fast-open=false";
-        obfs = Pobfs(ss, cert, tls13);
-        if (obfs == "" || obfs == undefined) {
-            nss.push(ip, mtd, pwd, tfo, udp, tag)
-        } else if(obfs != "NOT-SUPPORTTED"){
-            nss.push(ip, mtd, pwd, obfs, tfo, udp, tag);
-        }
-        QX = nss.join(", ");
+  var cert = Pcert
+  var tls13 = Ptls13
+  var server = String(Base64.decode(subs.replace("vmess://", "")).trim()).split("\u0000")[0];
+  var nss = [];
+  if (server != "") {
+    ss = JSON.parse(server);
+    ip = "vmess=" + ss.add + ":" + ss.port;
+    pwd = "password=" + ss.id;
+    
+    mtd = "method=aes-128-gcm"
+    try {
+      tag = "tag=" + decodeURIComponent(ss.ps);
+    } catch (e) {
+      tag = "tag=" + ss.ps;
     }
-    return QX
+    udp = Pudp == 1 ? "udp-relay=true" : "udp-relay=false";
+    tfo = Ptfo == 1 ? "fast-open=true" : "fast-open=false";
+    obfs = Pobfs(ss, cert, tls13);
+    if (obfs == "" || obfs == undefined) {
+      nss.push(ip, mtd, pwd, tfo, udp, tag)
+    } else if(obfs != "NOT-SUPPORTTED"){
+      nss.push(ip, mtd, pwd, obfs, tfo, udp, tag);
+    }
+    QX = nss.join(", ");
+  }
+  return QX
 }
 
 // Vmess obfs 参数
