@@ -50,6 +50,7 @@ DOMAIN-SUFFIX, alibaba.com, DIRECT
 DOMAIN-SUFFIX, alibabacloud.com, DIRECT
 DOMAIN-SUFFIX, alibabausercontent.com, DIRECT
 DOMAIN-SUFFIX, alicdn.com, DIRECT
+DOMAIN-SUFFIX, alicloudccp.com, DIRECT
 DOMAIN-SUFFIX, aliexpress.com, DIRECT
 DOMAIN-SUFFIX, aliimg.com, DIRECT
 DOMAIN-SUFFIX, alikunlun.com, DIRECT
@@ -59,6 +60,7 @@ DOMAIN-SUFFIX, alisoft.com, DIRECT
 DOMAIN-SUFFIX, aliyun.com, DIRECT
 DOMAIN-SUFFIX, aliyuncdn.com, DIRECT
 DOMAIN-SUFFIX, aliyuncs.com, DIRECT
+DOMAIN-SUFFIX, aliyundrive.com, DIRECT
 DOMAIN-SUFFIX, amap.com, DIRECT
 DOMAIN-SUFFIX, autonavi.com, DIRECT
 DOMAIN-SUFFIX, dingtalk.com, DIRECT
@@ -540,7 +542,6 @@ DOMAIN-SUFFIX, umengcloud.com, DIRECT
 DOMAIN-SUFFIX, upyun.com, DIRECT
 DOMAIN-SUFFIX, uxengine.net, DIRECT
 DOMAIN-SUFFIX, videocc.net, DIRECT
-DOMAIN-SUFFIX, vmware.com, DIRECT
 DOMAIN-SUFFIX, wandoujia.com, DIRECT
 DOMAIN-SUFFIX, weather.com, DIRECT
 DOMAIN-SUFFIX, weico.cc, DIRECT

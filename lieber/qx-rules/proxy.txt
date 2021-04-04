@@ -15200,6 +15200,7 @@ DOMAIN-SUFFIX, npm.community, proxy
 DOMAIN-SUFFIX, npmjs.com, proxy
 DOMAIN-SUFFIX, npmjs.org, proxy
 DOMAIN-SUFFIX, npnt.me, proxy
+DOMAIN-SUFFIX, npr.org, proxy
 DOMAIN-SUFFIX, npsboost.com, proxy
 DOMAIN-SUFFIX, nqma.net, proxy
 DOMAIN-SUFFIX, nr, proxy
