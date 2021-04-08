@@ -26149,6 +26149,7 @@ DOMAIN, steamcommunity-a.akamaihd.net, proxy
 DOMAIN, steamstore-a.akamaihd.net, proxy
 DOMAIN, steamusercontent-a.akamaihd.net, proxy
 DOMAIN, steamuserimages-a.akamaihd.net, proxy
+DOMAIN, steamvideo-a.akamaihd.net, proxy
 DOMAIN, tesla-cdn.thron.com, proxy
 DOMAIN, ubisoft-orbit-savegames.s3.amazonaws.com, proxy
 DOMAIN, ubisoft-uplay-savegames.s3.amazonaws.com, proxy
