@@ -1,8 +1,8 @@
-# iOS Rules And Scripts
+# Rules And Scripts
 
 ## 前言
 
-iOS平台的分流规则、复写规则及自动化脚本。
+各平台的分流规则、复写规则及自动化脚本。
 
 ## 特别声明
 
@@ -17,11 +17,7 @@ iOS平台的分流规则、复写规则及自动化脚本。
 
 ## 规则
 
-本项目中的分流规则与复写规则由爬虫程序，定时爬取互联网上开源项目数据，经过清洗、去重、合并、优化后，形成单一的分流规则文件，旨在解决引用大量外部规则造成规则重复的问题。
-
-同时提供本项目中不同分流规则的重复情况检查，便于在配置中精确选取所需的分流规则。更详细的内容，请访问每个规则目录下的README。
-
-感谢所有开源规则项目作者的辛勤付出。
+本项目中的分流规则与复写规则由规则生成器，定时抽取互联网上开源项目数据，经过清洗、去重、合并、优化后，形成单一的规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
 分流规则
 
@@ -31,19 +27,21 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rule
 
 https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
+感谢所有开源规则项目作者的辛勤付出。
+
 ## 脚本
 
 ### 支持情况
 
 自动化脚本在不同平台支持情况：
 
-|          | Surge       | Quantumult X | Loon        | Shadowrocket | JSBox       | Node.js          |
-| -------- | ----------- | ------------ | ----------- | ------------ | ----------- | ---------------- |
-| 需要硬件 | iPhone/iPad | iPhone/iPad  | iPhone/iPad | iPhone/iPad  | iPhone/iPad | 可长期运行的电脑 |
-| 脚本更新 | 自动更新    | 自动更新     | 自动更新    | 自动更新     | 手动更新    | 手动更新         |
-| 推送通知 | 手机推送    | 手机推送     | 手机推送    | 手机推送     | 手机推送    | 无               |
-| 使用成本 | 付费App     | 付费App      | 付费App     | 付费App      | 付费App     | 免费             |
-| 支持情况 | 优先支持    | 兼容支持     | 兼容支持    | 随缘支持     | 部分支持    | 部分支持         |
+|          | Surge       | Quantumult X | Loon        | Shadowrocket | Node.js          |
+| -------- | ----------- | ------------ | ----------- | ------------ | ---------------- |
+| 需要硬件 | iPhone/iPad | iPhone/iPad  | iPhone/iPad | iPhone/iPad  | 可长期运行的电脑 |
+| 脚本更新 | 自动更新    | 自动更新     | 自动更新    | 自动更新     | 手动更新         |
+| 推送通知 | 手机推送    | 手机推送     | 手机推送    | 手机推送     | 无               |
+| 使用成本 | 付费App     | 付费App      | 付费App     | 付费App      | 免费             |
+| 支持情况 | 优先支持    | 兼容支持     | 兼容支持    | 随缘支持     | 部分支持         |
 
 优先支持：优先确保运行正常，出现异常优先解决
 
@@ -53,19 +51,15 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 部分支持：代码层面做兼容，部分功能可用，不做测试
 
-支持优先级：Surge > Quantumult X > Loon > Shadowrocket ≥  JSBox > Node.js
-
-**项目中含有部分搬运其他作者的脚本，没办法进行任何支持、维护和解答，有问题请联系原作者。**
+支持优先级：Surge > Quantumult X > Loon > Shadowrocket ≥  Node.js
 
 ### 脚本说明
-
-部分脚本介绍：
 
 | 脚本                                                         | 介绍                                                         | 维护状态 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
 | [知乎助手](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu) | 使用纯净版知乎是一种怎么样的体验？                           | 正常     |
-| [哔哩哔哩](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/bilibili) | 没有广告的哔哩哔哩更值得干杯                                 | 正常     |
-| [什么值得买](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/smzdm) | 什么值得买签到和去广告脚本                                   | 暂停     |
+| ~~[哔哩哔哩](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/bilibili)~~ | ~~没有广告的哔哩哔哩更值得干杯~~                             | 停止     |
+| [什么值得买](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/smzdm) | 什么值得买签到和去广告脚本                                   | 正常     |
 | [百度贴吧](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/tieba) | 带重试功能的贴吧签到，提高签到成功率                         | 正常     |
 | [联通手机营业厅](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/10010) | 每日自动签到、美团外卖30-3优惠券、4次抽奖、话费流量语音情况推送 | 正常     |
 | [联享家](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/lxj) | 去广告、拦截检测更新                                         | 正常     |
@@ -74,7 +68,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 | [滴滴出行](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/didichuxing) | 每日自动签到、福利金抽奖、天天有奖签到                       | 正常     |
 | [家长帮](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/jiazhangbang) | 每日自动签到                                                 | 正常     |
 | [慢慢买](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/manmanbuy) | 每日自动签到                                                 | 正常     |
-| [小米有品](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/youpin) | 每日自动签到                                                 | 停止     |
+| [~~小米有品~~](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/youpin) | ~~每日自动签到~~                                             | 停止     |
 | [叮咚买菜](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/dingdong) | 每日自动签到                                                 | 正常     |
 | [万达电影](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/wanda) | 每日自动签到，月末将剩余能量抽奖                             | 正常     |
 | [饿了么](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/eleme) | 每日自动领取会员任务                                         | 正常     |
@@ -88,13 +82,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 地址： https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/gallery.json
 
-### 其他来源
+### 外部资源
 
-项目中部分脚本来自互联网上其他开源项目（具体以不同目录的README为准），这里主要进行一些定制化修改、整合和备份。
-
-来自其他开源项目的脚本，通常：
-
-1. 会在README或注释里说明
-2. 只有一个扩展名为.sgmodule的文件
-3. 配置文件中引用的js为其他Github
+项目中资源来自互联网上其他开源项目（具体以不同目录的说明为准），这里主要进行一些整合和备份。对于此类资源，无法对使用过程中出现的任何问题进行解答，您需要联系原作者。
 

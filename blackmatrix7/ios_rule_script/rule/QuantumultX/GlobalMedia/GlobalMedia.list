@@ -1,24 +1,27 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:52:55
-# USER-AGENT: 57
-# HOST-SUFFIX: 182
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-04-08 22:31:50
+# HOST: 36
+# USER-AGENT: 59
+# HOST-SUFFIX: 197
 # HOST-KEYWORD: 20
-# HOST: 31
 # IP-CIDR: 847
-# TOTAL: 1137
+# TOTAL: 1159
+HOST,api.okzy.tv,GlobalMedia
 HOST,apple.comscoreresearch.com,GlobalMedia
 HOST,atv-ps.amazon.com,GlobalMedia
 HOST,avodmp4s3ww-a.akamaihd.net,GlobalMedia
 HOST,bcbolt446c5271-a.akamaihd.net,GlobalMedia
+HOST,cbsi.live.ott.irdeto.com,GlobalMedia
+HOST,cbsplaylistserver.aws.syncbak.com,GlobalMedia
+HOST,cbsservice.aws.syncbak.com,GlobalMedia
 HOST,content.jwplatform.com,GlobalMedia
 HOST,edge.api.brightcove.com,GlobalMedia
 HOST,fls-na.amazon.com,GlobalMedia
 HOST,foxsports01-i.akamaihd.net,GlobalMedia
 HOST,foxsports02-i.akamaihd.net,GlobalMedia
 HOST,foxsports03-i.akamaihd.net,GlobalMedia
-HOST,gateway.icloud.com,GlobalMedia
 HOST,gspe1-ssl.ls.apple.com,GlobalMedia
 HOST,hboasia1-i.akamaihd.net,GlobalMedia
 HOST,hboasia2-i.akamaihd.net,GlobalMedia
@@ -27,6 +30,7 @@ HOST,hboasia4-i.akamaihd.net,GlobalMedia
 HOST,hboasia5-i.akamaihd.net,GlobalMedia
 HOST,itvpnpmobile-a.akamaihd.net,GlobalMedia
 HOST,kktv-theater.kk.stream,GlobalMedia
+HOST,linear.tv.apple.com,GlobalMedia
 HOST,mytvsuperlimited.hb.omtrdc.net,GlobalMedia
 HOST,mytvsuperlimited.sc.omtrdc.net,GlobalMedia
 HOST,netflix.com.edgesuite.net,GlobalMedia
@@ -36,6 +40,7 @@ HOST,news-events.apple.com,GlobalMedia
 HOST,np-edge.itunes.apple.com,GlobalMedia
 HOST,play-edge.itunes.apple.com,GlobalMedia
 HOST,players.brightcove.net,GlobalMedia
+HOST,rpg.pic-imges.com,GlobalMedia
 HOST,videos-f.jwpsrv.com,GlobalMedia
 HOST,youtubei.googleapis.com,GlobalMedia
 HOST,yt3.ggpht.com,GlobalMedia
@@ -58,6 +63,7 @@ HOST-SUFFIX,bamgrid.com,GlobalMedia
 HOST-SUFFIX,bbc.co,GlobalMedia
 HOST-SUFFIX,bbc.co.uk,GlobalMedia
 HOST-SUFFIX,bbc.com,GlobalMedia
+HOST-SUFFIX,bbc.net.uk,GlobalMedia
 HOST-SUFFIX,bbci.co,GlobalMedia
 HOST-SUFFIX,bbci.co.uk,GlobalMedia
 HOST-SUFFIX,bcbolthboa-a.akamaihd.net,GlobalMedia
@@ -66,6 +72,9 @@ HOST-SUFFIX,bootstrapcdn.com,GlobalMedia
 HOST-SUFFIX,braze.com,GlobalMedia
 HOST-SUFFIX,byteoversea.com,GlobalMedia
 HOST-SUFFIX,c4assets.com,GlobalMedia
+HOST-SUFFIX,cbsaavideo.com,GlobalMedia
+HOST-SUFFIX,cbsi.com,GlobalMedia
+HOST-SUFFIX,cbsivideo.com,GlobalMedia
 HOST-SUFFIX,cdn.optimizely.com,GlobalMedia
 HOST-SUFFIX,channel4.com,GlobalMedia
 HOST-SUFFIX,channel5.com,GlobalMedia
@@ -84,6 +93,9 @@ HOST-SUFFIX,disneyplus.com,GlobalMedia
 HOST-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net,GlobalMedia
 HOST-SUFFIX,disneystreaming.com,GlobalMedia
 HOST-SUFFIX,dmc.nico,GlobalMedia
+HOST-SUFFIX,dmm-extension.com,GlobalMedia
+HOST-SUFFIX,dmm.co.jp,GlobalMedia
+HOST-SUFFIX,dmm.com,GlobalMedia
 HOST-SUFFIX,dssott.com,GlobalMedia
 HOST-SUFFIX,dzcdn.net,GlobalMedia
 HOST-SUFFIX,edgedatg.com,GlobalMedia
@@ -108,8 +120,11 @@ HOST-SUFFIX,hbogo.com,GlobalMedia
 HOST-SUFFIX,hbogoasia.com,GlobalMedia
 HOST-SUFFIX,hbogoasia.hk,GlobalMedia
 HOST-SUFFIX,hbomax.com,GlobalMedia
+HOST-SUFFIX,hbomaxcdn.com,GlobalMedia
 HOST-SUFFIX,hbonow.com,GlobalMedia
+HOST-SUFFIX,himalaya.com,GlobalMedia
 HOST-SUFFIX,hinet.net,GlobalMedia
+HOST-SUFFIX,hjholdings.jp,GlobalMedia
 HOST-SUFFIX,hulu.com,GlobalMedia
 HOST-SUFFIX,hulu.hb.omtrdc.net,GlobalMedia
 HOST-SUFFIX,hulu.jp,GlobalMedia
@@ -152,6 +167,7 @@ HOST-SUFFIX,muscdn.com,GlobalMedia
 HOST-SUFFIX,musical.ly,GlobalMedia
 HOST-SUFFIX,my5.tv,GlobalMedia
 HOST-SUFFIX,mytvsuper.com,GlobalMedia
+HOST-SUFFIX,naver.com,GlobalMedia
 HOST-SUFFIX,netflix.com,GlobalMedia
 HOST-SUFFIX,netflix.net,GlobalMedia
 HOST-SUFFIX,netflixdnstest0.com,GlobalMedia
@@ -178,11 +194,13 @@ HOST-SUFFIX,nqs.nice264.com,GlobalMedia
 HOST-SUFFIX,ocnttv.com,GlobalMedia
 HOST-SUFFIX,p-cdn.us,GlobalMedia
 HOST-SUFFIX,pandora.com,GlobalMedia
+HOST-SUFFIX,paramountplus.com,GlobalMedia
 HOST-SUFFIX,pbs.org,GlobalMedia
 HOST-SUFFIX,phncdn.com,GlobalMedia
 HOST-SUFFIX,phprcdn.com,GlobalMedia
 HOST-SUFFIX,pornhub.com,GlobalMedia
 HOST-SUFFIX,pornhubpremium.com,GlobalMedia
+HOST-SUFFIX,pplusstatic.com,GlobalMedia
 HOST-SUFFIX,primevideo.com,GlobalMedia
 HOST-SUFFIX,prod.hjholdings.tv,GlobalMedia
 HOST-SUFFIX,profile.line-scdn.net,GlobalMedia
@@ -192,6 +210,7 @@ HOST-SUFFIX,scdn.co,GlobalMedia
 HOST-SUFFIX,segment.com,GlobalMedia
 HOST-SUFFIX,sentry.io,GlobalMedia
 HOST-SUFFIX,skyking.com.tw,GlobalMedia
+HOST-SUFFIX,smartmediarep.com,GlobalMedia
 HOST-SUFFIX,sndcdn.com,GlobalMedia
 HOST-SUFFIX,socdm.com,GlobalMedia
 HOST-SUFFIX,soundcloud.com,GlobalMedia
@@ -210,6 +229,7 @@ HOST-SUFFIX,tiktokv.com,GlobalMedia
 HOST-SUFFIX,ttvnw.net,GlobalMedia
 HOST-SUFFIX,tv.apple.com,GlobalMedia
 HOST-SUFFIX,tvb.com,GlobalMedia
+HOST-SUFFIX,tver.jp,GlobalMedia
 HOST-SUFFIX,twitch.tv,GlobalMedia
 HOST-SUFFIX,twitchcdn.net,GlobalMedia
 HOST-SUFFIX,uplynk.com,GlobalMedia
@@ -226,7 +246,7 @@ HOST-KEYWORD,-tiktokcdn-com,GlobalMedia
 HOST-KEYWORD,abematv.akamaized.net,GlobalMedia
 HOST-KEYWORD,avoddashs,GlobalMedia
 HOST-KEYWORD,bbcfmt,GlobalMedia
-HOST-KEYWORD,dualstack.apiproxy-device-prod-nlb-,GlobalMedia
+HOST-KEYWORD,dualstack.apiproxy-,GlobalMedia
 HOST-KEYWORD,dualstack.ichnaea-web-,GlobalMedia
 HOST-KEYWORD,foxplus,GlobalMedia
 HOST-KEYWORD,japonx,GlobalMedia
@@ -251,7 +271,6 @@ USER-AGENT,*youtube*,GlobalMedia
 USER-AGENT,AbemaTV*,GlobalMedia
 USER-AGENT,All4*,GlobalMedia
 USER-AGENT,Anime*,GlobalMedia
-USER-AGENT,AppleNews*,GlobalMedia
 USER-AGENT,Argo*,GlobalMedia
 USER-AGENT,BBC*,GlobalMedia
 USER-AGENT,BBCBeacon*,GlobalMedia
@@ -267,6 +286,7 @@ USER-AGENT,HBO%20NOW*,GlobalMedia
 USER-AGENT,HBOAsia*,GlobalMedia
 USER-AGENT,HBOMAX*,GlobalMedia
 USER-AGENT,HWTVMobile*,GlobalMedia
+USER-AGENT,Himalaya*,GlobalMedia
 USER-AGENT,ITV_Player*,GlobalMedia
 USER-AGENT,InstantVideo.US*,GlobalMedia
 USER-AGENT,JOOX*,GlobalMedia
@@ -274,9 +294,11 @@ USER-AGENT,KKTV*,GlobalMedia
 USER-AGENT,LINE%20TV*,GlobalMedia
 USER-AGENT,LINE*,GlobalMedia
 USER-AGENT,My5*,GlobalMedia
+USER-AGENT,Naver%20TV*,GlobalMedia
 USER-AGENT,Niconico*,GlobalMedia
 USER-AGENT,OTT_iPhone*,GlobalMedia
 USER-AGENT,PBS*,GlobalMedia
+USER-AGENT,PPlus*,GlobalMedia
 USER-AGENT,Pandora*,GlobalMedia
 USER-AGENT,Prime%20Video*,GlobalMedia
 USER-AGENT,SoundCloud*,GlobalMedia
@@ -284,6 +306,7 @@ USER-AGENT,Spotify*,GlobalMedia
 USER-AGENT,TIDAL*,GlobalMedia
 USER-AGENT,TIDAL*dia,GlobalMedia
 USER-AGENT,TVB*,GlobalMedia
+USER-AGENT,TVer-Release*,GlobalMedia
 USER-AGENT,TaiwanGood*,GlobalMedia
 USER-AGENT,TikTok*,GlobalMedia
 USER-AGENT,Viu*,GlobalMedia
@@ -291,7 +314,6 @@ USER-AGENT,ViuTV*,GlobalMedia
 USER-AGENT,WeMusic*,GlobalMedia
 USER-AGENT,YouTube*,GlobalMedia
 USER-AGENT,YouTubeMusic*,GlobalMedia
-USER-AGENT,com.apple.news*,GlobalMedia
 USER-AGENT,com.google.ios.youtube*,GlobalMedia
 USER-AGENT,com.google.ios.youtubemusic*,GlobalMedia
 USER-AGENT,com.kktv*,GlobalMedia

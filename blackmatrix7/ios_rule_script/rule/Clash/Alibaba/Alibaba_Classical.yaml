@@ -1,10 +1,10 @@
 # NAME: Alibaba
 # AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:52:57
-# DOMAIN-SUFFIX: 1172
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-04-07 13:24:51
+# DOMAIN-SUFFIX: 1171
 # IP-CIDR: 50
-# TOTAL: 1222
+# TOTAL: 1221
 payload:
   - DOMAIN-SUFFIX,10029.com
   - DOMAIN-SUFFIX,1688.com
@@ -228,7 +228,6 @@ payload:
   - DOMAIN-SUFFIX,aliyungrtn.com
   - DOMAIN-SUFFIX,aliyunidaas.com
   - DOMAIN-SUFFIX,aliyuniot.com
-  - DOMAIN-SUFFIX,aliyunpds.com
   - DOMAIN-SUFFIX,aliyunrtc.com
   - DOMAIN-SUFFIX,aliyunvcs.cn
   - DOMAIN-SUFFIX,aliyunvpc.com

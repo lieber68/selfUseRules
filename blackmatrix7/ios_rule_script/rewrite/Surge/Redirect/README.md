@@ -2,24 +2,25 @@
 
 ## 前言
 
-本项目的重定向复写规则由爬虫程序自动维护。
+本项目的重定向复写规则由程序自动维护。
 
-定时爬取互联网上开源的重定向复写规则，将其进行清洗、去重、合并、优化后，形成单一的复写规则文件，旨在解决引用大量外部规则造成规则重复的问题。
+定时爬取互联网上开源的重定向复写规则，将其进行清洗、去重、合并、转换，以解决引用大量外部复写造成重复问题，或对上游仓库复写进行备份。
 
-**重定向的复写策略，可能存在安全风险。如将正常的网站重定向到钓鱼网站，以窃取输入的数据。当前重定向复写规则仅为程序自动爬取整合，未对安全性做任何校验，如使用此复写规则需要自行承担风险。建议使用前逐条阅读重定向的目标地址，确认无安全问题后再使用。同时禁止此复写规则自动更新，或将此复写规则的内容复制到本地作为本地文件使用。**
+重定向的复写策略，可能存在安全风险。如将正常的网站重定向到钓鱼网站，以窃取输入的数据。当前重定向复写规则仅为程序自动爬取整合，未对安全性做任何校验，如使用此复写规则需要自行承担风险。建议使用前逐条阅读重定向的目标地址，确认无安全问题后再使用。同时禁止此复写规则自动更新，或将此复写规则的内容复制到本地作为本地文件使用。
 
 
-最后检查时间：2021-02-04 02:54:01。
+
 
 ## 复写统计
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| mitm | 54 |
-| redirect | 55 |
+| mitm | 0 |
+| force_http_engine_hosts | 0 |
+| redirect | 50 |
 ## 配置说明
 
-实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
+实时版：程序定时更新，更新频率高，能尽快同步数据源变化
 
 稳定版：不定时手动更新，更新频率低，稳定性好
 
@@ -27,24 +28,24 @@
 
 实时版：
 
+
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/Redirect/Redirect.sgmodule
+
 
 稳定版：
 
+
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Surge/Redirect/Redirect.sgmodule
+
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
 
+
 ## 数据来源
 
-本项目的重定向复写规则的数据来自以下链接，通常已涵盖所有数据来源的复写规则。如果你正在使用这些复写规则，请先删除后再使用本项目的重定向复写规则，以免造成规则重复。
+本项目的重定向复写规则的数据来自以下链接，通常已涵盖所有数据来源的复写规则。如果你正在使用这些复写规则，建议不要与本项目的重定向复写规则混合使用，以免造成规则重复。
 
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/General.sgmodule
-- https://raw.githubusercontent.com/GeQ1an/Rules/master/Loon/Rewrite/Rewrite.list
-- https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Rewrite/Rewrite.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.lnplugin
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.lnrewrite
-- https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Rewrite.txt
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

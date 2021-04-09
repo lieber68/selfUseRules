@@ -1,10 +1,11 @@
 # NAME: AbemaTV
 # AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:52:53
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-04-07 13:24:42
 # USER-AGENT: 1
 # DOMAIN-SUFFIX: 21
-# TOTAL: 22
+# DOMAIN-KEYWORD: 1
+# TOTAL: 23
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
 DOMAIN-SUFFIX,abematv.akamaized.net
@@ -26,4 +27,5 @@ DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,linear-abematv.akamaized.net
 DOMAIN-SUFFIX,vod-abematv.akamaized.net
 DOMAIN-SUFFIX,winticket.jp
+DOMAIN-KEYWORD,abematv.akamaized.net
 USER-AGENT,AbemaTV*

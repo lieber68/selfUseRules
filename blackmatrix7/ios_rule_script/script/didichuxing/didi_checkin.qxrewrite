@@ -11,4 +11,4 @@
 # 获取GroupId
 ^https?:\/\/bosp-api\.xiaojukeji\.com\/wechat\/benefit\/public\/v2\/index url script-response-body https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js
 
-hostname = api.didialift.com,bosp-api.xiaojukeji.com,as.xiaojukeji.com,manhattan.webapp.xiaojukeji.com,*.diditaxi.com.cn
+hostname = api.didialift.com,bosp-api.xiaojukeji.com,as.xiaojukeji.com,*.diditaxi.com.cn

@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,pagead-googlehosted.l.google.com
 DOMAIN-SUFFIX,pki-goog.l.google.com
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,redirector.gvt1.com
+DOMAIN-SUFFIX,regioninfo-pa.googleapis.com
 DOMAIN-SUFFIX,safebrowsing-cache.google.com
 DOMAIN-SUFFIX,safebrowsing.googleapis.com
 DOMAIN-SUFFIX,settings.crashlytics.com

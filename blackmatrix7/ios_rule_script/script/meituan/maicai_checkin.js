@@ -6,7 +6,7 @@ const mallQueryStringKey = 'meituan_mall_querystring';
 const mallUUIDKey = 'meituan_mall_uuid';
 const mallUserIdKey = 'meituan_mall_userid';
 const mallBodyKey = 'meituan_mall_body';
-let magicJS = MagicJS(scriptName, "DEBUG");
+let magicJS = MagicJS(scriptName, "INFO");
 magicJS.unifiedPushUrl = magicJS.read('meituan_mall_unified_push_url') || magicJS.read('meituan_mall_unified_push_url');
 
 // 每日签到
@@ -109,7 +109,7 @@ function CheckIn(cookie, t, queryString, uuid, userId){
       magicJS.notify('❓没有读取到Cookie，请先从App中获取!!');
     }
     else{
-      let [checkInErr, [rewardValue, checkinCard]] = await magicJS.attempt(CheckIn(cookie, t, queryString, uuid, userId));
+      let [checkInErr, [rewardValue, checkinCard]] = await magicJS.attempt(CheckIn(cookie, t, queryString, uuid, userId), [null, null]);
       if (checkInErr){
         subTitle = '❌签到异常，请查阅日志';
       }

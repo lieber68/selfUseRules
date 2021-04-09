@@ -243,7 +243,7 @@ function GetMili(cookie, deviceId){
         if (data.currentNumber !== null){
           subTitle += `，共获得 ${data.currentNumber} 个Fa米粒。`
         }
-        content = `再坚持签到 ${data.nextDay} 天可获得 ${data.nextNumber} 个Fa米粒。\n签到 ${data.lastDay} 可获得 ${data.lastNumber} 个Fa米粒。`;
+        content = `再坚持签到 ${data.nextDay} 天可获得 ${data.nextNumber} 个Fa米粒。\n签到 ${data.lastDay} 天可获得 ${data.lastNumber} 个Fa米粒。`;
       }
       else{
         subTitle = message;

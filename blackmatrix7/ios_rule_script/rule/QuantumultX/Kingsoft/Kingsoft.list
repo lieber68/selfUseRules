@@ -1,9 +1,9 @@
 # NAME: Kingsoft
 # AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:52:54
-# HOST-SUFFIX: 253
-# TOTAL: 253
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-04-07 13:24:46
+# HOST-SUFFIX: 256
+# TOTAL: 256
 HOST-SUFFIX,35go.cn,Kingsoft
 HOST-SUFFIX,35go.net,Kingsoft
 HOST-SUFFIX,3ny8.com,Kingsoft
@@ -114,6 +114,7 @@ HOST-SUFFIX,kmail.com,Kingsoft
 HOST-SUFFIX,ks-cdn.com,Kingsoft
 HOST-SUFFIX,ks-cdn1.com,Kingsoft
 HOST-SUFFIX,ks-cdnv6.com,Kingsoft
+HOST-SUFFIX,ks-live.com,Kingsoft
 HOST-SUFFIX,ksc-test.com,Kingsoft
 HOST-SUFFIX,kscbigdata.cloud,Kingsoft
 HOST-SUFFIX,kscloudapi.com,Kingsoft
@@ -129,6 +130,7 @@ HOST-SUFFIX,ksycdn.cn,Kingsoft
 HOST-SUFFIX,ksyna.com,Kingsoft
 HOST-SUFFIX,ksyun.com,Kingsoft
 HOST-SUFFIX,ksyun.net,Kingsoft
+HOST-SUFFIX,ksyunacc.cn,Kingsoft
 HOST-SUFFIX,ksyunad.com,Kingsoft
 HOST-SUFFIX,ksyuncdn-k1.com,Kingsoft
 HOST-SUFFIX,ksyuncdn-k2.com,Kingsoft
@@ -153,6 +155,7 @@ HOST-SUFFIX,marshotspot.com,Kingsoft
 HOST-SUFFIX,myfiles.com.cn,Kingsoft
 HOST-SUFFIX,northgun.com,Kingsoft
 HOST-SUFFIX,oversea-ks-cdn.com,Kingsoft
+HOST-SUFFIX,papocket.com,Kingsoft
 HOST-SUFFIX,pc120.com,Kingsoft
 HOST-SUFFIX,prpracg.com,Kingsoft
 HOST-SUFFIX,q-supreme.cn,Kingsoft

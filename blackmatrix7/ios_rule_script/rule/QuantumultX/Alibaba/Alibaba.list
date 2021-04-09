@@ -1,10 +1,10 @@
 # NAME: Alibaba
 # AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:52:54
-# HOST-SUFFIX: 1172
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-04-07 13:24:45
+# HOST-SUFFIX: 1171
 # IP-CIDR: 50
-# TOTAL: 1222
+# TOTAL: 1221
 HOST-SUFFIX,10029.com,Alibaba
 HOST-SUFFIX,1688.com,Alibaba
 HOST-SUFFIX,17lai.org,Alibaba
@@ -227,7 +227,6 @@ HOST-SUFFIX,aliyungf.com,Alibaba
 HOST-SUFFIX,aliyungrtn.com,Alibaba
 HOST-SUFFIX,aliyunidaas.com,Alibaba
 HOST-SUFFIX,aliyuniot.com,Alibaba
-HOST-SUFFIX,aliyunpds.com,Alibaba
 HOST-SUFFIX,aliyunrtc.com,Alibaba
 HOST-SUFFIX,aliyunvcs.cn,Alibaba
 HOST-SUFFIX,aliyunvpc.com,Alibaba
