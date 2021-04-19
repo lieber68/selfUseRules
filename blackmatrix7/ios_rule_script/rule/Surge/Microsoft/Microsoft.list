@@ -1,12 +1,12 @@
 # NAME: Microsoft
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-07 13:24:44
+# UPDATED: 2021-04-17 00:14:26
 # DOMAIN-SUFFIX: 416
 # PROCESS-NAME: 2
 # USER-AGENT: 3
-# DOMAIN-KEYWORD: 50
-# TOTAL: 471
+# DOMAIN-KEYWORD: 4
+# TOTAL: 425
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,a-msedge.net
 DOMAIN-SUFFIX,a1158.g.akamai.net
@@ -424,55 +424,9 @@ DOMAIN-SUFFIX,xbx.lv
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
 DOMAIN-KEYWORD,1drv
-DOMAIN-KEYWORD,applicationinsights
-DOMAIN-KEYWORD,azure
-DOMAIN-KEYWORD,azure-dns
-DOMAIN-KEYWORD,azurecosmosdb
-DOMAIN-KEYWORD,azuredigitaltwins
-DOMAIN-KEYWORD,azuredns-prd
-DOMAIN-KEYWORD,azurefd
-DOMAIN-KEYWORD,azureplanetscale
-DOMAIN-KEYWORD,bing
-DOMAIN-KEYWORD,biying
-DOMAIN-KEYWORD,cosmosdb
-DOMAIN-KEYWORD,here
-DOMAIN-KEYWORD,hotmail
-DOMAIN-KEYWORD,internetexplorer
-DOMAIN-KEYWORD,joinms
-DOMAIN-KEYWORD,live
 DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,microsoft-online
-DOMAIN-KEYWORD,microsofthouse
-DOMAIN-KEYWORD,microsoftnews
-DOMAIN-KEYWORD,microsoftnewsforkids
-DOMAIN-KEYWORD,microsoftnewskids
-DOMAIN-KEYWORD,microsoftol
-DOMAIN-KEYWORD,microsoftreactor
-DOMAIN-KEYWORD,microsoftsilverlight
-DOMAIN-KEYWORD,microsoftstore
-DOMAIN-KEYWORD,msauth
-DOMAIN-KEYWORD,msft
-DOMAIN-KEYWORD,msftauth
-DOMAIN-KEYWORD,msminico
-DOMAIN-KEYWORD,msn
-DOMAIN-KEYWORD,msnewskids
-DOMAIN-KEYWORD,office
 DOMAIN-KEYWORD,onedrive
-DOMAIN-KEYWORD,onenote
-DOMAIN-KEYWORD,outlook
-DOMAIN-KEYWORD,sharepoint
 DOMAIN-KEYWORD,skydrive
-DOMAIN-KEYWORD,skype
-DOMAIN-KEYWORD,skypeassets
-DOMAIN-KEYWORD,vfsforgit
-DOMAIN-KEYWORD,visualstudio
-DOMAIN-KEYWORD,windows
-DOMAIN-KEYWORD,windowsazure
-DOMAIN-KEYWORD,winhec
-DOMAIN-KEYWORD,xbox
-DOMAIN-KEYWORD,xbox360
-DOMAIN-KEYWORD,xboxlive
-DOMAIN-KEYWORD,xboxone
 USER-AGENT,Microsoft*
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*

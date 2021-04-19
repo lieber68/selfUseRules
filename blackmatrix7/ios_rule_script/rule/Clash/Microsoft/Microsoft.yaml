@@ -1,11 +1,11 @@
 # NAME: Microsoft
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-07 13:24:53
+# UPDATED: 2021-04-17 00:14:34
 # DOMAIN-SUFFIX: 416
 # PROCESS-NAME: 2
-# DOMAIN-KEYWORD: 50
-# TOTAL: 468
+# DOMAIN-KEYWORD: 4
+# TOTAL: 422
 payload:
   - DOMAIN-SUFFIX,1drv.com
   - DOMAIN-SUFFIX,a-msedge.net
@@ -424,54 +424,8 @@ payload:
   - DOMAIN-SUFFIX,yammer.com
   - DOMAIN-SUFFIX,yammerusercontent.com
   - DOMAIN-KEYWORD,1drv
-  - DOMAIN-KEYWORD,applicationinsights
-  - DOMAIN-KEYWORD,azure
-  - DOMAIN-KEYWORD,azure-dns
-  - DOMAIN-KEYWORD,azurecosmosdb
-  - DOMAIN-KEYWORD,azuredigitaltwins
-  - DOMAIN-KEYWORD,azuredns-prd
-  - DOMAIN-KEYWORD,azurefd
-  - DOMAIN-KEYWORD,azureplanetscale
-  - DOMAIN-KEYWORD,bing
-  - DOMAIN-KEYWORD,biying
-  - DOMAIN-KEYWORD,cosmosdb
-  - DOMAIN-KEYWORD,here
-  - DOMAIN-KEYWORD,hotmail
-  - DOMAIN-KEYWORD,internetexplorer
-  - DOMAIN-KEYWORD,joinms
-  - DOMAIN-KEYWORD,live
   - DOMAIN-KEYWORD,microsoft
-  - DOMAIN-KEYWORD,microsoft-online
-  - DOMAIN-KEYWORD,microsofthouse
-  - DOMAIN-KEYWORD,microsoftnews
-  - DOMAIN-KEYWORD,microsoftnewsforkids
-  - DOMAIN-KEYWORD,microsoftnewskids
-  - DOMAIN-KEYWORD,microsoftol
-  - DOMAIN-KEYWORD,microsoftreactor
-  - DOMAIN-KEYWORD,microsoftsilverlight
-  - DOMAIN-KEYWORD,microsoftstore
-  - DOMAIN-KEYWORD,msauth
-  - DOMAIN-KEYWORD,msft
-  - DOMAIN-KEYWORD,msftauth
-  - DOMAIN-KEYWORD,msminico
-  - DOMAIN-KEYWORD,msn
-  - DOMAIN-KEYWORD,msnewskids
-  - DOMAIN-KEYWORD,office
   - DOMAIN-KEYWORD,onedrive
-  - DOMAIN-KEYWORD,onenote
-  - DOMAIN-KEYWORD,outlook
-  - DOMAIN-KEYWORD,sharepoint
   - DOMAIN-KEYWORD,skydrive
-  - DOMAIN-KEYWORD,skype
-  - DOMAIN-KEYWORD,skypeassets
-  - DOMAIN-KEYWORD,vfsforgit
-  - DOMAIN-KEYWORD,visualstudio
-  - DOMAIN-KEYWORD,windows
-  - DOMAIN-KEYWORD,windowsazure
-  - DOMAIN-KEYWORD,winhec
-  - DOMAIN-KEYWORD,xbox
-  - DOMAIN-KEYWORD,xbox360
-  - DOMAIN-KEYWORD,xboxlive
-  - DOMAIN-KEYWORD,xboxone
   - PROCESS-NAME,onedrive
   - PROCESS-NAME,onedriveupdater

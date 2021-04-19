@@ -17,7 +17,7 @@
 
 ## 规则
 
-本项目中的分流规则与复写规则由规则生成器，定时抽取互联网上开源项目数据，经过清洗、去重、合并、优化后，形成单一的规则文件，旨在解决引用大量外部规则造成规则重复的问题。
+**我们并不生产规则，我们只是开源规则的搬运工。**
 
 分流规则
 
@@ -27,7 +27,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rule
 
 https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
-感谢所有开源规则项目作者的辛勤付出。
+所有规则数据都来自互联网，感谢开源规则项目作者的辛勤付出。
 
 ## 脚本
 
@@ -41,7 +41,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 | 脚本更新 | 自动更新    | 自动更新     | 自动更新    | 自动更新     | 手动更新         |
 | 推送通知 | 手机推送    | 手机推送     | 手机推送    | 手机推送     | 无               |
 | 使用成本 | 付费App     | 付费App      | 付费App     | 付费App      | 免费             |
-| 支持情况 | 优先支持    | 兼容支持     | 兼容支持    | 随缘支持     | 部分支持         |
+| 支持情况 | 优先支持    | 兼容支持     | 兼容支持    | 部分支持     | 部分支持         |
 
 优先支持：优先确保运行正常，出现异常优先解决
 
@@ -85,4 +85,12 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 ### 外部资源
 
 项目中资源来自互联网上其他开源项目（具体以不同目录的说明为准），这里主要进行一些整合和备份。对于此类资源，无法对使用过程中出现的任何问题进行解答，您需要联系原作者。
+
+地址：https://github.com/blackmatrix7/ios_rule_script/tree/master/external
+
+# 感谢
+
+以下排名不分先后
+
+[@BaileyZyp](https://github.com/BaileyZyp)   [@Mazeorz](https://github.com/Mazeorz)   [@LuzMasonj](https://github.com/LuzMasonj)  [@ypannnn](https://github.com/ypannnn)  [@echizenryoma](https://github.com/echizenryoma)  [@zirawell](https://github.com/zirawell)  [@urzz](https://github.com/urzz)  [@ASD-max](https://github.com/ASD-max)
 

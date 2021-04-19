@@ -1,10 +1,9 @@
 # 脚本
 
-### 更新日志
+**常见问题**
 
-更新日志，请访问： https://github.com/blackmatrix7/ios_rule_script/issues/112
+使用过程中的常见问题，请访问：[https://github.com/blackmatrix7/ios_rule_script/wiki/脚本常见问题](https://github.com/blackmatrix7/ios_rule_script/wiki/脚本常见问题)
 
-### 常见问题
+**安全性**
 
-使用过程中的常见问题，请访问：https://github.com/blackmatrix7/ios_rule_script/issues/131
-
+关于安全性问题，请访问：[https://github.com/blackmatrix7/ios_rule_script/wiki/脚本的安全性](https://github.com/blackmatrix7/ios_rule_script/wiki/脚本的安全性)
