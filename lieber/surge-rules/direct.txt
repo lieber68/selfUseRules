@@ -71167,14 +71167,14 @@ zhuihd.com
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-18 02:19:35
-# DOMAIN-SUFFIX: 70565
+# UPDATED: 2021-04-19 11:34:34
+# DOMAIN-SUFFIX: 70540
 # USER-AGENT: 32
 # DOMAIN: 76
 # IP-CIDR: 57
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 70744
+# TOTAL: 70719
 analytics.strava.com
 blzddist1-a.akamaihd.net
 client.amplifi.com
@@ -71184,20 +71184,15 @@ ip.istatmenus.app
 mtalk.google.com
 officecdn-microsoft-com.akamaized.net
 sms.imagetasks.com
-.029-zx.net
-.0376.net
 .10089.cn
 .12306.cn
 .189.cn
-.23juqing.com
-.23uscom.com
 .343480.com
 .356884.com
 .360.cn
 .360in.com
 .51ym.me
 .71.am.com
-.998580.com
 .aaplimg.com
 .abercrombie.com
 .accuweather.com
@@ -71230,12 +71225,10 @@ sms.imagetasks.com
 .b612.net
 .baduziyuan.com
 .baidubcr.com
-.bajieyou.com
 .battle.net
 .battlenet.com
 .beatsbydre.com
 .bet365.com
-.bhdtc.com
 .bing.com
 .bing.net
 .bjango.com
@@ -71249,7 +71242,6 @@ sms.imagetasks.com
 .cas.org
 .ccb.com.cn
 .chdbits.co
-.chenshiyi.com
 .chua.pro
 .clarivate.com
 .clashroyaleapp.com
@@ -71260,7 +71252,6 @@ sms.imagetasks.com
 .cmct.tv
 .cnlang.org
 .com-hs-hkdy.com
-.com-youku.com
 .conoha.jp
 .crashlytics.com
 .culturedcode.com
@@ -71268,10 +71259,8 @@ sms.imagetasks.com
 .czybjz.com
 .dandanzan.com
 .dct-cloud.com
-.ddr.kim
 .digicert.com
 .dji.net
-.download05.com
 .easou.com
 .ebscohost.com
 .ecitic.net
@@ -71282,10 +71271,7 @@ sms.imagetasks.com
 .engineeringvillage.com
 .firefox.com
 .fjhps.com
-.forestsguardians.com
-.fxeye.com
 .g-cores.com
-.game333.net
 .gameloft.com
 .gandi.net
 .gazellegames.net
@@ -71293,22 +71279,16 @@ sms.imagetasks.com
 .goodread.com
 .google.cn
 .googletraveladservices.com
-.hack-cn.com
 .hamreus.com
-.hangmeishangmao.com
 .hdbits.org
 .hdchina.org
 .hdcmct.org
 .hddolby.com
 .hdhome.org
 .hdsky.me
-.helplib.net
 .hkserversolution.com
 .hollisterco.com
 .hotmail.com
-.hubida.net
-.huyanan.wang
-.hztalk.com
 .ibm.com
 .icbc.com.cn
 .icedropper.com
@@ -71333,14 +71313,11 @@ sms.imagetasks.com
 .jpopsuki.eu
 .jsboxbbs.com
 .jstor.org
-.kanmee.com
 .karger.com
 .kaspersky-labs.com
 .keepfrds.com
 .ksyunacc.cn
-.kuaixun360.com
 .kuyunbo.club
-.lewen123.com
 .libguides.com
 .licdn.com
 .linkedin.com
@@ -71358,11 +71335,9 @@ sms.imagetasks.com
 .me.com
 .metatrader4.com
 .metatrader5.com
-.miaomiaojia.cc
 .microsoft.com
 .microsoftonline.com
 .microsofttranslator.com
-.mingdzs.com
 .mls-cdn.com
 .moke.com
 .morethan.tv
@@ -71383,12 +71358,10 @@ sms.imagetasks.com
 .ncore.cc
 .nfoservers.com
 .nim-lang-cn.org
-.nok2.com
 .novipnoad.com
 .nssurge.com
 .ntp.org
 .nvidia.com
-.o3brown.com
 .oecd-ilibrary.org
 .office.com
 .office.net
@@ -71412,9 +71385,7 @@ sms.imagetasks.com
 .paypal.com
 .paypal.me
 .paypalobjects.com
-.piaowu99.com
 .pingan.com.cn
-.pintuanzu.com
 .playstation.com
 .playstation.net
 .playstationnetwork.com
@@ -71430,7 +71401,6 @@ sms.imagetasks.com
 .rarbg.to
 .redacted.ch
 .rsc.org
-.ruilvtu.com
 .s-microsoft.com
 .sagepub.com
 .sciencedirect.com
@@ -71439,11 +71409,8 @@ sms.imagetasks.com
 .scopus.com
 .seafile.com
 .sharepoint.com
-.shouyihuo.com
 .siam.org
 .sinaimg.cn
-.skyworth-qx.com
-.sldxcx.com
 .sm.ms
 .snapdrop.net
 .snwx.com
@@ -71453,7 +71420,6 @@ sms.imagetasks.com
 .springer.com
 .springerlink.com
 .springsunday.net
-.ss-mail.ru
 .startssl.com
 .steam-chat.com
 .steamcdn-a.akamaihd.net
@@ -71465,7 +71431,6 @@ sms.imagetasks.com
 .steamusercontent.com
 .subhd.tv
 .symcd.com
-.t2u.me
 .tandfonline.com
 .tawk.link
 .tawk.to
@@ -71483,7 +71448,6 @@ sms.imagetasks.com
 .uni-bielefeld.de
 .uning.com
 .unity3d.com
-.unixso.com
 .uxengine.net
 .visualstudio.com
 .vmware.com
@@ -71502,12 +71466,9 @@ sms.imagetasks.com
 .workflowy.com
 .worldbank.org
 .worldscientific.com
-.www-657000.com
-.wxdldhg.com
 .xbox.com
 .xboxlive.com
 .xhostfire.com
-.xiaoxiaohuajia.com
 .xslb.net
 .yach.me
 .zhangzishi.cc
