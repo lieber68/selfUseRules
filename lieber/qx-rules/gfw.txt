@@ -367,6 +367,7 @@ DOMAIN-SUFFIX, asdfg.jp, proxy
 DOMAIN-SUFFIX, asg.to, proxy
 DOMAIN-SUFFIX, asia-gaming.com, proxy
 DOMAIN-SUFFIX, asiaharvest.org, proxy
+DOMAIN-SUFFIX, asianage.com, proxy
 DOMAIN-SUFFIX, asianews.it, proxy
 DOMAIN-SUFFIX, asiansexdiary.com, proxy
 DOMAIN-SUFFIX, asianspiss.com, proxy
@@ -899,6 +900,7 @@ DOMAIN-SUFFIX, certificate-transparency.org, proxy
 DOMAIN-SUFFIX, certificate.revocationcheck.com, proxy
 DOMAIN-SUFFIX, cfhks.org.hk, proxy
 DOMAIN-SUFFIX, cfos.de, proxy
+DOMAIN-SUFFIX, cfr.org, proxy
 DOMAIN-SUFFIX, cftfc.com, proxy
 DOMAIN-SUFFIX, cgdepot.org, proxy
 DOMAIN-SUFFIX, cgst.edu, proxy
@@ -1327,6 +1329,7 @@ DOMAIN-SUFFIX, discordapp.net, proxy
 DOMAIN-SUFFIX, discuss.com.hk, proxy
 DOMAIN-SUFFIX, discuss4u.com, proxy
 DOMAIN-SUFFIX, dish.com, proxy
+DOMAIN-SUFFIX, disk.yandex.com, proxy
 DOMAIN-SUFFIX, disp.cc, proxy
 DOMAIN-SUFFIX, disqus.com, proxy
 DOMAIN-SUFFIX, dit-inc.us, proxy
@@ -4687,6 +4690,7 @@ DOMAIN-SUFFIX, sulian.me, proxy
 DOMAIN-SUFFIX, summify.com, proxy
 DOMAIN-SUFFIX, sumrando.com, proxy
 DOMAIN-SUFFIX, sun1911.com, proxy
+DOMAIN-SUFFIX, sundayguardianlive.com, proxy
 DOMAIN-SUFFIX, sunmedia.ca, proxy
 DOMAIN-SUFFIX, sunporno.com, proxy
 DOMAIN-SUFFIX, sunskyforum.com, proxy
