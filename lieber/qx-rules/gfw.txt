@@ -164,6 +164,7 @@ DOMAIN-SUFFIX, activpn.com, proxy
 DOMAIN-SUFFIX, aculo.us, proxy
 DOMAIN-SUFFIX, adcex.com, proxy
 DOMAIN-SUFFIX, addictedtocoffee.de, proxy
+DOMAIN-SUFFIX, addyoutube.com, proxy
 DOMAIN-SUFFIX, adelaidebbs.com, proxy
 DOMAIN-SUFFIX, admin.recaptcha.net, proxy
 DOMAIN-SUFFIX, admob.com, proxy
@@ -260,6 +261,7 @@ DOMAIN-SUFFIX, amnyemachen.org, proxy
 DOMAIN-SUFFIX, amoiist.com, proxy
 DOMAIN-SUFFIX, ampproject.org, proxy
 DOMAIN-SUFFIX, amtb-taipei.org, proxy
+DOMAIN-SUFFIX, anchor.fm, proxy
 DOMAIN-SUFFIX, anchorfree.com, proxy
 DOMAIN-SUFFIX, ancsconf.org, proxy
 DOMAIN-SUFFIX, andfaraway.net, proxy
@@ -275,7 +277,6 @@ DOMAIN-SUFFIX, angelfire.com, proxy
 DOMAIN-SUFFIX, angola.org, proxy
 DOMAIN-SUFFIX, angularjs.org, proxy
 DOMAIN-SUFFIX, animecrazy.net, proxy
-DOMAIN-SUFFIX, animeshippuuden.com, proxy
 DOMAIN-SUFFIX, aniscartujo.com, proxy
 DOMAIN-SUFFIX, annatam.com, proxy
 DOMAIN-SUFFIX, anobii.com, proxy
@@ -1277,6 +1278,7 @@ DOMAIN-SUFFIX, ddns.name, proxy
 DOMAIN-SUFFIX, ddns.net, proxy
 DOMAIN-SUFFIX, ddns.us, proxy
 DOMAIN-SUFFIX, de-sci.org, proxy
+DOMAIN-SUFFIX, deadline.com, proxy
 DOMAIN-SUFFIX, deaftone.com, proxy
 DOMAIN-SUFFIX, debug.com, proxy
 DOMAIN-SUFFIX, deck.ly, proxy
@@ -3048,6 +3050,7 @@ DOMAIN-SUFFIX, kyoyue.com, proxy
 DOMAIN-SUFFIX, kyzyhello.com, proxy
 DOMAIN-SUFFIX, kzeng.info, proxy
 DOMAIN-SUFFIX, la-forum.org, proxy
+DOMAIN-SUFFIX, lab.skk.moe, proxy
 DOMAIN-SUFFIX, labiennale.org, proxy
 DOMAIN-SUFFIX, ladbrokes.com, proxy
 DOMAIN-SUFFIX, lagranepoca.com, proxy
@@ -3854,7 +3857,6 @@ DOMAIN-SUFFIX, ozxw.com, proxy
 DOMAIN-SUFFIX, ozyoyo.com, proxy
 DOMAIN-SUFFIX, pachosting.com, proxy
 DOMAIN-SUFFIX, pacificpoker.com, proxy
-DOMAIN-SUFFIX, packages.debian.org, proxy
 DOMAIN-SUFFIX, packetix.net, proxy
 DOMAIN-SUFFIX, pacopacomama.com, proxy
 DOMAIN-SUFFIX, padmanet.com, proxy
@@ -4577,6 +4579,7 @@ DOMAIN-SUFFIX, soup.io, proxy
 DOMAIN-SUFFIX, soupofmedia.com, proxy
 DOMAIN-SUFFIX, sourceforge.net, proxy
 DOMAIN-SUFFIX, sourcewadio.com, proxy
+DOMAIN-SUFFIX, south-plus.org, proxy
 DOMAIN-SUFFIX, southnews.com.tw, proxy
 DOMAIN-SUFFIX, southpark.cc.com, proxy
 DOMAIN-SUFFIX, sowers.org.hk, proxy
