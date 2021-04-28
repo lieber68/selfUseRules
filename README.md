@@ -63,6 +63,10 @@
 
 * [@ZhiYi-N](https://github.com/ZhiYi-N?tab=repositories)
 
+* [@JMVoid](https://github.com/JMVoid?tab=repositories)
+
+* [@alecthw](https://github.com/alecthw?tab=repositories)
+
 ## License
 
 [GPLv3](LICENSE)
