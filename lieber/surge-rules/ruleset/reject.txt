@@ -2077,6 +2077,7 @@ DOMAIN-SUFFIX,actuallysnake.com
 DOMAIN-SUFFIX,actualtrade.eu
 DOMAIN-SUFFIX,acuityads.com
 DOMAIN-SUFFIX,acuityplatform.com
+DOMAIN-SUFFIX,acweb.online
 DOMAIN-SUFFIX,acxiom-online.com
 DOMAIN-SUFFIX,acxiomapac.com
 DOMAIN-SUFFIX,acybrccvwoftb.com
@@ -8370,6 +8371,7 @@ DOMAIN-SUFFIX,baipagid.com
 DOMAIN-SUFFIX,bairentou.com.cn
 DOMAIN-SUFFIX,baitaoidc.com
 DOMAIN-SUFFIX,baitbrdwk.com
+DOMAIN-SUFFIX,baiweluy.com
 DOMAIN-SUFFIX,baiyangzs.com
 DOMAIN-SUFFIX,baiyuandian.cc
 DOMAIN-SUFFIX,baj.fanwenzhan.com
@@ -8934,6 +8936,7 @@ DOMAIN-SUFFIX,beagle.prod.tda.link
 DOMAIN-SUFFIX,beak.bd.313.nl
 DOMAIN-SUFFIX,beak.bigdata.dpgmmservices.nl
 DOMAIN-SUFFIX,beakedpissod.com
+DOMAIN-SUFFIX,beam.mjhlifesciences.com
 DOMAIN-SUFFIX,beam.remp.impresa.pt
 DOMAIN-SUFFIX,beamincrease.com
 DOMAIN-SUFFIX,beampulse.com
@@ -9023,6 +9026,7 @@ DOMAIN-SUFFIX,beizhoujt.cn
 DOMAIN-SUFFIX,bejzz.top
 DOMAIN-SUFFIX,bek5qstfnr.club
 DOMAIN-SUFFIX,bekannt-im-web.de
+DOMAIN-SUFFIX,beklefkiom.com
 DOMAIN-SUFFIX,belamicash.com
 DOMAIN-SUFFIX,belaya2shu1ba1.com
 DOMAIN-SUFFIX,belazyelephant.com
@@ -13585,6 +13589,7 @@ DOMAIN-SUFFIX,cytrkxfzkxrjv.com
 DOMAIN-SUFFIX,cyveillance.com
 DOMAIN-SUFFIX,cyvnsdsygkpqvz.com
 DOMAIN-SUFFIX,cyzyyv.com
+DOMAIN-SUFFIX,cz09.com
 DOMAIN-SUFFIX,cz9k8b.top
 DOMAIN-SUFFIX,czechose.com
 DOMAIN-SUFFIX,czhcloud.cn
@@ -14268,7 +14273,6 @@ DOMAIN-SUFFIX,data.eroadvertising.com
 DOMAIN-SUFFIX,data.hicloud.com
 DOMAIN-SUFFIX,data.imakenews.com
 DOMAIN-SUFFIX,data.minute.ly
-DOMAIN-SUFFIX,data.namesakeoscilloscopemarquis.com
 DOMAIN-SUFFIX,data.neosmi.ru
 DOMAIN-SUFFIX,data.neuroxmedia.com
 DOMAIN-SUFFIX,data.permittingnorthlandseamen.info
@@ -14680,6 +14684,7 @@ DOMAIN-SUFFIX,detectorvenomouscutlery.com
 DOMAIN-SUFFIX,deteql.net
 DOMAIN-SUFFIX,deteran.club
 DOMAIN-SUFFIX,deterindependentblocked.com
+DOMAIN-SUFFIX,determine-month-upward-shoot.xyz
 DOMAIN-SUFFIX,detour.click
 DOMAIN-SUFFIX,detourlearned.com
 DOMAIN-SUFFIX,detox-kit.com
@@ -20627,6 +20632,7 @@ DOMAIN-SUFFIX,hiad.myweb.hinet.net
 DOMAIN-SUFFIX,hiad.vmall.com
 DOMAIN-SUFFIX,hiadone.com
 DOMAIN-SUFFIX,hiasor.com
+DOMAIN-SUFFIX,hibids10.com
 DOMAIN-SUFFIX,hiblcom.com
 DOMAIN-SUFFIX,hickunwilling.com
 DOMAIN-SUFFIX,hicltgxzl.com
@@ -22111,6 +22117,7 @@ DOMAIN-SUFFIX,ingoinghitchstick.com
 DOMAIN-SUFFIX,ingratitudedaintyblockade.com
 DOMAIN-SUFFIX,inhadhen.com
 DOMAIN-SUFFIX,inheritwalter.com
+DOMAIN-SUFFIX,inigusyou.fun
 DOMAIN-SUFFIX,inimbus.com.au
 DOMAIN-SUFFIX,ininmacerad.pro
 DOMAIN-SUFFIX,inistrack.net
@@ -28019,6 +28026,7 @@ DOMAIN-SUFFIX,nameketathar.pro
 DOMAIN-SUFFIX,namel.net
 DOMAIN-SUFFIX,namelyvulgarquote.com
 DOMAIN-SUFFIX,namemek.com
+DOMAIN-SUFFIX,namesakeoscilloscopemarquis.com
 DOMAIN-SUFFIX,nametraff.com
 DOMAIN-SUFFIX,namitol.com
 DOMAIN-SUFFIX,namogemi.ru
@@ -39276,6 +39284,7 @@ DOMAIN-SUFFIX,teeser.ru
 DOMAIN-SUFFIX,teesheel.net
 DOMAIN-SUFFIX,teethfan.com
 DOMAIN-SUFFIX,tefrequesth.top
+DOMAIN-SUFFIX,tefumiji.xyz
 DOMAIN-SUFFIX,tegiccurlish.fun
 DOMAIN-SUFFIX,tehappear.top
 DOMAIN-SUFFIX,tejia.gaibang.fun
@@ -41841,6 +41850,7 @@ DOMAIN-SUFFIX,uh9qulew9rjj.com
 DOMAIN-SUFFIX,uharded.com
 DOMAIN-SUFFIX,uhbixtfhwdtmd.com
 DOMAIN-SUFFIX,uhbjvwn.cn
+DOMAIN-SUFFIX,uhdokoq5ocmk.com
 DOMAIN-SUFFIX,uhedsplo.com
 DOMAIN-SUFFIX,uhfdsplo.com
 DOMAIN-SUFFIX,uhkdsplo.com
@@ -42377,6 +42387,7 @@ DOMAIN-SUFFIX,utop.umengcloud.com
 DOMAIN-SUFFIX,utopia.ad-loupe.com
 DOMAIN-SUFFIX,utorido.com
 DOMAIN-SUFFIX,utoumine.net
+DOMAIN-SUFFIX,utoyoufio.fun
 DOMAIN-SUFFIX,utpgxaylxurhbc.com
 DOMAIN-SUFFIX,utq55kl9vyqv.com
 DOMAIN-SUFFIX,utraff.com
@@ -44824,7 +44835,6 @@ DOMAIN-SUFFIX,www.healthyaltprods.com
 DOMAIN-SUFFIX,www.heimlich-gefilmt.cxa.de
 DOMAIN-SUFFIX,www.heusmarketing.nl
 DOMAIN-SUFFIX,www.hey.lt
-DOMAIN-SUFFIX,www.hibids10.com
 DOMAIN-SUFFIX,www.hiroden-con.jp
 DOMAIN-SUFFIX,www.hitstats.co.uk
 DOMAIN-SUFFIX,www.huberts-kochseite.de
@@ -62824,15 +62834,15 @@ DOMAIN-SUFFIX,zzyanhushi.com
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-02 02:17:23
+# UPDATED: 2021-05-03 02:15:36
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 68
 # DOMAIN-SUFFIX: 45622
-# DOMAIN: 20884
+# DOMAIN: 20880
 # IP-CIDR: 247
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 67124
+# TOTAL: 67120
 DOMAIN-KEYWORD,adashx
 DOMAIN-KEYWORD,admarvel
 DOMAIN-KEYWORD,admaster
@@ -63452,17 +63462,17 @@ URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
 URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
 # NAME: AdvertisingTest
-# DOMAIN-SUFFIX: 74487
-# DOMAIN: 14482
-# TOTAL: 89587
+# DOMAIN-SUFFIX: 74500
+# DOMAIN: 14480
+# TOTAL: 89598
 # NAME: AdvertisingLite
-# UPDATED: 2021-04-29 02:24:40
+# UPDATED: 2021-05-03 02:15:35
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12772
-# DOMAIN: 14835
+# DOMAIN: 15179
 # IP-CIDR: 158
 # URL-REGEX: 296
-# TOTAL: 28090
+# TOTAL: 28434
 IP-CIDR,101.227.200.11/32,no-resolve
 IP-CIDR,101.227.200.28/32,no-resolve
 # 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
