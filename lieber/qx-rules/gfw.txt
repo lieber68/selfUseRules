@@ -1585,6 +1585,7 @@ DOMAIN-SUFFIX, etokki.com, proxy
 DOMAIN-SUFFIX, etools.ncol.com, proxy
 DOMAIN-SUFFIX, etowns.net, proxy
 DOMAIN-SUFFIX, etowns.org, proxy
+DOMAIN-SUFFIX, etsy.com, proxy
 DOMAIN-SUFFIX, ettoday.net, proxy
 DOMAIN-SUFFIX, etvonline.hk, proxy
 DOMAIN-SUFFIX, eu.org, proxy
@@ -3291,6 +3292,7 @@ DOMAIN-SUFFIX, meetav.com, proxy
 DOMAIN-SUFFIX, meetup.com, proxy
 DOMAIN-SUFFIX, mefeedia.com, proxy
 DOMAIN-SUFFIX, mefound.com, proxy
+DOMAIN-SUFFIX, mega.co.nz, proxy
 DOMAIN-SUFFIX, mega.nz, proxy
 DOMAIN-SUFFIX, megaproxy.com, proxy
 DOMAIN-SUFFIX, megarotic.com, proxy
@@ -3380,6 +3382,7 @@ DOMAIN-SUFFIX, mitao.com.tw, proxy
 DOMAIN-SUFFIX, mitbbs.com, proxy
 DOMAIN-SUFFIX, mitbbsau.com, proxy
 DOMAIN-SUFFIX, mixero.com, proxy
+DOMAIN-SUFFIX, mixi.jp, proxy
 DOMAIN-SUFFIX, mixpod.com, proxy
 DOMAIN-SUFFIX, mixx.com, proxy
 DOMAIN-SUFFIX, mizzmona.com, proxy
@@ -3612,7 +3615,7 @@ DOMAIN-SUFFIX, newsdh.com, proxy
 DOMAIN-SUFFIX, newspeak.cc, proxy
 DOMAIN-SUFFIX, newstamago.com, proxy
 DOMAIN-SUFFIX, newstapa.org, proxy
-DOMAIN-SUFFIX, newstarnet.com--NN--, proxy
+DOMAIN-SUFFIX, newstarnet.com, proxy
 DOMAIN-SUFFIX, newsweek.com, proxy
 DOMAIN-SUFFIX, newtaiwan.com.tw, proxy
 DOMAIN-SUFFIX, newtalk.tw, proxy
