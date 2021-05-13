@@ -1,6 +1,8 @@
 payload:
   # > HBO Asia
   - PROCESS-NAME,hk.hbo.hbogo
+  - DOMAIN-SUFFIX,hbogoasia.com
+  - DOMAIN-SUFFIX,hbogoasia.hk
   - DOMAIN-KEYWORD,.hbogoasia.
   - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
   - DOMAIN,bcbolthboa-a.akamaihd.net
@@ -13,7 +15,7 @@ payload:
   - DOMAIN,hboasia5-i.akamaihd.net
   - DOMAIN,hboasialive.akamaized.net
   - DOMAIN,hbogoprod-vod.akamaized.net
-  - OMAIN,hbolb.onwardsmg.com
+  - DOMAIN,hbolb.onwardsmg.com
   - DOMAIN,hbounify-prod.evergent.com
   - DOMAIN,players.brightcove.net
   - DOMAIN,s3-ap-southeast-1.amazonaws.com
