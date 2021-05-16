@@ -9198,6 +9198,7 @@ DOMAIN-SUFFIX,betclic.com
 DOMAIN-SUFFIX,betemolgar.com
 DOMAIN-SUFFIX,betendads.com
 DOMAIN-SUFFIX,bethoy.es
+DOMAIN-SUFFIX,beticithy.com
 DOMAIN-SUFFIX,betimbur.com
 DOMAIN-SUFFIX,betimogolef.com
 DOMAIN-SUFFIX,betjeyxf.com
@@ -13457,6 +13458,7 @@ DOMAIN-SUFFIX,cubchannel.com
 DOMAIN-SUFFIX,cuberoot.co
 DOMAIN-SUFFIX,cubicmedia.net
 DOMAIN-SUFFIX,cubics.com
+DOMAIN-SUFFIX,cuckooretire.com
 DOMAIN-SUFFIX,cue4you.nl
 DOMAIN-SUFFIX,cuelinks.com
 DOMAIN-SUFFIX,cueyetwee.site
@@ -23359,6 +23361,7 @@ DOMAIN-SUFFIX,jx118114.net
 DOMAIN-SUFFIX,jxad.jx163.com
 DOMAIN-SUFFIX,jxaucs1802.cn
 DOMAIN-SUFFIX,jxbtl.com
+DOMAIN-SUFFIX,jxczy.cn
 DOMAIN-SUFFIX,jxdzoy.cn
 DOMAIN-SUFFIX,jxhcyc.com
 DOMAIN-SUFFIX,jxinyue.top
@@ -24561,6 +24564,7 @@ DOMAIN-SUFFIX,lfg5jnbi.com
 DOMAIN-SUFFIX,lflili.com
 DOMAIN-SUFFIX,lflucky.com
 DOMAIN-SUFFIX,lfov.net
+DOMAIN-SUFFIX,lfsenmei.com
 DOMAIN-SUFFIX,lfstmedia.com
 DOMAIN-SUFFIX,lftqch650apz.com
 DOMAIN-SUFFIX,lfzxcp.com
@@ -26876,6 +26880,7 @@ DOMAIN-SUFFIX,mimosamajor.com
 DOMAIN-SUFFIX,mimpiphy.net
 DOMAIN-SUFFIX,minaconfli.top
 DOMAIN-SUFFIX,minardict.pro
+DOMAIN-SUFFIX,mincure-ad.com
 DOMAIN-SUFFIX,minden-egyben.com
 DOMAIN-SUFFIX,mindenbenegyblog.hu
 DOMAIN-SUFFIX,mindenegyben-blog.net
@@ -27825,6 +27830,7 @@ DOMAIN-SUFFIX,mygiftcardcenter.com
 DOMAIN-SUFFIX,mygiftresource.com
 DOMAIN-SUFFIX,mygoodlives.com
 DOMAIN-SUFFIX,mygreatrewards.com
+DOMAIN-SUFFIX,mygtmn.com
 DOMAIN-SUFFIX,myharavan.com
 DOMAIN-SUFFIX,myhitbox.com
 DOMAIN-SUFFIX,myhousetechnews.com
@@ -30766,6 +30772,7 @@ DOMAIN-SUFFIX,pasaigul.com
 DOMAIN-SUFFIX,pasangiklan.com
 DOMAIN-SUFFIX,pasariklanbaris.com
 DOMAIN-SUFFIX,paservices.tech
+DOMAIN-SUFFIX,paslsa.com
 DOMAIN-SUFFIX,pass-1234.com
 DOMAIN-SUFFIX,passengerpage.com
 DOMAIN-SUFFIX,passeseuro.com
@@ -55849,7 +55856,6 @@ DOMAIN-SUFFIX,smetrics.lexusonthepark.ca
 DOMAIN-SUFFIX,lezai.com
 DOMAIN-SUFFIX,ads1.lfengmobile.com
 DOMAIN-SUFFIX,kim.lfhnkp.com
-DOMAIN-SUFFIX,lfsenmei.com
 DOMAIN-SUFFIX,omniture.lg.com
 DOMAIN-SUFFIX,soxnwz.lg.com
 DOMAIN-SUFFIX,tracking.lg.com
@@ -64247,16 +64253,17 @@ DOMAIN-SUFFIX,zzyanhushi.com
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-14 15:20:11
+# UPDATED: 2021-05-16 02:21:43
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 46869
-# DOMAIN: 20840
+# DOMAIN-KEYWORD: 79
+# DOMAIN-SUFFIX: 46872
+# DOMAIN: 20733
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 68341
+# TOTAL: 68240
 DOMAIN-KEYWORD,112wan
+DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,adashx
 DOMAIN-KEYWORD,admarvel
 DOMAIN-KEYWORD,admaster
@@ -64301,8 +64308,10 @@ DOMAIN-KEYWORD,haowanyou
 DOMAIN-KEYWORD,highwebmedia
 DOMAIN-KEYWORD,inmobi
 DOMAIN-KEYWORD,jads
+DOMAIN-KEYWORD,juruigj
 DOMAIN-KEYWORD,lianmeng
 DOMAIN-KEYWORD,lieyou
+DOMAIN-KEYWORD,mdapp09
 DOMAIN-KEYWORD,mifengv
 DOMAIN-KEYWORD,mobaders
 DOMAIN-KEYWORD,monitor
@@ -64889,9 +64898,9 @@ URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
 URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
 # NAME: AdvertisingTest
-# DOMAIN-SUFFIX: 75157
-# DOMAIN: 14405
-# TOTAL: 90194
+# DOMAIN-SUFFIX: 75175
+# DOMAIN: 14373
+# TOTAL: 90183
 # NAME: AdvertisingLite
 # UPDATED: 2021-05-14 00:24:17
 # DOMAIN-KEYWORD: 28
