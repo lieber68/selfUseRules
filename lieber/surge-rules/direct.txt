@@ -8020,6 +8020,7 @@ xb.dlservice.microsoft.com
 .98.com
 .9800.com
 .980cje.com
+.98158.com
 .98201111.com
 .9823df.com
 .9831.com
@@ -8833,7 +8834,6 @@ xb.dlservice.microsoft.com
 .agucn.com
 .aguo.com
 .agxs.net
-.agxsw.com
 .ah-inter.com
 .ah-px.com
 .ah12333.com
@@ -18359,6 +18359,7 @@ xb.dlservice.microsoft.com
 .creke.net
 .creo-support.com
 .crestgps.com
+.crestv.com
 .crewcn.com
 .crfchina.com
 .crfly.com
@@ -27550,7 +27551,6 @@ xb.dlservice.microsoft.com
 .haers.com
 .haguan.com
 .haguotu.com
-.haguro.moe
 .haguworld.com
 .haha168.com
 .haha33.com
@@ -30213,6 +30213,7 @@ xb.dlservice.microsoft.com
 .huajianmed.com
 .huajiao.com
 .huajie8.com
+.huajifen.com
 .huajin100.com
 .huajing-inf.com
 .huajingsec.com
@@ -47098,6 +47099,7 @@ xb.dlservice.microsoft.com
 .qhlingwang.com
 .qhlly.com
 .qhm123.com
+.qhmanhua.com
 .qhmhbkj.com
 .qhmsg.com
 .qhnews.com
@@ -47662,6 +47664,7 @@ xb.dlservice.microsoft.com
 .qixiwl.com
 .qixoo.com
 .qixunka.com
+.qiyabi.vip
 .qiye.la
 .qiye.net
 .qiye163.com
@@ -53524,6 +53527,7 @@ xb.dlservice.microsoft.com
 .sursenelec.com
 .sursung.com
 .surtime.com
+.suruicloud.com
 .survey-y.com
 .surveyhills.com
 .surveyunion.com
@@ -60301,6 +60305,7 @@ xb.dlservice.microsoft.com
 .wlstock.com
 .wlsvt.com
 .wltieyaoban.com
+.wlxit.com
 .wlxmall.com
 .wlxww.com
 .wlyfw.com
@@ -66149,6 +66154,7 @@ xb.dlservice.microsoft.com
 .yswh.com
 .yswhy.com
 .yswlgame.com
+.yswliot.com
 .yswpq.com
 .yswxcn.com
 .ysx8.com
@@ -70553,14 +70559,14 @@ zhuihd.com
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-17 02:23:38
-# DOMAIN-SUFFIX: 69961
+# UPDATED: 2021-05-18 02:25:30
+# DOMAIN-SUFFIX: 69929
 # USER-AGENT: 32
 # DOMAIN: 75
 # IP-CIDR: 57
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 70139
+# TOTAL: 70107
 analytics.strava.com
 blzddist1-a.akamaihd.net
 client.amplifi.com
@@ -70573,22 +70579,12 @@ sms.imagetasks.com
 .10089.cn
 .12306.cn
 .189.cn
-.18yax.com
-.30wish.com
 .343480.com
-.345ok.net
 .356884.com
 .360.cn
 .360in.com
-.365gj.com
-.37job.net
 .51ym.me
-.5gsu.com
-.66880.com
 .71.am.com
-.80pdf.com
-.8912128.com
-.990990.com
 .aaplimg.com
 .abercrombie.com
 .accuweather.com
@@ -70597,10 +70593,10 @@ sms.imagetasks.com
 .acm.org
 .acs.org
 .adobesc.com
+.agxsw.com
 .aip.org
 .air-matters.io
 .airhotels.cn
-.aivcd.cc
 .akadns.net
 .alphassl.com
 .amd.com
@@ -70633,19 +70629,16 @@ sms.imagetasks.com
 .bmj.com
 .boc.cn
 .booking.com
-.bpzyf.com
 .broadcasthe.net
 .bstatic.com
 .cambridge.org
 .cas.org
 .ccb.com.cn
 .chdbits.co
-.china-xinbiao.com
 .chua.pro
 .clarivate.com
 .clashroyaleapp.com
 .classix-unlimited.co.uk
-.clkyjt.com
 .cloudsigma.com
 .cmbimg
 .cmbt.cn
@@ -70653,13 +70646,10 @@ sms.imagetasks.com
 .cnlang.org
 .com-hs-hkdy.com
 .conoha.jp
-.cosimcloud.com
-.cqc1.com
 .crashlytics.com
 .culturedcode.com
 .cz88.net
 .czybjz.com
-.d5zz.com
 .dandanzan.com
 .dct-cloud.com
 .digicert.com
@@ -70678,12 +70668,11 @@ sms.imagetasks.com
 .gameloft.com
 .gandi.net
 .gazellegames.net
-.georgiaskater.com
 .getpricetag.com
 .goodread.com
 .google.cn
 .googletraveladservices.com
-.gz-test.com
+.haguro.moe
 .hamreus.com
 .hdbits.org
 .hdchina.org
@@ -70692,11 +70681,8 @@ sms.imagetasks.com
 .hdhome.org
 .hdsky.me
 .hkserversolution.com
-.hnrledu.com
 .hollisterco.com
 .hotmail.com
-.huadianhulian.com
-.huanqiujiemi.com
 .ibm.com
 .icbc.com.cn
 .icedropper.com
@@ -70705,7 +70691,6 @@ sms.imagetasks.com
 .icloud-content.com
 .icloud.com
 .ieee.org
-.ikao100.com
 .images-amazon.com
 .imf.org
 .img4me.com
@@ -70725,12 +70710,8 @@ sms.imagetasks.com
 .karger.com
 .kaspersky-labs.com
 .keepfrds.com
-.khriss.com
-.ks6602.com
 .ksyunacc.cn
-.kt11.net
 .kuyunbo.club
-.ldsjp.com
 .libguides.com
 .licdn.com
 .linkedin.com
@@ -70740,7 +70721,6 @@ sms.imagetasks.com
 .localizecdn.com
 .loli.net
 .lucifr.com
-.lzg.im
 .m-team.cc
 .madsrevolution.net
 .mai.tn
@@ -70771,7 +70751,6 @@ sms.imagetasks.com
 .ncore.cc
 .nfoservers.com
 .nim-lang-cn.org
-.nnpma.com
 .novipnoad.com
 .nssurge.com
 .ntp.org
@@ -70809,13 +70788,10 @@ sms.imagetasks.com
 .privatehd.to
 .proquest.com
 .pterclub.com
-.qh45.com
 .qin.io
-.qingdong999.com
 .qingmang.me
 .qlogo.cn
 .qpic.cn
-.r036.com
 .rarbg.to
 .redacted.ch
 .rsc.org
@@ -70834,7 +70810,6 @@ sms.imagetasks.com
 .snwx.com
 .sony.com
 .sonyentertainmentnetwork.com
-.soubaoji.com
 .spiedigitallibrary.org
 .springer.com
 .springerlink.com
@@ -70849,7 +70824,6 @@ sms.imagetasks.com
 .steamstatic.com
 .steamusercontent.com
 .subhd.tv
-.sx2005.com
 .symcd.com
 .tandfonline.com
 .tawk.link
@@ -70862,7 +70836,6 @@ sms.imagetasks.com
 .totheglory.im
 .trello.com
 .trellocdn.com
-.tshell.net
 .ttmeiju.com
 .udacity.com
 .un.org
@@ -70870,7 +70843,6 @@ sms.imagetasks.com
 .uning.com
 .unity3d.com
 .uxengine.net
-.v-got.com
 .visualstudio.com
 .vmware.com
 .weather.com
@@ -70881,7 +70853,6 @@ sms.imagetasks.com
 .westlaw.com
 .whatismyip.com
 .wiley.com
-.win7zhijia.net
 .windows.com
 .windows.net
 .windowsupdate.com
@@ -70889,22 +70860,13 @@ sms.imagetasks.com
 .workflowy.com
 .worldbank.org
 .worldscientific.com
-.wxjyql.com
-.xbblfz.site
 .xbox.com
 .xboxlive.com
-.xcjsgtoup.com
 .xhostfire.com
-.xingkongbook.com
-.xn--i7qt52bvsr0u0a.com
 .xslb.net
-.xxs74.com
 .yach.me
-.yjzwkj.com
-.yueyueyingshi.com
 .zhangzishi.cc
 .zhuihd.com
-.zkhtqm.com
 .zmz002.com
 .zmz2019.com
 .zmzfile.com
