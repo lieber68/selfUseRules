@@ -70559,14 +70559,14 @@ zhuihd.com
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-18 02:25:30
-# DOMAIN-SUFFIX: 69929
+# UPDATED: 2021-05-19 02:25:52
+# DOMAIN-SUFFIX: 69935
 # USER-AGENT: 32
 # DOMAIN: 75
 # IP-CIDR: 57
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 70107
+# TOTAL: 70113
 analytics.strava.com
 blzddist1-a.akamaihd.net
 client.amplifi.com
@@ -70593,7 +70593,6 @@ sms.imagetasks.com
 .acm.org
 .acs.org
 .adobesc.com
-.agxsw.com
 .aip.org
 .air-matters.io
 .airhotels.cn
@@ -70672,7 +70671,6 @@ sms.imagetasks.com
 .goodread.com
 .google.cn
 .googletraveladservices.com
-.haguro.moe
 .hamreus.com
 .hdbits.org
 .hdchina.org
