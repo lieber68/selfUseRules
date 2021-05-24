@@ -13637,6 +13637,7 @@ xb.dlservice.microsoft.com
 .byshr.com
 .bysj999.com
 .bysocket.com
+.bystack.com
 .bysxfz.com
 .byte.online
 .bytebye.com
@@ -40839,6 +40840,8 @@ xb.dlservice.microsoft.com
 .matongxue.com
 .matools.com
 .matouwang.com
+.matpool.com
+.matpool.net
 .matt33.com
 .mattge.com
 .matthewsery.com
@@ -70505,14 +70508,14 @@ zhuihd.com
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-23 02:25:59
-# DOMAIN-SUFFIX: 69905
+# UPDATED: 2021-05-24 02:24:09
+# DOMAIN-SUFFIX: 69883
 # USER-AGENT: 32
 # DOMAIN: 76
 # IP-CIDR: 57
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 70084
+# TOTAL: 70062
 analytics.strava.com
 blzddist1-a.akamaihd.net
 client.amplifi.com
@@ -70522,23 +70525,14 @@ ip.istatmenus.app
 mtalk.google.com
 officecdn-microsoft-com.akamaized.net
 sms.imagetasks.com
-.088kkj.com
 .10089.cn
-.1185050.com
 .12306.cn
-.135198.net
-.177mh.net
 .189.cn
-.1909.tv
 .343480.com
 .356884.com
 .360.cn
 .360in.com
-.4wxw.com
-.51lolo.com
 .51ym.me
-.5wxw.com
-.62ma.com
 .71.am.com
 .aaplimg.com
 .abercrombie.com
@@ -70579,7 +70573,6 @@ sms.imagetasks.com
 .bing.com
 .bing.net
 .bjango.com
-.bjmakerspace.com
 .blizzard.com
 .bmj.com
 .boc.cn
@@ -70591,7 +70584,6 @@ sms.imagetasks.com
 .cas.org
 .ccb.com.cn
 .chdbits.co
-.chinawestnews.net
 .chua.pro
 .clarivate.com
 .clashroyaleapp.com
@@ -70608,7 +70600,6 @@ sms.imagetasks.com
 .cz88.net
 .czybjz.com
 .dandanzan.com
-.danqoo.com
 .dct-cloud.com
 .digicert.com
 .dji.net
@@ -70620,20 +70611,16 @@ sms.imagetasks.com
 .emerald.com
 .empornium.me
 .engineeringvillage.com
-.ffbtas.com
 .firefox.com
 .fjhps.com
-.forjs.net
 .g-cores.com
 .gameloft.com
 .gandi.net
 .gazellegames.net
 .getpricetag.com
-.gongtingxiang.com
 .goodread.com
 .google.cn
 .googletraveladservices.com
-.h7687.com
 .hamreus.com
 .hdbits.org
 .hdchina.org
@@ -70643,9 +70630,7 @@ sms.imagetasks.com
 .hdsky.me
 .hkserversolution.com
 .hollisterco.com
-.hostgoip.com
 .hotmail.com
-.iac-i.org
 .ibm.com
 .ibytedtos.com
 .icbc.com.cn
@@ -70674,11 +70659,8 @@ sms.imagetasks.com
 .karger.com
 .kaspersky-labs.com
 .keepfrds.com
-.ksjsa.com
 .ksyunacc.cn
 .kuyunbo.club
-.leyunapp.com
-.lhcmc.com
 .libguides.com
 .licdn.com
 .linkedin.com
@@ -70697,7 +70679,6 @@ sms.imagetasks.com
 .me.com
 .metatrader4.com
 .metatrader5.com
-.miaoyu88.com
 .microsoft.com
 .microsoftonline.com
 .microsofttranslator.com
@@ -70722,14 +70703,12 @@ sms.imagetasks.com
 .nim-lang-cn.org
 .novipnoad.com
 .nssurge.com
-.ntjalh.com
 .ntp.org
 .nvidia.com
 .oecd-ilibrary.org
 .office.com
 .office.net
 .office365.com
-.ofurl.org
 .onenote.com
 .onenote.net
 .ooklaserver.net
@@ -70738,7 +70717,6 @@ sms.imagetasks.com
 .osapublishing.org
 .oup.com
 .ourbits.club
-.ourglb.club
 .outlook.com
 .overcast.fm
 .ovid.com
@@ -70751,7 +70729,6 @@ sms.imagetasks.com
 .paypal.me
 .paypalobjects.com
 .pingan.com.cn
-.pinshanghe.com
 .playstation.com
 .playstation.net
 .playstationnetwork.com
@@ -70763,13 +70740,10 @@ sms.imagetasks.com
 .pterclub.com
 .qin.io
 .qingmang.me
-.qiongliangjt.com
 .qlogo.cn
 .qpic.cn
-.qupai.me
 .rarbg.to
 .redacted.ch
-.rqcotton.com
 .rsc.org
 .s-microsoft.com
 .sagepub.com
@@ -70778,7 +70752,6 @@ sms.imagetasks.com
 .scomper.me
 .scopus.com
 .seafile.com
-.sescse.com
 .sharepoint.com
 .siam.org
 .sinaimg.cn
@@ -70810,14 +70783,9 @@ sms.imagetasks.com
 .test-ipv6.com
 .tjupt.org
 .tmzvps.com
-.tongmoe.com
-.topfungarden.com
-.topidea365.com
 .totheglory.im
-.trademdj.com
 .trello.com
 .trellocdn.com
-.ttf5.net
 .ttmeiju.com
 .udacity.com
 .un.org
@@ -70845,10 +70813,8 @@ sms.imagetasks.com
 .xbox.com
 .xboxlive.com
 .xhostfire.com
-.xiaobaijidi.net
 .xslb.net
 .yach.me
-.zgxga.com
 .zhangzishi.cc
 .zhuihd.com
 .zmz002.com
