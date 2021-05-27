@@ -302,7 +302,6 @@ xb.dlservice.microsoft.com
 .00394.net
 .003store.com
 .004218.com
-.0044sun.com
 .004678.com
 .00518.org
 .00544.com
@@ -13651,6 +13650,7 @@ xb.dlservice.microsoft.com
 .bytesfield.com
 .bytesmanager.com
 .bytestacks.com
+.bytetos.com
 .bytexns.com
 .bytexservice.com
 .bytrip.com
@@ -19104,7 +19104,6 @@ xb.dlservice.microsoft.com
 .dadatu5.com
 .dadatutv.com
 .dadayou.com
-.dadazw.com
 .dadclab.com
 .daddymami.net
 .dadetong.com
@@ -34868,7 +34867,6 @@ xb.dlservice.microsoft.com
 .jlforging.com
 .jlfzb.com
 .jlg86.com
-.jlhuaze.com
 .jljbbs.com
 .jljgdj.org
 .jlkj.cc
@@ -35427,7 +35425,6 @@ xb.dlservice.microsoft.com
 .jszgjt.net
 .jszhaobiao.com
 .jszikao.org
-.jszjqy.com
 .jszks.com
 .jszks.net
 .jszygs.com
@@ -38738,6 +38735,7 @@ xb.dlservice.microsoft.com
 .likuli.com
 .likuso.com
 .lili1996.com
+.lilifenxiang1.com
 .lilinwei.com
 .lilishare.com
 .lilisi.com
@@ -60105,7 +60103,6 @@ xb.dlservice.microsoft.com
 .wit-parking.com
 .wit0.com
 .wit5.com
-.witchspring.com
 .witcp.com
 .with366.com
 .withae.com
@@ -64583,7 +64580,6 @@ xb.dlservice.microsoft.com
 .ygwenxue.com
 .ygycwx.com
 .ygym.org
-.yh05l.com
 .yh300.vip
 .yh31.com
 .yh596.com
@@ -70466,14 +70462,14 @@ zhuihd.com
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-05-26 02:36:43
-# DOMAIN-SUFFIX: 69877
+# UPDATED: 2021-05-27 02:48:48
+# DOMAIN-SUFFIX: 69844
 # USER-AGENT: 32
 # DOMAIN: 76
 # IP-CIDR: 57
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 70056
+# TOTAL: 70023
 analytics.strava.com
 blzddist1-a.akamaihd.net
 client.amplifi.com
@@ -70483,22 +70479,16 @@ ip.istatmenus.app
 mtalk.google.com
 officecdn-microsoft-com.akamaized.net
 sms.imagetasks.com
-.022xinniang.com
+.0044sun.com
 .10089.cn
-.100xwrc.com
 .12306.cn
 .189.cn
-.18xsw.org
 .343480.com
 .356884.com
 .360.cn
 .360in.com
 .51ym.me
-.5ijuyi.com
-.630book.cc
 .71.am.com
-.7369dy.cc
-.a9cdn.com
 .aaplimg.com
 .abercrombie.com
 .accuweather.com
@@ -70533,10 +70523,8 @@ sms.imagetasks.com
 .baidubcr.com
 .battle.net
 .battlenet.com
-.bbddaa.com
 .beatsbydre.com
 .bet365.com
-.biermai.com
 .bing.com
 .bing.net
 .bjango.com
@@ -70547,11 +70535,9 @@ sms.imagetasks.com
 .broadcasthe.net
 .bstatic.com
 .byteoversea.com
-.c668sz.com
 .cambridge.org
 .cas.org
 .ccb.com.cn
-.ccxinshijimc.com
 .chdbits.co
 .chua.pro
 .clarivate.com
@@ -70561,7 +70547,6 @@ sms.imagetasks.com
 .cmbimg
 .cmbt.cn
 .cmct.tv
-.cmsyou.com
 .cnlang.org
 .com-hs-hkdy.com
 .conoha.jp
@@ -70569,6 +70554,7 @@ sms.imagetasks.com
 .culturedcode.com
 .cz88.net
 .czybjz.com
+.dadazw.com
 .dandanzan.com
 .dct-cloud.com
 .digicert.com
@@ -70578,13 +70564,11 @@ sms.imagetasks.com
 .ecitic.net
 .eclipse.org
 .edu.cn
-.ee-forum.org
 .emerald.com
 .empornium.me
 .engineeringvillage.com
 .firefox.com
 .fjhps.com
-.fmttr.com
 .g-cores.com
 .gameloft.com
 .gandi.net
@@ -70601,11 +70585,8 @@ sms.imagetasks.com
 .hdhome.org
 .hdsky.me
 .hkserversolution.com
-.hnzxkd.com
 .hollisterco.com
 .hotmail.com
-.httpsbaidu.com
-.hwzseo.com
 .ibm.com
 .ibytedtos.com
 .icbc.com.cn
@@ -70624,16 +70605,15 @@ sms.imagetasks.com
 .ipify.org
 .ipv6-test.com
 .ixdzs.com
-.izhequ.com
 .jamanetwork.com
 .java.com
-.jehhhx.com
 .jhu.edu
 .jidian.im
+.jlhuaze.com
 .jpopsuki.eu
 .jsboxbbs.com
-.jspfa.org
 .jstor.org
+.jszjqy.com
 .karger.com
 .kaspersky-labs.com
 .keepfrds.com
@@ -70641,9 +70621,7 @@ sms.imagetasks.com
 .kuyunbo.club
 .libguides.com
 .licdn.com
-.lighting163.com
 .linkedin.com
-.liujg.com
 .live.com
 .live.net
 .liyuans.com
@@ -70662,9 +70640,7 @@ sms.imagetasks.com
 .microsoft.com
 .microsoftonline.com
 .microsofttranslator.com
-.missyuan.com
 .mls-cdn.com
-.mlxsc.com
 .moke.com
 .morethan.tv
 .mpg.de
@@ -70683,12 +70659,10 @@ sms.imagetasks.com
 .ncore.cc
 .nfoservers.com
 .nim-lang-cn.org
-.niu8pz.com
 .novipnoad.com
 .nssurge.com
 .ntp.org
 .nvidia.com
-.objc.com
 .oecd-ilibrary.org
 .office.com
 .office.net
@@ -70708,7 +70682,6 @@ sms.imagetasks.com
 .oxfordbibliographies.com
 .oxfordmusiconline.com
 .p4pfile.com
-.pandadai.com
 .passthepopcorn.me
 .paypal.com
 .paypal.me
@@ -70723,39 +70696,26 @@ sms.imagetasks.com
 .privatehd.to
 .proquest.com
 .pterclub.com
-.qianlima11.cc
 .qin.io
 .qingmang.me
-.qiulishi.com
 .qlogo.cn
 .qpic.cn
-.qq-ex.com
 .rarbg.to
 .redacted.ch
-.riyuezw.com
-.rmbtimes.com
 .rsc.org
 .s-microsoft.com
-.safestcdn.com
 .sagepub.com
-.sapzh.com
 .sciencedirect.com
 .sciencemag.org
-.scienedit.com
 .scomper.me
 .scopus.com
 .seafile.com
-.sfb2c.com
 .sharepoint.com
-.shdhej.com
-.shenduos.com
-.shhglj.com
 .siam.org
 .sinaimg.cn
 .sm.ms
 .snapdrop.net
 .snwx.com
-.socvista.com
 .sony.com
 .sonyentertainmentnetwork.com
 .spiedigitallibrary.org
@@ -70771,13 +70731,11 @@ sms.imagetasks.com
 .steamstat.us
 .steamstatic.com
 .steamusercontent.com
-.stxdgg.com
 .subhd.tv
 .symcd.com
 .tandfonline.com
 .tawk.link
 .tawk.to
-.tcshuishou.com
 .teamviewer.com
 .test-ipv4.com
 .test-ipv6.com
@@ -70787,7 +70745,6 @@ sms.imagetasks.com
 .trello.com
 .trellocdn.com
 .ttmeiju.com
-.u-cooler.com
 .udacity.com
 .un.org
 .uni-bielefeld.de
@@ -70803,32 +70760,23 @@ sms.imagetasks.com
 .werewolf.53site.com
 .westlaw.com
 .whatismyip.com
-.whggbd.com
 .wiley.com
 .windows.com
 .windows.net
 .windowsupdate.com
+.witchspring.com
 .wkcdn.com
 .workflowy.com
 .worldbank.org
 .worldscientific.com
 .xbox.com
 .xboxlive.com
-.xhood.net
 .xhostfire.com
-.xiaoyuan666.com
-.ximuok.com
 .xslb.net
 .yach.me
-.yangcongbao.com
-.yidingsz.com
-.ylilai.com
-.yymchina.cc
-.yzskj.com
+.yh05l.com
 .zhangzishi.cc
-.zhizuncn.com
 .zhuihd.com
-.zjgxy.org
 .zmz002.com
 .zmz2019.com
 .zmzfile.com
