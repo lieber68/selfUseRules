@@ -14,7 +14,6 @@ DOMAIN-SUFFIX, 001qp.cc, proxy
 DOMAIN-SUFFIX, 002.com, proxy
 DOMAIN-SUFFIX, 002008.com, proxy
 DOMAIN-SUFFIX, 00223885.com, proxy
-DOMAIN-SUFFIX, 00330033.net, proxy
 DOMAIN-SUFFIX, 0033buyu.com, proxy
 DOMAIN-SUFFIX, 003919.com, proxy
 DOMAIN-SUFFIX, 00443885.com, proxy
@@ -168,6 +167,7 @@ DOMAIN-SUFFIX, 1048.com, proxy
 DOMAIN-SUFFIX, 1049.com, proxy
 DOMAIN-SUFFIX, 108-177-122-104.dynamic-ip.hinet.net, proxy
 DOMAIN-SUFFIX, 108.hbmygj.cn, proxy
+DOMAIN-SUFFIX, 108tlc.com, proxy
 DOMAIN-SUFFIX, 10b1000.com, proxy
 DOMAIN-SUFFIX, 10b1010.com, proxy
 DOMAIN-SUFFIX, 10b111.com, proxy
@@ -297,7 +297,6 @@ DOMAIN-SUFFIX, 1565111.com, proxy
 DOMAIN-SUFFIX, 15652222.com, proxy
 DOMAIN-SUFFIX, 1565444333.com, proxy
 DOMAIN-SUFFIX, 15655555.com, proxy
-DOMAIN-SUFFIX, 15656644.com, proxy
 DOMAIN-SUFFIX, 15658822.com, proxy
 DOMAIN-SUFFIX, 15658888.com, proxy
 DOMAIN-SUFFIX, 15659977.com, proxy
@@ -604,7 +603,6 @@ DOMAIN-SUFFIX, 228.t28.net, proxy
 DOMAIN-SUFFIX, 228777.com, proxy
 DOMAIN-SUFFIX, 22966.com, proxy
 DOMAIN-SUFFIX, 22gg940.com, proxy
-DOMAIN-SUFFIX, 22jinsha.com, proxy
 DOMAIN-SUFFIX, 22ppk.com, proxy
 DOMAIN-SUFFIX, 23.25u.com, proxy
 DOMAIN-SUFFIX, 23.3.wwwhost.biz, proxy
@@ -674,6 +672,7 @@ DOMAIN-SUFFIX, 26268888.com, proxy
 DOMAIN-SUFFIX, 2646c.com, proxy
 DOMAIN-SUFFIX, 2646m.com, proxy
 DOMAIN-SUFFIX, 2646o.com, proxy
+DOMAIN-SUFFIX, 2646r.com, proxy
 DOMAIN-SUFFIX, 265vip.com, proxy
 DOMAIN-SUFFIX, 266.etowns.org, proxy
 DOMAIN-SUFFIX, 266.info.tm, proxy
@@ -705,6 +704,7 @@ DOMAIN-SUFFIX, 28.flnet.org, proxy
 DOMAIN-SUFFIX, 28.slyip.net, proxy
 DOMAIN-SUFFIX, 2805u.com, proxy
 DOMAIN-SUFFIX, 2834762.jigsy.com, proxy
+DOMAIN-SUFFIX, 2858567.com, proxy
 DOMAIN-SUFFIX, 287.slyip.net, proxy
 DOMAIN-SUFFIX, 288.t28.net, proxy
 DOMAIN-SUFFIX, 288x.com, proxy
@@ -893,6 +893,7 @@ DOMAIN-SUFFIX, 36hhh.net, proxy
 DOMAIN-SUFFIX, 36lll.net, proxy
 DOMAIN-SUFFIX, 36mmm.net, proxy
 DOMAIN-SUFFIX, 36pp.net, proxy
+DOMAIN-SUFFIX, 36ss.net, proxy
 DOMAIN-SUFFIX, 36sss.net, proxy
 DOMAIN-SUFFIX, 36tt.net, proxy
 DOMAIN-SUFFIX, 36vv.net, proxy
@@ -1052,7 +1053,6 @@ DOMAIN-SUFFIX, 5.info.tm, proxy
 DOMAIN-SUFFIX, 50-video.com, proxy
 DOMAIN-SUFFIX, 50045.diyxtv.com, proxy
 DOMAIN-SUFFIX, 50045.newxtv.com, proxy
-DOMAIN-SUFFIX, 50069.asiaxxtv.com, proxy
 DOMAIN-SUFFIX, 500ish.com, proxy
 DOMAIN-SUFFIX, 500px.com, proxy
 DOMAIN-SUFFIX, 50104.calaxtv.com, proxy
@@ -1175,6 +1175,7 @@ DOMAIN-SUFFIX, 55553885.com, proxy
 DOMAIN-SUFFIX, 55557193.com, proxy
 DOMAIN-SUFFIX, 5555bj.com, proxy
 DOMAIN-SUFFIX, 5555cs.com, proxy
+DOMAIN-SUFFIX, 555654.com, proxy
 DOMAIN-SUFFIX, 5558088.com, proxy
 DOMAIN-SUFFIX, 55599444.com, proxy
 DOMAIN-SUFFIX, 5559955.com, proxy
@@ -1203,6 +1204,7 @@ DOMAIN-SUFFIX, 56555vip.com, proxy
 DOMAIN-SUFFIX, 56563.com, proxy
 DOMAIN-SUFFIX, 566.biz, proxy
 DOMAIN-SUFFIX, 566.serveftp.com, proxy
+DOMAIN-SUFFIX, 56656ff.com, proxy
 DOMAIN-SUFFIX, 567.etowns.org, proxy
 DOMAIN-SUFFIX, 567210.com, proxy
 DOMAIN-SUFFIX, 567666365.com, proxy
@@ -1303,6 +1305,8 @@ DOMAIN-SUFFIX, 6366cc.com, proxy
 DOMAIN-SUFFIX, 6366nn.com, proxy
 DOMAIN-SUFFIX, 6366r.com, proxy
 DOMAIN-SUFFIX, 637.etowns.org, proxy
+DOMAIN-SUFFIX, 637539.com, proxy
+DOMAIN-SUFFIX, 637581.com, proxy
 DOMAIN-SUFFIX, 638.com, proxy
 DOMAIN-SUFFIX, 638.serveftp.com, proxy
 DOMAIN-SUFFIX, 6386567.com, proxy
@@ -1332,6 +1336,7 @@ DOMAIN-SUFFIX, 65.4dq.com, proxy
 DOMAIN-SUFFIX, 65.my03.com, proxy
 DOMAIN-SUFFIX, 65.serveftp.com, proxy
 DOMAIN-SUFFIX, 65.ygto.com, proxy
+DOMAIN-SUFFIX, 652683.com, proxy
 DOMAIN-SUFFIX, 654321365.com, proxy
 DOMAIN-SUFFIX, 655.shop.tm, proxy
 DOMAIN-SUFFIX, 6575888.com, proxy
@@ -1357,6 +1362,7 @@ DOMAIN-SUFFIX, 6667766.com, proxy
 DOMAIN-SUFFIX, 66699444.com, proxy
 DOMAIN-SUFFIX, 666bg.com, proxy
 DOMAIN-SUFFIX, 666k8.com, proxy
+DOMAIN-SUFFIX, 666let.com, proxy
 DOMAIN-SUFFIX, 667.info.tm, proxy
 DOMAIN-SUFFIX, 668000010.com, proxy
 DOMAIN-SUFFIX, 668003000.com, proxy
@@ -1480,6 +1486,7 @@ DOMAIN-SUFFIX, 757ll.net, proxy
 DOMAIN-SUFFIX, 76.effers.com, proxy
 DOMAIN-SUFFIX, 7611567.com, proxy
 DOMAIN-SUFFIX, 7652.com, proxy
+DOMAIN-SUFFIX, 766352.com, proxy
 DOMAIN-SUFFIX, 76652200.com, proxy
 DOMAIN-SUFFIX, 76653300.com, proxy
 DOMAIN-SUFFIX, 7665vip.com, proxy
@@ -1694,6 +1701,7 @@ DOMAIN-SUFFIX, 888.xinbao77.net, proxy
 DOMAIN-SUFFIX, 888.zc9066.com, proxy
 DOMAIN-SUFFIX, 88818.com, proxy
 DOMAIN-SUFFIX, 88838333.com, proxy
+DOMAIN-SUFFIX, 88866.com, proxy
 DOMAIN-SUFFIX, 88868882.com, proxy
 DOMAIN-SUFFIX, 888888xh.com, proxy
 DOMAIN-SUFFIX, 88889.com, proxy
@@ -1872,6 +1880,7 @@ DOMAIN-SUFFIX, 9896444.com, proxy
 DOMAIN-SUFFIX, 98app1.com, proxy
 DOMAIN-SUFFIX, 98app3.com, proxy
 DOMAIN-SUFFIX, 98ddt.xyz, proxy
+DOMAIN-SUFFIX, 98tou.com, proxy
 DOMAIN-SUFFIX, 98tt.com, proxy
 DOMAIN-SUFFIX, 98vip.com, proxy
 DOMAIN-SUFFIX, 99.cr.rs, proxy
@@ -1997,6 +2006,7 @@ DOMAIN-SUFFIX, a9av.me, proxy
 DOMAIN-SUFFIX, a9v.dyndns.work, proxy
 DOMAIN-SUFFIX, a9w.dyndns.work, proxy
 DOMAIN-SUFFIX, aa.slyip.net, proxy
+DOMAIN-SUFFIX, aa059.com, proxy
 DOMAIN-SUFFIX, aa1801.webnode.tw, proxy
 DOMAIN-SUFFIX, aa1802.com, proxy
 DOMAIN-SUFFIX, aa2211.com, proxy
@@ -2128,6 +2138,7 @@ DOMAIN-SUFFIX, advanscene.com, proxy
 DOMAIN-SUFFIX, adventist.org, proxy
 DOMAIN-SUFFIX, advertisercommunity.com, proxy
 DOMAIN-SUFFIX, aebn.net, proxy
+DOMAIN-SUFFIX, aeon-pool.com, proxy
 DOMAIN-SUFFIX, aeroflot.ru, proxy
 DOMAIN-SUFFIX, aeromexico.com, proxy
 DOMAIN-SUFFIX, aerotaxi.cl, proxy
@@ -2168,6 +2179,7 @@ DOMAIN-SUFFIX, afterdark.tw, proxy
 DOMAIN-SUFFIX, aftygh.gov.tw, proxy
 DOMAIN-SUFFIX, ag.985588.com, proxy
 DOMAIN-SUFFIX, ag.ak929.com, proxy
+DOMAIN-SUFFIX, ag.api888.vip, proxy
 DOMAIN-SUFFIX, ag.b1155.com, proxy
 DOMAIN-SUFFIX, ag.b1199.com, proxy
 DOMAIN-SUFFIX, ag.dsd001.com, proxy
@@ -2176,11 +2188,11 @@ DOMAIN-SUFFIX, ag.xs2888.com, proxy
 DOMAIN-SUFFIX, ag.xw283.com, proxy
 DOMAIN-SUFFIX, ag2019.net, proxy
 DOMAIN-SUFFIX, ag8.com, proxy
+DOMAIN-SUFFIX, ag800.com, proxy
 DOMAIN-SUFFIX, ag88.com, proxy
 DOMAIN-SUFFIX, ag8809.com, proxy
 DOMAIN-SUFFIX, ag9.ygcp5.com, proxy
 DOMAIN-SUFFIX, agapp.net, proxy
-DOMAIN-SUFFIX, agc010.vip, proxy
 DOMAIN-SUFFIX, agc90.com, proxy
 DOMAIN-SUFFIX, agent.10kgame.com, proxy
 DOMAIN-SUFFIX, agentwho.net, proxy
@@ -2233,6 +2245,7 @@ DOMAIN-SUFFIX, aiweiwei.com, proxy
 DOMAIN-SUFFIX, aiweiweiblog.com, proxy
 DOMAIN-SUFFIX, aizhaofuli.com, proxy
 DOMAIN-SUFFIX, aizhi.co, proxy
+DOMAIN-SUFFIX, ajax.cloudflare.com, proxy
 DOMAIN-SUFFIX, ajax.loli.net, proxy
 DOMAIN-SUFFIX, ajcheng.com, proxy
 DOMAIN-SUFFIX, aje.io, proxy
@@ -2376,7 +2389,6 @@ DOMAIN-SUFFIX, ampj30.com, proxy
 DOMAIN-SUFFIX, ampj553.com, proxy
 DOMAIN-SUFFIX, ampj559.com, proxy
 DOMAIN-SUFFIX, ampj60.com, proxy
-DOMAIN-SUFFIX, ampj6000.com, proxy
 DOMAIN-SUFFIX, ampj662.com, proxy
 DOMAIN-SUFFIX, ampj665.com, proxy
 DOMAIN-SUFFIX, ampj90.com, proxy
@@ -2412,7 +2424,6 @@ DOMAIN-SUFFIX, anchorfree.com, proxy
 DOMAIN-SUFFIX, ancsconf.org, proxy
 DOMAIN-SUFFIX, anctec.com, proxy
 DOMAIN-SUFFIX, andinista.cl, proxy
-DOMAIN-SUFFIX, andorralife-tw.weebly.com, proxy
 DOMAIN-SUFFIX, andreotti.com.ar, proxy
 DOMAIN-SUFFIX, andrewrophie.com, proxy
 DOMAIN-SUFFIX, andrewshomelabs.com, proxy
@@ -2496,6 +2507,7 @@ DOMAIN-SUFFIX, aopshc.com, proxy
 DOMAIN-SUFFIX, aosintegrity.com, proxy
 DOMAIN-SUFFIX, ap2.googleusercontent.com, proxy
 DOMAIN-SUFFIX, apartmenttherapy.com, proxy
+DOMAIN-SUFFIX, apcrwangpian.com, proxy
 DOMAIN-SUFFIX, apetube.com, proxy
 DOMAIN-SUFFIX, apewd.uphero.com, proxy
 DOMAIN-SUFFIX, apfi-jatim.org, proxy
@@ -2524,6 +2536,8 @@ DOMAIN-SUFFIX, api.zdqp11.com, proxy
 DOMAIN-SUFFIX, api1.sg888.net, proxy
 DOMAIN-SUFFIX, api1.sg8888.ws, proxy
 DOMAIN-SUFFIX, apic.pinnacle.com, proxy
+DOMAIN-SUFFIX, apigame.yunbo11.com, proxy
+DOMAIN-SUFFIX, apigame.yunbo333.com, proxy
 DOMAIN-SUFFIX, apigee.com, proxy
 DOMAIN-SUFFIX, apjforex.com, proxy
 DOMAIN-SUFFIX, apk-dl.com, proxy
@@ -2598,7 +2612,6 @@ DOMAIN-SUFFIX, appspot.com, proxy
 DOMAIN-SUFFIX, appsto.re, proxy
 DOMAIN-SUFFIX, apptopia.com, proxy
 DOMAIN-SUFFIX, apsense.com, proxy
-DOMAIN-SUFFIX, apsig.asia, proxy
 DOMAIN-SUFFIX, aptoide.com, proxy
 DOMAIN-SUFFIX, apuestasdemurcia.es, proxy
 DOMAIN-SUFFIX, aqua.komica.org, proxy
@@ -2606,7 +2619,6 @@ DOMAIN-SUFFIX, aquexu.github.io, proxy
 DOMAIN-SUFFIX, arabicbible.org, proxy
 DOMAIN-SUFFIX, arabslavetrade.com, proxy
 DOMAIN-SUFFIX, arcangel-images.com, proxy
-DOMAIN-SUFFIX, archive.anvil.org.ph, proxy
 DOMAIN-SUFFIX, archive.fo, proxy
 DOMAIN-SUFFIX, archive.is, proxy
 DOMAIN-SUFFIX, archive.istio.io, proxy
@@ -2968,6 +2980,7 @@ DOMAIN-SUFFIX, barnett.id.au, proxy
 DOMAIN-SUFFIX, barrymatv.com, proxy
 DOMAIN-SUFFIX, bartender.mobile.dowjones.io, proxy
 DOMAIN-SUFFIX, baryes.com, proxy
+DOMAIN-SUFFIX, basedmusic.com, proxy
 DOMAIN-SUFFIX, basevie.fr, proxy
 DOMAIN-SUFFIX, basicframes.com, proxy
 DOMAIN-SUFFIX, basicprogramming.comyr.com, proxy
@@ -3001,7 +3014,6 @@ DOMAIN-SUFFIX, bb773.net, proxy
 DOMAIN-SUFFIX, bb866.com, proxy
 DOMAIN-SUFFIX, bb9617.pw, proxy
 DOMAIN-SUFFIX, bbb.com, proxy
-DOMAIN-SUFFIX, bbb.po888.net, proxy
 DOMAIN-SUFFIX, bbb111.com, proxy
 DOMAIN-SUFFIX, bbb112.net, proxy
 DOMAIN-SUFFIX, bbb26.net, proxy
@@ -3130,7 +3142,6 @@ DOMAIN-SUFFIX, beaumontmusic.com, proxy
 DOMAIN-SUFFIX, beautiful.ai, proxy
 DOMAIN-SUFFIX, beauty.fm, proxy
 DOMAIN-SUFFIX, beauty.md, proxy
-DOMAIN-SUFFIX, beauty721121.weebly.com, proxy
 DOMAIN-SUFFIX, bebinin.com, proxy
 DOMAIN-SUFFIX, bebo.com, proxy
 DOMAIN-SUFFIX, becketfund.org, proxy
@@ -3200,6 +3211,7 @@ DOMAIN-SUFFIX, bet999.com, proxy
 DOMAIN-SUFFIX, beta.mixcloud.com, proxy
 DOMAIN-SUFFIX, beta.usejump.com, proxy
 DOMAIN-SUFFIX, betak.net, proxy
+DOMAIN-SUFFIX, betfair.com, proxy
 DOMAIN-SUFFIX, betflag.it, proxy
 DOMAIN-SUFFIX, betslip.hkjcfootball.com, proxy
 DOMAIN-SUFFIX, betternet.co, proxy
@@ -3228,6 +3240,7 @@ DOMAIN-SUFFIX, bfu999.com, proxy
 DOMAIN-SUFFIX, bfu999.net, proxy
 DOMAIN-SUFFIX, bg1238.com, proxy
 DOMAIN-SUFFIX, bg1239.com, proxy
+DOMAIN-SUFFIX, bg508.com, proxy
 DOMAIN-SUFFIX, bg567.com, proxy
 DOMAIN-SUFFIX, bg9444.com, proxy
 DOMAIN-SUFFIX, bgc999.com, proxy
@@ -3329,7 +3342,6 @@ DOMAIN-SUFFIX, bj6666.com, proxy
 DOMAIN-SUFFIX, bjh6.com, proxy
 DOMAIN-SUFFIX, bjl11.com, proxy
 DOMAIN-SUFFIX, bjl2044.com, proxy
-DOMAIN-SUFFIX, bjl2077.com, proxy
 DOMAIN-SUFFIX, bjl666.com, proxy
 DOMAIN-SUFFIX, bjl6666.com, proxy
 DOMAIN-SUFFIX, bjl7999.com, proxy
@@ -3623,6 +3635,7 @@ DOMAIN-SUFFIX, booloo.com, proxy
 DOMAIN-SUFFIX, booming.com.br, proxy
 DOMAIN-SUFFIX, booms.cc, proxy
 DOMAIN-SUFFIX, boomss.cc, proxy
+DOMAIN-SUFFIX, borderexperience.weebly.com, proxy
 DOMAIN-SUFFIX, borderlandindustry.ml, proxy
 DOMAIN-SUFFIX, borderlands-books.com, proxy
 DOMAIN-SUFFIX, boringart.lt, proxy
@@ -4172,6 +4185,7 @@ DOMAIN-SUFFIX, cc18.tv, proxy
 DOMAIN-SUFFIX, cc353.com, proxy
 DOMAIN-SUFFIX, cc36.net, proxy
 DOMAIN-SUFFIX, cc383.net, proxy
+DOMAIN-SUFFIX, cc9007.spaces.live.com, proxy
 DOMAIN-SUFFIX, cc9514.com, proxy
 DOMAIN-SUFFIX, ccaudi.com, proxy
 DOMAIN-SUFFIX, ccbs.ntu.edu.tw, proxy
@@ -4251,7 +4265,6 @@ DOMAIN-SUFFIX, centrelink.gov.au, proxy
 DOMAIN-SUFFIX, centresuite.com, proxy
 DOMAIN-SUFFIX, centurys.net, proxy
 DOMAIN-SUFFIX, cernet2.tk, proxy
-DOMAIN-SUFFIX, certificate-transparency.org, proxy
 DOMAIN-SUFFIX, cervecerosdf.mx, proxy
 DOMAIN-SUFFIX, cervetoria.pt, proxy
 DOMAIN-SUFFIX, cevin.me, proxy
@@ -4274,7 +4287,6 @@ DOMAIN-SUFFIX, ch23.ga, proxy
 DOMAIN-SUFFIX, ch5.cc, proxy
 DOMAIN-SUFFIX, chaikair.cc, proxy
 DOMAIN-SUFFIX, chain.net, proxy
-DOMAIN-SUFFIX, chaitea.com.ar, proxy
 DOMAIN-SUFFIX, chamirris.com, proxy
 DOMAIN-SUFFIX, chan.sankakucomplex.com, proxy
 DOMAIN-SUFFIX, change.org, proxy
@@ -4287,6 +4299,7 @@ DOMAIN-SUFFIX, chanzuckerberg.com, proxy
 DOMAIN-SUFFIX, chaosmen.com, proxy
 DOMAIN-SUFFIX, charlesworth.nom.za, proxy
 DOMAIN-SUFFIX, charliehebdo.fr, proxy
+DOMAIN-SUFFIX, charliewebpage.weebly.com, proxy
 DOMAIN-SUFFIX, charter.com, proxy
 DOMAIN-SUFFIX, charter08.com, proxy
 DOMAIN-SUFFIX, chat-test-app.firebaseio.com, proxy
@@ -4320,17 +4333,20 @@ DOMAIN-SUFFIX, chengmingmag.com, proxy
 DOMAIN-SUFFIX, chenguangcheng.com, proxy
 DOMAIN-SUFFIX, chenpokong.com, proxy
 DOMAIN-SUFFIX, chenpokongvip.com, proxy
+DOMAIN-SUFFIX, chenyehao.spaces.live.com, proxy
 DOMAIN-SUFFIX, cherrypimps.com, proxy
 DOMAIN-SUFFIX, chevrolet.com, proxy
 DOMAIN-SUFFIX, chhongbi.org, proxy
 DOMAIN-SUFFIX, chhy01.com, proxy
 DOMAIN-SUFFIX, chi.fat.flnet.org, proxy
+DOMAIN-SUFFIX, chicagoncmtv.com, proxy
 DOMAIN-SUFFIX, chichiao.weebly.com, proxy
 DOMAIN-SUFFIX, chickenbarrel.org, proxy
 DOMAIN-SUFFIX, chickenkiller.com, proxy
 DOMAIN-SUFFIX, chicoamerica.com, proxy
 DOMAIN-SUFFIX, chiemtinhviet.com, proxy
 DOMAIN-SUFFIX, chile4rent.cl, proxy
+DOMAIN-SUFFIX, china-green-party.spaces.live.com, proxy
 DOMAIN-SUFFIX, china-mmm.net, proxy
 DOMAIN-SUFFIX, china.akamai.com.edgesuite.net, proxy
 DOMAIN-SUFFIX, china.googleblog.com, proxy
@@ -4542,7 +4558,6 @@ DOMAIN-SUFFIX, cloud.webtype.com, proxy
 DOMAIN-SUFFIX, cloudfare.com, proxy
 DOMAIN-SUFFIX, cloudflare-dns.com, proxy
 DOMAIN-SUFFIX, cloudflare-ipfs.com, proxy
-DOMAIN-SUFFIX, cloudflare.com, proxy
 DOMAIN-SUFFIX, cloudfoundry.com, proxy
 DOMAIN-SUFFIX, cloudfront.glb.cellopoint.com, proxy
 DOMAIN-SUFFIX, cloudmosa.com, proxy
@@ -4671,11 +4686,8 @@ DOMAIN-SUFFIX, cogc.box.com, proxy
 DOMAIN-SUFFIX, coiledfist.com, proxy
 DOMAIN-SUFFIX, coincola.com, proxy
 DOMAIN-SUFFIX, coinf.com.mx, proxy
-DOMAIN-SUFFIX, colbydray.weebly.com, proxy
 DOMAIN-SUFFIX, collateralmurder.org, proxy
 DOMAIN-SUFFIX, collegehumor.com, proxy
-DOMAIN-SUFFIX, collegeswitch.weebly.com, proxy
-DOMAIN-SUFFIX, collegeswitchtemp.weebly.com, proxy
 DOMAIN-SUFFIX, collegetransferstudent.com, proxy
 DOMAIN-SUFFIX, colorado-photo.com, proxy
 DOMAIN-SUFFIX, coloradosprings.com, proxy
@@ -4867,6 +4879,7 @@ DOMAIN-SUFFIX, cs8881.com, proxy
 DOMAIN-SUFFIX, cs8882.com, proxy
 DOMAIN-SUFFIX, cs9222.com, proxy
 DOMAIN-SUFFIX, cs9444.com, proxy
+DOMAIN-SUFFIX, cs9555.com, proxy
 DOMAIN-SUFFIX, cs9666.com, proxy
 DOMAIN-SUFFIX, cs968.com, proxy
 DOMAIN-SUFFIX, cs99333.com, proxy
@@ -5398,7 +5411,6 @@ DOMAIN-SUFFIX, d4508d6vomz2p.cloudfront.net, proxy
 DOMAIN-SUFFIX, d4b2zqvgah5lo.cloudfront.net, proxy
 DOMAIN-SUFFIX, d5.dnset.com, proxy
 DOMAIN-SUFFIX, d50vnmvifp2bs.cloudfront.net, proxy
-DOMAIN-SUFFIX, d5199.com, proxy
 DOMAIN-SUFFIX, d5253.com, proxy
 DOMAIN-SUFFIX, d5350.com, proxy
 DOMAIN-SUFFIX, d5555.co, proxy
@@ -5442,7 +5454,6 @@ DOMAIN-SUFFIX, dadazim.com, proxy
 DOMAIN-SUFFIX, dadi360.com, proxy
 DOMAIN-SUFFIX, daf4fsa6m92ni.cloudfront.net, proxy
 DOMAIN-SUFFIX, dafa00093.com, proxy
-DOMAIN-SUFFIX, dafa00096.com, proxy
 DOMAIN-SUFFIX, dafa888.com, proxy
 DOMAIN-SUFFIX, dafabet.com, proxy
 DOMAIN-SUFFIX, dafacloud.com, proxy
@@ -5492,7 +5503,6 @@ DOMAIN-SUFFIX, dalailamacenter.org, proxy
 DOMAIN-SUFFIX, dalailamafellows.org, proxy
 DOMAIN-SUFFIX, dalailamafilm.com, proxy
 DOMAIN-SUFFIX, dalailamafoundation.org, proxy
-DOMAIN-SUFFIX, dalailamainaustralia.org, proxy
 DOMAIN-SUFFIX, dalailamamatters.com, proxy
 DOMAIN-SUFFIX, dalailamany.org, proxy
 DOMAIN-SUFFIX, dalailamatrust.org, proxy
@@ -5518,6 +5528,7 @@ DOMAIN-SUFFIX, danielriquelme.cl, proxy
 DOMAIN-SUFFIX, dansmovies.com, proxy
 DOMAIN-SUFFIX, daol8yb47gnd3.cloudfront.net, proxy
 DOMAIN-SUFFIX, daolan.net, proxy
+DOMAIN-SUFFIX, dapao888.com, proxy
 DOMAIN-SUFFIX, dariknews.bg, proxy
 DOMAIN-SUFFIX, darktruth.tk, proxy
 DOMAIN-SUFFIX, darrenliuwei.com, proxy
@@ -5527,6 +5538,7 @@ DOMAIN-SUFFIX, dasjak.net, proxy
 DOMAIN-SUFFIX, dastrassi.org, proxy
 DOMAIN-SUFFIX, data-cdn.mbamupdates.com, proxy
 DOMAIN-SUFFIX, data-vocabulary.org, proxy
+DOMAIN-SUFFIX, data.gov.tw, proxy
 DOMAIN-SUFFIX, data.leafwind.tw, proxy
 DOMAIN-SUFFIX, data.org.tr, proxy
 DOMAIN-SUFFIX, datafilehost.com, proxy
@@ -5607,7 +5619,6 @@ DOMAIN-SUFFIX, dd57625.cq11.net, proxy
 DOMAIN-SUFFIX, dd935.net, proxy
 DOMAIN-SUFFIX, dd9871.com, proxy
 DOMAIN-SUFFIX, ddd.po888.net, proxy
-DOMAIN-SUFFIX, ddd112.net, proxy
 DOMAIN-SUFFIX, ddd304w8960jc.cloudfront.net, proxy
 DOMAIN-SUFFIX, ddd836.net, proxy
 DOMAIN-SUFFIX, ddex.io, proxy
@@ -5667,7 +5678,6 @@ DOMAIN-SUFFIX, deli28.com, proxy
 DOMAIN-SUFFIX, delias.com, proxy
 DOMAIN-SUFFIX, delicyus.com, proxy
 DOMAIN-SUFFIX, delsaler.com, proxy
-DOMAIN-SUFFIX, delusionscho.weebly.com, proxy
 DOMAIN-SUFFIX, demabeauty.com, proxy
 DOMAIN-SUFFIX, demo.ai4t.com, proxy
 DOMAIN-SUFFIX, demo.nyris.io, proxy
@@ -5768,6 +5778,7 @@ DOMAIN-SUFFIX, dimassatrio.web.id, proxy
 DOMAIN-SUFFIX, dimnhsinmkdwq.cloudfront.net, proxy
 DOMAIN-SUFFIX, ding9.changeip.net, proxy
 DOMAIN-SUFFIX, dinsound.net, proxy
+DOMAIN-SUFFIX, dio168.shmyf.com, proxy
 DOMAIN-SUFFIX, dioguitar23.me, proxy
 DOMAIN-SUFFIX, dipes.com.np, proxy
 DOMAIN-SUFFIX, dipity.com, proxy
@@ -5862,6 +5873,7 @@ DOMAIN-SUFFIX, dns.adclear.com, proxy
 DOMAIN-SUFFIX, dns.adguard.com, proxy
 DOMAIN-SUFFIX, dns.arapurayil.com, proxy
 DOMAIN-SUFFIX, dns.blokada.org, proxy
+DOMAIN-SUFFIX, dns.cloudflare.com, proxy
 DOMAIN-SUFFIX, dns.comss.one, proxy
 DOMAIN-SUFFIX, dns.decloudus.com, proxy
 DOMAIN-SUFFIX, dns.digitale-gesellschaft.ch, proxy
@@ -6059,7 +6071,6 @@ DOMAIN-SUFFIX, drtuber.com, proxy
 DOMAIN-SUFFIX, drugfreeme.com, proxy
 DOMAIN-SUFFIX, drvpgrhib1ucs.cloudfront.net, proxy
 DOMAIN-SUFFIX, ds05s2206.apetteam.com, proxy
-DOMAIN-SUFFIX, ds129.awmdm.com, proxy
 DOMAIN-SUFFIX, ds2v8dhpuxcwv.cloudfront.net, proxy
 DOMAIN-SUFFIX, dsd003.com, proxy
 DOMAIN-SUFFIX, dsd006.com, proxy
@@ -6071,7 +6082,6 @@ DOMAIN-SUFFIX, dslady.com, proxy
 DOMAIN-SUFFIX, dsm9427.com, proxy
 DOMAIN-SUFFIX, dsn01.com, proxy
 DOMAIN-SUFFIX, dsn104.co, proxy
-DOMAIN-SUFFIX, dsn1151a.com, proxy
 DOMAIN-SUFFIX, dsn1171a.com, proxy
 DOMAIN-SUFFIX, dsn1500.com, proxy
 DOMAIN-SUFFIX, dsn2252a.com, proxy
@@ -6236,6 +6246,7 @@ DOMAIN-SUFFIX, eastturkistan-gov.org, proxy
 DOMAIN-SUFFIX, eastturkistangovernmentinexile.us, proxy
 DOMAIN-SUFFIX, easyca.ca, proxy
 DOMAIN-SUFFIX, easycanada.net, proxy
+DOMAIN-SUFFIX, easychinese.weebly.com, proxy
 DOMAIN-SUFFIX, easygals.com, proxy
 DOMAIN-SUFFIX, easygoingppp.com, proxy
 DOMAIN-SUFFIX, easyjet.com, proxy
@@ -6376,6 +6387,7 @@ DOMAIN-SUFFIX, eluchat.vip, proxy
 DOMAIN-SUFFIX, elvocero.com, proxy
 DOMAIN-SUFFIX, emaw.com.br, proxy
 DOMAIN-SUFFIX, embed.culturalspot.org, proxy
+DOMAIN-SUFFIX, embeddedsw.org, proxy
 DOMAIN-SUFFIX, embr.in, proxy
 DOMAIN-SUFFIX, emersonbrookforest.org, proxy
 DOMAIN-SUFFIX, emgog.com, proxy
@@ -6651,7 +6663,6 @@ DOMAIN-SUFFIX, facebook.cn, proxy
 DOMAIN-SUFFIX, facebook.co, proxy
 DOMAIN-SUFFIX, facebook.co.jp, proxy
 DOMAIN-SUFFIX, facebook.com, proxy
-DOMAIN-SUFFIX, facebook.com.br, proxy
 DOMAIN-SUFFIX, facebook.com.tw, proxy
 DOMAIN-SUFFIX, facebook.de, proxy
 DOMAIN-SUFFIX, facebook.es, proxy
@@ -6732,7 +6743,6 @@ DOMAIN-SUFFIX, falungonginfo.net, proxy
 DOMAIN-SUFFIX, faluninfo.at, proxy
 DOMAIN-SUFFIX, faluninfo.de, proxy
 DOMAIN-SUFFIX, faluninfo.net, proxy
-DOMAIN-SUFFIX, faluninfo.or.kr, proxy
 DOMAIN-SUFFIX, faluninfo.ru, proxy
 DOMAIN-SUFFIX, falunnews.org.il, proxy
 DOMAIN-SUFFIX, falunorlando.org, proxy
@@ -6774,7 +6784,6 @@ DOMAIN-SUFFIX, fastusaproxy.com, proxy
 DOMAIN-SUFFIX, fastxzp.com, proxy
 DOMAIN-SUFFIX, fastzone.org, proxy
 DOMAIN-SUFFIX, fate2013.weebly.com, proxy
-DOMAIN-SUFFIX, faunalink.com.au, proxy
 DOMAIN-SUFFIX, favotter.net, proxy
 DOMAIN-SUFFIX, favstar.fm, proxy
 DOMAIN-SUFFIX, fawanghuihui.org, proxy
@@ -6832,7 +6841,6 @@ DOMAIN-SUFFIX, femefun.com, proxy
 DOMAIN-SUFFIX, femjoy.com, proxy
 DOMAIN-SUFFIX, fengzhenghu.net, proxy
 DOMAIN-SUFFIX, fense888.com, proxy
-DOMAIN-SUFFIX, fentanes.com.ar, proxy
 DOMAIN-SUFFIX, ferdaus.net, proxy
 DOMAIN-SUFFIX, ferrall.cn, proxy
 DOMAIN-SUFFIX, ferreroperotti.com.ar, proxy
@@ -6857,6 +6865,7 @@ DOMAIN-SUFFIX, fg9000.com, proxy
 DOMAIN-SUFFIX, fgmtv.net, proxy
 DOMAIN-SUFFIX, fgmtv.org, proxy
 DOMAIN-SUFFIX, fgq5.com, proxy
+DOMAIN-SUFFIX, fh5.ld22222.com, proxy
 DOMAIN-SUFFIX, fh68.com, proxy
 DOMAIN-SUFFIX, fh931.com, proxy
 DOMAIN-SUFFIX, fhelessons.com, proxy
@@ -6916,7 +6925,6 @@ DOMAIN-SUFFIX, firetell.net, proxy
 DOMAIN-SUFFIX, firetweet.io, proxy
 DOMAIN-SUFFIX, firevpn.net, proxy
 DOMAIN-SUFFIX, firstanalquest.com, proxy
-DOMAIN-SUFFIX, firstimage.biz, proxy
 DOMAIN-SUFFIX, firstpost.com, proxy
 DOMAIN-SUFFIX, firstrade.com, proxy
 DOMAIN-SUFFIX, fishfortomorrow.org, proxy
@@ -6946,7 +6954,6 @@ DOMAIN-SUFFIX, fldsolar.com, proxy
 DOMAIN-SUFFIX, fleursdeslettres.com, proxy
 DOMAIN-SUFFIX, flicker.com, proxy
 DOMAIN-SUFFIX, flickr.com, proxy
-DOMAIN-SUFFIX, flickr.yahoo.com, proxy
 DOMAIN-SUFFIX, flickriver.com, proxy
 DOMAIN-SUFFIX, flightb1a4.com, proxy
 DOMAIN-SUFFIX, fling.com, proxy
@@ -6956,6 +6963,7 @@ DOMAIN-SUFFIX, flirt4free.com, proxy
 DOMAIN-SUFFIX, flitto.com, proxy
 DOMAIN-SUFFIX, fll.cc, proxy
 DOMAIN-SUFFIX, floplus.com, proxy
+DOMAIN-SUFFIX, flowerofhappiness.spaces.live.com, proxy
 DOMAIN-SUFFIX, fluimec.com.br, proxy
 DOMAIN-SUFFIX, flushingcn.com, proxy
 DOMAIN-SUFFIX, flyercenter.com, proxy
@@ -7024,7 +7032,6 @@ DOMAIN-SUFFIX, fos-ff.net, proxy
 DOMAIN-SUFFIX, fosunhani.com, proxy
 DOMAIN-SUFFIX, fotiaoqiang.club, proxy
 DOMAIN-SUFFIX, fotograaf4u.nl, proxy
-DOMAIN-SUFFIX, foundation.enlighten.org.tw, proxy
 DOMAIN-SUFFIX, fourc.weebly.com, proxy
 DOMAIN-SUFFIX, fourgiven.org, proxy
 DOMAIN-SUFFIX, foxgay.com, proxy
@@ -7093,6 +7100,8 @@ DOMAIN-SUFFIX, freedsn.xyz, proxy
 DOMAIN-SUFFIX, freefq.com, proxy
 DOMAIN-SUFFIX, freegateget.googlepages.com, proxy
 DOMAIN-SUFFIX, freegroup.org, proxy
+DOMAIN-SUFFIX, freeguide4u.weebly.com, proxy
+DOMAIN-SUFFIX, freehaven.net, proxy
 DOMAIN-SUFFIX, freehentaimanga.net, proxy
 DOMAIN-SUFFIX, freehk.live, proxy
 DOMAIN-SUFFIX, freeideas.ca, proxy
@@ -7243,6 +7252,7 @@ DOMAIN-SUFFIX, fucd.com, proxy
 DOMAIN-SUFFIX, fuchsia.dev, proxy
 DOMAIN-SUFFIX, fuck-tapes.org, proxy
 DOMAIN-SUFFIX, fuck.com, proxy
+DOMAIN-SUFFIX, fuckchina.com, proxy
 DOMAIN-SUFFIX, fucked-tube.com, proxy
 DOMAIN-SUFFIX, fuckgfw.ggss.cf, proxy
 DOMAIN-SUFFIX, fuckxijinping.com, proxy
@@ -7343,7 +7353,6 @@ DOMAIN-SUFFIX, fxcm.co, proxy
 DOMAIN-SUFFIX, fxcm.com, proxy
 DOMAIN-SUFFIX, fxcmapac.com, proxy
 DOMAIN-SUFFIX, fxcmcn.com, proxy
-DOMAIN-SUFFIX, fxdd.com, proxy
 DOMAIN-SUFFIX, fxopen.com, proxy
 DOMAIN-SUFFIX, fxopenasia.com, proxy
 DOMAIN-SUFFIX, fxtrade.oanda.co.uk, proxy
@@ -7401,6 +7410,7 @@ DOMAIN-SUFFIX, galnetwork.hr, proxy
 DOMAIN-SUFFIX, gambe.jp, proxy
 DOMAIN-SUFFIX, game-899.net, proxy
 DOMAIN-SUFFIX, game.com.cn, proxy
+DOMAIN-SUFFIX, game.fafafa3388.com-1, proxy
 DOMAIN-SUFFIX, game.fun88721.com, proxy
 DOMAIN-SUFFIX, game.kwm.com, proxy
 DOMAIN-SUFFIX, game.ky195.com, proxy
@@ -7426,6 +7436,7 @@ DOMAIN-SUFFIX, gaoyixue.com, proxy
 DOMAIN-SUFFIX, gaozhisheng.org, proxy
 DOMAIN-SUFFIX, garageperucchi.ch, proxy
 DOMAIN-SUFFIX, gardennetworks.com, proxy
+DOMAIN-SUFFIX, gardenofyouth.weebly.com, proxy
 DOMAIN-SUFFIX, garizo.com, proxy
 DOMAIN-SUFFIX, garoblogz.com, proxy
 DOMAIN-SUFFIX, gasgus.com.ar, proxy
@@ -7468,38 +7479,63 @@ DOMAIN-SUFFIX, gc919.com, proxy
 DOMAIN-SUFFIX, gccnews.org, proxy
 DOMAIN-SUFFIX, gcgc3.cc, proxy
 DOMAIN-SUFFIX, gcgc8.com, proxy
+DOMAIN-SUFFIX, gci.56f062f9.com, proxy
+DOMAIN-SUFFIX, gci.8366d971.com, proxy
 DOMAIN-SUFFIX, gci.888gc888.com, proxy
 DOMAIN-SUFFIX, gci.9axw.com, proxy
 DOMAIN-SUFFIX, gci.9fabet.com, proxy
 DOMAIN-SUFFIX, gci.agfw00.org, proxy
+DOMAIN-SUFFIX, gci.boingame.com, proxy
+DOMAIN-SUFFIX, gci.ca97e367.com, proxy
+DOMAIN-SUFFIX, gci.cljkkuqf.com, proxy
+DOMAIN-SUFFIX, gci.cqzjnbbd.com, proxy
+DOMAIN-SUFFIX, gci.dsfhgfuyh.com, proxy
 DOMAIN-SUFFIX, gci.dt1epg3r.com, proxy
+DOMAIN-SUFFIX, gci.fun767.com, proxy
 DOMAIN-SUFFIX, gci.fy9p.com, proxy
+DOMAIN-SUFFIX, gci.jdsghsa.com, proxy
 DOMAIN-SUFFIX, gci.kf5656g.com, proxy
+DOMAIN-SUFFIX, gci.kf8h.com, proxy
+DOMAIN-SUFFIX, gci.labgabg.com, proxy
+DOMAIN-SUFFIX, gci.ldld1.com, proxy
+DOMAIN-SUFFIX, gci.ldld1.me, proxy
+DOMAIN-SUFFIX, gci.ldld2.me, proxy
 DOMAIN-SUFFIX, gci.liveapigame.com, proxy
 DOMAIN-SUFFIX, gci.lrtnlsjne.com, proxy
+DOMAIN-SUFFIX, gci.meszhmet.com, proxy
+DOMAIN-SUFFIX, gci.metronominal.xyz, proxy
+DOMAIN-SUFFIX, gci.myball369.com, proxy
+DOMAIN-SUFFIX, gci.myball7.com, proxy
+DOMAIN-SUFFIX, gci.p1aza.com, proxy
 DOMAIN-SUFFIX, gci.p4ewcudw.com, proxy
 DOMAIN-SUFFIX, gci.qg.app, proxy
 DOMAIN-SUFFIX, gci.skylineo.com, proxy
 DOMAIN-SUFFIX, gci.studxz.xyz, proxy
+DOMAIN-SUFFIX, gci.szrqezmy.com, proxy
 DOMAIN-SUFFIX, gci.thdxxd1.com, proxy
+DOMAIN-SUFFIX, gci.tslpmumm.com, proxy
 DOMAIN-SUFFIX, gci.vwfa888.com, proxy
+DOMAIN-SUFFIX, gci.wqpeoh58.com, proxy
 DOMAIN-SUFFIX, gci.xcegwjimj.com, proxy
+DOMAIN-SUFFIX, gci.xxmmw.cn, proxy
 DOMAIN-SUFFIX, gci.yabo808.com, proxy
+DOMAIN-SUFFIX, gcih5.agingames.com, proxy
 DOMAIN-SUFFIX, gcmasia.com, proxy
 DOMAIN-SUFFIX, gcntv.org, proxy
 DOMAIN-SUFFIX, gcr.io, proxy
 DOMAIN-SUFFIX, gcw800.com, proxy
 DOMAIN-SUFFIX, gdg.com.ar, proxy
-DOMAIN-SUFFIX, gdkx.ml, proxy
 DOMAIN-SUFFIX, gdzf.org, proxy
 DOMAIN-SUFFIX, ge.epac.to, proxy
 DOMAIN-SUFFIX, ge.flnet.org, proxy
 DOMAIN-SUFFIX, geekproxy.com, proxy
+DOMAIN-SUFFIX, geektang.com, proxy
 DOMAIN-SUFFIX, geekz0ne.fr, proxy
 DOMAIN-SUFFIX, gelbooru.com, proxy
 DOMAIN-SUFFIX, genius.com, proxy
 DOMAIN-SUFFIX, geo.tv, proxy
 DOMAIN-SUFFIX, geometrica.ca, proxy
+DOMAIN-SUFFIX, georaytech.com, proxy
 DOMAIN-SUFFIX, georgiagun.com, proxy
 DOMAIN-SUFFIX, georgiapower.com, proxy
 DOMAIN-SUFFIX, geotestinc.com, proxy
@@ -7585,6 +7621,7 @@ DOMAIN-SUFFIX, ggccup.com, proxy
 DOMAIN-SUFFIX, ggcups.com, proxy
 DOMAIN-SUFFIX, ggdada.com, proxy
 DOMAIN-SUFFIX, ggg.eeload.com, proxy
+DOMAIN-SUFFIX, ggg112.net, proxy
 DOMAIN-SUFFIX, ggg16.net, proxy
 DOMAIN-SUFFIX, ggg36.net, proxy
 DOMAIN-SUFFIX, ggg626.net, proxy
@@ -7980,7 +8017,6 @@ DOMAIN-SUFFIX, green960.com, proxy
 DOMAIN-SUFFIX, greenbed.com, proxy
 DOMAIN-SUFFIX, greengelato.ro, proxy
 DOMAIN-SUFFIX, greenhouse.io, proxy
-DOMAIN-SUFFIX, greenlightbookstore.com, proxy
 DOMAIN-SUFFIX, greenmetis.com, proxy
 DOMAIN-SUFFIX, greenparty.org.tw, proxy
 DOMAIN-SUFFIX, greenproxy.net, proxy
@@ -8041,6 +8077,7 @@ DOMAIN-SUFFIX, guardian.co.uk, proxy
 DOMAIN-SUFFIX, guardiansofhk.com, proxy
 DOMAIN-SUFFIX, guardster.com, proxy
 DOMAIN-SUFFIX, gufen138.com, proxy
+DOMAIN-SUFFIX, gufeng521.spaces.live.com, proxy
 DOMAIN-SUFFIX, gufensoso.com, proxy
 DOMAIN-SUFFIX, guiaturista.net, proxy
 DOMAIN-SUFFIX, guidaili.com, proxy
@@ -8099,6 +8136,43 @@ DOMAIN-SUFFIX, h3.elf168.net, proxy
 DOMAIN-SUFFIX, h3.info.tm, proxy
 DOMAIN-SUFFIX, h4.elf168.net, proxy
 DOMAIN-SUFFIX, h5-as.lydcwl.cn, proxy
+DOMAIN-SUFFIX, h5.013ld.com, proxy
+DOMAIN-SUFFIX, h5.ld052.com, proxy
+DOMAIN-SUFFIX, h5.ld063.com, proxy
+DOMAIN-SUFFIX, h5.ld068.com, proxy
+DOMAIN-SUFFIX, h5.ld074.com, proxy
+DOMAIN-SUFFIX, h5.ld075.com, proxy
+DOMAIN-SUFFIX, h5.ld091.com, proxy
+DOMAIN-SUFFIX, h5.ld11111.com, proxy
+DOMAIN-SUFFIX, h5.ld12.pro, proxy
+DOMAIN-SUFFIX, h5.ld29.pro, proxy
+DOMAIN-SUFFIX, h5.ld33333.com, proxy
+DOMAIN-SUFFIX, h5.ld55555.com, proxy
+DOMAIN-SUFFIX, h5.ld66666.com, proxy
+DOMAIN-SUFFIX, h5.ld88.tv, proxy
+DOMAIN-SUFFIX, h5.ld99.tv, proxy
+DOMAIN-SUFFIX, h5.ld999.tv, proxy
+DOMAIN-SUFFIX, h5.ldsp66.com, proxy
+DOMAIN-SUFFIX, h5.ldvip19.com, proxy
+DOMAIN-SUFFIX, h5.ldvip20.com, proxy
+DOMAIN-SUFFIX, h5.ldvip21.com, proxy
+DOMAIN-SUFFIX, h5.ldvip23.com, proxy
+DOMAIN-SUFFIX, h5.ldvip24.com, proxy
+DOMAIN-SUFFIX, h5.ldvip25.com, proxy
+DOMAIN-SUFFIX, h5.ldvip26.com, proxy
+DOMAIN-SUFFIX, h5.ldvip27.com, proxy
+DOMAIN-SUFFIX, h5.ldvip28.com, proxy
+DOMAIN-SUFFIX, h5.ldvip29.com, proxy
+DOMAIN-SUFFIX, h5.ldvip30.com, proxy
+DOMAIN-SUFFIX, h5.ldvip31.com, proxy
+DOMAIN-SUFFIX, h5.ldvip32.com, proxy
+DOMAIN-SUFFIX, h5.ldvip34.com, proxy
+DOMAIN-SUFFIX, h5.ldvip35.com, proxy
+DOMAIN-SUFFIX, h5.ldvip36.com, proxy
+DOMAIN-SUFFIX, h5.ldvip37.com, proxy
+DOMAIN-SUFFIX, h5.ldvip40.com, proxy
+DOMAIN-SUFFIX, h5.ldvip41.com, proxy
+DOMAIN-SUFFIX, h5.ldvip42.com, proxy
 DOMAIN-SUFFIX, h5.shop.tm, proxy
 DOMAIN-SUFFIX, h598.com, proxy
 DOMAIN-SUFFIX, h5galgame.com, proxy
@@ -8134,7 +8208,6 @@ DOMAIN-SUFFIX, hamburger-me.com, proxy
 DOMAIN-SUFFIX, hamidabdollahi.ir, proxy
 DOMAIN-SUFFIX, han-duty.com, proxy
 DOMAIN-SUFFIX, handelsblatt.com, proxy
-DOMAIN-SUFFIX, handiyan.web.id, proxy
 DOMAIN-SUFFIX, hanime.tv, proxy
 DOMAIN-SUFFIX, hanmail.net, proxy
 DOMAIN-SUFFIX, hanmanziyuan.com, proxy
@@ -8166,8 +8239,7 @@ DOMAIN-SUFFIX, hawaiipacifichealth.org, proxy
 DOMAIN-SUFFIX, hayatnuri.app, proxy
 DOMAIN-SUFFIX, hayatnuri.com, proxy
 DOMAIN-SUFFIX, hayvip.com, proxy
-DOMAIN-SUFFIX, hazelgrovepac.ca, proxy
-DOMAIN-SUFFIX, hb1113.com, proxy
+DOMAIN-SUFFIX, hb0e.dsn1151a.com, proxy
 DOMAIN-SUFFIX, hb287.com, proxy
 DOMAIN-SUFFIX, hb3131.com, proxy
 DOMAIN-SUFFIX, hbo.com, proxy
@@ -8218,7 +8290,6 @@ DOMAIN-SUFFIX, healthwebsite.xyz, proxy
 DOMAIN-SUFFIX, healthysite.xyz, proxy
 DOMAIN-SUFFIX, healthysites.xyz, proxy
 DOMAIN-SUFFIX, heathnews.xyz, proxy
-DOMAIN-SUFFIX, heathwebsite.xyz, proxy
 DOMAIN-SUFFIX, heaven.17mh.app, proxy
 DOMAIN-SUFFIX, heavy-r.com, proxy
 DOMAIN-SUFFIX, hebdo.ch, proxy
@@ -8284,7 +8355,6 @@ DOMAIN-SUFFIX, hg141.com, proxy
 DOMAIN-SUFFIX, hg1661.com, proxy
 DOMAIN-SUFFIX, hg188.com.cn, proxy
 DOMAIN-SUFFIX, hg3458.com, proxy
-DOMAIN-SUFFIX, hg86228.com, proxy
 DOMAIN-SUFFIX, hg9566.com, proxy
 DOMAIN-SUFFIX, hga017.com, proxy
 DOMAIN-SUFFIX, hga025.com, proxy
@@ -8356,7 +8426,6 @@ DOMAIN-SUFFIX, hitbtc.com, proxy
 DOMAIN-SUFFIX, hitekrecruiting.net, proxy
 DOMAIN-SUFFIX, hitomi.la, proxy
 DOMAIN-SUFFIX, hitremixes.com, proxy
-DOMAIN-SUFFIX, hitunggaji.com, proxy
 DOMAIN-SUFFIX, hiveminds.net, proxy
 DOMAIN-SUFFIX, hizb-ut-tahrir.org, proxy
 DOMAIN-SUFFIX, hizbuttahrir.org, proxy
@@ -8490,6 +8559,7 @@ DOMAIN-SUFFIX, hmarkets.co.uk, proxy
 DOMAIN-SUFFIX, hmarkets.com, proxy
 DOMAIN-SUFFIX, hmoegirl.com, proxy
 DOMAIN-SUFFIX, hmv.co.jp, proxy
+DOMAIN-SUFFIX, hn6gc.cnamedns.net, proxy
 DOMAIN-SUFFIX, hnjhj.com, proxy
 DOMAIN-SUFFIX, hobby-site.com, proxy
 DOMAIN-SUFFIX, hobby-site.org, proxy
@@ -8521,12 +8591,12 @@ DOMAIN-SUFFIX, hometubeporn.com, proxy
 DOMAIN-SUFFIX, homeunix.org, proxy
 DOMAIN-SUFFIX, homewarranty.firstam.com, proxy
 DOMAIN-SUFFIX, honda2wheelersindia.com, proxy
+DOMAIN-SUFFIX, honeonet.spaces.live.com, proxy
 DOMAIN-SUFFIX, hong.com, proxy
 DOMAIN-SUFFIX, hongkong-s02-i02.cg-dialup.net, proxy
 DOMAIN-SUFFIX, hongkong.nhtglobal.com, proxy
 DOMAIN-SUFFIX, hongkongfp.com, proxy
 DOMAIN-SUFFIX, honglinzhang.com, proxy
-DOMAIN-SUFFIX, hongmeimei.com, proxy
 DOMAIN-SUFFIX, hongzhi.li, proxy
 DOMAIN-SUFFIX, honto.jp, proxy
 DOMAIN-SUFFIX, hootsuite.com, proxy
@@ -8609,6 +8679,7 @@ DOMAIN-SUFFIX, hua-yue.net, proxy
 DOMAIN-SUFFIX, hua95992.com, proxy
 DOMAIN-SUFFIX, huaglad.com, proxy
 DOMAIN-SUFFIX, huaile.me, proxy
+DOMAIN-SUFFIX, huajiadi.spaces.live.com, proxy
 DOMAIN-SUFFIX, huan.moe, proxy
 DOMAIN-SUFFIX, huanghuagang.org, proxy
 DOMAIN-SUFFIX, huanyin.org, proxy
@@ -8632,6 +8703,7 @@ DOMAIN-SUFFIX, huffpost.com, proxy
 DOMAIN-SUFFIX, huijia888.gq, proxy
 DOMAIN-SUFFIX, huijiadelu.com, proxy
 DOMAIN-SUFFIX, huinyc.com, proxy
+DOMAIN-SUFFIX, hujiachina.spaces.live.com, proxy
 DOMAIN-SUFFIX, hulkshare.com, proxy
 DOMAIN-SUFFIX, hum.info.tm, proxy
 DOMAIN-SUFFIX, human.nl, proxy
@@ -8730,7 +8802,6 @@ DOMAIN-SUFFIX, iceblaze.com, proxy
 DOMAIN-SUFFIX, icegay.tv, proxy
 DOMAIN-SUFFIX, icevil.webege.com, proxy
 DOMAIN-SUFFIX, icgirls.com, proxy
-DOMAIN-SUFFIX, icij.org, proxy
 DOMAIN-SUFFIX, icili.net, proxy
 DOMAIN-SUFFIX, icoco.com, proxy
 DOMAIN-SUFFIX, icpc-chinesepen.org, proxy
@@ -8762,6 +8833,7 @@ DOMAIN-SUFFIX, ie2205.com, proxy
 DOMAIN-SUFFIX, ie2206.com, proxy
 DOMAIN-SUFFIX, ieasy5.com, proxy
 DOMAIN-SUFFIX, ieasytimes.jigsy.com, proxy
+DOMAIN-SUFFIX, ieemdai.spaces.live.com, proxy
 DOMAIN-SUFFIX, ieltsenglish.yolasite.com, proxy
 DOMAIN-SUFFIX, iescentral.com, proxy
 DOMAIN-SUFFIX, ifa168.com, proxy
@@ -9121,6 +9193,7 @@ DOMAIN-SUFFIX, iwank.tv, proxy
 DOMAIN-SUFFIX, iwantclips.com, proxy
 DOMAIN-SUFFIX, iwanttheodora.com, proxy
 DOMAIN-SUFFIX, iwon88.com, proxy
+DOMAIN-SUFFIX, iwowwe.com, proxy
 DOMAIN-SUFFIX, iwss.com.au, proxy
 DOMAIN-SUFFIX, iwwhm.r5.cr.rs, proxy
 DOMAIN-SUFFIX, ixabot.com, proxy
@@ -9278,6 +9351,7 @@ DOMAIN-SUFFIX, jepic.org, proxy
 DOMAIN-SUFFIX, jerryxiao.cc, proxy
 DOMAIN-SUFFIX, jerwei.idv.tw, proxy
 DOMAIN-SUFFIX, jessewilkinson.com, proxy
+DOMAIN-SUFFIX, jesus-army.com, proxy
 DOMAIN-SUFFIX, jetgames.cf, proxy
 DOMAIN-SUFFIX, jeth.tk, proxy
 DOMAIN-SUFFIX, jewishpathways.com, proxy
@@ -9362,6 +9436,7 @@ DOMAIN-SUFFIX, jj2365.com, proxy
 DOMAIN-SUFFIX, jj766.net, proxy
 DOMAIN-SUFFIX, jj773.net, proxy
 DOMAIN-SUFFIX, jjgirls.com, proxy
+DOMAIN-SUFFIX, jjj112.net, proxy
 DOMAIN-SUFFIX, jjj393.com, proxy
 DOMAIN-SUFFIX, jjj626.net, proxy
 DOMAIN-SUFFIX, jk-sexvideos.com, proxy
@@ -9570,7 +9645,6 @@ DOMAIN-SUFFIX, keandra.com, proxy
 DOMAIN-SUFFIX, kebrum.com, proxy
 DOMAIN-SUFFIX, kechara.com, proxy
 DOMAIN-SUFFIX, ked.b0ne.com, proxy
-DOMAIN-SUFFIX, kedna.com, proxy
 DOMAIN-SUFFIX, keecha.com, proxy
 DOMAIN-SUFFIX, keepanonymous.com, proxy
 DOMAIN-SUFFIX, keepital.com, proxy
@@ -9645,7 +9719,6 @@ DOMAIN-SUFFIX, kirin-lin.idv.tw, proxy
 DOMAIN-SUFFIX, kirstydj.co.uk, proxy
 DOMAIN-SUFFIX, kissanime.com, proxy
 DOMAIN-SUFFIX, kissanime.to, proxy
-DOMAIN-SUFFIX, kissjav.com, proxy
 DOMAIN-SUFFIX, kissporntube.com, proxy
 DOMAIN-SUFFIX, kisstv.cc, proxy
 DOMAIN-SUFFIX, kissxtv.com, proxy
@@ -9716,6 +9789,7 @@ DOMAIN-SUFFIX, kralin.su, proxy
 DOMAIN-SUFFIX, kreyness.com, proxy
 DOMAIN-SUFFIX, kripaludrummers.com, proxy
 DOMAIN-SUFFIX, krishab786.com, proxy
+DOMAIN-SUFFIX, krishnaflashmobs.weebly.com, proxy
 DOMAIN-SUFFIX, krsnavision.com, proxy
 DOMAIN-SUFFIX, krypt.com, proxy
 DOMAIN-SUFFIX, kryptnostic.com, proxy
@@ -9783,12 +9857,14 @@ DOMAIN-SUFFIX, kwak.ml, proxy
 DOMAIN-SUFFIX, kwfq.tk, proxy
 DOMAIN-SUFFIX, kwikj.com, proxy
 DOMAIN-SUFFIX, kwongwah.com.my, proxy
+DOMAIN-SUFFIX, kxm6688.com, proxy
 DOMAIN-SUFFIX, kxsw.life, proxy
 DOMAIN-SUFFIX, kxsw.us, proxy
 DOMAIN-SUFFIX, kycloud.co, proxy
 DOMAIN-SUFFIX, kyohk.net, proxy
 DOMAIN-SUFFIX, kyoyue.com, proxy
 DOMAIN-SUFFIX, kznbadminton.co.za, proxy
+DOMAIN-SUFFIX, kzqzb.com, proxy
 DOMAIN-SUFFIX, la-conjugaison.fr, proxy
 DOMAIN-SUFFIX, la-forum.org, proxy
 DOMAIN-SUFFIX, la4065.com, proxy
@@ -9877,9 +9953,15 @@ DOMAIN-SUFFIX, lbry.tv, proxy
 DOMAIN-SUFFIX, lcw580.com, proxy
 DOMAIN-SUFFIX, lcx.cc, proxy
 DOMAIN-SUFFIX, lcych.com, proxy
+DOMAIN-SUFFIX, ld3.bet, proxy
+DOMAIN-SUFFIX, ld888.tv, proxy
 DOMAIN-SUFFIX, ldkrsi.blogspot.jp, proxy
 DOMAIN-SUFFIX, ldnmb.com, proxy
 DOMAIN-SUFFIX, ldschinese.com, proxy
+DOMAIN-SUFFIX, ldsp22.com, proxy
+DOMAIN-SUFFIX, ldsp55.com, proxy
+DOMAIN-SUFFIX, ldsp6.com, proxy
+DOMAIN-SUFFIX, ldsp88.com, proxy
 DOMAIN-SUFFIX, ldvip10.com, proxy
 DOMAIN-SUFFIX, ldvip14.com, proxy
 DOMAIN-SUFFIX, ldvip15.com, proxy
@@ -9998,7 +10080,6 @@ DOMAIN-SUFFIX, letou114.net, proxy
 DOMAIN-SUFFIX, letou123.com, proxy
 DOMAIN-SUFFIX, letou123.net, proxy
 DOMAIN-SUFFIX, letou188.net, proxy
-DOMAIN-SUFFIX, letou2.com, proxy
 DOMAIN-SUFFIX, letou2560.com, proxy
 DOMAIN-SUFFIX, letou3.com, proxy
 DOMAIN-SUFFIX, letou310.com, proxy
@@ -10052,6 +10133,7 @@ DOMAIN-SUFFIX, li.t168.ml, proxy
 DOMAIN-SUFFIX, liangchenyun.io, proxy
 DOMAIN-SUFFIX, liangchenyun.xyz, proxy
 DOMAIN-SUFFIX, liangyou.net, proxy
+DOMAIN-SUFFIX, liaojunmin.weebly.com, proxy
 DOMAIN-SUFFIX, liaowangxizang.net, proxy
 DOMAIN-SUFFIX, lib.ebookservice.tw, proxy
 DOMAIN-SUFFIX, lib.etowns.org, proxy
@@ -10120,7 +10202,6 @@ DOMAIN-SUFFIX, lipuman.com, proxy
 DOMAIN-SUFFIX, liquid.com, proxy
 DOMAIN-SUFFIX, liquidvpn.com, proxy
 DOMAIN-SUFFIX, lis888.com, proxy
-DOMAIN-SUFFIX, lisaferia.cf, proxy
 DOMAIN-SUFFIX, lisasimonsen.com, proxy
 DOMAIN-SUFFIX, lishuhang.com, proxy
 DOMAIN-SUFFIX, listen.radioking.com, proxy
@@ -10141,6 +10222,7 @@ DOMAIN-SUFFIX, live.streamingfast.net, proxy
 DOMAIN-SUFFIX, live012.com, proxy
 DOMAIN-SUFFIX, live173.com, proxy
 DOMAIN-SUFFIX, live228.com, proxy
+DOMAIN-SUFFIX, liveay.com, proxy
 DOMAIN-SUFFIX, livedoor.blogimg.jp, proxy
 DOMAIN-SUFFIX, livedoor.jp, proxy
 DOMAIN-SUFFIX, livejasmin.com, proxy
@@ -10184,6 +10266,7 @@ DOMAIN-SUFFIX, loft.omni7.jp, proxy
 DOMAIN-SUFFIX, log.sometalkofme.com, proxy
 DOMAIN-SUFFIX, login-90a53.firebaseio.com, proxy
 DOMAIN-SUFFIX, login.qltx1.com, proxy
+DOMAIN-SUFFIX, loginim.aglivefouraglive.com, proxy
 DOMAIN-SUFFIX, logiqx.com, proxy
 DOMAIN-SUFFIX, logme.in, proxy
 DOMAIN-SUFFIX, logmein.com, proxy
@@ -10294,9 +10377,9 @@ DOMAIN-SUFFIX, lvv2.com, proxy
 DOMAIN-SUFFIX, lyc111.com, proxy
 DOMAIN-SUFFIX, lyfhk.net, proxy
 DOMAIN-SUFFIX, lyncone.lyncpay.com, proxy
-DOMAIN-SUFFIX, lynetteguzman.weebly.com, proxy
 DOMAIN-SUFFIX, lynnminmay.no-ip.org, proxy
 DOMAIN-SUFFIX, lyricwiki.com, proxy
+DOMAIN-SUFFIX, lysfms.com, proxy
 DOMAIN-SUFFIX, lzhwp.org, proxy
 DOMAIN-SUFFIX, lzqp2019.com, proxy
 DOMAIN-SUFFIX, m-and-j-collection.blogspot.pt, proxy
@@ -10377,6 +10460,7 @@ DOMAIN-SUFFIX, m.pc500.cc, proxy
 DOMAIN-SUFFIX, m.plixi.com, proxy
 DOMAIN-SUFFIX, m.pncle8.com, proxy
 DOMAIN-SUFFIX, m.ptcff666.com, proxy
+DOMAIN-SUFFIX, m.rb288.com, proxy
 DOMAIN-SUFFIX, m.sdyl188.com, proxy
 DOMAIN-SUFFIX, m.search.aol.com, proxy
 DOMAIN-SUFFIX, m.sh22.us, proxy
@@ -10433,6 +10517,7 @@ DOMAIN-SUFFIX, mafiagame.ml, proxy
 DOMAIN-SUFFIX, mag2.com, proxy
 DOMAIN-SUFFIX, magazine.godsdirectcontact.net, proxy
 DOMAIN-SUFFIX, maggiebears.com, proxy
+DOMAIN-SUFFIX, magic346cn.weebly.com, proxy
 DOMAIN-SUFFIX, magicalaska-form.weebly.com, proxy
 DOMAIN-SUFFIX, magiccloak.net, proxy
 DOMAIN-SUFFIX, magictea.xyz, proxy
@@ -10481,7 +10566,6 @@ DOMAIN-SUFFIX, maildns.xyz, proxy
 DOMAIN-SUFFIX, mailnuaaeducn.dynamic-dns.net, proxy
 DOMAIN-SUFFIX, mailp.in, proxy
 DOMAIN-SUFFIX, mailsevera.com, proxy
-DOMAIN-SUFFIX, main-ecnpaper-economist.content.pugpig.com, proxy
 DOMAIN-SUFFIX, main.ga, proxy
 DOMAIN-SUFFIX, mainetenants.org, proxy
 DOMAIN-SUFFIX, mainichi.jp, proxy
@@ -10562,7 +10646,6 @@ DOMAIN-SUFFIX, mashiro.best, proxy
 DOMAIN-SUFFIX, masiukiewicz.pl, proxy
 DOMAIN-SUFFIX, maskedip.com, proxy
 DOMAIN-SUFFIX, masnafood.com, proxy
-DOMAIN-SUFFIX, masrudy.web.id, proxy
 DOMAIN-SUFFIX, massjsq.com, proxy
 DOMAIN-SUFFIX, massmutual.com, proxy
 DOMAIN-SUFFIX, master-insight.com, proxy
@@ -10595,14 +10678,15 @@ DOMAIN-SUFFIX, mbetway88.agent1818.com, proxy
 DOMAIN-SUFFIX, mbtrx.com, proxy
 DOMAIN-SUFFIX, mbuat.dahsing.com, proxy
 DOMAIN-SUFFIX, mbxjs920.com, proxy
+DOMAIN-SUFFIX, mc-prgs.weebly.com, proxy
 DOMAIN-SUFFIX, mca66.com, proxy
 DOMAIN-SUFFIX, mcaf.ee, proxy
-DOMAIN-SUFFIX, mcatlove.com, proxy
 DOMAIN-SUFFIX, mccentre.org.au, proxy
 DOMAIN-SUFFIX, mcclatchydc.com, proxy
 DOMAIN-SUFFIX, mccormicklit.com, proxy
 DOMAIN-SUFFIX, mcfantasy.xyz, proxy
 DOMAIN-SUFFIX, mcfog.com, proxy
+DOMAIN-SUFFIX, mchideaway.com, proxy
 DOMAIN-SUFFIX, mci.ir, proxy
 DOMAIN-SUFFIX, mclelun.com, proxy
 DOMAIN-SUFFIX, mcleodganj.com, proxy
@@ -10618,7 +10702,6 @@ DOMAIN-SUFFIX, me.ddns.ms, proxy
 DOMAIN-SUFFIX, me9944.com, proxy
 DOMAIN-SUFFIX, meddeladem.se, proxy
 DOMAIN-SUFFIX, media.aalah.me, proxy
-DOMAIN-SUFFIX, media.discordapp.net, proxy
 DOMAIN-SUFFIX, media.lanecrawford.com, proxy
 DOMAIN-SUFFIX, mediafactory.jp, proxy
 DOMAIN-SUFFIX, mediafiretrend.com, proxy
@@ -10640,6 +10723,7 @@ DOMAIN-SUFFIX, meetsexygirls.org, proxy
 DOMAIN-SUFFIX, meexpress.net, proxy
 DOMAIN-SUFFIX, mefeedia.com, proxy
 DOMAIN-SUFFIX, mega.co.nz, proxy
+DOMAIN-SUFFIX, mega.io, proxy
 DOMAIN-SUFFIX, mega.nz, proxy
 DOMAIN-SUFFIX, megacorpwars.com, proxy
 DOMAIN-SUFFIX, megalabs.eu, proxy
@@ -10653,7 +10737,6 @@ DOMAIN-SUFFIX, meilizhongguo.biz, proxy
 DOMAIN-SUFFIX, meltdownintibet.com, proxy
 DOMAIN-SUFFIX, member.cff888.com, proxy
 DOMAIN-SUFFIX, members.common.org, proxy
-DOMAIN-SUFFIX, meme.yahoo.com, proxy
 DOMAIN-SUFFIX, memedia.cn, proxy
 DOMAIN-SUFFIX, memehk.com, proxy
 DOMAIN-SUFFIX, memeyou.net, proxy
@@ -10809,6 +10892,7 @@ DOMAIN-SUFFIX, mjsnails.com.au, proxy
 DOMAIN-SUFFIX, mk.mefound.com, proxy
 DOMAIN-SUFFIX, mkhq.co.kr, proxy
 DOMAIN-SUFFIX, mklegaladvice.com, proxy
+DOMAIN-SUFFIX, mkt.l0080.shabaa1.com, proxy
 DOMAIN-SUFFIX, mktast.advansa.org, proxy
 DOMAIN-SUFFIX, mkxzp.com, proxy
 DOMAIN-SUFFIX, mlcool.com, proxy
@@ -10820,6 +10904,7 @@ DOMAIN-SUFFIX, mm-11.com, proxy
 DOMAIN-SUFFIX, mm-cg.com, proxy
 DOMAIN-SUFFIX, mm-cgnews.com, proxy
 DOMAIN-SUFFIX, mm.net.my, proxy
+DOMAIN-SUFFIX, mm168.xyz, proxy
 DOMAIN-SUFFIX, mm565.net, proxy
 DOMAIN-SUFFIX, mm831.com, proxy
 DOMAIN-SUFFIX, mm94168.com, proxy
@@ -10854,6 +10939,7 @@ DOMAIN-SUFFIX, mobilecoverage.com.au, proxy
 DOMAIN-SUFFIX, mobily.com.sa, proxy
 DOMAIN-SUFFIX, moby.to, proxy
 DOMAIN-SUFFIX, mobypicture.com, proxy
+DOMAIN-SUFFIX, mochikappa.weebly.com, proxy
 DOMAIN-SUFFIX, mochimedia.com, proxy
 DOMAIN-SUFFIX, mocovideo.jp, proxy
 DOMAIN-SUFFIX, mod-reborn.weebly.com, proxy
@@ -10871,7 +10957,6 @@ DOMAIN-SUFFIX, mofidonline.com, proxy
 DOMAIN-SUFFIX, mofos.com, proxy
 DOMAIN-SUFFIX, mofosex.com, proxy
 DOMAIN-SUFFIX, moha.club, proxy
-DOMAIN-SUFFIX, mohu.club, proxy
 DOMAIN-SUFFIX, mohu.ml, proxy
 DOMAIN-SUFFIX, mohu.tw, proxy
 DOMAIN-SUFFIX, mohubackup.github.io, proxy
@@ -10961,7 +11046,6 @@ DOMAIN-SUFFIX, mrc58.com, proxy
 DOMAIN-SUFFIX, mrcat123.com, proxy
 DOMAIN-SUFFIX, mrcat166.com, proxy
 DOMAIN-SUFFIX, mrcat168.com, proxy
-DOMAIN-SUFFIX, mrcat3.com, proxy
 DOMAIN-SUFFIX, mrcat666.com, proxy
 DOMAIN-SUFFIX, mrcat68.com, proxy
 DOMAIN-SUFFIX, mrcboy.com, proxy
@@ -10985,6 +11069,7 @@ DOMAIN-SUFFIX, ms52.ml, proxy
 DOMAIN-SUFFIX, msb.strikewin.com, proxy
 DOMAIN-SUFFIX, msgforex.com, proxy
 DOMAIN-SUFFIX, msguancha.com, proxy
+DOMAIN-SUFFIX, msp2.czxujiwq.com, proxy
 DOMAIN-SUFFIX, msper.freeiz.com, proxy
 DOMAIN-SUFFIX, mstdn.io, proxy
 DOMAIN-SUFFIX, mt0.google.cn, proxy
@@ -11007,6 +11092,7 @@ DOMAIN-SUFFIX, muftah.org, proxy
 DOMAIN-SUFFIX, mullvad.net, proxy
 DOMAIN-SUFFIX, multiproxy.org, proxy
 DOMAIN-SUFFIX, multiupload.com, proxy
+DOMAIN-SUFFIX, munpage.com, proxy
 DOMAIN-SUFFIX, muramura.tv, proxy
 DOMAIN-SUFFIX, murmurcn.com, proxy
 DOMAIN-SUFFIX, murtadho.com.br, proxy
@@ -11034,7 +11120,6 @@ DOMAIN-SUFFIX, my-proxy.com, proxy
 DOMAIN-SUFFIX, my-rainbow-arts.com, proxy
 DOMAIN-SUFFIX, my.alan.etowns.org, proxy
 DOMAIN-SUFFIX, my.freev2ray.org, proxy
-DOMAIN-SUFFIX, my.gfw.cat, proxy
 DOMAIN-SUFFIX, my.hidrive.com, proxy
 DOMAIN-SUFFIX, my.jumpthewall.net, proxy
 DOMAIN-SUFFIX, my.keso.cn, proxy
@@ -11191,7 +11276,6 @@ DOMAIN-SUFFIX, nas.overock.com, proxy
 DOMAIN-SUFFIX, nastyvideotube.com, proxy
 DOMAIN-SUFFIX, nataleimpex.ro, proxy
 DOMAIN-SUFFIX, nataliehill2012.net23.net, proxy
-DOMAIN-SUFFIX, natanubuntu.tk, proxy
 DOMAIN-SUFFIX, natbees.cl, proxy
 DOMAIN-SUFFIX, nationalenquirer.com, proxy
 DOMAIN-SUFFIX, nationalinterest.org, proxy
@@ -11329,7 +11413,6 @@ DOMAIN-SUFFIX, newser.com, proxy
 DOMAIN-SUFFIX, newsextube.org, proxy
 DOMAIN-SUFFIX, newshub.co.nz, proxy
 DOMAIN-SUFFIX, newsinc.com, proxy
-DOMAIN-SUFFIX, newsleter.tk, proxy
 DOMAIN-SUFFIX, newsmax.com, proxy
 DOMAIN-SUFFIX, newsmaxfeednetwork.com, proxy
 DOMAIN-SUFFIX, newsmaxhealth.com, proxy
@@ -11384,7 +11467,6 @@ DOMAIN-SUFFIX, nicozon.net, proxy
 DOMAIN-SUFFIX, nifty.com, proxy
 DOMAIN-SUFFIX, niftyedc.com, proxy
 DOMAIN-SUFFIX, night01.cc, proxy
-DOMAIN-SUFFIX, night02.cc, proxy
 DOMAIN-SUFFIX, night02.live, proxy
 DOMAIN-SUFFIX, night13.icu, proxy
 DOMAIN-SUFFIX, night19.icu, proxy
@@ -11426,6 +11508,7 @@ DOMAIN-SUFFIX, nl.hideproxy.me, proxy
 DOMAIN-SUFFIX, nl.ro89.com, proxy
 DOMAIN-SUFFIX, nlfreevpn.com, proxy
 DOMAIN-SUFFIX, nmail.com.ar, proxy
+DOMAIN-SUFFIX, nmdetenghj.com, proxy
 DOMAIN-SUFFIX, nmslzlgbe5xbag6t.onion.ly, proxy
 DOMAIN-SUFFIX, nn337.net, proxy
 DOMAIN-SUFFIX, nn633.com, proxy
@@ -11603,6 +11686,7 @@ DOMAIN-SUFFIX, nztd29.com, proxy
 DOMAIN-SUFFIX, nztdsm.com, proxy
 DOMAIN-SUFFIX, nzz.ch, proxy
 DOMAIN-SUFFIX, o.po18.tw, proxy
+DOMAIN-SUFFIX, o1665.com, proxy
 DOMAIN-SUFFIX, o33285.com, proxy
 DOMAIN-SUFFIX, o53xo.pfxxk5dvmjss4y3pnu.nblk.ru, proxy
 DOMAIN-SUFFIX, o8919.com, proxy
@@ -11647,6 +11731,7 @@ DOMAIN-SUFFIX, oeea.org, proxy
 DOMAIN-SUFFIX, officemax.com, proxy
 DOMAIN-SUFFIX, officeoftibet.com, proxy
 DOMAIN-SUFFIX, officialwindowsmagazine.com, proxy
+DOMAIN-SUFFIX, offshoreleaks.icij.org, proxy
 DOMAIN-SUFFIX, ofmdirect.com, proxy
 DOMAIN-SUFFIX, ofo91.com, proxy
 DOMAIN-SUFFIX, ofoc.sec.b0ne.com, proxy
@@ -11666,7 +11751,6 @@ DOMAIN-SUFFIX, ojbkss.win, proxy
 DOMAIN-SUFFIX, ok.hopto.org, proxy
 DOMAIN-SUFFIX, ok.ru, proxy
 DOMAIN-SUFFIX, ok.writers.idv.tw, proxy
-DOMAIN-SUFFIX, ok1188.net, proxy
 DOMAIN-SUFFIX, ok258258.com, proxy
 DOMAIN-SUFFIX, ok367.com, proxy
 DOMAIN-SUFFIX, ok5360.com, proxy
@@ -11801,6 +11885,7 @@ DOMAIN-SUFFIX, oricon.co.jp, proxy
 DOMAIN-SUFFIX, orienta.com.br, proxy
 DOMAIN-SUFFIX, orientaldaily.com.my, proxy
 DOMAIN-SUFFIX, orientalradio.com.sg, proxy
+DOMAIN-SUFFIX, origamitea.com, proxy
 DOMAIN-SUFFIX, originsoft.co.uk, proxy
 DOMAIN-SUFFIX, orioncity.virtualave.net, proxy
 DOMAIN-SUFFIX, orkut.co.in, proxy
@@ -11949,6 +12034,7 @@ DOMAIN-SUFFIX, paljorpublications.com, proxy
 DOMAIN-SUFFIX, paltalk.com, proxy
 DOMAIN-SUFFIX, pan.diemoe.net, proxy
 DOMAIN-SUFFIX, panagistics.com, proxy
+DOMAIN-SUFFIX, panamapapers.icij.org, proxy
 DOMAIN-SUFFIX, pandafan.me, proxy
 DOMAIN-SUFFIX, pandafan.org, proxy
 DOMAIN-SUFFIX, pandapow.co, proxy
@@ -11993,6 +12079,7 @@ DOMAIN-SUFFIX, parse.com, proxy
 DOMAIN-SUFFIX, parsevideo.com, proxy
 DOMAIN-SUFFIX, parsonseng.com.au, proxy
 DOMAIN-SUFFIX, partizy.com, proxy
+DOMAIN-SUFFIX, partners.cloudflare.com, proxy
 DOMAIN-SUFFIX, partycasino.com, proxy
 DOMAIN-SUFFIX, partypoker.com, proxy
 DOMAIN-SUFFIX, pascalau.ro, proxy
@@ -12016,6 +12103,7 @@ DOMAIN-SUFFIX, pausedmemories.com, proxy
 DOMAIN-SUFFIX, pavilhaodaagua.com, proxy
 DOMAIN-SUFFIX, pavilhaodaagua.pt, proxy
 DOMAIN-SUFFIX, pawoo.net, proxy
+DOMAIN-SUFFIX, paxlicense.org, proxy
 DOMAIN-SUFFIX, payfun.io, proxy
 DOMAIN-SUFFIX, payza.org, proxy
 DOMAIN-SUFFIX, pazou.org, proxy
@@ -12133,6 +12221,7 @@ DOMAIN-SUFFIX, phillytibetans.com, proxy
 DOMAIN-SUFFIX, phimvideo.org, proxy
 DOMAIN-SUFFIX, phoenixnewtimes.com, proxy
 DOMAIN-SUFFIX, phoeshow.me, proxy
+DOMAIN-SUFFIX, phoile.tender88.com, proxy
 DOMAIN-SUFFIX, phoneburnia.com, proxy
 DOMAIN-SUFFIX, photo-frame.com, proxy
 DOMAIN-SUFFIX, photo.5article.com, proxy
@@ -12238,11 +12327,11 @@ DOMAIN-SUFFIX, pk10.888funcity.net, proxy
 DOMAIN-SUFFIX, pl.wiktionary.org, proxy
 DOMAIN-SUFFIX, planetsuzy.org, proxy
 DOMAIN-SUFFIX, plant-seeds.idv.tw, proxy
-DOMAIN-SUFFIX, plasmatv.co.za, proxy
 DOMAIN-SUFFIX, plasson.com.ar, proxy
 DOMAIN-SUFFIX, plastamasta.net.au, proxy
 DOMAIN-SUFFIX, play-asia.com, proxy
 DOMAIN-SUFFIX, play.afreecatv.com, proxy
+DOMAIN-SUFFIX, play.gbgaming365.com, proxy
 DOMAIN-SUFFIX, play.itunes.apple.com, proxy
 DOMAIN-SUFFIX, play.spotify.com, proxy
 DOMAIN-SUFFIX, playboyplus.com, proxy
@@ -12384,6 +12473,7 @@ DOMAIN-SUFFIX, portalcyber.us, proxy
 DOMAIN-SUFFIX, portalinc.org, proxy
 DOMAIN-SUFFIX, portcampbellhostel.com.au, proxy
 DOMAIN-SUFFIX, porterslake.ca, proxy
+DOMAIN-SUFFIX, portis21.spaces.live.com, proxy
 DOMAIN-SUFFIX, pose.com, proxy
 DOMAIN-SUFFIX, poshserv.ml, proxy
 DOMAIN-SUFFIX, post76.com, proxy
@@ -12455,6 +12545,7 @@ DOMAIN-SUFFIX, profiles.myfreecams.com, proxy
 DOMAIN-SUFFIX, program-think-mirror.github.io, proxy
 DOMAIN-SUFFIX, program-think.blogspot.jp, proxy
 DOMAIN-SUFFIX, program-think.herokuapp.com, proxy
+DOMAIN-SUFFIX, program-think.spaces.live.com, proxy
 DOMAIN-SUFFIX, programthinkmirror.com, proxy
 DOMAIN-SUFFIX, progressive.com, proxy
 DOMAIN-SUFFIX, prohub.com, proxy
@@ -12462,6 +12553,7 @@ DOMAIN-SUFFIX, project-gutenberg.github.io, proxy
 DOMAIN-SUFFIX, project-syndicate.org, proxy
 DOMAIN-SUFFIX, projecth.us, proxy
 DOMAIN-SUFFIX, projectinterfaith.org, proxy
+DOMAIN-SUFFIX, projects.icij.org, proxy
 DOMAIN-SUFFIX, projectsecretidentity.org, proxy
 DOMAIN-SUFFIX, projectus-grupa.hr, proxy
 DOMAIN-SUFFIX, prokher.com, proxy
@@ -12532,7 +12624,6 @@ DOMAIN-SUFFIX, proxybrowsing.com, proxy
 DOMAIN-SUFFIX, proxybuster.org, proxy
 DOMAIN-SUFFIX, proxybytes.com, proxy
 DOMAIN-SUFFIX, proxydb.org, proxy
-DOMAIN-SUFFIX, proxydns.co.uk, proxy
 DOMAIN-SUFFIX, proxydns.com, proxy
 DOMAIN-SUFFIX, proxyfort.com, proxy
 DOMAIN-SUFFIX, proxyhide.org, proxy
@@ -12675,6 +12766,7 @@ DOMAIN-SUFFIX, qar.heeact.edu.tw, proxy
 DOMAIN-SUFFIX, qbaby.tv, proxy
 DOMAIN-SUFFIX, qc1n.66.flnet.org, proxy
 DOMAIN-SUFFIX, qcman.net, proxy
+DOMAIN-SUFFIX, qcphongvan.com, proxy
 DOMAIN-SUFFIX, qczb8.com, proxy
 DOMAIN-SUFFIX, qdownloader.net, proxy
 DOMAIN-SUFFIX, qf4cf.x.incapdns.net, proxy
@@ -12735,7 +12827,6 @@ DOMAIN-SUFFIX, qqmailboxs.dns04.com, proxy
 DOMAIN-SUFFIX, qqmemberships.serveuser.com, proxy
 DOMAIN-SUFFIX, qqq26.net, proxy
 DOMAIN-SUFFIX, qqq578.com, proxy
-DOMAIN-SUFFIX, qr0077.com, proxy
 DOMAIN-SUFFIX, qrdiktp.com, proxy
 DOMAIN-SUFFIX, qrsnapper.com, proxy
 DOMAIN-SUFFIX, qs.etowns.net, proxy
@@ -12838,7 +12929,6 @@ DOMAIN-SUFFIX, raynus.top, proxy
 DOMAIN-SUFFIX, rb128.com, proxy
 DOMAIN-SUFFIX, rb233.com, proxy
 DOMAIN-SUFFIX, rb278.com, proxy
-DOMAIN-SUFFIX, rb288.com, proxy
 DOMAIN-SUFFIX, rb8081.com, proxy
 DOMAIN-SUFFIX, rb8184.com, proxy
 DOMAIN-SUFFIX, rb8708.com, proxy
@@ -12891,7 +12981,6 @@ DOMAIN-SUFFIX, redchinacn.org, proxy
 DOMAIN-SUFFIX, redd.it, proxy
 DOMAIN-SUFFIX, reddawn.co.nz, proxy
 DOMAIN-SUFFIX, reddit.com, proxy
-DOMAIN-SUFFIX, redditbooru.com, proxy
 DOMAIN-SUFFIX, redditmedia.com, proxy
 DOMAIN-SUFFIX, redeemercast.net, proxy
 DOMAIN-SUFFIX, redgti.com.ar, proxy
@@ -12912,6 +13001,7 @@ DOMAIN-SUFFIX, regina-admin.firebaseio.com, proxy
 DOMAIN-SUFFIX, regionalband.weebly.com, proxy
 DOMAIN-SUFFIX, register.moex.gov.tw, proxy
 DOMAIN-SUFFIX, rego-fix.com, proxy
+DOMAIN-SUFFIX, rehabforum.org, proxy
 DOMAIN-SUFFIX, rehan.com.pk, proxy
 DOMAIN-SUFFIX, reimu.net, proxy
 DOMAIN-SUFFIX, reindeervpn.com, proxy
@@ -13044,7 +13134,6 @@ DOMAIN-SUFFIX, rogerhub.com, proxy
 DOMAIN-SUFFIX, rolia.net, proxy
 DOMAIN-SUFFIX, rollhillchurch.com, proxy
 DOMAIN-SUFFIX, romandie.ch, proxy
-DOMAIN-SUFFIX, romanobutiq.ro, proxy
 DOMAIN-SUFFIX, romsver.ro, proxy
 DOMAIN-SUFFIX, rons-home.net, proxy
 DOMAIN-SUFFIX, room4rent.cl, proxy
@@ -13110,6 +13199,7 @@ DOMAIN-SUFFIX, rusvpn.com, proxy
 DOMAIN-SUFFIX, ruten.com.tw, proxy
 DOMAIN-SUFFIX, rutnerspazzacamino.ch, proxy
 DOMAIN-SUFFIX, rutor.org, proxy
+DOMAIN-SUFFIX, rutube.ru, proxy
 DOMAIN-SUFFIX, ruuh.com, proxy
 DOMAIN-SUFFIX, rv55.com, proxy
 DOMAIN-SUFFIX, rwaitkus.com, proxy
@@ -13194,6 +13284,7 @@ DOMAIN-SUFFIX, safetunnel.tk, proxy
 DOMAIN-SUFFIX, safevpn.net, proxy
 DOMAIN-SUFFIX, sagitario.com.ar, proxy
 DOMAIN-SUFFIX, sahajayoga.ie, proxy
+DOMAIN-SUFFIX, sahvow.tv, proxy
 DOMAIN-SUFFIX, saidit.net, proxy
 DOMAIN-SUFFIX, saifeng3.com, proxy
 DOMAIN-SUFFIX, saigaocy.com, proxy
@@ -13354,6 +13445,7 @@ DOMAIN-SUFFIX, search.video.yahoo.com, proxy
 DOMAIN-SUFFIX, search.yahoo.co.jp, proxy
 DOMAIN-SUFFIX, search.yahoo.com, proxy
 DOMAIN-SUFFIX, searchenginewatch.com, proxy
+DOMAIN-SUFFIX, searchlove.cc, proxy
 DOMAIN-SUFFIX, searchmagnified.com, proxy
 DOMAIN-SUFFIX, sears.com, proxy
 DOMAIN-SUFFIX, searx.me, proxy
@@ -13492,6 +13584,7 @@ DOMAIN-SUFFIX, sg-zxc2.serverip.co, proxy
 DOMAIN-SUFFIX, sg.news.yahoo.com, proxy
 DOMAIN-SUFFIX, sg.yepdns.com, proxy
 DOMAIN-SUFFIX, sg138app.com, proxy
+DOMAIN-SUFFIX, sg5.vip, proxy
 DOMAIN-SUFFIX, sg60.vip, proxy
 DOMAIN-SUFFIX, sg9095.com, proxy
 DOMAIN-SUFFIX, sg9097.com, proxy
@@ -13686,6 +13779,7 @@ DOMAIN-SUFFIX, singfortibet.com, proxy
 DOMAIN-SUFFIX, singtao.ca, proxy
 DOMAIN-SUFFIX, singtao.com, proxy
 DOMAIN-SUFFIX, singtao.com.au, proxy
+DOMAIN-SUFFIX, singularitys.spaces.live.com, proxy
 DOMAIN-SUFFIX, siniritarit.fi, proxy
 DOMAIN-SUFFIX, sinistracritica.org, proxy
 DOMAIN-SUFFIX, sinner.gq, proxy
@@ -13708,7 +13802,6 @@ DOMAIN-SUFFIX, sis001.us, proxy
 DOMAIN-SUFFIX, sismonda.com, proxy
 DOMAIN-SUFFIX, sismonda.com.ar, proxy
 DOMAIN-SUFFIX, sitcup.net, proxy
-DOMAIN-SUFFIX, sitedasrunas.com.br, proxy
 DOMAIN-SUFFIX, sitegetter.net, proxy
 DOMAIN-SUFFIX, sitenable.org, proxy
 DOMAIN-SUFFIX, sites.iscvt.org, proxy
@@ -13716,6 +13809,7 @@ DOMAIN-SUFFIX, sitetag.us, proxy
 DOMAIN-SUFFIX, siwa.com, proxy
 DOMAIN-SUFFIX, six4.ddns.ms, proxy
 DOMAIN-SUFFIX, sixdollarclick.com, proxy
+DOMAIN-SUFFIX, siyi123123123.spaces.live.com, proxy
 DOMAIN-SUFFIX, sj.55668bb.com, proxy
 DOMAIN-SUFFIX, sjg007.com, proxy
 DOMAIN-SUFFIX, sjg117.com, proxy
@@ -13760,6 +13854,7 @@ DOMAIN-SUFFIX, slybe.io, proxy
 DOMAIN-SUFFIX, sm.sppoc.com, proxy
 DOMAIN-SUFFIX, sm2.info.tm, proxy
 DOMAIN-SUFFIX, sm5278.com, proxy
+DOMAIN-SUFFIX, smallgg.tv, proxy
 DOMAIN-SUFFIX, smart.businessweekly.com.tw, proxy
 DOMAIN-SUFFIX, smartaddons.com, proxy
 DOMAIN-SUFFIX, smartappsapk.com, proxy
@@ -13817,7 +13912,6 @@ DOMAIN-SUFFIX, sogeac.com, proxy
 DOMAIN-SUFFIX, sogoo.org, proxy
 DOMAIN-SUFFIX, sohcradio.com, proxy
 DOMAIN-SUFFIX, sohfrance.org, proxy
-DOMAIN-SUFFIX, sohobroadway.org, proxy
 DOMAIN-SUFFIX, sohografica.com, proxy
 DOMAIN-SUFFIX, sohografica.ro, proxy
 DOMAIN-SUFFIX, sokmil.com, proxy
@@ -13883,7 +13977,6 @@ DOMAIN-SUFFIX, space.jpl.nasa.gov, proxy
 DOMAIN-SUFFIX, spaceboop.com, proxy
 DOMAIN-SUFFIX, spaceplace.nasa.gov, proxy
 DOMAIN-SUFFIX, spaces.hightail.com, proxy
-DOMAIN-SUFFIX, spaces.live.com, proxy
 DOMAIN-SUFFIX, spankbang.com, proxy
 DOMAIN-SUFFIX, spankbang.name, proxy
 DOMAIN-SUFFIX, spankwire.com, proxy
@@ -13911,15 +14004,18 @@ DOMAIN-SUFFIX, spike.com, proxy
 DOMAIN-SUFFIX, spin803.com, proxy
 DOMAIN-SUFFIX, spin808.com, proxy
 DOMAIN-SUFFIX, spin88.com, proxy
+DOMAIN-SUFFIX, spirewie.monavecorw.net, proxy
 DOMAIN-SUFFIX, spisicbukovica.hr, proxy
 DOMAIN-SUFFIX, spizoo.com, proxy
 DOMAIN-SUFFIX, sploshme.com, proxy
+DOMAIN-SUFFIX, spn999.com, proxy
 DOMAIN-SUFFIX, spoe.at, proxy
 DOMAIN-SUFFIX, spoiledvirgins.com, proxy
 DOMAIN-SUFFIX, spoilertv.com, proxy
 DOMAIN-SUFFIX, spon.de, proxy
 DOMAIN-SUFFIX, sport24.co.za, proxy
 DOMAIN-SUFFIX, sports-bb.ipistech471.com, proxy
+DOMAIN-SUFFIX, sports-qyim.nntisixsixsix.com, proxy
 DOMAIN-SUFFIX, sports.188betkr.com, proxy
 DOMAIN-SUFFIX, sports.188games.net, proxy
 DOMAIN-SUFFIX, sports.frfujikoll.com, proxy
@@ -13972,6 +14068,7 @@ DOMAIN-SUFFIX, ss733.net, proxy
 DOMAIN-SUFFIX, ss9874.com, proxy
 DOMAIN-SUFFIX, ssarea.com, proxy
 DOMAIN-SUFFIX, ssasolutions.ml, proxy
+DOMAIN-SUFFIX, sscube5.com, proxy
 DOMAIN-SUFFIX, ssd.jpl.nasa.gov, proxy
 DOMAIN-SUFFIX, ssd5.cf, proxy
 DOMAIN-SUFFIX, ssl-proxy.my-addr.org, proxy
@@ -14138,6 +14235,7 @@ DOMAIN-SUFFIX, suave.com, proxy
 DOMAIN-SUFFIX, sub.kamigami.org, proxy
 DOMAIN-SUFFIX, subekthi.com, proxy
 DOMAIN-SUFFIX, subhd.com, proxy
+DOMAIN-SUFFIX, sublexical.spaces.live.com, proxy
 DOMAIN-SUFFIX, submarino.com.br, proxy
 DOMAIN-SUFFIX, submit.jotform.com, proxy
 DOMAIN-SUFFIX, submit.jotform.us, proxy
@@ -14216,6 +14314,7 @@ DOMAIN-SUFFIX, supertweet.net, proxy
 DOMAIN-SUFFIX, supervigor.com, proxy
 DOMAIN-SUFFIX, supplyplus.net.au, proxy
 DOMAIN-SUFFIX, supplyrussia.com, proxy
+DOMAIN-SUFFIX, support.appsflyer.com, proxy
 DOMAIN-SUFFIX, support.pubu.tw, proxy
 DOMAIN-SUFFIX, support.zoom.us, proxy
 DOMAIN-SUFFIX, suprememastertv.com, proxy
@@ -14360,7 +14459,6 @@ DOMAIN-SUFFIX, tanglaoshu.com, proxy
 DOMAIN-SUFFIX, tango.me, proxy
 DOMAIN-SUFFIX, tangren.us, proxy
 DOMAIN-SUFFIX, tank.org, proxy
-DOMAIN-SUFFIX, tankerenemy.com, proxy
 DOMAIN-SUFFIX, tantannews.com, proxy
 DOMAIN-SUFFIX, tanzil.net, proxy
 DOMAIN-SUFFIX, taobonfu.com, proxy
@@ -14487,6 +14585,7 @@ DOMAIN-SUFFIX, test.freepac.pw, proxy
 DOMAIN-SUFFIX, test.nadeo.com, proxy
 DOMAIN-SUFFIX, test1.av9.cc, proxy
 DOMAIN-SUFFIX, testapi.xinbet.net, proxy
+DOMAIN-SUFFIX, testmakeer.weebly.com, proxy
 DOMAIN-SUFFIX, testpilot.firefox.com, proxy
 DOMAIN-SUFFIX, tetova24.com, proxy
 DOMAIN-SUFFIX, tew.org, proxy
@@ -14549,7 +14648,6 @@ DOMAIN-SUFFIX, theepochtimessubscribe.com, proxy
 DOMAIN-SUFFIX, theexgirlfriends.com, proxy
 DOMAIN-SUFFIX, thefacebookproxy.com, proxy
 DOMAIN-SUFFIX, thefappening.so, proxy
-DOMAIN-SUFFIX, thefragileart.weebly.com, proxy
 DOMAIN-SUFFIX, thefreelibrary.com, proxy
 DOMAIN-SUFFIX, thefreevpn.com, proxy
 DOMAIN-SUFFIX, thegay.com, proxy
@@ -14771,6 +14869,7 @@ DOMAIN-SUFFIX, tigerpvp.ga, proxy
 DOMAIN-SUFFIX, tigervpn.com, proxy
 DOMAIN-SUFFIX, tiktok.com, proxy
 DOMAIN-SUFFIX, timc.idv.tw, proxy
+DOMAIN-SUFFIX, time.cloudflare.com, proxy
 DOMAIN-SUFFIX, time.com, proxy
 DOMAIN-SUFFIX, times-bignews.com, proxy
 DOMAIN-SUFFIX, times.com, proxy
@@ -14859,6 +14958,7 @@ DOMAIN-SUFFIX, tobing.id, proxy
 DOMAIN-SUFFIX, tobing.web.id, proxy
 DOMAIN-SUFFIX, tobuy.us, proxy
 DOMAIN-SUFFIX, toc-online.ch, proxy
+DOMAIN-SUFFIX, todatienda.com, proxy
 DOMAIN-SUFFIX, today-bypassgfw-xyz.firebaseio.com, proxy
 DOMAIN-SUFFIX, today.code4.hk, proxy
 DOMAIN-SUFFIX, today.m.vu, proxy
@@ -15178,7 +15278,6 @@ DOMAIN-SUFFIX, tw.daigobang.com, proxy
 DOMAIN-SUFFIX, tw.dictionary.yahoo.com, proxy
 DOMAIN-SUFFIX, tw.forumosa.com, proxy
 DOMAIN-SUFFIX, tw.gigacircle.com, proxy
-DOMAIN-SUFFIX, tw.hao123.com, proxy
 DOMAIN-SUFFIX, tw.hotels.com, proxy
 DOMAIN-SUFFIX, tw.jzbet666.net, proxy
 DOMAIN-SUFFIX, tw.knowledge.yahoo.com, proxy
@@ -15246,6 +15345,7 @@ DOMAIN-SUFFIX, twitcasting.tv, proxy
 DOMAIN-SUFFIX, twitch.com, proxy
 DOMAIN-SUFFIX, twitch.tv, proxy
 DOMAIN-SUFFIX, twiter.com, proxy
+DOMAIN-SUFFIX, twitese.spaces.live.com, proxy
 DOMAIN-SUFFIX, twitiq.com, proxy
 DOMAIN-SUFFIX, twitlonger.com, proxy
 DOMAIN-SUFFIX, twitoaster.com, proxy
@@ -15666,6 +15766,7 @@ DOMAIN-SUFFIX, video.genyt.net, proxy
 DOMAIN-SUFFIX, video.pbs.org, proxy
 DOMAIN-SUFFIX, video.xgfemdom.com, proxy
 DOMAIN-SUFFIX, videobam.com, proxy
+DOMAIN-SUFFIX, videocyborg.com, proxy
 DOMAIN-SUFFIX, videogameheat.com, proxy
 DOMAIN-SUFFIX, videoixir.net, proxy
 DOMAIN-SUFFIX, videojug.com, proxy
@@ -15678,6 +15779,7 @@ DOMAIN-SUFFIX, videosz.com, proxy
 DOMAIN-SUFFIX, videouri.com, proxy
 DOMAIN-SUFFIX, videovor.com, proxy
 DOMAIN-SUFFIX, videoyoutube.com, proxy
+DOMAIN-SUFFIX, vidmax.com, proxy
 DOMAIN-SUFFIX, vido.ws, proxy
 DOMAIN-SUFFIX, vidol.tv, proxy
 DOMAIN-SUFFIX, vidreel.com, proxy
@@ -15718,7 +15820,6 @@ DOMAIN-SUFFIX, vipdf8.com, proxy
 DOMAIN-SUFFIX, vipjs9900.com, proxy
 DOMAIN-SUFFIX, vipletou.com, proxy
 DOMAIN-SUFFIX, vipvpn.hu, proxy
-DOMAIN-SUFFIX, vipy6.vip, proxy
 DOMAIN-SUFFIX, viralporn.com, proxy
 DOMAIN-SUFFIX, virbuzz.com, proxy
 DOMAIN-SUFFIX, virginia.gov, proxy
@@ -15931,7 +16032,6 @@ DOMAIN-SUFFIX, vw022.com, proxy
 DOMAIN-SUFFIX, vw033.com, proxy
 DOMAIN-SUFFIX, vw066.com, proxy
 DOMAIN-SUFFIX, vw077.com, proxy
-DOMAIN-SUFFIX, vw085.com, proxy
 DOMAIN-SUFFIX, vw099.com, proxy
 DOMAIN-SUFFIX, vw112.com, proxy
 DOMAIN-SUFFIX, vw113.com, proxy
@@ -16044,6 +16144,7 @@ DOMAIN-SUFFIX, wangchengxi.com, proxy
 DOMAIN-SUFFIX, wangjinbo.org, proxy
 DOMAIN-SUFFIX, wango.org, proxy
 DOMAIN-SUFFIX, wangruoshui.net, proxy
+DOMAIN-SUFFIX, wangyi64.spaces.live.com, proxy
 DOMAIN-SUFFIX, wannaflix.com, proxy
 DOMAIN-SUFFIX, wanyepu.com, proxy
 DOMAIN-SUFFIX, wanyi888.com, proxy
@@ -16070,6 +16171,7 @@ DOMAIN-SUFFIX, watchmygf.net, proxy
 DOMAIN-SUFFIX, watchout.tw, proxy
 DOMAIN-SUFFIX, watchtowerdocuments.com, proxy
 DOMAIN-SUFFIX, water.kinmen.gov.tw, proxy
+DOMAIN-SUFFIX, watermanfilms.weebly.com, proxy
 DOMAIN-SUFFIX, watter.cc, proxy
 DOMAIN-SUFFIX, wattpad.com, proxy
 DOMAIN-SUFFIX, watv.org, proxy
@@ -16163,7 +16265,6 @@ DOMAIN-SUFFIX, webmobinetworks.com, proxy
 DOMAIN-SUFFIX, weboas.is, proxy
 DOMAIN-SUFFIX, webok.tw, proxy
 DOMAIN-SUFFIX, weboproxy.com, proxy
-DOMAIN-SUFFIX, webproxies.biz, proxy
 DOMAIN-SUFFIX, webproxy-service.de, proxy
 DOMAIN-SUFFIX, webproxy.ca, proxy
 DOMAIN-SUFFIX, webproxy.ru, proxy
@@ -16206,6 +16307,7 @@ DOMAIN-SUFFIX, wen.lu, proxy
 DOMAIN-SUFFIX, wen.ru, proxy
 DOMAIN-SUFFIX, wenxuecity.com, proxy
 DOMAIN-SUFFIX, wenyunchao.com, proxy
+DOMAIN-SUFFIX, wenyunchao.spaces.live.com, proxy
 DOMAIN-SUFFIX, wenzhao.ca, proxy
 DOMAIN-SUFFIX, were.moe, proxy
 DOMAIN-SUFFIX, wesi301.xyz, proxy
@@ -16317,11 +16419,13 @@ DOMAIN-SUFFIX, williamhill.es, proxy
 DOMAIN-SUFFIX, williamhill.it, proxy
 DOMAIN-SUFFIX, williamhill138.com, proxy
 DOMAIN-SUFFIX, williamlong.jaiku.com, proxy
+DOMAIN-SUFFIX, williamlong.spaces.live.com, proxy
 DOMAIN-SUFFIX, willyoudesign.com, proxy
 DOMAIN-SUFFIX, win.hicam.net, proxy
 DOMAIN-SUFFIX, win123.ml, proxy
 DOMAIN-SUFFIX, win558.com, proxy
 DOMAIN-SUFFIX, winandmac.com, proxy
+DOMAIN-SUFFIX, windowsxpsucks.weebly.com, proxy
 DOMAIN-SUFFIX, windscribe.com, proxy
 DOMAIN-SUFFIX, windscribe.net, proxy
 DOMAIN-SUFFIX, windy.com, proxy
@@ -16389,6 +16493,7 @@ DOMAIN-SUFFIX, wnacg.com, proxy
 DOMAIN-SUFFIX, wnacg.wtf, proxy
 DOMAIN-SUFFIX, wnbc.com, proxy
 DOMAIN-SUFFIX, wniogeruguer.azurewebsites.net, proxy
+DOMAIN-SUFFIX, wnmocoms.com, proxy
 DOMAIN-SUFFIX, wns1919.com, proxy
 DOMAIN-SUFFIX, wnu.com, proxy
 DOMAIN-SUFFIX, wo00s0963.vooreeno.com, proxy
@@ -16605,6 +16710,7 @@ DOMAIN-SUFFIX, www.100ke.org, proxy
 DOMAIN-SUFFIX, www.100most.com.hk, proxy
 DOMAIN-SUFFIX, www.100sihu.com, proxy
 DOMAIN-SUFFIX, www.100tjs.com, proxy
+DOMAIN-SUFFIX, www.1020v.com, proxy
 DOMAIN-SUFFIX, www.1024boy.com, proxy
 DOMAIN-SUFFIX, www.10480000.com, proxy
 DOMAIN-SUFFIX, www.106sihu.com, proxy
@@ -16629,6 +16735,7 @@ DOMAIN-SUFFIX, www.123451a.com, proxy
 DOMAIN-SUFFIX, www.123ssh.net, proxy
 DOMAIN-SUFFIX, www.126688.com, proxy
 DOMAIN-SUFFIX, www.1266xx.com, proxy
+DOMAIN-SUFFIX, www.126ld.cc, proxy
 DOMAIN-SUFFIX, www.130.idv.tw, proxy
 DOMAIN-SUFFIX, www.135sihu.com, proxy
 DOMAIN-SUFFIX, www.136sihu.com, proxy
@@ -16866,7 +16973,6 @@ DOMAIN-SUFFIX, www.56869.com, proxy
 DOMAIN-SUFFIX, www.58ybet.com, proxy
 DOMAIN-SUFFIX, www.590103.idv.tw, proxy
 DOMAIN-SUFFIX, www.59bo.net, proxy
-DOMAIN-SUFFIX, www.59ee.net, proxy
 DOMAIN-SUFFIX, www.59lfw.com, proxy
 DOMAIN-SUFFIX, www.5article.com, proxy
 DOMAIN-SUFFIX, www.5d7y.net, proxy
@@ -16941,6 +17047,7 @@ DOMAIN-SUFFIX, www.85nba.com, proxy
 DOMAIN-SUFFIX, www.86.idv.tw, proxy
 DOMAIN-SUFFIX, www.861212.com, proxy
 DOMAIN-SUFFIX, www.863171.com, proxy
+DOMAIN-SUFFIX, www.86euro.com, proxy
 DOMAIN-SUFFIX, www.87654321365.com, proxy
 DOMAIN-SUFFIX, www.876xx.com, proxy
 DOMAIN-SUFFIX, www.8811.tw, proxy
@@ -17009,7 +17116,6 @@ DOMAIN-SUFFIX, www.941hd.com, proxy
 DOMAIN-SUFFIX, www.942porn.net, proxy
 DOMAIN-SUFFIX, www.9458win.com, proxy
 DOMAIN-SUFFIX, www.94695.com, proxy
-DOMAIN-SUFFIX, www.94fq.net, proxy
 DOMAIN-SUFFIX, www.958g.com, proxy
 DOMAIN-SUFFIX, www.960335.com, proxy
 DOMAIN-SUFFIX, www.960876.com, proxy
@@ -17034,6 +17140,8 @@ DOMAIN-SUFFIX, www.99006e.com, proxy
 DOMAIN-SUFFIX, www.99006v.com, proxy
 DOMAIN-SUFFIX, www.990609.com, proxy
 DOMAIN-SUFFIX, www.999988211.com, proxy
+DOMAIN-SUFFIX, www.999let.com, proxy
+DOMAIN-SUFFIX, www.999zclc.com, proxy
 DOMAIN-SUFFIX, www.99cscs.com, proxy
 DOMAIN-SUFFIX, www.99fanya.com, proxy
 DOMAIN-SUFFIX, www.99hgvip.com, proxy
@@ -17117,6 +17225,7 @@ DOMAIN-SUFFIX, www.ahediting.com, proxy
 DOMAIN-SUFFIX, www.aibai.com, proxy
 DOMAIN-SUFFIX, www.aiosearch.com, proxy
 DOMAIN-SUFFIX, www.aipa520.com, proxy
+DOMAIN-SUFFIX, www.aircharter.co.uk, proxy
 DOMAIN-SUFFIX, www.airitilibrary.com, proxy
 DOMAIN-SUFFIX, www.aishedes.com, proxy
 DOMAIN-SUFFIX, www.aiuu2.com, proxy
@@ -17275,6 +17384,7 @@ DOMAIN-SUFFIX, www.aznude.com, proxy
 DOMAIN-SUFFIX, www.b0775xpj.com, proxy
 DOMAIN-SUFFIX, www.b13.cc, proxy
 DOMAIN-SUFFIX, www.b16.bet, proxy
+DOMAIN-SUFFIX, www.b28.bet, proxy
 DOMAIN-SUFFIX, www.b3651888.com, proxy
 DOMAIN-SUFFIX, www.b88vip7.com, proxy
 DOMAIN-SUFFIX, www.b9999.tw, proxy
@@ -17364,7 +17474,6 @@ DOMAIN-SUFFIX, www.bet365555.net, proxy
 DOMAIN-SUFFIX, www.bet98.com, proxy
 DOMAIN-SUFFIX, www.betavip.com, proxy
 DOMAIN-SUFFIX, www.betezee.com, proxy
-DOMAIN-SUFFIX, www.betfair.com, proxy
 DOMAIN-SUFFIX, www.bettervpn.com, proxy
 DOMAIN-SUFFIX, www.betterworldbooks.com, proxy
 DOMAIN-SUFFIX, www.betvictor12.com, proxy
@@ -17382,7 +17491,6 @@ DOMAIN-SUFFIX, www.betway88.com, proxy
 DOMAIN-SUFFIX, www.betwin999.com, proxy
 DOMAIN-SUFFIX, www.bfsforex.com, proxy
 DOMAIN-SUFFIX, www.bg1235.com, proxy
-DOMAIN-SUFFIX, www.bg508.com, proxy
 DOMAIN-SUFFIX, www.bg919.com, proxy
 DOMAIN-SUFFIX, www.bharattimes.com, proxy
 DOMAIN-SUFFIX, www.bhl.org, proxy
@@ -17638,6 +17746,7 @@ DOMAIN-SUFFIX, www.cellsystech.net, proxy
 DOMAIN-SUFFIX, www.centralazsupply.com, proxy
 DOMAIN-SUFFIX, www.centraltv.fr, proxy
 DOMAIN-SUFFIX, www.cepp.gov.tw, proxy
+DOMAIN-SUFFIX, www.certificate-transparency.org, proxy
 DOMAIN-SUFFIX, www.cetsedu.org, proxy
 DOMAIN-SUFFIX, www.cezarcaponemovies.com, proxy
 DOMAIN-SUFFIX, www.cf0009.com, proxy
@@ -17716,6 +17825,7 @@ DOMAIN-SUFFIX, www.clf988.com, proxy
 DOMAIN-SUFFIX, www.climateers.org, proxy
 DOMAIN-SUFFIX, www.clinicalterminology.org, proxy
 DOMAIN-SUFFIX, www.clipfish.com, proxy
+DOMAIN-SUFFIX, www.cloudflare.com, proxy
 DOMAIN-SUFFIX, www.cloudpn.top, proxy
 DOMAIN-SUFFIX, www.cloudways.com, proxy
 DOMAIN-SUFFIX, www.cmc.gov.tw, proxy
@@ -17823,6 +17933,7 @@ DOMAIN-SUFFIX, www.dajinyule.vip, proxy
 DOMAIN-SUFFIX, www.dajiyuan.eu, proxy
 DOMAIN-SUFFIX, www.dakashangche.net, proxy
 DOMAIN-SUFFIX, www.dalailama.umn.edu, proxy
+DOMAIN-SUFFIX, www.dalailamainaustralia.org, proxy
 DOMAIN-SUFFIX, www.dalailamanola.com, proxy
 DOMAIN-SUFFIX, www.dalailamaquotes.org, proxy
 DOMAIN-SUFFIX, www.dalailamasandiego.org, proxy
@@ -18008,7 +18119,6 @@ DOMAIN-SUFFIX, www.eg1111.vip, proxy
 DOMAIN-SUFFIX, www.eg611.com, proxy
 DOMAIN-SUFFIX, www.egaleonews.bravehost.com, proxy
 DOMAIN-SUFFIX, www.egyptindependent.com, proxy
-DOMAIN-SUFFIX, www.ehana.com, proxy
 DOMAIN-SUFFIX, www.ehentai.org, proxy
 DOMAIN-SUFFIX, www.ehn.io, proxy
 DOMAIN-SUFFIX, www.ehornbill.com, proxy
@@ -18099,6 +18209,7 @@ DOMAIN-SUFFIX, www.facbook.com, proxy
 DOMAIN-SUFFIX, www.facebook.ca, proxy
 DOMAIN-SUFFIX, www.facebook.com.ar, proxy
 DOMAIN-SUFFIX, www.facebook.com.au, proxy
+DOMAIN-SUFFIX, www.facebook.com.br, proxy
 DOMAIN-SUFFIX, www.facebook.cz, proxy
 DOMAIN-SUFFIX, www.facebook.hu, proxy
 DOMAIN-SUFFIX, www.facebook.in, proxy
@@ -18108,11 +18219,11 @@ DOMAIN-SUFFIX, www.facebooke.com, proxy
 DOMAIN-SUFFIX, www.faceboook.com, proxy
 DOMAIN-SUFFIX, www.facegroup.com, proxy
 DOMAIN-SUFFIX, www.fafa99.com, proxy
-DOMAIN-SUFFIX, www.falun-dafa.net, proxy
 DOMAIN-SUFFIX, www.faluncanada.net, proxy
 DOMAIN-SUFFIX, www.falundafa.or.id, proxy
 DOMAIN-SUFFIX, www.falungongbrasil.net, proxy
 DOMAIN-SUFFIX, www.faluninfo.nl, proxy
+DOMAIN-SUFFIX, www.faluninfo.or.kr, proxy
 DOMAIN-SUFFIX, www.falunthai.org, proxy
 DOMAIN-SUFFIX, www.familyfed.org, proxy
 DOMAIN-SUFFIX, www.familyradio.com, proxy
@@ -18186,6 +18297,7 @@ DOMAIN-SUFFIX, www.flowvpn.com, proxy
 DOMAIN-SUFFIX, www.flyingjizz.com, proxy
 DOMAIN-SUFFIX, www.flyingv.cc, proxy
 DOMAIN-SUFFIX, www.fn139.com, proxy
+DOMAIN-SUFFIX, www.fnbnamibia.com.na, proxy
 DOMAIN-SUFFIX, www.fnp.gov.tw, proxy
 DOMAIN-SUFFIX, www.focused-it.ca, proxy
 DOMAIN-SUFFIX, www.foi.se, proxy
@@ -18209,6 +18321,7 @@ DOMAIN-SUFFIX, www.fqzhan.com, proxy
 DOMAIN-SUFFIX, www.frankandsuki.com, proxy
 DOMAIN-SUFFIX, www.frcc.us, proxy
 DOMAIN-SUFFIX, www.free-hardcore.com, proxy
+DOMAIN-SUFFIX, www.free-sexy-clips.net, proxy
 DOMAIN-SUFFIX, www.free-strip-games.com, proxy
 DOMAIN-SUFFIX, www.free1210.com, proxy
 DOMAIN-SUFFIX, www.freeairproxy.com, proxy
@@ -18322,6 +18435,7 @@ DOMAIN-SUFFIX, www.future-interactive.net, proxy
 DOMAIN-SUFFIX, www.fuyin.tv, proxy
 DOMAIN-SUFFIX, www.fuzokuu.com, proxy
 DOMAIN-SUFFIX, www.fxcm.co.uk, proxy
+DOMAIN-SUFFIX, www.fxdd.com, proxy
 DOMAIN-SUFFIX, www.fxpro.cn, proxy
 DOMAIN-SUFFIX, www.fxpro.com, proxy
 DOMAIN-SUFFIX, www.fxstreet.cn, proxy
@@ -18466,6 +18580,7 @@ DOMAIN-SUFFIX, www.goseasbox.com, proxy
 DOMAIN-SUFFIX, www.gospelherald.com, proxy
 DOMAIN-SUFFIX, www.gothub.com, proxy
 DOMAIN-SUFFIX, www.gotrusted.com, proxy
+DOMAIN-SUFFIX, www.gov.hk, proxy
 DOMAIN-SUFFIX, www.gov.tw, proxy
 DOMAIN-SUFFIX, www.govbooks.com.tw, proxy
 DOMAIN-SUFFIX, www.gowanbo.cc, proxy
@@ -18598,6 +18713,7 @@ DOMAIN-SUFFIX, www.hishadowsocks.com, proxy
 DOMAIN-SUFFIX, www.hj277.com, proxy
 DOMAIN-SUFFIX, www.hj6093.com, proxy
 DOMAIN-SUFFIX, www.hj857.com, proxy
+DOMAIN-SUFFIX, www.hj8686.com, proxy
 DOMAIN-SUFFIX, www.hj906.com, proxy
 DOMAIN-SUFFIX, www.hjdc08.com, proxy
 DOMAIN-SUFFIX, www.hjdc09.com, proxy
@@ -18648,6 +18764,7 @@ DOMAIN-SUFFIX, www.hooball.com, proxy
 DOMAIN-SUFFIX, www.hoover.org, proxy
 DOMAIN-SUFFIX, www.hopesky.net, proxy
 DOMAIN-SUFFIX, www.hopthewall.com, proxy
+DOMAIN-SUFFIX, www.horkvideos.weebly.com, proxy
 DOMAIN-SUFFIX, www.hornytrip.com, proxy
 DOMAIN-SUFFIX, www.hososz.com, proxy
 DOMAIN-SUFFIX, www.host1free.com, proxy
@@ -18712,6 +18829,7 @@ DOMAIN-SUFFIX, www.ibizababes.com, proxy
 DOMAIN-SUFFIX, www.iblogs.com, proxy
 DOMAIN-SUFFIX, www.ibtimes.co.in, proxy
 DOMAIN-SUFFIX, www.icenci.com, proxy
+DOMAIN-SUFFIX, www.icij.org, proxy
 DOMAIN-SUFFIX, www.icilix.com, proxy
 DOMAIN-SUFFIX, www.icote.pt, proxy
 DOMAIN-SUFFIX, www.idax.pro, proxy
@@ -18977,7 +19095,6 @@ DOMAIN-SUFFIX, www.kadokawagakugei.com, proxy
 DOMAIN-SUFFIX, www.kaguragames.com, proxy
 DOMAIN-SUFFIX, www.kaixin.icu, proxy
 DOMAIN-SUFFIX, www.kaka1234.net, proxy
-DOMAIN-SUFFIX, www.kang-rony.com, proxy
 DOMAIN-SUFFIX, www.kanglesoft.com, proxy
 DOMAIN-SUFFIX, www.kanjukumania.com, proxy
 DOMAIN-SUFFIX, www.kanxi123.com, proxy
@@ -19084,6 +19201,8 @@ DOMAIN-SUFFIX, www.lawlove.org, proxy
 DOMAIN-SUFFIX, www.lawpack.taiwanlii.ccu.edu.tw, proxy
 DOMAIN-SUFFIX, www.lax71.com, proxy
 DOMAIN-SUFFIX, www.lcg.com, proxy
+DOMAIN-SUFFIX, www.ld88.tv, proxy
+DOMAIN-SUFFIX, www.ldsp33.com, proxy
 DOMAIN-SUFFIX, www.le-vpn.com, proxy
 DOMAIN-SUFFIX, www.lead.idv.tw, proxy
 DOMAIN-SUFFIX, www.leaderlive.co.uk, proxy
@@ -19099,6 +19218,7 @@ DOMAIN-SUFFIX, www.leonetienne.com, proxy
 DOMAIN-SUFFIX, www.lestapackaging.co.uk, proxy
 DOMAIN-SUFFIX, www.let89.com, proxy
 DOMAIN-SUFFIX, www.letou118.net, proxy
+DOMAIN-SUFFIX, www.letou2.com, proxy
 DOMAIN-SUFFIX, www.letou6677.com, proxy
 DOMAIN-SUFFIX, www.letou988.com, proxy
 DOMAIN-SUFFIX, www.letougames.com, proxy
@@ -19340,6 +19460,7 @@ DOMAIN-SUFFIX, www.moeacg.cc, proxy
 DOMAIN-SUFFIX, www.moeyo.com, proxy
 DOMAIN-SUFFIX, www.mof.gov.tw, proxy
 DOMAIN-SUFFIX, www.mofa.gov.tw, proxy
+DOMAIN-SUFFIX, www.mohu.club, proxy
 DOMAIN-SUFFIX, www.mohw.gov.tw, proxy
 DOMAIN-SUFFIX, www.moj.gov.tw, proxy
 DOMAIN-SUFFIX, www.mol.gov.tw, proxy
@@ -19435,7 +19556,6 @@ DOMAIN-SUFFIX, www.nbclearn.com, proxy
 DOMAIN-SUFFIX, www.nbhao.net, proxy
 DOMAIN-SUFFIX, www.nbtvpn.com, proxy
 DOMAIN-SUFFIX, www.nbty-china.com, proxy
-DOMAIN-SUFFIX, www.ncad.fr, proxy
 DOMAIN-SUFFIX, www.ncat.edu, proxy
 DOMAIN-SUFFIX, www.ndc.gov.tw, proxy
 DOMAIN-SUFFIX, www.neihan8.com, proxy
@@ -19478,7 +19598,6 @@ DOMAIN-SUFFIX, www.nnconnect.com, proxy
 DOMAIN-SUFFIX, www.no-ip.org, proxy
 DOMAIN-SUFFIX, www.nokiacn.net, proxy
 DOMAIN-SUFFIX, www.nomalys.com, proxy
-DOMAIN-SUFFIX, www.norbulingka.org, proxy
 DOMAIN-SUFFIX, www.nordvnp.net, proxy
 DOMAIN-SUFFIX, www.norling.nl, proxy
 DOMAIN-SUFFIX, www.northghost.com, proxy
@@ -19658,6 +19777,7 @@ DOMAIN-SUFFIX, www.pinterest.nz, proxy
 DOMAIN-SUFFIX, www.pinterets.com, proxy
 DOMAIN-SUFFIX, www.piratebay.com, proxy
 DOMAIN-SUFFIX, www.piriform.com, proxy
+DOMAIN-SUFFIX, www.piterjelles.nl, proxy
 DOMAIN-SUFFIX, www.pixnet.jp, proxy
 DOMAIN-SUFFIX, www.pj80036dl.com, proxy
 DOMAIN-SUFFIX, www.pj8866.com, proxy
@@ -19893,7 +20013,6 @@ DOMAIN-SUFFIX, www.runnerinn.com, proxy
 DOMAIN-SUFFIX, www.runox.biz, proxy
 DOMAIN-SUFFIX, www.runox.net, proxy
 DOMAIN-SUFFIX, www.runoz.us, proxy
-DOMAIN-SUFFIX, www.rutube.ru, proxy
 DOMAIN-SUFFIX, www.rwin88.com, proxy
 DOMAIN-SUFFIX, www.rwsentosa.com, proxy
 DOMAIN-SUFFIX, www.ry1002.com, proxy
@@ -20127,6 +20246,7 @@ DOMAIN-SUFFIX, www.suissl.com, proxy
 DOMAIN-SUFFIX, www.sumarium.com, proxy
 DOMAIN-SUFFIX, www.sumarium.es, proxy
 DOMAIN-SUFFIX, www.sumrando.com, proxy
+DOMAIN-SUFFIX, www.sun5505.com, proxy
 DOMAIN-SUFFIX, www.sun718.com, proxy
 DOMAIN-SUFFIX, www.sun7708.com, proxy
 DOMAIN-SUFFIX, www.sun988.com, proxy
@@ -20182,6 +20302,7 @@ DOMAIN-SUFFIX, www.take2hosting.com, proxy
 DOMAIN-SUFFIX, www.takebackyourinternet.com, proxy
 DOMAIN-SUFFIX, www.takebikehouston.com, proxy
 DOMAIN-SUFFIX, www.taki.com.tw, proxy
+DOMAIN-SUFFIX, www.talgov.com, proxy
 DOMAIN-SUFFIX, www.talkaboutxinjiang.com, proxy
 DOMAIN-SUFFIX, www.tangben.com, proxy
 DOMAIN-SUFFIX, www.taolin.com.tw, proxy
@@ -20210,7 +20331,6 @@ DOMAIN-SUFFIX, www.teco.org.hk, proxy
 DOMAIN-SUFFIX, www.ted.com, proxy
 DOMAIN-SUFFIX, www.teenporntube.com, proxy
 DOMAIN-SUFFIX, www.teepr.com, proxy
-DOMAIN-SUFFIX, www.tellapart.com, proxy
 DOMAIN-SUFFIX, www.tengbo3988.com, proxy
 DOMAIN-SUFFIX, www.tengbo7.com, proxy
 DOMAIN-SUFFIX, www.tengbo9.com, proxy
@@ -20240,6 +20360,7 @@ DOMAIN-SUFFIX, www.theinterceptbrasil.com, proxy
 DOMAIN-SUFFIX, www.thejeffchen.com, proxy
 DOMAIN-SUFFIX, www.thekleerteam.com, proxy
 DOMAIN-SUFFIX, www.themalaymailonline.com, proxy
+DOMAIN-SUFFIX, www.themorningnewsaruba.com, proxy
 DOMAIN-SUFFIX, www.themovs.com, proxy
 DOMAIN-SUFFIX, www.thepillage.net, proxy
 DOMAIN-SUFFIX, www.thequint.com, proxy
@@ -20391,7 +20512,6 @@ DOMAIN-SUFFIX, www.tt836.net, proxy
 DOMAIN-SUFFIX, www.tthdd.com, proxy
 DOMAIN-SUFFIX, www.ttkwz.com, proxy
 DOMAIN-SUFFIX, www.ttmeiju.com, proxy
-DOMAIN-SUFFIX, www.tttrips.cn, proxy
 DOMAIN-SUFFIX, www.ttv.com.tw, proxy
 DOMAIN-SUFFIX, www.tubeislam.com, proxy
 DOMAIN-SUFFIX, www.tubekitty.com, proxy
@@ -20505,7 +20625,6 @@ DOMAIN-SUFFIX, www.vgobet.com, proxy
 DOMAIN-SUFFIX, www.vhx.tv, proxy
 DOMAIN-SUFFIX, www.vicomi.com, proxy
 DOMAIN-SUFFIX, www.videodetective.com, proxy
-DOMAIN-SUFFIX, www.vidmax.com, proxy
 DOMAIN-SUFFIX, www.vidoevo.com, proxy
 DOMAIN-SUFFIX, www.vidproxy.com, proxy
 DOMAIN-SUFFIX, www.vids.net, proxy
@@ -20653,6 +20772,7 @@ DOMAIN-SUFFIX, www.whatscap.com, proxy
 DOMAIN-SUFFIX, www.white-jade.com, proxy
 DOMAIN-SUFFIX, www.widih.com, proxy
 DOMAIN-SUFFIX, www.wifemovies.net, proxy
+DOMAIN-SUFFIX, www.wikitionary.org, proxy
 DOMAIN-SUFFIX, www.wikitravel.com, proxy
 DOMAIN-SUFFIX, www.wikizero.biz, proxy
 DOMAIN-SUFFIX, www.wikizero.com, proxy
@@ -20671,6 +20791,7 @@ DOMAIN-SUFFIX, www.wmctv.com, proxy
 DOMAIN-SUFFIX, www.wn816.com, proxy
 DOMAIN-SUFFIX, www.wn859.com, proxy
 DOMAIN-SUFFIX, www.wnacg.org, proxy
+DOMAIN-SUFFIX, www.wnas666.com, proxy
 DOMAIN-SUFFIX, www.wnflb.com, proxy
 DOMAIN-SUFFIX, www.wojsq.com, proxy
 DOMAIN-SUFFIX, www.womenresources.org, proxy
@@ -20925,6 +21046,7 @@ DOMAIN-SUFFIX, www.zg999999.com, proxy
 DOMAIN-SUFFIX, www.zhaiclub.com, proxy
 DOMAIN-SUFFIX, www.zhangsandege.com, proxy
 DOMAIN-SUFFIX, www.zhaochenmo.com, proxy
+DOMAIN-SUFFIX, www.zhengyaning.com, proxy
 DOMAIN-SUFFIX, www.zhgpl.com, proxy
 DOMAIN-SUFFIX, www.zhongzidi.com, proxy
 DOMAIN-SUFFIX, www.zhoushuguang.com, proxy
@@ -21335,6 +21457,7 @@ DOMAIN-SUFFIX, yaksi.name.tr, proxy
 DOMAIN-SUFFIX, yakyulive.blogspot.jp, proxy
 DOMAIN-SUFFIX, yan.jxu.me, proxy
 DOMAIN-SUFFIX, yande.re, proxy
+DOMAIN-SUFFIX, yanghengjun.spaces.live.com, proxy
 DOMAIN-SUFFIX, yangjianli.com, proxy
 DOMAIN-SUFFIX, yao.cl, proxy
 DOMAIN-SUFFIX, yaoluba.com, proxy
@@ -21346,8 +21469,13 @@ DOMAIN-SUFFIX, yaypetiteteens.com, proxy
 DOMAIN-SUFFIX, yazhouse8.com, proxy
 DOMAIN-SUFFIX, yazhouseba.com, proxy
 DOMAIN-SUFFIX, yazhouzuijiatiyupingtai.com, proxy
+DOMAIN-SUFFIX, yb.bxsrd3.com, proxy
+DOMAIN-SUFFIX, yb.ciqhtj2b.com, proxy
 DOMAIN-SUFFIX, yb.domain888.pw, proxy
+DOMAIN-SUFFIX, yb.ldld3.me, proxy
+DOMAIN-SUFFIX, yb.ldld5.me, proxy
 DOMAIN-SUFFIX, yb.opendn.xyz, proxy
+DOMAIN-SUFFIX, yb.qwmnbaa.com, proxy
 DOMAIN-SUFFIX, yb1111.com, proxy
 DOMAIN-SUFFIX, yb1666.com, proxy
 DOMAIN-SUFFIX, yb188.emc388.com, proxy
@@ -21362,6 +21490,7 @@ DOMAIN-SUFFIX, ybet07.com, proxy
 DOMAIN-SUFFIX, ybet30.com, proxy
 DOMAIN-SUFFIX, ybet56.com, proxy
 DOMAIN-SUFFIX, ybgjgames.net, proxy
+DOMAIN-SUFFIX, ybha.ldld5.me, proxy
 DOMAIN-SUFFIX, ybhandle.sgapi00.com, proxy
 DOMAIN-SUFFIX, ycon-api.line-apps.com, proxy
 DOMAIN-SUFFIX, ycw9999.com, proxy
@@ -21384,6 +21513,7 @@ DOMAIN-SUFFIX, yespics.com, proxy
 DOMAIN-SUFFIX, yespornplease.com, proxy
 DOMAIN-SUFFIX, yesvpn.com, proxy
 DOMAIN-SUFFIX, yeyeclub.com, proxy
+DOMAIN-SUFFIX, yezimary.spaces.live.com, proxy
 DOMAIN-SUFFIX, yf188.org, proxy
 DOMAIN-SUFFIX, yf676.org, proxy
 DOMAIN-SUFFIX, yf888.net, proxy
@@ -21526,7 +21656,6 @@ DOMAIN-SUFFIX, youtubekids.com, proxy
 DOMAIN-SUFFIX, youtubelike.com, proxy
 DOMAIN-SUFFIX, youtubemp3.scriptscraft.com, proxy
 DOMAIN-SUFFIX, youtubepp.com, proxy
-DOMAIN-SUFFIX, youtubeproxy.org, proxy
 DOMAIN-SUFFIX, youversion.com, proxy
 DOMAIN-SUFFIX, youwould.com.au, proxy
 DOMAIN-SUFFIX, youx.xxx, proxy
@@ -21715,8 +21844,7 @@ DOMAIN-SUFFIX, zhengxiang.ml, proxy
 DOMAIN-SUFFIX, zhengzexin.com, proxy
 DOMAIN-SUFFIX, zhenxiang.biz, proxy
 DOMAIN-SUFFIX, zhina.wiki, proxy
-DOMAIN-SUFFIX, zhong2008.com, proxy
-DOMAIN-SUFFIX, zhong288.com, proxy
+DOMAIN-SUFFIX, zhllg.spaces.live.com, proxy
 DOMAIN-SUFFIX, zhongguo.ca, proxy
 DOMAIN-SUFFIX, zhongguorenquan.org, proxy
 DOMAIN-SUFFIX, zhongguotese.net, proxy
@@ -21794,23 +21922,31 @@ DOMAIN-SUFFIX, zzf.healthins.xyz, proxy
 DOMAIN-SUFFIX, zzg.healthsites.xyz, proxy
 DOMAIN-SUFFIX, zzju.22.4irc.com, proxy
 DOMAIN-SUFFIX, zzm.dnspage.xyz, proxy
+DOMAIN-SUFFIX, zzo.heathwebsite.xyz, proxy
 DOMAIN-SUFFIX, zzp.familyhealth.xyz, proxy
+DOMAIN-SUFFIX, zzp.heathwebsite.xyz, proxy
+DOMAIN-SUFFIX, zzq.heathwebsite.xyz, proxy
 DOMAIN-SUFFIX, zzq.opendn.xyz, proxy
 DOMAIN-SUFFIX, zzq.whodns.xyz, proxy
 DOMAIN-SUFFIX, zzr.familyhealth.xyz, proxy
+DOMAIN-SUFFIX, zzr.heathwebsite.xyz, proxy
 DOMAIN-SUFFIX, zzr.opendn.xyz, proxy
 DOMAIN-SUFFIX, zzs.dnstogo.xyz, proxy
 DOMAIN-SUFFIX, zzs.healthgov.xyz, proxy
+DOMAIN-SUFFIX, zzs.heathwebsite.xyz, proxy
 DOMAIN-SUFFIX, zzs.opendn.xyz, proxy
 DOMAIN-SUFFIX, zzt.healthgov.xyz, proxy
+DOMAIN-SUFFIX, zzt.heathwebsite.xyz, proxy
 DOMAIN-SUFFIX, zzt.opendn.xyz, proxy
 DOMAIN-SUFFIX, zzt.whodns.xyz, proxy
 DOMAIN-SUFFIX, zzu.healthgov.xyz, proxy
 DOMAIN-SUFFIX, zzu.healthsection.xyz, proxy
+DOMAIN-SUFFIX, zzu.heathwebsite.xyz, proxy
 DOMAIN-SUFFIX, zzv.opendn.xyz, proxy
 DOMAIN-SUFFIX, zzw.dnsserv.xyz, proxy
 DOMAIN-SUFFIX, zzw.dyndns.work, proxy
 DOMAIN-SUFFIX, zzw.healthsection.xyz, proxy
+DOMAIN-SUFFIX, zzw.heathwebsite.xyz, proxy
 DOMAIN-SUFFIX, zzw.opendn.xyz, proxy
 DOMAIN-SUFFIX, zzx.dnsdns.xyz, proxy
 DOMAIN-SUFFIX, zzx.dnsdyn.xyz, proxy
