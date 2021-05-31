@@ -424,6 +424,7 @@ DOMAIN-SUFFIX, azubu.tv, proxy
 DOMAIN-SUFFIX, azurewebsites.net, proxy
 DOMAIN-SUFFIX, b-ok.cc, proxy
 DOMAIN-SUFFIX, b0ne.com, proxy
+DOMAIN-SUFFIX, babylonbee.com, proxy
 DOMAIN-SUFFIX, babynet.com.hk, proxy
 DOMAIN-SUFFIX, backchina.com, proxy
 DOMAIN-SUFFIX, backpackers.com.tw, proxy
@@ -2768,6 +2769,8 @@ DOMAIN-SUFFIX, incapdns.net, proxy
 DOMAIN-SUFFIX, incloak.com, proxy
 DOMAIN-SUFFIX, incredibox.fr, proxy
 DOMAIN-SUFFIX, independent.co.uk, proxy
+DOMAIN-SUFFIX, indiablooms.com, proxy
+DOMAIN-SUFFIX, indianarrative.com, proxy
 DOMAIN-SUFFIX, indiandefensenews.in, proxy
 DOMAIN-SUFFIX, indiemerch.com, proxy
 DOMAIN-SUFFIX, info-graf.fr, proxy
