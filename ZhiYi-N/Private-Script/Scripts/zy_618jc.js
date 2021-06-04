@@ -4,13 +4,13 @@ github：https://github.com/Ariszy/script
 boxjs：https://raw.githubusercontent.com/Ariszy/Private-Script/master/Ariszy.boxjs.json
 
 */
-const Ariszy = '新潮品牌狂欢'
+const Ariszy = '618手机竞猜'
 const $ = Env(Ariszy)
 const notify = $.isNode() ?require('./sendNotify') : '';
 cookiesArr = []
 CodeArr = []
 cookie = ''
-var task1Arr = [],task2Arr = [],task3Arr = [],tasktokenArr = [],task4Arr = []
+var brandlistArr = [],shareidArr = []
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 cookiesArr = [$.getdata('CookieJD'), $.getdata('CookieJD2'), ...jsonParse($.getdata('CookiesJD') || "[]").map(item => item.cookie)].filter(item => !!item);
 let tz = ($.getval('tz') || '1');//0关闭通知，1默认开启
@@ -43,7 +43,7 @@ if ($.isNode()) {
     $.msg($.name, '【提示】请先获取cookie\n直接使用NobyDa的京东签到获取', 'https://bean.m.jd.com/bean/signIndex.action', {"open-url": "https://bean.m.jd.com/bean/signIndex.action"});
     return;
   }
-  await control()
+ await control()
   for (let i =0; i < cookiesArr.length; i++) {
       cookie = cookiesArr[i];
       $.UserName = decodeURIComponent(cookie.match(/pt_pin=([^; ]+)(?=;?)/) && cookie.match(/pt_pin=([^; ]+)(?=;?)/)[1])
@@ -62,7 +62,8 @@ if ($.isNode()) {
                 continue
             }
       await getlist()
-      await reportGame()
+      await quiz()
+      await zy()
   }
 })()
     .catch((e) => $.logErr(e))
@@ -70,155 +71,38 @@ if ($.isNode()) {
     
 
 function PostRequest(uri,body) {
-  const url = `https://api.m.jd.com/client.action?${uri}`;
+  const url = `https://brandquiz.m.jd.com/api/${uri}`;
   const method = `POST`;
-  const headers = {"Accept": "application/json, text/plain, */*","Accept-Encoding": "gzip, deflate, br","Accept-Language": "zh-cn","Connection": "keep-alive","Content-Type": "application/x-www-form-urlencoded","Cookie": cookie,"Host": "api.m.jd.com","User-Agent": "jdapp;iPhone;9.4.6;14.4;0bcbcdb2a68f16cf9c9ad7c9b944fd141646a849;network/4g;ADID/C6677A60-54F1-4C41-990F-F1B4088E24F5;supportApplePay/0;hasUPPay/0;hasOCPay/0;model/iPhone12,1;addressid/2377723269;supportBestPay/0;appBuild/167618;jdSupportDarkMode/0;Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1"}
+  const headers = {"Accept": "application/json, text/plain, */*","Accept-Encoding": "gzip, deflate, br","Accept-Language": "zh-cn","Connection": "keep-alive","Content-Type": "application/json;charset=utf-8","Cookie": cookie,"Host": "brandquiz.m.jd.com","User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"}
   return {url: url, method: method, headers: headers, body: body};
 }
-
+function PostRequests(uri,body) {
+  const url = `https://brandquiz.m.jd.com/api/${uri}`;
+  const method = `POST`;
+  const headers = {"Accept": "application/json, text/plain, */*","Accept-Encoding": "gzip, deflate, br","Accept-Language": "zh-cn","Cookie": cookie,"Host": "brandquiz.m.jd.com","User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"}
+  return {url: url, method: method, headers: headers, body: body};
+}
 function GetRequest(uri) {
-  const url = `https://api.m.jd.com/client.action?${uri}`;
+  const url = `https://brandquiz.m.jd.com/api/${uri}`;
   const method = `GET`;
-  const headers = {"Accept": "application/json, text/plain, */*","Accept-Encoding": "gzip, deflate, br","Accept-Language": "zh-cn","Connection": "keep-alive","Content-Type": "application/x-www-form-urlencoded","Cookie":cookie,"Host": "api.m.jd.com","Origin": "https://h5.m.jd.com","User-Agent": "jdapp;iPhone;9.4.6;14.4;0bcbcdb2a68f16cf9c9ad7c9b944fd141646a849;network/4g;ADID/C6677A60-54F1-4C41-990F-F1B4088E24F5;supportApplePay/0;hasUPPay/0;hasOCPay/0;model/iPhone12,1;addressid/2377723269;supportBestPay/0;appBuild/167618;jdSupportDarkMode/0;Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1"};
+  const headers = {"Accept": "application/json, text/plain, */*","Accept-Encoding": "gzip, deflate, br","Accept-Language": "zh-cn","Connection": "keep-alive","Cookie": cookie,"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"};
   return {url: url, method: method, headers: headers};
 }
 
-async function reportGame(itemtoken){
- let score = Math.floor(Math.random()*40)+50;
- const MyRequest = GetRequest(`functionId=mcxhd_brandcity_reportGame&appid=publicUseApi&body=%7B%22token%22%3A%22jd17919499fb7031e5%22%2C%22score%22%3A${score}%7D&t=${new Date().getTime()}&client=wh5&clientVersion=1.0.0&sid=6d815a8fdbd5d7bd5bd45acb30b81c1w&uuid=0bcbcdb2a68f16cf9c9ad7c9b944fd141646a849&area=13_1016_47166_57860&networkType=4g`)
+
+async function quiz(){
+ const body = `{"quizId":5,"myQuiz":${JSON.stringify(brandlistArr.distinct())}}`
+ const MyRequest = PostRequest(`index/quiz`,body)
  return new Promise((resolve) => {
-   $.get(MyRequest,async(error, response, data) =>{
+   $.post(MyRequest,async(error, response, data) =>{
     try{
         const result = JSON.parse(data)
         if(logs)$.log(data)
-        if(result && result.retCode && result.retCode == 200){
-           console.log("成功获得京豆"+result.result.gift.jbeanNum+"\n")
+        if(result && result.code && result.code == 200){
+           console.log("\n参与竞猜成功，获得"+result.data.beanNum+"豆豆\n开奖时间为:"+data.match(/"\d.\d/)+" 10:00 \n下轮竞猜时间为："+result.data.nextQuizDate)
+   await $.wait(8000)
         }else{
-           $.log(result.retMessage+"\n")
-        }
-        }catch(e) {
-          $.logErr(e, response);
-      } finally {
-        resolve();
-      } 
-    })
-   })
-  }
-async function doTask(itemtoken){
- const MyRequest = GetRequest(`functionId=mcxhd_brandcity_doTask&appid=publicUseApi&body=%7B%22itemToken%22%3A%22${itemtoken}%22%2C%22token%22%3A%22jd17919499fb7031e5%22%7D&t=${new Date().getTime()}&client=wh5&clientVersion=1.0.0&sid=7eef03e1ab21433872a1eef04777989w&uuid=62c8e3ec5aa89f3dcb2ee72c39b3041d98fc34ca&area=13_1016_47166_57860&networkType=4g`)
- return new Promise((resolve) => {
-   $.get(MyRequest,async(error, response, data) =>{
-    try{
-        const result = JSON.parse(data)
-        if(logs)$.log(data)
-        if(result && result.retCode && result.retCode == 200){
-           console.log(result.retMessage+"\n")
-        }else{
-           $.log(result.retMessage+"\n")
-        }
-        }catch(e) {
-          $.logErr(e, response);
-      } finally {
-        resolve();
-      } 
-    })
-   })
-  }
-async function check(tasktoken){
-//$.log(tasktoken)
-const MyRequest = GetRequest(encodeURI`functionId=qryViewkitCallbackResult&client=wh5&body={"dataSource":"newshortAward","method":"getTaskAward","reqParams":"{\\"taskToken\\":\\"${tasktoken}\\"}","sdkVersion":"1.0.0","clientLanguage":"zh"}`)
- return new Promise((resolve) => {
-   $.get(MyRequest,async(error, response, data) =>{
-    try{
-        const result = JSON.parse(data)
-        if(logs)$.log(data)
-        if(result && result.toast && result.toast.subTitle == ""){
-           console.log("浏览完成\n")
-        }else{
-           $.log(result.toast.subTitle+"\n")
-        }
-        }catch(e) {
-          $.logErr(e, response);
-      } finally {
-        resolve();
-      } 
-    })
-   })
-  }
-async function getlist(){
- const MyRequest = GetRequest(`functionId=mcxhd_brandcity_taskList&appid=publicUseApi&body=%7B%22lat%22%3A%2236.808112%22%2C%22lng%22%3A%22118.039608%22%2C%22token%22%3A%22jd17919499fb7031e5%22%7D&t=${new Date().getTime()}&client=wh5&clientVersion=1.0.0&sid=7eef03e1ab21433872a1eef04777989w&uuid=0bcbcdb2a68f16cf9c9ad7c9b944fd141646a849&area=13_1016_47166_57860&networkType=4g`)
- return new Promise((resolve) => {
-   $.get(MyRequest,async(error, response, data) =>{
-    try{
-        const result = JSON.parse(data)
-        if(logs)$.log(data)
-        if(result && result.retCode && result.retCode == 200){
-          let tasklist1Arr = result.result.tasks.find(item => item.taskId == "1")
-
-if(tasklist1Arr.times < tasklist1Arr.maxTimes){
-          console.log("开始任务1⃣️"+tasklist1Arr.taskName+"\n")
-          for(let i = 0; i == tasklist1Arr.subItem.length; i++){
-          if(tasklist1Arr.subItem[i].status == 1){
-          task1Arr.push(tasklist1Arr.subItem[i].itemToken)
-for(let j = 0; j < task1Arr.length; j++){
-  $.log("开始"+task1Arr[j])
-  await doTask(task1Arr[j])
-  await $.wait(8000)
-}}
-          else
-            console.log("任务一完成\n")
-            break;
-           }
-          }else
-            console.log("任务一完成\n")
-          let tasklist2Arr = result.result.tasks.find(item => item.taskId == "2")
-    if(tasklist2Arr.times < tasklist2Arr.maxTimes){
-          console.log("开始任务2⃣️"+tasklist2Arr.taskName+"\n")
-          for(let i = 0; i < tasklist2Arr.subItem.length; i++){
-          if(tasklist2Arr.subItem[i].status == 1){
-          task2Arr.push(tasklist2Arr.subItem[i].itemToken)
-for(let j = 0; j < task2Arr.length; j++){
-  $.log("开始"+task2Arr[j])
-  await doTask(task2Arr[j])
-  await $.wait(8000)
-}
-}
-          else
-            console.log("任务二完成\n")
-            break;
-           }
-         }else
-            console.log("任务二完成\n")
-
-        let tasklist3Arr = result.result.tasks.find(item => item.taskId == "3")
-      if(tasklist3Arr.times < tasklist3Arr.maxTimes){
-          console.log("开始任务3⃣️"+tasklist3Arr.taskName+"\n")
-          for(let i = 0; i < tasklist3Arr.subItem.length; i++){
-          if(tasklist3Arr.subItem[i].status == 1){
-          task3Arr.push(tasklist3Arr.subItem[i].itemToken)
-tasktokenArr.push(tasklist3Arr.subItem[i].taskToken)
-for(let j = 0; j < task3Arr.length; j++){
-  $.log("开始"+task3Arr[j])
-  await check(tasktokenArr[j])
-  await doTask(task3Arr[j])
-  await $.wait(8000)
-}}
-
-          else
-            console.log("任务三完成\n")
-            break;
-           }
-          }else
-            console.log("任务三完成\n")
-console.log("开始任务4⃣️内部助力\n")
-for(let j = 0; j < task4Arr.distinct().length; j++){
-  $.log("开始助力"+task4Arr[j])
-  await doTask(task4Arr[j])
-  await $.wait(8000)
-}
-
-        }else{
-           $.log("😫"+result.msg+"\n")
+           $.log(result.msg+"\n")
         }
         }catch(e) {
           $.logErr(e, response);
@@ -231,32 +115,79 @@ for(let j = 0; j < task4Arr.distinct().length; j++){
 async function control(){
 for (let i =0; i < cookiesArr.length; i++) {
       cookie = cookiesArr[i];
-      await getlists()
+      await getshareid()
 }
 }
-async function getlists(){
- const MyRequest = GetRequest(`functionId=mcxhd_brandcity_taskList&appid=publicUseApi&body=%7B%22lat%22%3A%2236.808112%22%2C%22lng%22%3A%22118.039608%22%2C%22token%22%3A%22jd17919499fb7031e5%22%7D&t=${new Date().getTime()}&client=wh5&clientVersion=1.0.0&sid=7eef03e1ab21433872a1eef04777989w&uuid=0bcbcdb2a68f16cf9c9ad7c9b944fd141646a849&area=13_1016_47166_57860&networkType=4g`)
+async function getshareid(){
+ const MyRequest = GetRequest(`/support/getSupport?quizId=5&t=${new Date().getTime()}`)
  return new Promise((resolve) => {
     $.get(MyRequest,async(error, response, data) =>{
     try{
         const result = JSON.parse(data)
         if(logs)$.log(data)
-        if(result && result.retCode && result.retCode == 200){
+        if(result && result.code && result.code == 200){
          
-
-let tasklist4Arr = result.result.tasks.find(item => item.taskId == "4")
-          if(tasklist4Arr.times < tasklist4Arr.maxTimes){
-          for(let i = 0; i < tasklist4Arr.subItem.length; i++){
-          if(tasklist4Arr.status == 1){
-          task4Arr.push(tasklist4Arr.subItem[i].itemToken)
+$.log("互助码："+result.data.shareId+"\n")
+shareidArr.push(result.data.shareId)
+await $.wait(8000)
+//await zy()
+        }else{
+           $.log("😫"+result.msg+"\n")
+        }
+        }catch(e) {
+          $.logErr(e, response);
+      } finally {
+        resolve();
+      } 
+    })
+   })
+  }
+async function dosupport(shareid){
+ const body = `shareId=${shareid}`
+ const MyRequest = PostRequests(`/support/doSupport`,body)
+ return new Promise((resolve) => {
+    $.post(MyRequest,async(error, response, data) =>{
+    try{
+        const result = JSON.parse(data)
+        if(logs)$.log(data)
+        if(result && result.code && result.code == 200 && result.data == 7){
+         console.log("助力成功\n")
+        }else if(result.data == 1){
+           $.log("😫助力失败,不能助力自己\n")
+        }else if(result.data == 3){
+           $.log("😫助力失败,已经助力过了\n")
+        }
+        }catch(e) {
+          $.logErr(e, response);
+      } finally {
+        resolve();
+      } 
+    })
+   })
+  }
+async function zy(){
+for(let i = 0; i < shareidArr.distinct().length;i++){
+console.log("\n开始内部助力"+shareidArr[i]+"")
+await dosupport(shareidArr[i])
+await $.wait(8000)
 }
+}
+async function getlist(){
+ const MyRequest = GetRequest(`index/indexInfo?t=${new Date().getTime()}`)
+ return new Promise((resolve) => {
+    $.get(MyRequest,async(error, response, data) =>{
+    try{
+        const result = JSON.parse(data)
+        if(logs)$.log(data)
+        if(result && result.code && result.code == 200){
+         
+       console.log(result.data.listName+"\n")
+      for(let i = 0; i < 10; i++){
+       brandlistArr.push(result.data.brandWall[i].id)
 
-          else
-            console.log("任务四完成\n")
-            break;
-           }
-         }else
-            console.log("任务四完成\n")
+      }
+$.log("榜单获取成功"+JSON.stringify(brandlistArr.distinct()))
+await $.wait(8000)
         }else{
            $.log("😫"+result.msg+"\n")
         }
