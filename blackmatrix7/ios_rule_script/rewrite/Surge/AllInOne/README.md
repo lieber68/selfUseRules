@@ -14,18 +14,18 @@
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| mitm | 639 |
-| force_http_engine_hosts | 11 |
+| mitm | 647 |
+| force_http_engine_hosts | 14 |
 | DOMAIN | 6 |
 | DOMAIN-SUFFIX | 2 |
 | URL-REGEX | 7 |
 | IP-CIDR | 1 |
 | IP-CIDR6 | 1 |
 | USER-AGENT | 1 |
-| reject | 778 |
+| reject | 795 |
 | http-response | 29 |
 | http-request | 1 |
-| redirect | 50 |
+| redirect | 54 |
 ## 配置说明
 
 实时版：程序定时更新，更新频率高，能尽快同步数据源变化，适合希望尝鲜的人。
@@ -85,6 +85,7 @@ AllInOne_Classical.sgmodule 采用传统的reject方式直接拒绝请求。
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Upgrade/Upgrade.qxrewrite
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Loon/Rewrite.conf
 - https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Rewrite.txt
+- https://raw.githubusercontent.com/githubacct001/QuantumultX/master/Rewrite/githubacct001.conf
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

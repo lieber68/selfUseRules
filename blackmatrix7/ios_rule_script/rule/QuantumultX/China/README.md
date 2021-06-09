@@ -16,10 +16,10 @@
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| HOST-SUFFIX | 626 |
+| HOST-SUFFIX | 625 |
 | USER-AGENT | 32 |
 | HOST | 14 |
-| IP-CIDR | 56 |
+| IP-CIDR | 57 |
 | HOST-KEYWORD | 10 |
 | IP6-CIDR | 4 |
 ## 配置说明

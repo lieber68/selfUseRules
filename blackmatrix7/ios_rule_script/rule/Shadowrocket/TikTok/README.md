@@ -10,15 +10,16 @@
 
 ## 规则统计
 
-总计规则：16 条。
+总计规则：20 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| USER-AGENT | 1 |
 | DOMAIN-SUFFIX | 13 |
-| DOMAIN-KEYWORD | 1 |
+| USER-AGENT | 1 |
+| DOMAIN-KEYWORD | 4 |
+| PROCESS-NAME | 1 |
 | DOMAIN | 1 |
 ## 配置说明
 
@@ -54,6 +55,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shad
 - https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Media/TikTok.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/TikTok.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/TikTok.list
+- https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Filter/TikTok.list
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

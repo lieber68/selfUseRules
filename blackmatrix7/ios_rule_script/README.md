@@ -61,7 +61,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 | ~~[哔哩哔哩](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/bilibili)~~ | ~~没有广告的哔哩哔哩更值得干杯~~                             | 停止     |
 | [什么值得买](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/smzdm) | 什么值得买签到和去广告脚本                                   | 正常     |
 | [百度贴吧](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/tieba) | 带重试功能的贴吧签到，提高签到成功率                         | 正常     |
-| [联通手机营业厅](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/10010) | 每日自动签到、美团外卖30-3优惠券、4次抽奖、话费流量语音情况推送 | 正常     |
+| [中国联通](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/10010) | 每日自动签到、美团外卖30-3优惠券、4次抽奖、话费流量语音情况推送 | 正常     |
 | [联享家](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/lxj) | 去广告、拦截检测更新                                         | 正常     |
 | [开屏去广告](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/startup) | 通过脚本去除缓存到本地的APP开屏广告                          | 正常     |
 | [嘀嗒出行](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/didachuxing) | 每日自动签到                                                 | 正常     |
@@ -82,6 +82,12 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 地址： https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/gallery.json
 
+#### BoxJS
+
+感谢 [@chouchoui](https://github.com/chouchoui) 为本项目添加BoxJS的订阅。
+
+地址：https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/boxjs.json
+
 ### 外部资源
 
 项目中资源来自互联网上其他开源项目（具体以不同目录的说明为准），这里主要进行一些整合和备份。对于此类资源，无法对使用过程中出现的任何问题进行解答，您需要联系原作者。
@@ -92,5 +98,5 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 以下排名不分先后
 
-[@BaileyZyp](https://github.com/BaileyZyp)   [@Mazeorz](https://github.com/Mazeorz)   [@LuzMasonj](https://github.com/LuzMasonj)  [@ypannnn](https://github.com/ypannnn)  [@echizenryoma](https://github.com/echizenryoma)  [@zirawell](https://github.com/zirawell)  [@urzz](https://github.com/urzz)  [@ASD-max](https://github.com/ASD-max)
+[@BaileyZyp](https://github.com/BaileyZyp)   [@Mazeorz](https://github.com/Mazeorz)   [@LuzMasonj](https://github.com/LuzMasonj)  [@chouchoui](https://github.com/chouchoui)  [@ypannnn](https://github.com/ypannnn)  [@echizenryoma](https://github.com/echizenryoma)  [@zirawell](https://github.com/zirawell)  [@urzz](https://github.com/urzz)  [@ASD-max](https://github.com/ASD-max)
 
