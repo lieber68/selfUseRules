@@ -67,6 +67,10 @@
 
 * [@alecthw](https://github.com/alecthw?tab=repositories)
 
+* [@JDHelloWorld](https://github.com/JDHelloWorld?tab=repositories)
+
+* [@limbopro](https://github.com/limbopro?tab=repositories)
+
 ## License
 
 [GPLv3](LICENSE)
