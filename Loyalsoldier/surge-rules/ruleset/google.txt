@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,adservice.google.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,beacons.gcp.gvt2.com
 DOMAIN-SUFFIX,beacons.gvt2.com
+DOMAIN-SUFFIX,beacons2.gvt2.com
 DOMAIN-SUFFIX,beacons3.gvt2.com
 DOMAIN-SUFFIX,c.admob.com
 DOMAIN-SUFFIX,c.android.clients.google.com
@@ -21,12 +22,15 @@ DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,fonts.googleapis.com
 DOMAIN-SUFFIX,fonts.gstatic.com
+DOMAIN-SUFFIX,g1.gstatic.com
+DOMAIN-SUFFIX,g2.gstatic.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googleanalytics.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
+DOMAIN-SUFFIX,gstaticadssl.l.google.com
 DOMAIN-SUFFIX,gtm.oasisfeng.com
 DOMAIN-SUFFIX,imasdk.googleapis.com
 DOMAIN-SUFFIX,ocsp.pki.goog

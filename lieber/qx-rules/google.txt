@@ -4,6 +4,7 @@ DOMAIN-SUFFIX, adservice.google.com, DIRECT
 DOMAIN-SUFFIX, app-measurement.com, DIRECT
 DOMAIN-SUFFIX, beacons.gcp.gvt2.com, DIRECT
 DOMAIN-SUFFIX, beacons.gvt2.com, DIRECT
+DOMAIN-SUFFIX, beacons2.gvt2.com, DIRECT
 DOMAIN-SUFFIX, beacons3.gvt2.com, DIRECT
 DOMAIN-SUFFIX, c.admob.com, DIRECT
 DOMAIN-SUFFIX, c.android.clients.google.com, DIRECT
@@ -21,12 +22,15 @@ DOMAIN-SUFFIX, doubleclick.net, DIRECT
 DOMAIN-SUFFIX, firebase-settings.crashlytics.com, DIRECT
 DOMAIN-SUFFIX, fonts.googleapis.com, DIRECT
 DOMAIN-SUFFIX, fonts.gstatic.com, DIRECT
+DOMAIN-SUFFIX, g1.gstatic.com, DIRECT
+DOMAIN-SUFFIX, g2.gstatic.com, DIRECT
 DOMAIN-SUFFIX, google-analytics.com, DIRECT
 DOMAIN-SUFFIX, googleadservices.com, DIRECT
 DOMAIN-SUFFIX, googleanalytics.com, DIRECT
 DOMAIN-SUFFIX, googlesyndication.com, DIRECT
 DOMAIN-SUFFIX, googletagmanager.com, DIRECT
 DOMAIN-SUFFIX, googletagservices.com, DIRECT
+DOMAIN-SUFFIX, gstaticadssl.l.google.com, DIRECT
 DOMAIN-SUFFIX, gtm.oasisfeng.com, DIRECT
 DOMAIN-SUFFIX, imasdk.googleapis.com, DIRECT
 DOMAIN-SUFFIX, ocsp.pki.goog, DIRECT
