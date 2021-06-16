@@ -50,5 +50,6 @@ DOMAIN-SUFFIX, tools.l.google.com, DIRECT
 DOMAIN-SUFFIX, translate.googleapis.com, DIRECT
 DOMAIN-SUFFIX, translation.googleapis.com, DIRECT
 DOMAIN-SUFFIX, update.googleapis.com, DIRECT
+DOMAIN-SUFFIX, www-google-analytics.l.google.com, DIRECT
 DOMAIN-SUFFIX, www-googletagmanager.l.google.com, DIRECT
 DOMAIN-SUFFIX, www.gstatic.com, DIRECT

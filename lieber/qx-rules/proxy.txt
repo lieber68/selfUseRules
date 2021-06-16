@@ -21254,6 +21254,7 @@ DOMAIN-SUFFIX, toroporno.com, proxy
 DOMAIN-SUFFIX, torproject.org, proxy
 DOMAIN-SUFFIX, torrentav.net, proxy
 DOMAIN-SUFFIX, torrenteditor.com, proxy
+DOMAIN-SUFFIX, torrentkitty.tv, proxy
 DOMAIN-SUFFIX, torrentkittycn.com, proxy
 DOMAIN-SUFFIX, torrentprivacy.com, proxy
 DOMAIN-SUFFIX, torrenty.org, proxy
@@ -26447,7 +26448,6 @@ DOMAIN-SUFFIX, www.torhead.com, proxy
 DOMAIN-SUFFIX, www.torrentkitty.com, proxy
 DOMAIN-SUFFIX, www.torrentkitty.net, proxy
 DOMAIN-SUFFIX, www.torrentkitty.org, proxy
-DOMAIN-SUFFIX, www.torrentkitty.tv, proxy
 DOMAIN-SUFFIX, www.torrentsland.com, proxy
 DOMAIN-SUFFIX, www.totalav.com, proxy
 DOMAIN-SUFFIX, www.totallynsfw.com, proxy
