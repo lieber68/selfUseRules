@@ -287,6 +287,7 @@ payload:
   - DOMAIN-SUFFIX,getpricetag.com
   - DOMAIN-SUFFIX,gifshow.com
   - DOMAIN-SUFFIX,godic.net
+  - DOMAIN-SUFFIX,heweather.net
   - DOMAIN-SUFFIX,hicloud.com
   - DOMAIN-SUFFIX,hongxiu.com
   - DOMAIN-SUFFIX,hostbuf.com
@@ -320,8 +321,8 @@ payload:
   - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,plex.tv
-  - DOMAIN-SUFFIX,qdaily.com
   - DOMAIN-SUFFIX,qidian.com
+  - DOMAIN-SUFFIX,qweather.com
   - DOMAIN-SUFFIX,qyer.com
   - DOMAIN-SUFFIX,qyerstatic.com
   - DOMAIN-SUFFIX,raychase.net
