@@ -69499,6 +69499,7 @@ DOMAIN, apptrailers.itunes.apple.com, DIRECT
 DOMAIN, bag.itunes.apple.com, DIRECT
 DOMAIN, beacons.gcp.gvt2.com, DIRECT
 DOMAIN, beacons.gvt2.com, DIRECT
+DOMAIN, beacons2.gvt2.com, DIRECT
 DOMAIN, beacons3.gvt2.com, DIRECT
 DOMAIN, bg.v4.a.dl.ws.microsoft.com, DIRECT
 DOMAIN, bg4.v4.a.dl.ws.microsoft.com, DIRECT
@@ -69573,6 +69574,8 @@ DOMAIN, firebase-settings.crashlytics.com, DIRECT
 DOMAIN, fonts.googleapis.com, DIRECT
 DOMAIN, fonts.gstatic.com, DIRECT
 DOMAIN, fs.microsoft.com, DIRECT
+DOMAIN, g1.gstatic.com, DIRECT
+DOMAIN, g2.gstatic.com, DIRECT
 DOMAIN, geetest.datasink.sensorsdata.cn, DIRECT
 DOMAIN, gog.qtlglb.com, DIRECT
 DOMAIN, gogalaxy.gog-statics.com, DIRECT
@@ -69733,6 +69736,7 @@ DOMAIN, toolbarqueries.google.com, DIRECT
 DOMAIN, tools.google.com, DIRECT
 DOMAIN, tools.l.google.com, DIRECT
 DOMAIN, translate.googleapis.com, DIRECT
+DOMAIN, translation.googleapis.com, DIRECT
 DOMAIN, update.googleapis.com, DIRECT
 DOMAIN, updates-http.cdn-apple.com, DIRECT
 DOMAIN, updates-http.cdn-apple.com.akadns.net, DIRECT
@@ -69746,6 +69750,7 @@ DOMAIN, wl.dlservice.microsoft.com, DIRECT
 DOMAIN, wow.nosdn.127.net, DIRECT
 DOMAIN, wscont1.apps.microsoft.com, DIRECT
 DOMAIN, wscont2.apps.microsoft.com, DIRECT
+DOMAIN, www-google-analytics.l.google.com, DIRECT
 DOMAIN, www-googletagmanager.l.google.com, DIRECT
 DOMAIN, www.apple.com, DIRECT
 DOMAIN, www.apple.com.edgekey.net, DIRECT

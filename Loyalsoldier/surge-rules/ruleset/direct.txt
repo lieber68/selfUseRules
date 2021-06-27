@@ -20,6 +20,7 @@ DOMAIN,apptrailers.itunes.apple.com
 DOMAIN,bag.itunes.apple.com
 DOMAIN,beacons.gcp.gvt2.com
 DOMAIN,beacons.gvt2.com
+DOMAIN,beacons2.gvt2.com
 DOMAIN,beacons3.gvt2.com
 DOMAIN,bg.v4.a.dl.ws.microsoft.com
 DOMAIN,bg4.v4.a.dl.ws.microsoft.com
@@ -94,6 +95,8 @@ DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
 DOMAIN,fs.microsoft.com
+DOMAIN,g1.gstatic.com
+DOMAIN,g2.gstatic.com
 DOMAIN,geetest.datasink.sensorsdata.cn
 DOMAIN,gog.qtlglb.com
 DOMAIN,gogalaxy.gog-statics.com
@@ -254,6 +257,7 @@ DOMAIN,toolbarqueries.google.com
 DOMAIN,tools.google.com
 DOMAIN,tools.l.google.com
 DOMAIN,translate.googleapis.com
+DOMAIN,translation.googleapis.com
 DOMAIN,update.googleapis.com
 DOMAIN,updates-http.cdn-apple.com
 DOMAIN,updates-http.cdn-apple.com.akadns.net
@@ -267,6 +271,7 @@ DOMAIN,wl.dlservice.microsoft.com
 DOMAIN,wow.nosdn.127.net
 DOMAIN,wscont1.apps.microsoft.com
 DOMAIN,wscont2.apps.microsoft.com
+DOMAIN,www-google-analytics.l.google.com
 DOMAIN,www-googletagmanager.l.google.com
 DOMAIN,www.apple.com
 DOMAIN,www.apple.com.edgekey.net
