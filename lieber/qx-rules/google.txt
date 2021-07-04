@@ -32,12 +32,12 @@ DOMAIN-SUFFIX, googletagmanager.com, DIRECT
 DOMAIN-SUFFIX, googletagservices.com, DIRECT
 DOMAIN-SUFFIX, gstaticadssl.l.google.com, DIRECT
 DOMAIN-SUFFIX, gtm.oasisfeng.com, DIRECT
-DOMAIN-SUFFIX, gvt1.com, DIRECT
 DOMAIN-SUFFIX, imasdk.googleapis.com, DIRECT
 DOMAIN-SUFFIX, ocsp.pki.goog, DIRECT
 DOMAIN-SUFFIX, pagead-googlehosted.l.google.com, DIRECT
 DOMAIN-SUFFIX, pki-goog.l.google.com, DIRECT
 DOMAIN-SUFFIX, recaptcha.net, DIRECT
+DOMAIN-SUFFIX, redirector.gvt1.com, DIRECT
 DOMAIN-SUFFIX, regioninfo-pa.googleapis.com, DIRECT
 DOMAIN-SUFFIX, safebrowsing-cache.google.com, DIRECT
 DOMAIN-SUFFIX, safebrowsing.googleapis.com, DIRECT

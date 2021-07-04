@@ -32,12 +32,12 @@ DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,gstaticadssl.l.google.com
 DOMAIN-SUFFIX,gtm.oasisfeng.com
-DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,imasdk.googleapis.com
 DOMAIN-SUFFIX,ocsp.pki.goog
 DOMAIN-SUFFIX,pagead-googlehosted.l.google.com
 DOMAIN-SUFFIX,pki-goog.l.google.com
 DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,redirector.gvt1.com
 DOMAIN-SUFFIX,regioninfo-pa.googleapis.com
 DOMAIN-SUFFIX,safebrowsing-cache.google.com
 DOMAIN-SUFFIX,safebrowsing.googleapis.com
