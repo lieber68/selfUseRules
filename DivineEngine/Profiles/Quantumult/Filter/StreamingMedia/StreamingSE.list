@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,cn-hk-eq-bcache-,StreamingSE
 # > 愛奇藝台灣站
 DOMAIN,cache.video.iqiyi.com,StreamingSE
 IP-CIDR,116.211.202.206/32,StreamingSE
+IP-CIDR,116.211.202.216/32,StreamingSE
 # > 芒果TV国际
 DOMAIN-SUFFIX,api.mgtv.com,StreamingSE
 # > WeTV
