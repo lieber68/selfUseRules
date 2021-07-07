@@ -1015,6 +1015,7 @@ DOMAIN-SUFFIX, christusrex.org, proxy
 DOMAIN-SUFFIX, chrlawyers.hk, proxy
 DOMAIN-SUFFIX, chrome.com, proxy
 DOMAIN-SUFFIX, chromecast.com, proxy
+DOMAIN-SUFFIX, chromeenterprise.google, proxy
 DOMAIN-SUFFIX, chromeexperiments.com, proxy
 DOMAIN-SUFFIX, chromercise.com, proxy
 DOMAIN-SUFFIX, chromestatus.com, proxy
@@ -1963,6 +1964,7 @@ DOMAIN-SUFFIX, gaywatch.com, proxy
 DOMAIN-SUFFIX, gazotube.com, proxy
 DOMAIN-SUFFIX, gcc.org.hk, proxy
 DOMAIN-SUFFIX, gclooney.com, proxy
+DOMAIN-SUFFIX, gclubs.com, proxy
 DOMAIN-SUFFIX, gcmasia.com, proxy
 DOMAIN-SUFFIX, gcpnews.com, proxy
 DOMAIN-SUFFIX, gcr.io, proxy
@@ -4197,6 +4199,7 @@ DOMAIN-SUFFIX, rarbgprx.org, proxy
 DOMAIN-SUFFIX, raremovie.cc, proxy
 DOMAIN-SUFFIX, raremovie.net, proxy
 DOMAIN-SUFFIX, rateyourmusic.com, proxy
+DOMAIN-SUFFIX, rationalwiki.org, proxy
 DOMAIN-SUFFIX, raw.githubusercontent.com, proxy
 DOMAIN-SUFFIX, rawgit.com, proxy
 DOMAIN-SUFFIX, rawgithub.com, proxy
@@ -4243,6 +4246,7 @@ DOMAIN-SUFFIX, releaseinternational.org, proxy
 DOMAIN-SUFFIX, religioustolerance.org, proxy
 DOMAIN-SUFFIX, renminbao.com, proxy
 DOMAIN-SUFFIX, renyurenquan.org, proxy
+DOMAIN-SUFFIX, research.google, proxy
 DOMAIN-SUFFIX, research.jmsc.hku.hk, proxy
 DOMAIN-SUFFIX, resilio.com, proxy
 DOMAIN-SUFFIX, resistchina.org, proxy
@@ -5138,6 +5142,7 @@ DOMAIN-SUFFIX, tushycash.com, proxy
 DOMAIN-SUFFIX, tuvpn.com, proxy
 DOMAIN-SUFFIX, tuzaijidi.com, proxy
 DOMAIN-SUFFIX, tv.com, proxy
+DOMAIN-SUFFIX, tv.google, proxy
 DOMAIN-SUFFIX, tv.jtbc.joins.com, proxy
 DOMAIN-SUFFIX, tvants.com, proxy
 DOMAIN-SUFFIX, tvboxnow.com, proxy
@@ -5312,6 +5317,7 @@ DOMAIN-SUFFIX, unknownspace.org, proxy
 DOMAIN-SUFFIX, unodedos.com, proxy
 DOMAIN-SUFFIX, unpo.org, proxy
 DOMAIN-SUFFIX, unseen.is, proxy
+DOMAIN-SUFFIX, unstable.icu, proxy
 DOMAIN-SUFFIX, untraceable.us, proxy
 DOMAIN-SUFFIX, uocn.org, proxy
 DOMAIN-SUFFIX, upcoming.yahoo.com, proxy
