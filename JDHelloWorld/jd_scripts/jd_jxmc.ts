@@ -33,7 +33,6 @@ let UserName: string, index: number, isLogin: boolean, nickName: string
     console.log(`\n开始【京东账号${index}】${nickName || UserName}\n`);
 
     homePageInfo = await api('queryservice/GetHomePageInfo', 'channel,isgift,sceneid', {isgift: 0})
-    console.log(homePageInfo)
     let food: number = homePageInfo.data.materialinfo[0].value;
     let petid: number = homePageInfo.data.petinfo[0].petid
     let coins = homePageInfo.data.coins;
@@ -42,8 +41,18 @@ let UserName: string, index: number, isLogin: boolean, nickName: string
     console.log('现有草:', food);
     console.log('金币:', coins);
 
-    await getTask();
+    let taskRetCode: number = 0;
+    while (taskRetCode === 0) {
+      taskRetCode = await getTask();
+      console.log('taskRetCode:', taskRetCode)
+      if (taskRetCode === 0) {
+        await wait(4000);
+      } else {
+        break
+      }
+    }
 
+    /*
     while (coins >= 5000 && food <= 500) {
       res = await api('operservice/Buy', 'channel,sceneid,type', {type: '1'})
       if (res.ret === 0) {
@@ -93,6 +102,7 @@ let UserName: string, index: number, isLogin: boolean, nickName: string
       console.log('挑逗:', res.data.addcoins)
       await wait(1500)
     }
+    */
   }
 })()
 
@@ -101,6 +111,7 @@ interface Params {
   petid?: number,
   type?: string,
   taskId?: number
+  configExtra?: string
 }
 
 function api(fn: string, stk: string, params: Params = {}) {
@@ -127,10 +138,8 @@ function api(fn: string, stk: string, params: Params = {}) {
 }
 
 function getTask() {
-  return new Promise<void>(async resolve => {
+  return new Promise<number>(async resolve => {
     let tasks: any = await taskAPI('GetUserTaskStatusList', 'bizCode,dateType,source')
-    // console.log(tasks)
-    // writeFileSync('./a.json', JSON.stringify(tasks), 'utf-8')
     let doTaskRes: any
     for (let t of tasks.data.userTaskStatusList) {
       if ((t.dateType === 1 || t.dateType === 2) && t.completedTimes == t.targetTimes && t.awardStatus === 2) {
@@ -142,20 +151,31 @@ function getTask() {
           console.log('每日任务可领取:', t.taskName, t.completedTimes, t.targetTimes)
 
         doTaskRes = await taskAPI('Award', 'bizCode,source,taskId', {taskId: t.taskId})
-        console.log(doTaskRes)
+        await wait(2000)
         if (doTaskRes.ret === 0) {
           let awardCoin = doTaskRes['data']['prizeInfo'].match(/:(.*)}/)![1] * 1
-          console.log('任务完成:', awardCoin)
+          console.log('领奖成功:', awardCoin)
+          await wait(2000)
+          resolve(0)
         } else {
-          break
+          resolve(1)
         }
-        await wait(4000)
-        await getTask()
       }
-      // if (t.dateType === 2 && t.completedTimes < t.targetTimes) {
+      if (t.dateType === 2 && t.completedTimes < t.targetTimes && t.awardStatus === 2 && t.taskType === 2) {
+        console.log('可做每日任务:', t.taskName, t.taskId)
+        doTaskRes = await taskAPI('DoTask', 'bizCode,configExtra,source,taskId', {taskId: t.taskId, configExtra: ''})
+        console.log(doTaskRes)
+        await wait(5000)
+        if (doTaskRes.ret === 0) {
+          console.log('任务完成')
+          await wait(2000)
+          resolve(0)
+        } else {
+          resolve(1)
+        }
+      }
     }
-    await wait(3000)
-    resolve()
+    resolve(1)
   })
 }
 
@@ -309,8 +329,9 @@ function getQueryString(url: string, name: string) {
 
 function wait(t: number) {
   return new Promise<void>(resolve => {
-    setTimeout(async () => {
+    setTimeout(() => {
+      console.log('sleep...', t)
       resolve()
-    }, t === 0 ? 1000 : t)
+    }, t)
   })
 }
