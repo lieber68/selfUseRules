@@ -157,6 +157,12 @@ DOMAIN,cwx.lianwangtech.com
 DOMAIN,c1wx.lianwangtech.com
 
 # (M)
+# > Microsoft
+DOMAIN-SUFFIX,ads.msn.com
+DOMAIN-SUFFIX,ads1.msn.com
+DOMAIN-SUFFIX,ads2.msn.com
+DOMAIN-SUFFIX,rads.msn.com
+DOMAIN,mobileads.msn.com
 # > MojiWeather
 DOMAIN,ad.api.moji.com
 DOMAIN,adlaunch.moji.com

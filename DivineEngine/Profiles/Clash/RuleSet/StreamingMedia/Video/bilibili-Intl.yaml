@@ -1,0 +1,5 @@
+payload:
+  # > bilibili Intl
+  - PROCESS-NAME,com.bstar.intl
+  - DOMAIN-SUFFIX,biliintl.com
+  - DOMAIN,upos-bstar-mirrorakam.akamaized.net

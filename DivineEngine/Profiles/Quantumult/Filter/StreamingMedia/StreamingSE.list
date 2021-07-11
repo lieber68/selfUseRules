@@ -9,6 +9,3 @@ IP-CIDR,116.211.202.206/32,StreamingSE
 IP-CIDR,116.211.202.216/32,StreamingSE
 # > 芒果TV国际
 DOMAIN-SUFFIX,api.mgtv.com,StreamingSE
-# > WeTV
-DOMAIN-SUFFIX,wetv.vip,StreamingSE
-DOMAIN-SUFFIX,wetvinfo.com,StreamingSE

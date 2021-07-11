@@ -23,12 +23,6 @@
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.trip\.activity\.querytmsresources\/ - reject
 # > Taopiaopiao - acs.m.taobao.com
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.film\.mtopadvertiseapi\.queryadvertise\/ - reject
-# > koubei - acs.m.taobao.com
-^https?:\/\/render\.alipay\.com\/p\/s\/h5data\/prod\/spring-festival-2019-h5data\/popup-h5data\.json - reject
-^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.o2o\.ad\.gateway\.get\/ - reject
-^https?:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.wireless\.home\.splash\.awesome\.get\/ - reject
-# > Xiami Music - acs.m.taobao.com
-^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alimusic\.common\.mobileservice\.startinit\/ - reject
 # > AMap - m*.amap.com
 ^https?:\/\/m\d\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\/ - reject
 # > YOUKU
@@ -137,16 +131,12 @@
 ^https?:\/\/cdn\.dianshihome\.com\/static\/ad\/ - reject
 # > DDpai
 ^https?:\/\/app\.ddpai\.com\/d\/api\/v\d\/config\/get\/bootscreen - reject
-# > DayDayCook - *.daydaycook.com
-^https?:\/\/api\.daydaycook\.com\.cn\/daydaycook\/server\/ad\/ - reject
-^https?:\/\/cms\.daydaycook\.com\.cn\/api\/cms\/advertisement\/ - reject
 # > DingDongMaiCai - maicai.api.ddxq.mobi
 ^https?:\/\/maicai\.api\.ddxq\.mobi\/advert\/ - reject
 
 # E
-# > eLong - mobile-api2011.elong.com,123.59.31.1,119.18.193.135
-^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\/(adgateway|adv)\/ - reject
-^https?:\/\/mobile-api2011.elong.com\/(adgateway|adv)\/ - reject
+# > eLong - mobileapi-v6.elong.com
+^https?:\/\/mobileapi-v6\.elong\.com\/adgateway\/ - reject
 # > eDaijia
 ^https?:\/\/pic\.edaijia\.cn\/adsplash\/ - reject
 # > eleme
@@ -220,11 +210,10 @@
 ^https?:\/\/tracker-download\.oss-cn-beijing\.aliyuncs\.com\/SIMPlus\/AD\/ - reject
 
 # J
-# > JD - api.m.jd.com,ms.jr.jd.com,img*.360buyimg.com
+# > JD - api.m.jd.com,img*.360buyimg.com
 ^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=start - reject
 ^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=queryMaterialAdverts - reject
 ^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/ - reject
-^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/aladdin\/na\/m\/getLoadingPicture - reject
 ^https?:\/\/img\d+\.360buyimg\.com\/jddjadvertise\/ - reject
 # > JiaXiaoeDianTong - api.jxedt.com
 ^https?:\/\/api\.jxedt\.com\/ad\/ - reject
@@ -257,11 +246,12 @@
 ^https?:\/\/api\.club\.lenovo\.cn\/common\/open_ad - reject
 
 # M
-# > MI - api.jr.mi.com,api-mifit*.huami.com
+# > MI - api.jr.mi.com,api-mifit*.huami.com,home.mi.com
 ^https?:\/\/api\.m\.mi\.com\/v\d\/app\/start - reject
 ^https?:\/\/api\.jr\.mi\.com\/v\d\/adv\/ - reject
 ^https?:\/\/api\.jr\.mi\.com\/jr\/api\/playScreen - reject
 ^https?:\/\/(api-mifit|api-mifit-\w+)\.huami\.com\/discovery\/mi\/discovery\/\w+_ad\? - reject
+^https?:\/\/home\.mi\.com\/cgi-op\/api\/v\d\/recommendation\/banner - reject
 # > MogoRenter - api.mgzf.com
 ^https?:\/\/api\.mgzf\.com\/renter-operation\/home\/startHomePage - reject
 # > MojiWeather - cdn.moji.com
@@ -273,6 +263,7 @@
 ^https?:\/\/(s3plus|flowplus)\.meituan\.net\/v\d\/\w+\/linglong\/\w+\.(gif|jpg|mp4) - reject
 ^https?:\/\/p\d\.meituan\.net\/(bizad|wmbanner)\/\w+\.jpg - reject
 ^https?:\/\/p\d\.meituan\.net\/movie\/\w+\.jpg\?may_covertWebp - reject
+^https?:\/\/wmapi\.meituan\.com\/api\/v\d\/startpicture - reject
 # > mwee - capi.mwee.cn
 ^https?:\/\/capi.mwee.cn/app-api/V\d+/app/(ad|getstartad) - reject
 # > MiaoPai
@@ -384,8 +375,6 @@
 ^https?:\/\/consumer\.fcbox\.com\/v\d\/ad\/ - reject
 # > SuperFriday
 ^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)(:\d+)?\/V\d\/splash\/getSplashV\d\.action$ - reject
-# > StarFans - g.cdn.pengpengla.com
-^https?:\/\/g\.cdn\.pengpengla\.com\/starfantuan\/boot-screen-info\/ - reject
 # > Snail Sleep - snailsleep.net
 ^https?:\/\/snailsleep\.net\/snail\/v\d\/screen\/qn\/get\? - reject
 ^https?:\/\/snailsleep\.net\/snail\/v\d\/adTask\/ - reject

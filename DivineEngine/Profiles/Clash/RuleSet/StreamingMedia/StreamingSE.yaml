@@ -10,6 +10,3 @@ payload:
   - IP-CIDR,116.211.202.216/32,no-resolve
   # > 芒果TV国际
   - DOMAIN-SUFFIX,api.mgtv.com
-  # > WeTV
-  - DOMAIN-SUFFIX,wetv.vip
-  - DOMAIN-SUFFIX,wetvinfo.com
