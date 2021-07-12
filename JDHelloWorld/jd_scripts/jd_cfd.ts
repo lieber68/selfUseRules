@@ -32,12 +32,12 @@ let UserName: string, index: number, isLogin: boolean, nickName: string
     await TotalBean();
     console.log(`\n开始【京东账号${index}】${nickName || UserName}\n`);
 
-    for (i = 0; i < 20; i++) {
-      res = await speedUp('_cfd_t,bizCode,dwEnv,ptag,source,strBuildIndex,strZone')
-      console.log(res)
-      console.log('今日热气球:', res.dwTodaySpeedPeople, '/', 20)
-      await wait(2000)
-    }
+    // for (i = 0; i < 20; i++) {
+    //   res = await speedUp('_cfd_t,bizCode,dwEnv,ptag,source,strBuildIndex,strZone')
+    //   console.log(res)
+    //   console.log('今日热气球:', res.dwTodaySpeedPeople, '/', 20)
+    //   await wait(2000)
+    // }
 
     // 任务1
     let tasks: any
@@ -53,6 +53,33 @@ let UserName: string, index: number, isLogin: boolean, nickName: string
       }
     }
      */
+    // 贝壳
+    // while (1) {
+    //
+    //   res = await api('story/pickshell', '_cfd_t,bizCode,dwEnv,dwType,ptag,source,strZone', {dwType: '3'})
+    //   console.log(res)
+    //   await wait(1000)
+        //   res = await api('story/pickshell', '_cfd_t,bizCode,dwEnv,dwType,ptag,source,strZone', {dwType: '2'})
+    //   console.log(res)
+    //   await wait(1000)
+    //   res = await api('story/pickshell', '_cfd_t,bizCode,dwEnv,dwType,ptag,source,strZone', {dwType: '1'})
+    //   console.log(res)
+    //   await wait(1000)
+    //   if (res.iRet !== 0) {
+    //     break
+    //   }
+    // }
+
+    // res = await api('story/SpecialUserOper',
+    //   '_cfd_t,bizCode,ddwTriggerDay,dwEnv,dwType,ptag,source,strStoryId,strZone,triggerType',
+    //   {strStoryId: 'stroy_1626065998453014_1', dwType: '2', triggerType: 0, ddwTriggerDay: 1626019200})
+    // console.log('船到:', res)
+    // await wait(31000)
+    // res = await api('story/SpecialUserOper',
+    //   '_cfd_t,bizCode,ddwTriggerDay,dwEnv,dwType,ptag,source,strStoryId,strZone,triggerType',
+    //   {strStoryId: 'stroy_1626065998453014_1', dwType: '3', triggerType: 0, ddwTriggerDay: 1626019200})
+    // console.log('下船:', res)
+
     tasks = await mainTask('GetUserTaskStatusList', '_cfd_t,bizCode,dwEnv,ptag,source,strZone,taskId', {taskId: 0});
     for (let t of tasks.data.userTaskStatusList) {
       if (t.dateType === 2) {
@@ -94,7 +121,7 @@ let UserName: string, index: number, isLogin: boolean, nickName: string
 
 function speedUp(stk: string, params: Params = {}) {
   return new Promise(async resolve => {
-    let url = `https://m.jingxi.com/jxbfd/user/SpeedUp?strZone=jxbfd&bizCode=jxbfd&source=jxbfd&dwEnv=7&_cfd_t=${Date.now()}&ptag=&strBuildIndex=food&_ste=1&_=${Date.now()}&sceneval=2&_stk=${encodeURIComponent(stk)}`
+    let url = `https://m.jingxi.com/jxbfd/user/SpeedUp?strZone=jxbfd&bizCode=jxbfd&source=jxbfd&dwEnv=7&_cfd_t=${Date.now()}&ptag=&strBuildIndex=${['food', 'shop', 'sea', 'fun'][Math.floor(Math.random() * 4)]}&_ste=1&_=${Date.now()}&sceneval=2&_stk=${encodeURIComponent(stk)}`
     if (Object.keys(params).length !== 0) {
       let key: (keyof Params)
       for (key in params) {
@@ -120,7 +147,10 @@ interface Params {
   ddwCostCoin?: number,
   taskId?: number,
   dwType?: string,
-  configExtra?: string
+  configExtra?: string,
+  strStoryId?: string,
+  triggerType?: number,
+  ddwTriggerDay?: number,
 }
 
 function api(fn: string, stk: string, params: Params = {}) {
