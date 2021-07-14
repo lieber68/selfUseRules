@@ -1,8 +1,8 @@
 /**
  * 京喜牧场
  * 买、喂、收蛋、锄草、挑逗
- * // TODO
- * 领奖、任务
+ * export HELP_HW=true     // 默认帮助HelloWorld
+ * export HELP_POOL=true   // 默认帮助助力池
  */
 
 import {format} from 'date-fns';
@@ -12,13 +12,16 @@ import USER_AGENT from './TS_USER_AGENTS';
 
 const CryptoJS = require('crypto-js')
 
-// console.log('时间戳：', format(new Date(), 'yyyyMMddHHmmssSSS'));
-
 let appId: number = 10028, fingerprint: string | number, token: string, enCryptMethodJD: any;
-let cookie: string = '', cookiesArr: Array<string> = [], res: any = '', shareCodes: Array<string>;
+let cookie: string = '', cookiesArr: Array<string> = [], res: any = '', shareCodes: string[] = [];
 let homePageInfo: any;
-
 let UserName: string, index: number, isLogin: boolean, nickName: string
+
+let HELP_HW: string = process.env.HELP_HW ? process.env.HELP_HW : "true";
+console.log('帮助HelloWorld:', HELP_HW)
+let HELP_POOL: string = process.env.HELP_POOL ? process.env.HELP_POOL : "true";
+console.log('帮助助力池:', HELP_POOL)
+
 !(async () => {
   await requestAlgo();
   await requireConfig();
@@ -34,12 +37,29 @@ let UserName: string, index: number, isLogin: boolean, nickName: string
 
     homePageInfo = await api('queryservice/GetHomePageInfo', 'channel,isgift,sceneid', {isgift: 0})
     let food: number = homePageInfo.data.materialinfo[0].value;
-    let petid: number = homePageInfo.data.petinfo[0].petid
+    let petid: number = homePageInfo.data.petinfo[0].petid;
     let coins = homePageInfo.data.coins;
-
-    console.log('pet id:', petid)
+    shareCodes.push(homePageInfo.data.sharekey)
+    console.log('助力码：', homePageInfo.data.sharekey)
+    console.log('pet id：提交尼玛的pet id，上面助力码不认识中文？')
     console.log('现有草:', food);
     console.log('金币:', coins);
+
+    // 签到
+    res = await api('queryservice/GetSignInfo', 'channel,sceneid')
+    if (res.data.signlist) {
+      for (let day of res.data.signlist) {
+        if (day.fortoday && !day.hasdone) {
+          res = await api('operservice/GetSignReward', 'channel,currdate,sceneid', {currdate: res.data.currdate})
+          if (res.ret === 0) {
+            console.log('签到成功!')
+          }
+          break
+        }
+      }
+    } else {
+      console.log('没有获取到签到信息！')
+    }
 
     let taskRetCode: number = 0;
     while (taskRetCode === 0) {
@@ -88,7 +108,6 @@ let UserName: string, index: number, isLogin: boolean, nickName: string
     while (1) {
       try {
         res = await api('operservice/Action', 'channel,sceneid,type', {type: '2'})
-        console.log(res)
         if (res.data.addcoins === 0) break
         console.log('锄草:', res.data.addcoins)
         await wait(1500)
@@ -111,6 +130,50 @@ let UserName: string, index: number, isLogin: boolean, nickName: string
       }
     }
   }
+
+  // 获取随机助力码
+  /*
+  if (HELP_HW === 'true') {
+    try {
+      let {data} = await axios.get("https://api.sharecode.ga/api/HW_CODES")
+      shareCodes = [
+        ...shareCodes,
+        ...data.jxcfd
+      ]
+      console.log('获取HelloWorld助力码成功')
+    } catch (e) {
+      console.log('获取HelloWorld助力码出错')
+    }
+  }
+
+   */
+  if (HELP_POOL === 'true') {
+    try {
+      let {data} = await axios.get('https://api.sharecode.ga/api/jxmc/6')
+      console.log('获取到20个随机助力码:', data.data)
+      shareCodes = [...shareCodes, ...data.data]
+    } catch (e) {
+      console.log('获取助力池失败')
+    }
+  } else {
+    console.log('你的设置是不帮助助力池！')
+  }
+  for (let i = 0; i < cookiesArr.length; i++) {
+    cookie = cookiesArr[i]
+    for (let j = 0; j < shareCodes.length; j++) {
+      console.log(`账号${i + 1}去助力${shareCodes[j]}`)
+      res = await api('operservice/EnrollFriend', 'channel,sceneid,sharekey', {sharekey: shareCodes[j]})
+      if (res.data.result === 1) {
+        console.log('不助力自己')
+      } else if (res.ret === 0) {
+        console.log('助力结果：', res)
+        console.log('助力成功，获得：', res.data.addcoins)
+      } else {
+        console.log(res)
+      }
+      await wait(1000)
+    }
+  }
 })()
 
 interface Params {
@@ -118,7 +181,9 @@ interface Params {
   petid?: number,
   type?: string,
   taskId?: number
-  configExtra?: string
+  configExtra?: string,
+  sharekey?: string,
+  currdate?: string
 }
 
 function api(fn: string, stk: string, params: Params = {}) {
