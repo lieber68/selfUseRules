@@ -1,8 +1,12 @@
 # Streaming Media
-# (Podcast)
-# > Himalaya
-USER-AGENT,Himalaya*,Streaming
-DOMAIN-SUFFIX,himalaya.com,Streaming
+
+# (Live)
+# > Twitch
+DOMAIN-SUFFIX,jtvnw.net,Streaming
+DOMAIN-SUFFIX,ttvnw.net,Streaming
+DOMAIN-SUFFIX,twitch.tv,Streaming
+DOMAIN-SUFFIX,twitchcdn.net,Streaming
+
 # (Music)
 # > Deezer
 USER-AGENT,Deezer*,Streaming
@@ -39,6 +43,15 @@ DOMAIN-SUFFIX,tidal.com,Streaming
 # > YouTubeMusic
 USER-AGENT,com.google.ios.youtubemusic*,Streaming
 USER-AGENT,YouTubeMusic*,Streaming
+
+# (Podcast)
+# > Himalaya
+USER-AGENT,Himalaya*,Streaming
+DOMAIN-SUFFIX,himalaya.com,Streaming
+# > Overcast
+USER-AGENT,Overcast*,Streaming
+DOMAIN-SUFFIX,overcast.fm,Streaming
+
 # (Video)
 # > AbemaTV
 USER-AGENT,AbemaTV*,Streaming
@@ -68,6 +81,7 @@ DOMAIN,dmqdd6hw24ucf.cloudfront.net,Streaming
 DOMAIN,d22qjgkvxw22r6.cloudfront.net,Streaming
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net,Streaming
 DOMAIN,d27xxe7juh1us6.cloudfront.net,Streaming
+# DOMAIN,www.amazon.com,Streaming
 DOMAIN-KEYWORD,avoddashs,Streaming
 # > Apple TV
 DOMAIN,linear.tv.apple.com,Streaming
@@ -84,6 +98,9 @@ DOMAIN-SUFFIX,bbc.co.uk,Streaming
 DOMAIN-SUFFIX,bbci.co.uk,Streaming
 DOMAIN-KEYWORD,bbcfmt,Streaming
 DOMAIN-KEYWORD,uk-live,Streaming
+# > bilibili Intl
+DOMAIN-SUFFIX,biliintl.com,Streaming
+DOMAIN,upos-bstar-mirrorakam.akamaized.net,Streaming
 # > DAZN
 USER-AGENT,DAZN*,Streaming
 DOMAIN-SUFFIX,dazn.com,Streaming
@@ -162,6 +179,21 @@ USER-AGENT,ITV_Player*,Streaming
 DOMAIN-SUFFIX,itv.com,Streaming
 DOMAIN-SUFFIX,itvstatic.com,Streaming
 DOMAIN,itvpnpmobile-a.akamaihd.net,Streaming
+# > iQIYI
+DOMAIN-SUFFIX,iq.com,Streaming
+DOMAIN,intl.iqiyi.com,Streaming
+DOMAIN,intl-rcd.iqiyi.com,Streaming
+DOMAIN,intl-subscription.iqiyi.com,Streaming
+IP-CIDR,103.5.34.153/32,Streaming
+IP-CIDR,104.109.129.153/32,Streaming
+IP-CIDR,110.238.107.47/32,Streaming
+IP-CIDR,118.26.32.178/32,Streaming
+IP-CIDR,203.74.95.131/32,Streaming
+IP-CIDR,203.74.95.139/32,Streaming
+IP-CIDR,203.211.4.169/32,Streaming
+IP-CIDR,203.211.4.193/32,Streaming
+IP-CIDR,210.201.32.8/32,Streaming
+IP-CIDR,210.201.32.11/32,Streaming
 # > KKTV
 USER-AGENT,KKTV*,Streaming
 USER-AGENT,com.kktv.ios.kktv*,Streaming
@@ -267,11 +299,6 @@ DOMAIN-KEYWORD,-tiktokcdn-com,Streaming
 USER-AGENT,TVer-Release*,Streaming
 DOMAIN-SUFFIX,tver.jp,Streaming
 DOMAIN,edge.api.brightcove.com,Streaming
-# > Twitch
-DOMAIN-SUFFIX,jtvnw.net,Streaming
-DOMAIN-SUFFIX,ttvnw.net,Streaming
-DOMAIN-SUFFIX,twitch.tv,Streaming
-DOMAIN-SUFFIX,twitchcdn.net,Streaming
 # > ViuTV
 USER-AGENT,Viu*,Streaming
 DOMAIN-SUFFIX,viu.com,Streaming
