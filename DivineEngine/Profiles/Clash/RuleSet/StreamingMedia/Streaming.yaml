@@ -208,6 +208,9 @@ payload:
   - PROCESS-NAME,com.litv.mobile.gp.litv
   - DOMAIN-SUFFIX,litv.tv
   - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+  # > MangoTV(芒果TV国际)
+  - DOMAIN-SUFFIX,api.mgtv.com
+  - DOMAIN,mobileso.bz.mgtv.com
   # > My5
   - PROCESS-NAME,com.mobileiq.demand5
   - DOMAIN-SUFFIX,channel5.com
@@ -277,6 +280,9 @@ payload:
   # > PBS
   - PROCESS-NAME,com.pbs.video
   - DOMAIN-SUFFIX,pbs.org
+  # > Peacock
+  - PROCESS-NAME,com.peacocktv.peacockandroid
+  - DOMAIN-SUFFIX,peacocktv.com
   # > Pornhub
   - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,phprcdn.com
