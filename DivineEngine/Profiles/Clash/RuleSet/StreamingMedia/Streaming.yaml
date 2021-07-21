@@ -104,6 +104,7 @@ payload:
   - DOMAIN,p.bstarstatic.com
   - DOMAIN,p-bstarstatic.akamaized.net
   - DOMAIN,upos-bstar-mirrorakam.akamaized.net
+  - DOMAIN,upos-bstar1-mirrorakam.akamaized.net
   # > DAZN
   - PROCESS-NAME,com.dazn
   - DOMAIN-SUFFIX,dazn.com
