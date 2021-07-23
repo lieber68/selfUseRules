@@ -560,6 +560,7 @@ DOMAIN-SUFFIX, bit.do, proxy
 DOMAIN-SUFFIX, bit.ly, proxy
 DOMAIN-SUFFIX, bitbay.net, proxy
 DOMAIN-SUFFIX, bitc.bme.emory.edu, proxy
+DOMAIN-SUFFIX, bitchute.com, proxy
 DOMAIN-SUFFIX, bitcointalk.org, proxy
 DOMAIN-SUFFIX, bitcoinworld.com, proxy
 DOMAIN-SUFFIX, bitfinex.com, proxy
@@ -5083,6 +5084,7 @@ DOMAIN-SUFFIX, tpi.org.tw, proxy
 DOMAIN-SUFFIX, tracfone.com, proxy
 DOMAIN-SUFFIX, traffichaus.com, proxy
 DOMAIN-SUFFIX, trans.wenweipo.com, proxy
+DOMAIN-SUFFIX, translate.google, proxy
 DOMAIN-SUFFIX, transparency.org, proxy
 DOMAIN-SUFFIX, treemall.com.tw, proxy
 DOMAIN-SUFFIX, trendsmap.com, proxy
