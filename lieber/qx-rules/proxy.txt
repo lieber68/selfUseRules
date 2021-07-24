@@ -29084,11 +29084,14 @@ DOMAIN-SUFFIX, yamaxun.com, proxy
 DOMAIN-SUFFIX, yamigama.com, proxy
 DOMAIN-SUFFIX, yammer.com, proxy
 DOMAIN-SUFFIX, yandex, proxy
+DOMAIN-SUFFIX, yandex.aero, proxy
 DOMAIN-SUFFIX, yandex.com, proxy
 DOMAIN-SUFFIX, yandex.ee, proxy
+DOMAIN-SUFFIX, yandex.jobs, proxy
 DOMAIN-SUFFIX, yandex.kg, proxy
 DOMAIN-SUFFIX, yandex.lv, proxy
 DOMAIN-SUFFIX, yandex.net, proxy
+DOMAIN-SUFFIX, yandex.org, proxy
 DOMAIN-SUFFIX, yandexcloud.net, proxy
 DOMAIN-SUFFIX, yanghengjun.com, proxy
 DOMAIN-SUFFIX, yangjianli.com, proxy
