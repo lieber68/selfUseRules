@@ -6954,6 +6954,8 @@ DOMAIN-SUFFIX, cloudfront.glb.cellopoint.com, proxy
 DOMAIN-SUFFIX, cloudfront.net, proxy
 DOMAIN-SUFFIX, cloudfunctions.net, proxy
 DOMAIN-SUFFIX, cloudhealthtech.com, proxy
+DOMAIN-SUFFIX, cloudimage.io, proxy
+DOMAIN-SUFFIX, cloudimg.io, proxy
 DOMAIN-SUFFIX, cloudinsights.com, proxy
 DOMAIN-SUFFIX, cloudlive.com, proxy
 DOMAIN-SUFFIX, cloudlock.com, proxy
@@ -9073,6 +9075,9 @@ DOMAIN-SUFFIX, emanna.com, proxy
 DOMAIN-SUFFIX, embed-cdn.com, proxy
 DOMAIN-SUFFIX, embeddedsw.org, proxy
 DOMAIN-SUFFIX, embedly.com, proxy
+DOMAIN-SUFFIX, embl.it, proxy
+DOMAIN-SUFFIX, embl.org, proxy
+DOMAIN-SUFFIX, emblstatic.net, proxy
 DOMAIN-SUFFIX, embs.org, proxy
 DOMAIN-SUFFIX, emcs.org, proxy
 DOMAIN-SUFFIX, emerck, proxy
@@ -14177,6 +14182,8 @@ DOMAIN-SUFFIX, k999777.com, proxy
 DOMAIN-SUFFIX, ka-wai.com, proxy
 DOMAIN-SUFFIX, kaboodle.com, proxy
 DOMAIN-SUFFIX, kadinlarkulubu.com, proxy
+DOMAIN-SUFFIX, kaggle.com, proxy
+DOMAIN-SUFFIX, kaggle.io, proxy
 DOMAIN-SUFFIX, kagyu-sfla.org, proxy
 DOMAIN-SUFFIX, kagyu.org, proxy
 DOMAIN-SUFFIX, kagyumonlam.org, proxy
@@ -20186,6 +20193,7 @@ DOMAIN-SUFFIX, sca, proxy
 DOMAIN-SUFFIX, scala-lang.org, proxy
 DOMAIN-SUFFIX, scala-sbt.org, proxy
 DOMAIN-SUFFIX, scalatube.com, proxy
+DOMAIN-SUFFIX, scaleflex.com, proxy
 DOMAIN-SUFFIX, scamadviser.com, proxy
 DOMAIN-SUFFIX, scasino.com, proxy
 DOMAIN-SUFFIX, scb, proxy
@@ -20322,6 +20330,7 @@ DOMAIN-SUFFIX, sell.ssvps.site, proxy
 DOMAIN-SUFFIX, sellclassics.com, proxy
 DOMAIN-SUFFIX, sellercommunity.com, proxy
 DOMAIN-SUFFIX, sellsyourhome.org, proxy
+DOMAIN-SUFFIX, semanticscholar.org, proxy
 DOMAIN-SUFFIX, semprot.com, proxy
 DOMAIN-SUFFIX, send6.com, proxy
 DOMAIN-SUFFIX, sendsmtp.com, proxy

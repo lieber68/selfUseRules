@@ -7154,6 +7154,8 @@ DOMAIN-SUFFIX,cloudfront.glb.cellopoint.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,cloudhealthtech.com
+DOMAIN-SUFFIX,cloudimage.io
+DOMAIN-SUFFIX,cloudimg.io
 DOMAIN-SUFFIX,cloudinsights.com
 DOMAIN-SUFFIX,cloudlive.com
 DOMAIN-SUFFIX,cloudlock.com
@@ -9273,6 +9275,9 @@ DOMAIN-SUFFIX,emanna.com
 DOMAIN-SUFFIX,embed-cdn.com
 DOMAIN-SUFFIX,embeddedsw.org
 DOMAIN-SUFFIX,embedly.com
+DOMAIN-SUFFIX,embl.it
+DOMAIN-SUFFIX,embl.org
+DOMAIN-SUFFIX,emblstatic.net
 DOMAIN-SUFFIX,embs.org
 DOMAIN-SUFFIX,emcs.org
 DOMAIN-SUFFIX,emerck
@@ -14377,6 +14382,8 @@ DOMAIN-SUFFIX,k999777.com
 DOMAIN-SUFFIX,ka-wai.com
 DOMAIN-SUFFIX,kaboodle.com
 DOMAIN-SUFFIX,kadinlarkulubu.com
+DOMAIN-SUFFIX,kaggle.com
+DOMAIN-SUFFIX,kaggle.io
 DOMAIN-SUFFIX,kagyu-sfla.org
 DOMAIN-SUFFIX,kagyu.org
 DOMAIN-SUFFIX,kagyumonlam.org
@@ -20386,6 +20393,7 @@ DOMAIN-SUFFIX,sca
 DOMAIN-SUFFIX,scala-lang.org
 DOMAIN-SUFFIX,scala-sbt.org
 DOMAIN-SUFFIX,scalatube.com
+DOMAIN-SUFFIX,scaleflex.com
 DOMAIN-SUFFIX,scamadviser.com
 DOMAIN-SUFFIX,scasino.com
 DOMAIN-SUFFIX,scb
@@ -20522,6 +20530,7 @@ DOMAIN-SUFFIX,sell.ssvps.site
 DOMAIN-SUFFIX,sellclassics.com
 DOMAIN-SUFFIX,sellercommunity.com
 DOMAIN-SUFFIX,sellsyourhome.org
+DOMAIN-SUFFIX,semanticscholar.org
 DOMAIN-SUFFIX,semprot.com
 DOMAIN-SUFFIX,send6.com
 DOMAIN-SUFFIX,sendsmtp.com
