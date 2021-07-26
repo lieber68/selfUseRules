@@ -8,5 +8,8 @@ DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN,atv-ps.amazon.com
 DOMAIN,fls-na.amazon.com
-DOMAIN,www.amazon.com
 DOMAIN,avodmp4s3ww-a.akamaihd.net
+
+// 二选一,URL-REGEX 则需 MITM www.amazon.com
+// DOMAIN,www.amazon.com
+URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
