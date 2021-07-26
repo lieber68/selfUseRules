@@ -11201,6 +11201,7 @@ DOMAIN-SUFFIX, githubassets.com, proxy
 DOMAIN-SUFFIX, githubhackathon.com, proxy
 DOMAIN-SUFFIX, githubpreview.dev, proxy
 DOMAIN-SUFFIX, githubstatus.com, proxy
+DOMAIN-SUFFIX, githubuniverse.com, proxy
 DOMAIN-SUFFIX, githubusercontent.com, proxy
 DOMAIN-SUFFIX, gitlab-static.net, proxy
 DOMAIN-SUFFIX, gitlab.com, proxy
@@ -23375,6 +23376,7 @@ DOMAIN-SUFFIX, va, proxy
 DOMAIN-SUFFIX, va.v.liveperson.net, proxy
 DOMAIN-SUFFIX, vacationbibleschool.com, proxy
 DOMAIN-SUFFIX, vaginacontest.com, proxy
+DOMAIN-SUFFIX, vagrantcloud.com, proxy
 DOMAIN-SUFFIX, vagrantup.com, proxy
 DOMAIN-SUFFIX, valeursactuelles.com, proxy
 DOMAIN-SUFFIX, valid.origin-apple.com.akadns.net, proxy
