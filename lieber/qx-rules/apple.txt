@@ -116,6 +116,7 @@ DOMAIN-SUFFIX, swscan-cdn.apple.com.akadns.net, DIRECT
 DOMAIN-SUFFIX, swscan.apple.com, DIRECT
 DOMAIN-SUFFIX, updates-http.cdn-apple.com.akadns.net, DIRECT
 DOMAIN-SUFFIX, updates-http.cdn-apple.com, DIRECT
+DOMAIN-SUFFIX, updates.cdn-apple.com, DIRECT
 DOMAIN-SUFFIX, valid.apple.com, DIRECT
 DOMAIN-SUFFIX, valid.origin-apple.com.akadns.net, DIRECT
 DOMAIN-SUFFIX, www.apple.com.edgekey.net.globalredir.akadns.net, DIRECT
