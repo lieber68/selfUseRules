@@ -27,6 +27,7 @@ DOMAIN-SUFFIX, g2.gstatic.com, DIRECT
 DOMAIN-SUFFIX, google-analytics.com, DIRECT
 DOMAIN-SUFFIX, googleadservices.com, DIRECT
 DOMAIN-SUFFIX, googleanalytics.com, DIRECT
+DOMAIN-SUFFIX, googleoptimize.com, DIRECT
 DOMAIN-SUFFIX, googlesyndication.com, DIRECT
 DOMAIN-SUFFIX, googletagmanager.com, DIRECT
 DOMAIN-SUFFIX, googletagservices.com, DIRECT
