@@ -36,8 +36,6 @@ DOMAIN,pubads.g.doubleclick.net
 DOMAIN,fairplay.l.qq.com
 DOMAIN,livew.l.qq.com
 DOMAIN,vd.l.qq.com
-AND,((USER-AGENT,happymj*), (DOMAIN,api-adservices.apple.com))
-AND,((USER-AGENT,promotedcontentd*), (DOMAIN,ca.iadsdk.apple.com))
 # > Strava
 DOMAIN,analytics.strava.com
 # > Umeng
