@@ -4138,6 +4138,7 @@ DOMAIN-SUFFIX, putlocker.com, proxy
 DOMAIN-SUFFIX, putty.org, proxy
 DOMAIN-SUFFIX, puuko.com, proxy
 DOMAIN-SUFFIX, pwned.com, proxy
+DOMAIN-SUFFIX, pximg.net, proxy
 DOMAIN-SUFFIX, python.com, proxy
 DOMAIN-SUFFIX, python.com.tw, proxy
 DOMAIN-SUFFIX, pythonhackers.com, proxy
@@ -4333,6 +4334,7 @@ DOMAIN-SUFFIX, sacks.com, proxy
 DOMAIN-SUFFIX, sacom.hk, proxy
 DOMAIN-SUFFIX, sadistic-v.com, proxy
 DOMAIN-SUFFIX, sadpanda.us, proxy
+DOMAIN-SUFFIX, safechat.com, proxy
 DOMAIN-SUFFIX, safervpn.com, proxy
 DOMAIN-SUFFIX, safety.google, proxy
 DOMAIN-SUFFIX, saintyculture.com, proxy
@@ -5027,6 +5029,7 @@ DOMAIN-SUFFIX, tintuc101.com, proxy
 DOMAIN-SUFFIX, tiny.cc, proxy
 DOMAIN-SUFFIX, tinychat.com, proxy
 DOMAIN-SUFFIX, tinypaste.com, proxy
+DOMAIN-SUFFIX, tipas.net, proxy
 DOMAIN-SUFFIX, tipo.gov.tw, proxy
 DOMAIN-SUFFIX, tistory.com, proxy
 DOMAIN-SUFFIX, tkcs-collins.com, proxy
@@ -5788,6 +5791,7 @@ DOMAIN-SUFFIX, wzyboy.im, proxy
 DOMAIN-SUFFIX, x-art.com, proxy
 DOMAIN-SUFFIX, x-berry.com, proxy
 DOMAIN-SUFFIX, x-wall.org, proxy
+DOMAIN-SUFFIX, x.co, proxy
 DOMAIN-SUFFIX, x.company, proxy
 DOMAIN-SUFFIX, x1949x.com, proxy
 DOMAIN-SUFFIX, x24hr.com, proxy
